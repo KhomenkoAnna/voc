@@ -1,0 +1,958 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+65
+Petrova O.V., Sdobnikov V.V., 2021
+ГЛАВНАЯ ТЕМА НОМЕРА
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.3.6
+UDC 81’25:378
+Submitted: 09.12.2020
+LBC 81.18
+Accepted: 30.03.2021
+A TRANSLATION TEACHER PROFILE IN THE RUSSIAN CONTEXT 1
+Olga V. Petrova
+Linguistics University of Nizhny Novgorod, Nizhny Novgorod, Russia
+Vadim V. Sdobnikov
+Linguistics University of Nizhny Novgorod, Nizhny Novgorod, Russia
+Abstract. The paper discusses the results of a survey of a translation teacher profile in the context of Russian
+academia. It reveals that there is no integral profile of a translation teacher in Russia today. Translation teachers can
+be categorized into certain groups according to their initial training, practical experience in translation and age. The
+survey shows that a significant number of translation teachers have had no translation training. Regardless of their
+initial training, almost all translation teachers are engaged in practical translation, however only few of them
+perform translation or interpreting on a regular basis. Among those who teach Translation Theory there are some
+who have never been taught it, thus they may be regarded as self-educated theorists. Virtually no translation
+trainers in Russian universities have ever been professionally educated in translation didactics. 75% of the total
+number of translation teachers have completed short-time advanced training courses, which does not seem to be
+sufficient to become an experienced translation teacher. A large number of those who do have initial translation
+training teach translation copying their own teachers. It is doubtful that all of them possess translation mode of
+thinking and are able to develop it in their students. The overall conclusion is that a comprehensive system for
+training and retraining translation teachers is required.
+Key words: translation teacher, translation teacher competence, translation training, translation didactics,
+Translation Theory.
+Citation. Petrova O.V., Sdobnikov V.V. A Translation Teacher Profile in the Russian Context. Vestnik
+Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of  Volgograd  State
+University. Linguistics], 2021, vol. 20, no. 3, pp. 65-74. DOI: https://doi.org/10.15688/jvolsu2.2021.3.6
+УДК 81’25:378
+Дата поступления статьи: 09.12.2020
+ББК 81.18
+Дата принятия статьи: 30.03.2021
+ПОРТРЕТ ПРЕПОДАВАТЕЛЯ ПЕРЕВОДА В РОССИЙСКИХ ВУЗАХ 1
+Ольга Владимировна Петрова
+Нижегородский государственный лингвистический университет им. Н.А. Добролюбова,
+г. Нижний Новгород, Россия
+Вадим Витальевич Сдобников
+Нижегородский государственный лингвистический университет им. Н.А. Добролюбова,
+г. Нижний Новгород, Россия
+Аннотация. В статье представлены результаты изучения профиля преподавателя перевода в российской
+высшей школе. Показано, что сегодня в России не существует единого целостного портрета преподавателя
+перевода. На основании проведенного авторами опроса, в котором учитывалось базовое образование, опыт
+работы переводчиком и возраст, выделены несколько категорий преподавателей. Установлено, что значитель-
+ная часть респондентов не имеет специального переводческого образования; вне зависимости от базового
+образования большинство преподавателей перевода осуществляют практическую переводческую деятельность,
+66
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+однако незначительное их количество делают это на постоянной основе. Обнаружено, что среди российских препо-
+давателей теории перевода есть такие, которые не изучали эту дисциплину в вузе, а осваивали самостоятельно.
+Выявлено, что большинство опрошенных не получили профессиональной подготовки в области дидактики перево-
+да, три четверти от общего количества опрошенных обучались на краткосрочных курсах повышения квалификации,
+чего явно недостаточно для того, чтобы стать опытным преподавателем перевода. Значительное число тех, кто
+получил базовое переводческое образование, преподают перевод, опираясь на устаревшие методики, что не позво-
+ляет сформировать у студентов современное переводческое мышление. Полученные результаты свидетельствуют о
+необходимости создания комплексной системы подготовки и переподготовки преподавателей перевода.
+Ключевые слова: преподаватель перевода, компетенция преподавателя перевода, обучение переводу,
+дидактика перевода, теория перевода.
+Цитирование. Петрова О. В., Сдобников В. В. Портрет преподавателя перевода в российских вузах
+// Вестник Волгоградского государственного университета. Серия 2, Языкознание. – 2021. – Т. 20, № 3. –
+С. 65–74. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.3.6
+Introduction
+Training translators has been conducted in
+Russian universities for approximately ninety
+years already. In the Soviet Union it was confined
+to a small number of academic institutions that
+specialized in training translators / interpreters to
+meet the needs of the Army and government
+agencies. The situation changed upon the collapse
+of the Soviet Union, with the transfer to the market
+economy, dramatic expansion of foreign trade and
+development of relations not only on the
+government-to-government but also on the
+business-to-business level. It became obvious that
+various domains required a great number of
+qualified translators and interpreters able to satisfy
+their needs. In the 1990s, the challenge was
+quickly responded to by many Russian universities
+which began to offer bachelor-equivalent and
+master-equivalent programs in translation and
+interpreting. The expansion of the academic
+training of translators resulted in the pressing need
+of competent translation teachers who might be
+able to design translation courses, to develop
+translation skills in their students and to transfer
+their knowledge of translation to them.
+And here a question arises: where did those
+translation teachers come from? It is obvious that
+those who joined this noble profession had never
+been taught how to teach translation. We know
+that only few of them had had some translation
+training at universities and gained appropriate
+experience in the field. Apparently, it was those
+few who were best prepared to fulfill the mission
+of training novice translators and interpreters, at
+least due to the fact that they had already acquired
+the knowledge of how translation can be taught in
+the course of their own studies. This view is shared
+by Roberto Mayoral who argues that “the best way
+to learn how to teach translation is to study the
+way good teachers teach, and then enrich that with
+one’s own innovations” [Mayoral, 2003, p. 5].
+Michael Gove as cited by J. Orchard and
+Ch. Winch metaphorically compares teaching with
+a craft: “Teaching is a craft and it is best learnt as
+an apprentice observing a master craftsman or
+woman. Watching others, and being rigorously
+observed yourself as you develop, is the best route
+to acquiring mastery in the classroom” [Orchard,
+Winch, 2015, p. 12]. Indeed, in the 1990s, it seemed
+to be the only reliable way to become a translation
+teacher. Being reliable and based on common sense,
+the method still lacks some training which is
+essential for those who are engaged in teaching
+translation and which we shall mention below.
+The academic landscape has changed in
+Russia, and those who have joined the profession
+of translation teacher differ from one another in
+terms of their initial training, qualification, translation
+and teaching experience. Thus, the categorization
+of translation teachers is possible and most probable
+in order to outline a translation teacher profile
+(or profiles, as the case may be), which constitutes
+the aim of this article. With this aim in view, a
+questionnaire has been distributed among translation
+teachers of Russian universities, and results of the
+inquiry will be dwelt upon below.
+Translation teacher competences
+In order to solve the task, it is necessary, first
+and foremost, to determine what requirements a
+translation teacher must meet. In other words, what
+competencies (s)he should possess.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+67
+O.V. Petrova, V.V. Sdobnikov. A Translation Teacher Profile in the Russian Context
+Some scholars believe that “whereas the term
+‘competence’ is largely used in many disciplines and
+contexts, it is difficult to find a definition that
+reconciles all different ways in which it is used”
+[Esfandiari, Shokrpour, Rahimi, 2019, p. 1].
+Translation Studies (TS) literature is also abundant
+in definitions of a competence. We believe that
+F. Lasnier’s definition is one of the most
+comprehensive: “A competence is a complex know-
+how to act resulting from integration, mobilization
+and organization of a combination of capabilities and
+skills (which can be cognitive, affective, psycho-
+motor or social) and knowledge (declarative
+knowledge) used efficiently in situations with
+common characteristics” [Lasnier, 2000, p. 24]. This
+broad notion of competence must be made more
+specific in relation to training the trainers.
+It has become a good tradition to refer to
+Dorothy Kelly who has offered a list of translation
+teacher competences which includes: 1) profession
+translation practice; 2) Translation Studies as an
+academic discipline; 3) teaching skills [Kelly, 2005,
+p. 151]. The latter is subdivided into
+“subcompetences” or areas of competence:
+organizational (i.e., the ability to design courses
+and appropriate teaching and learning activities);
+interpersonal (i.e., the ability to work
+collaboratively with trainees towards their learning
+goals); instructional (i.e., the ability to present
+content and explain clearly); contextual or
+professional (i.e., understanding of the
+educational context in which training takes place)
+[Kelly, 2005, p. 151]. Kelly believes that the first
+two competences “constitute prerequisites rather
+than the central competence we are interested
+in”, and presents the third one as the most essential
+[Kelly, 2005, p. 151]. Yet, be it prerequisites or
+core requirements, the first two competences are
+of paramount importance, especially in the
+Russian context. We shall note, in passing, that
+the same requirements are formulated by D. Li
+and Ch. Zhang who termed them as “knowledge
+of teaching”, “knowledge of research” and
+“knowledge of the trade”. The latter encompasses
+translating abilities and the knowledge of the
+profession, including familiarity with the market
+and the technology [Li, Zhang, 2011, p. 697].
+The fact is that the question whether a
+translation teacher should have experience in
+translation is still unresolved in Russia. To be more
+exact, many educators as well as many
+practitioners who are not indifferent to what is
+going on in academia and in the professional field
+insist that to be experienced in practical
+translation / interpreting is a must for a translation
+teacher. At the same time, educational authorities
+pretend not to hear the claims because they need
+to provide for training a sufficient number of
+translators; so they do it by recruiting any
+specialists who have at least command of a
+foreign language and, as the case may be, some
+experience in teaching a foreign language.
+This situation contradicts the principles
+voiced in the TS literature and insisted upon by
+many scholars. In particular, members of the EMT
+Expert Group mention a Field Competence as the
+one which is indispensable for a translation
+teacher / trainer (together with Instructional
+Competence, Organizational Competence,
+Interpersonal Competence and Assessment
+Competence) (EMT). A Field Competence is
+eloquently defined as the “ability to perform any
+task assigned to the students according to the
+quality standards required in professional
+practice” (EMT) and breaks down into two sub-
+categories: 1) knowledge of the professional
+field including translation-related professions;
+constraints of translation projects (e.g. time /
+budget / qualities); domains of specialization in
+translation-related 
+professions; 
+market
+requirements; operating procedures and tools used
+in professional translation; foreseeable
+development of the professions; 2) translation-
+service provision competence including
+knowledge of the existing standards and
+specifications; ability to critically analyze these
+standards and specifications; ability to perform
+the tasks and sub-tasks involved in the translation-
+service provision (including planning, preparing the
+material for translation, quality assurance,
+document management, terminology management,
+etc.) (EMT).
+The vision of a translation teacher being a
+practitioner is also upheld by Marta Roses as cited
+by Defeng Li and Chunling Zhang [Li, Zhang,
+2011, p. 696] when she writes that “since one of
+the main tasks of the social constructivist teacher
+is to represent the community in which the
+apprentices wish to take part, translator trainers
+should be active translators or, at least, have ample
+professional experience in the area. This way, it
+will also be easier to take real projects to the
+68
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+classroom (with the clients’ approval) or help
+students get such projects, enabling them to do
+just what professionals do: translate real texts, for
+real clients and real readers / users”. We can add
+a number of arguments to support the idea that a
+teacher must be able to do what (s)he teaches.
+But it is hardly necessary to do so since the idea
+seems to be self-evident. Moreover, in Russian
+and Western Translation Studies it is deeply rooted
+in the views of the precursors of the science of
+translating. Suffice it to recall Peter Newmark’s
+definition of translation teacher’s professional
+qualities that can be seen as comprising of
+“translator’s skills” on the one hand, and teaching
+skills on the other [Newmark, 1991, p. 131]. Vilen
+Komissarov also argues that translation must be
+taught only by a person who is an experienced
+translator themself, who has professional
+competences, who knows the translation activity
+“from within”, who is familiar with the challenges,
+possibilities and conditions of the translator’s work.
+Komissarov states straightforwardly that “not
+every practitioner is able to teach translation
+successfully but every translation teacher must
+be able to translate professionally (translation
+mine. – V. S.)” [Komissarov, 2001, pp. 340-341].
+Donald Kiraly is no less straightforward in his
+statement that “it cannot be expected that
+language instructors without professional
+translation expertise will have a professional
+translator self-concept themselves or that they will
+be able to help their translation students develop
+one” [Kiraly, 1995, p. 3]. It is only regrettable that
+this idea, so simple and transparent, is not fully
+understood by the Russian academic community.
+However, Kelly justly states that
+“professional experience as a translator is simply
+not sufficient to become a professional translation
+teacher” [Kelly, 2008, p. 102]. As was stated
+above, the list of translation teacher competences
+outlined by Kelly includes such item as Translation
+Studies as an academic discipline. It implies that
+a translation teacher, first, must have some
+knowledge of Translation Studies, and second,
+must be engaged in scientific research. Other
+scholars insist that a translation teacher should
+also possess deep knowledge of General
+Linguistics. For example, Komissarov argues that
+a translation teacher “must know linguistic and
+translation aspects of his or her course both
+practically and theoretically, must have
+comprehensive knowledge in the fields of
+Language Theory and Translation Theory.
+Analyzing the content and stylistic peculiarities
+of the source text, comparing various versions of
+translation with the ST, explaining errors in
+translations to his / her students, the teacher uses
+analysis methods and terminology of semaciology,
+lexicology, grammar and other linguistic disciplines
+(translation mine. – V. S.)” [Komissarov, 2001,
+pp. 342-343]. Both Linguistics and Translation
+Theory help a translation teacher make his / her
+arguments convincing enough. Yet, it is clear that
+the knowledge of Translation Studies constitutes
+an integral and indispensible part of a translation
+teacher’s theoretical background, one of the core
+components of his / her competence. As Dmitry
+Shlepnev has put it, “a translation teacher needs
+a well-articulated theory that (s)he can use as a
+basis, a background for their explanations to
+students. If it is the case, (s)he will not beat about
+the bush in his / her speculations about translation
+and his / her work in class will be more effective
+(translation mine. – V. S.)” [Shlepnev, Sdobnikov,
+2007, p. 105].
+It is well known that the university faculty
+is often required to conduct scientific research.
+In this respect, the situation in Russia differs little
+from the situation abroad. Kelly writes that “most
+university systems expect full-time lecturers to
+be quite heavily involved in research, and
+promotion and incentive schemes are usually based
+on reward for dedication to, and achievements in,
+research, whereas teaching and achievements in
+teaching tend inevitably to play second fiddle”
+[Kelly, 2008, p. 100]. The requirement to be
+involved in research does not cause much concern,
+provided the research is done in the field of
+Translation Studies and not only in purely linguistic
+disciplines. Concern is caused by the fact that
+within Translation Studies, both in Russia and
+abroad, there exist various concepts, theories and
+approaches that not only differ from one another
+but often contradict one another. It follows that a
+translation teacher is expected to stick to a certain
+Translation Theory among the multitude of
+theories, to a specific system of views concerning
+translation activity. It is clear that any translation
+course must be aimed at the indoctrination of the
+correct attitude of students towards translation
+as an activity. The course should result in the
+students’ comprehension of the laws and essence
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+69
+O.V. Petrova, V.V. Sdobnikov. A Translation Teacher Profile in the Russian Context
+of translation, of the tasks (not considered in terms
+of methods of translation or achieving equivalence
+at a certain level) a translator solves in each
+translation act [Shlepnev, Sdobnikov, 2007, p. 107].
+But to make it happen, a translation teacher
+themself should have the correct attitude towards
+translation, and this attitude must be based on the
+correct Translation Theory. Based on our
+observations, we can state that, regretfully, many
+translation teachers in Russia have an eclectic
+mix of early theories of translation (mainly, purely
+linguistic theory underpinned by equivalence as
+its core notion), provisions of the theory of
+intercultural communication and a rough idea of
+real translation activity in their minds, instead of
+the correct and systematized theory based on the
+functionalist approach to translation.
+There is no doubt that a translation teacher
+should possess teaching skills. As was stated
+above, Kelly views them as the central
+competence. We are disinclined to build a
+hierarchy of translation teacher competences as
+we believe that all of them are equally important:
+if a teacher lacks one of them his / her activity in
+the classroom is unlikely to produce the desired
+effect. The same is true about the teaching skills.
+In their review of the literature devoted to
+translation teacher competences Nataša Pavlović
+and Goranka Antunović mention a number of
+works that stress the importance of teaching skills
+[Pavlović, Antunović, 2019]. But a question arises:
+how, when and where can translation teachers
+acquire those skills? There are no university
+programs of training professional translation
+teachers in Russia. We know about some attempts
+to introduce such programs in Russian universities
+but they were not a success due to the lack of
+interest and low motivation among bachelors to
+get involved in teaching translation. Does it mean
+that Roberto Mayoral cited above is right when
+he states that “the best way to learn how to teach
+translation is to study the way good teachers
+teach” [Mayoral, 2003, p. 5]?
+So, the topical issue is “What does a
+translation teacher need to do to become good at
+teaching translation?” Daniel Gouadec is more
+specific than Mayoral in his consideration of the
+ways of acquiring necessary competences by
+translation teachers. He writes that “teachers on
+a translator-training program should spend one
+month in all three of the following situations:
+1. Working in a translation firm (either as a
+translator or a reviser or a terminologist).
+2. Working in an in-house translation service
+(same as above).
+3. Being a freelance professional.
+That should be enough for a start. And that
+should clearly decide on their teaching
+approaches” [Gouadec, 2003, p. 13].
+We believe it is perhaps excessively
+optimistic to expect a person to become a good
+translation teacher after working in the three
+situations specified by Gouadec for a total of three
+months. It will not be enough even for a start.
+True, it can provide some knowledge of the field
+(or trade). But it can hardly equip a teacher with
+an appropriate teaching approach. Suffice it to
+recall that even well-experienced practitioners are
+not always good translation teachers (when they
+teach translation part-time or even full-time).
+They lack a lot of necessary qualities which can
+be obtained only in the academic environment.
+Thus, we are impelled to conclude that Gouadec,
+again, is excessively optimistic and non-specific
+when he answers the question “Who should train
+translators?”: “The answer to who should train
+translators is quite straightforward: both
+professionals with a talent for teaching and
+teachers with a good knowledge of the job (not a
+collection of subject matters) that they are
+supposed to train people for” [Gouadec, 2003,
+p. 13]. The notion of “talent for teaching” is too
+vague to apply it to an individual. The knowledge
+of the job is hard to be measured.
+From the above it follows that so far
+provisions of Translation Studies and even the
+best practices of universities in Russia and
+abroad cannot form the basis for any
+recommendations as to how translation teachers
+should be trained. Apparently, there can be
+different paths to the profession of teaching
+translation. Having walked a certain path to the
+profession, each teacher brings their own wealth
+of knowledge, expertise and experience to the
+classroom, which implies that what a translation
+teacher knows and can do inevitably influences
+his / her teaching approach. That is why our
+study includes review of 118 Russian translation
+teacher’s backgrounds in the form of a
+questionnaire which, as we hope, can help
+outline a translation teacher’s profile or various
+profiles.
+70
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+The Survey Results
+So what is the current situation as revealed
+by the survey?
+Out of the 118 translation teachers 64 (54.2%)
+have a degree in translation (T group) and 54
+(45.8%) have diplomas of foreign language
+teachers, linguists, philologists or specialists in cross-
+cultural communication (Non-T group).
+Almost all respondents have completed
+advanced training courses, with only less than 1%
+stating that they have attended no professional
+development programs and teach on the basis of
+their university education and personal experience
+as translator. However only 11 persons (9.3%)
+have been retrained as teachers of translation.
+29 respondents (24.6%) have completed
+advanced training courses in translation:
+18 respondents in the T-group and 11 in the Non-
+T group. The majority (75.4%) have completed
+short-time advanced training courses. The figures
+do not sum up correctly because several
+respondents in both groups went through two and
+one person even through 3 courses.
+According to comments made by some
+respondents, short-time advanced training courses
+are not always perceived as targeted specifically
+at teaching translation. Having positively
+answered the question about completing such a
+program a person says they have never
+undergone any professional training as a translation
+teacher.
+The breakdown by age groups shows that
+11 respondents (9.3%) are people under 30; 39
+(33.1%) between the ages of 30 and 40; 25
+(21.2%) between 40 and 50; 27 (22.9%) between
+50 and 60 and 16 (13.6%) are over 60. However
+the picture within the T group and Non-T group
+is not uniform (Table 1).
+While the percentage of people having a
+degree in translation is the highest in the age group
+between 30 and 40 and then gradually decreases
+to the minimum of slightly over 6% in the senior
+group, in the Non-T group the highest figure is in
+the age group between 50 and 60 years with quite
+a high result for the people over 60 (22.2%). It is
+also noteworthy that the number of young people
+(those under 30) is more than twice as high among
+teachers with a degree in translation as it is in the
+other group.
+The result can be interpreted in two ways.
+First, it shows that the majority of  “the old guard”
+among translation trainers are people with no
+degree in translation. Besides, it reflects a
+tendency for recent graduates to choose the field
+of work coinciding with the field in which they
+have a degree (or probably a tendency for the
+employers to give preference to such graduates).
+The analysis of the distribution according to
+teaching experience and experience in practical
+translation / interpreting has not revealed any direct
+correlation. Neither has it shown any dependence
+of practical experience in translation / interpreting
+on the age (see Table 2 and 3).
+Table 1. Age groups
+Age 
+(years) 
+General result 
+T group 
+Non-T group 
+Respondents 
+% 
+Respondents 
+% 
+Respondents 
+% 
+22–30 
+  11 
+  9.3 
+  8 
+12.5 
+  3 
+  5.5 
+30–40 
+  39 
+33.1 
+25 
+39.1 
+14 
+25.9 
+40–50 
+  25 
+21.2 
+15 
+23.4 
+10 
+18.5 
+50–60 
+  27 
+22.8 
+12 
+18.7 
+15 
+27.8 
+Over 60 
+  16 
+13.6 
+  4 
+  6.3 
+12 
+22.3 
+Total 
+118 
+100 
+64 
+100 
+54 
+100 
+ 
+Table 2. Teaching experience
+Teaching 
+experience 
+(years) 
+General result 
+T group 
+Non-T group 
+Respondents 
+% 
+Respondents 
+% 
+Respondents 
+% 
+Less than 5 
+  7 
+  5.9 
+  7 
+10.9 
+– 
+– 
+5-10 
+19 
+16.1 
+13 
+20.3 
+  6 
+11.2 
+10-20 
+38 
+32.2 
+20 
+31.3 
+18 
+33.3 
+20-30 
+32 
+27.2 
+16 
+25.0 
+16 
+29.6 
+Over 30 
+22 
+18.6 
+  8 
+12.5 
+14 
+25.9 
+Total 
+118 
+100 
+64 
+100 
+54 
+100 
+ 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+71
+O.V. Petrova, V.V. Sdobnikov. A Translation Teacher Profile in the Russian Context
+The absence of Non-T group respondents
+with less than 5 years of teaching experience
+agrees with the tendency of recent graduates
+having a non-translation degree not to engage in
+teaching translation. Other results, however, do
+not allow of any straightforward interpretation.
+The thing is that there are respondents whose
+translation experience exceeds their teaching
+experience and vice versa. Some responses show
+that a person with the teaching experience of 20–
+30 years and more can have a very limited
+experience in translating or interpreting (practically
+never of both). At the same time responses show
+that some people in the age group under 30 have
+over 10 years of translation experience, which
+means that they started practicing translation
+before graduation.
+It is necessary to admit that the results
+concerning teaching experience are not very
+reliable and need further verification. On the one
+hand, the questionnaire was circulated among
+translation teachers, so the question about teaching
+experience implied teaching translation. It probably
+should have been formulated in a more explicit
+way. On the other hand, judging by what some
+respondents have written in the comments, they
+do not always differentiate between teaching
+translation and teaching foreign languages and
+consider translation to be an aspect of teaching a
+language. Such comments were found in the senior
+Non-T group. So it is possible that in some cases
+the figures in the responses indicate the time a
+person teaches both languages and translation.
+Comments concerning practical translation also
+show that not all translation trainers are at the same
+time practitioners. Some respondents say it directly;
+some others enumerate aspects of practical
+translation they teach as an example of their practical
+work as translators, which actually means they do
+not practice translation professionally.
+Another question in the survey relates to the
+character of translation classes taught by the
+respondents. The most remarkable and significant
+is the following result: among 54 respondents who
+teach theory of translation only 31 have a degree
+in translation. It means that 23 translation theory
+teachers are self-taught theorists.
+What conclusions can be drawn from this
+survey?
+90.3% of teachers have no professional
+education in teaching translation and interpreting.
+Those with a degree in translation do it by copying
+their own teachers. The quality and results of their
+work depend to a large extent on how professional
+those teachers were. Those having no degree in
+translation do it empirically, taking their own
+practical experience (if any) as a basis or
+proceeding from general principles of didactics
+and methods of teaching foreign languages.
+Neither way can be adequate to the state of things
+and new challenges in the present-day translation
+market.
+42.6% of those teaching theory of translation
+have no education in translation at all. With due
+respect for people who achieve great results by
+means of self-education it is necessary to admit
+that in many cases it leads to eclecticism that can
+hardly serve as a sound theoretical basis for
+professional training of translators and
+interpreters.
+Discussion
+Overall analysis of the profession age
+structure shows that a degree in translation is
+more often found in younger groups of teachers,
+while the majority of teachers constituting elder
+groups have no such training.
+In class, the older generation with a degree
+in education is mainly guided by general didactic
+principles and methods of language teaching, by
+some eclectic, fragmentary recommendations and
+guidelines randomly found in various teaching aids
+(often with a purely linguistic approach to
+Table 3. Translation / Interpreting experience
+Translation / 
+Interpreting 
+experience 
+(years) 
+General result 
+T group 
+Non-T group 
+Respondents 
+% 
+Respondents 
+% 
+Respondents 
+% 
+Less than 5 
+21 
+17.8 
+10 
+15.6 
+11 
+20.4 
+5–10 
+29 
+24.6 
+12 
+18.8 
+17 
+31.5 
+Over10 
+68  
+57.6 
+42 
+65.6 
+26 
+48.1 
+Total 
+118 
+100 
+64 
+100 
+54 
+100 
+ 
+72
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+translation), and by their own experience in
+translation – if any. Having no education in the
+subject they teach, they do not always realize that
+translation is not just another aspect of teaching
+language practice, but a specific type of language
+mediation dealing more with sense and meanings
+than with words and syntactic structures.
+Another group of elder teachers (nearly
+25%) do have professional training as translators.
+They were taught by luminaries of translation and
+inherited a system approach to the profession.
+The younger generation has an advantage:
+they have an education in the subject they teach.
+But they lack education in translation didactics,
+or, for that matter, in teaching anything at all. So,
+they copy their teachers, which means they use
+either the wrong didactic approach or the
+approach of their teachers who had a systematic
+understanding of translation. It all depends on
+what teachers they had.
+Whichever the case may be, the general
+conclusion is that there are practically no translation
+trainers in our universities professionally educated
+in translation didactics. The fact that 75.4% of
+them have completed short-time advanced training
+courses does not change the situation radically.
+Such courses, usually not longer than 36 class-
+room (contact) hours, can hardly be considered
+as a comprehensive program, the more so
+because these 36 hours usually encompass
+lectures on the theory of translation, master classes
+in various aspects of practical translation (which
+is another variety of the do-as-I-do approach),
+sometimes even classes of language practice,
+leaving no time for translation didactics proper.
+Another problem with such courses is that their
+program is usually developed on the assumption
+that all listeners have a high enough level of
+practical translation skills – which is often not the
+case. So instead of discussing problems of
+translation didactics it becomes necessary to try
+to hastily patch up the gaps in the practical
+translation skills of the retrainees. It is obvious
+that with all these limitations and disadvantages
+short-time advanced training courses cannot be
+viewed as an adequate form of educating
+translation trainers in translation didactics.
+The figures showing that the majority of
+teachers in the non-T group have a considerable
+experience in practical translation is not in itself a
+reason for too much optimism either. Practical
+experience is indispensable. But if a person
+translates something it does not necessarily mean
+that they know how to do it and do it well. The
+percentage of poor, amateurish, low quality
+translations in the translation market today is
+distressing. Practical experience is not yet a proof
+of a translator’s high professional level.
+Besides, a translation experience does not
+always mean that the translator is knowledgeable
+about the modern tools and technologies used
+by translators and often required by agencies
+today. So they are not able to teach their students
+to use them.
+Teaching Theory of Translation is another
+problem. Analysis of the course descriptions
+shows that the content of the course varies from
+university to university but is practically never
+perceived as the basis for developing translation
+mode of thinking in students. In many cases it is a
+more or less detailed retelling of various theories
+and models merely for information, without any
+attempt at purposeful analysis. So the very fact
+that teachers from T group were themselves
+taught Theory of Translation as part of their
+professional training is not a guarantee either of
+their translation mode of thinking or of their ability
+to develop it in students.
+Today translation market imperatively
+demands from translators many skills unknown not
+only to the non-T group, but also to many T group
+teachers, especially belonging to the older
+generation. It will suffice to mention the use of
+various CATs or postediting techniques. Translation
+teachers are responsible for equipping students with
+the skills and knowledge adequate to the
+requirements of the market. So, teachers
+themselves must be taught everything that their
+students are supposed to know, and taught at a
+much higher level. Unfortunately, the current
+practice does not provide a sufficiently effective
+training of translation teachers in this respect.
+Conclusions
+The survey and its analysis show that there
+is no integral profile of a translation teacher in
+Russia today. There are categories and
+subcategories of teachers according to their age,
+training, teaching experience, translation expertise,
+etc., with no clear-cut correspondences,
+correlations, and regularities that would allow to
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+73
+O.V. Petrova, V.V. Sdobnikov. A Translation Teacher Profile in the Russian Context
+view them as a more or less consistent
+conglomeration – except one thing: they all lack
+training in translation didactics. Which means that
+we need a comprehensive system for training and
+retraining translation teachers.
+NOTE
+1 The reported study was funded by RFBR,
+project number 20-013-00149 “The Basic Principles of
+Training Translation Teachers”.
+REFERENCES
+Esfandiari M.R., Shokrpour N., Rahimi F., 2019. An
+Evaluation of the EMT: Compatibility with the
+Professional Translator’s Needs. Cogent Arts
+and Humanities, no. 6, pp. 1-17.
+Gouadec D., 2003. Notes on Translator-Training
+(Replies to a Questionnaire). Pym A., Fallada C.,
+Ramуn Biau J., Orenstein J., eds. Innovation &
+E-Learning in Translator Training. Tarragona,
+Universitat Rovira i Virgili. 98 p.
+Kelly D., 2005. A Handbook for Translator Trainers:
+A Guide to Reflective Practice. Manchester,
+Saint Jerome. 173 p.
+Kelly D., 2008. Training the Trainers: Towards a
+Description of Translator Trainer Competence
+and Training Needs Analysis. TTR, no. 21 (1),
+pp. 99-125.
+Kiraly D., 1995. Pathways to Translation. Pedagogy
+and Process. Kent (Ohio), Kent State University
+Press. 175 p.
+Komissarov V., 2001. Sovremennoe perevodovedenie
+[Modern Translation Studies]. Moscow, ETS
+Publ. 424 p.
+Lasnier F., 2000. Réussir la formation par compétences.
+Montreal, Guérin. 504 p.
+Li D., Zhang Ch., 2011. Knowledge Structure and
+Training of Translation Teachers: An
+Exploratory Study of Doctoral Programmes of
+Translation Studies in Hong Kong. Meta,
+no. 56 (3), pp. 693-712.
+Mayoral R., 2003. Notes on Translator-Training
+(Replies to a Questionnaire). Pym A., Fallada C.,
+Ramуn Biau J., Orenstein J., eds. Innovation &
+E-Learning in Translator Training. Tarragona,
+Universitat Rovira i Virgili. 98 p.
+Newmark P., 1991. About Translation. Clevedon,
+Multilingual Matters. 184 p.
+Orchard J., Winch Ch., 2015. What Training Do Teachers
+Need? Why Theory Is Necessary To Good
+Teaching. IMPACT. Philosophical Perspectives
+on Education Policies, no. 22. 41 p.
+Pavlović N., Antunović G., 2019. A Desirable Profile of
+Translation Teacher: Perceptions and Needs in
+the Croatian Context. TRAlinea Special Issue:
+New Insights into Translator Training. URL:
+http://www.intralinea.org/archive/article/2423
+(accessed 19 February 2021).
+Shlepnev D., Sdobnikov V., 2007. Rol i mesto kursa teorii
+perevoda v professionalnoi podgotovke
+perevodchika [Translation Theory in Training
+Professional Translators]. Metodicheskie osnovy
+podgotovki perevodchikov: nizhegorodsky opyt
+[Methodological Basis for Translators Training:
+Nizhny Novgorod Experience]. Nizhny Novgorod,
+GOU VPO NGLU, pp. 105-109.
+SOURCE
+EMT – The EMT Translator Trainer Profile.
+Competences of the Trainer of Translation. URL:
+http://docplayer.net/14445272-The-emt-
+translator-trainer-profile-competences-of-the-
+trainer-in-translation.html (accessed 20 November
+2020).
+74
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Information About the Authors
+Olga V. Petrova, Candidate of Sciences (Philology), Professor, Department of English, Translation
+and Translatology, Head of the International Research Laboratory “Theoretical and Applied Issues in
+Translation Studies”, Linguistics University of Nizhny Novgorod, Minina St, 31a, 603155 Nizhny Novgorod,
+Russia, o.v.petrova.nn@gmail.com, https://orcid.org/0000-0003-1781-7853
+Vadim V. Sdobnikov, Doctor of Sciences (Philology), Associate Professor, Head of the Department
+of English, Translation and Translatology, Linguistics University of Nizhny Novgorod, Minina St, 31a,
+603155 Nizhny Novgorod, Russia, artist232@rambler.ru, https://orcid.org/0000-0002-4717-2980
+Информация об авторах
+Ольга Владимировна Петрова, кандидат филологических наук, профессор кафедры теории
+и практики английского языка и перевода, руководитель Международной научно-исследовательс-
+кой лаборатории «Теоретические и прикладные проблемы переводоведения», Нижегородский госу-
+дарственный лингвистический университет им. Н.А. Добролюбова, ул. Минина, 31а, 603155 г. Ниж-
+ний Новгород, Россия, o.v.petrova.nn@gmail.com, https://orcid.org/0000-0003-1781-7853
+Вадим Витальевич Сдобников, доктор филологических наук, доцент, заведующий ка-
+федрой теории и практики английского языка и перевода, Нижегородский государственный линг-
+вистический университет им. Н.А. Добролюбова, ул. Минина, 31а, 603155 г. Нижний Новгород,
+Россия, artist232@rambler.ru, https://orcid.org/0000-0002-4717-2980

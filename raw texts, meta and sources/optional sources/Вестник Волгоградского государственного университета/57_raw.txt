@@ -1,0 +1,895 @@
+Druzhinin A.S., 2021
+166
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+ДИСКУССИИ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.3.14
+UDC 81’1:791
+Submitted: 25.01.2020
+LBC 81.006
+Accepted: 16.02.2021
+MOTION PICTURES AS A SOURCE OF EMPIRICAL LANGUAGE DATA
+(A CASE STUDY OF COUNTERFACTUALS)
+Andrey S. Druzhinin
+MGIMO University, Moscow, Russia
+Abstract. The article focuses on the problem of research methodology in linguistics and argues that motion
+pictures, or feature films, provide a good source of empirical data for a realistic investigation of language as a
+communicative behavior. Evidence from epistemology and philosophy of science shows that scriptism and rationalism
+as two dominating methodologies in traditional linguistics do not give a whole picture of language functionality
+because through them we cannot observe a human’s communicative behavior in dynamics. The aim of the article is
+to offer an alternative understanding of the subject-matter, method and data for linguistic research which would be
+grounded on human experience observable in films. In particular, the term ‘languaging’ is adopted to describe the
+dynamic process of experience construction in referential and attentional framings. The investigation of languaging
+is thus based on the principle of holism, circularity and ‘double perspectival’ view of one’s experience. The author
+of the article gives a number of reasons why written texts alone do not provide reliable data in this respect and why
+motion pictures are a more viable alternative. The paper introduces the methodology of holistic research and open-
+ended experiential analysis and demonstrates in a case study how counterfactuals as grammatically and experientially
+enacted patterns can be observed and investigated in the film Atonement.
+Key words: experience construction, experiential context, motion pictures, languaging, enactivism, holism.
+Citation. Druzhinin A.S. Motion Pictures as a Source of Empirical Language Data (A Case Study of
+Counterfactuals). Vestnik Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science Journal
+of Volgograd State University. Linguistics], 2021, vol. 20, no. 3, pp. 166-175. DOI: https://doi.org/10.15688/jvolsu2.2021.3.14
+УДК 81’1:791
+Дата поступления статьи: 25.01.2020
+ББК 81.006
+Дата принятия статьи: 16.02.2021
+КИНОФИЛЬМ КАК ИСТОЧНИК ЭМПИРИЧЕСКИХ ДАННЫХ О ЯЗЫКЕ
+(НА ПРИМЕРЕ КОНТРФАКТУАЛЬНЫХ ВЫСКАЗЫВАНИЙ)
+Андрей Сергеевич Дружинин
+Московский государственный институт международных отношений (университет) МИД России,
+г. Москва, Россия
+Аннотация. Статья затрагивает проблему методологии в науке о языке. Установлено, что художественные
+фильмы предоставляют адекватные эмпирические данные, необходимые для реалистичного изучения языка
+как коммуникативного поведения человека. Доводы эпистемологии и философии науки свидетельствуют о
+том, что методология «скриптизма» и рационализма, до сих пор востребованных в лингвонаучной практике,
+не способна раскрыть сущность языка, поскольку она не дает возможности наблюдать коммуникативное по-
+ведение человека в динамике. Цель данной статьи – предложить альтернативное понимание предмета, метода
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+167
+A.S. Druzhinin. Motion Pictures as a Source of Empirical Language Data
+и эмпирического материала лингвистического исследования, в центре внимания которого будет опыт человека,
+доступный для наблюдения посредством динамики видеоряда. Вводится и объясняется термин «языковое пове-
+дение» (languaging), обозначающий процесс конструирования человеком своего опыта в динамике меняю-
+щихся объектов внимания и референции. Утверждается, что изучение языкового поведения основывается на
+принципах холизма, циркулярности и диалектического взгляда на опыт человека. Автор статьи приводит ряд
+доводов, объясняющих, почему в такой исследовательской парадигме одни только тексты не могут выступать в
+качестве надежного источника данных о языке и почему фильмы являются лучшей альтернативой. На примере
+кинофильма «Искупление» демонстрируется, как фильм, изучаемый в ракурсе предлагаемого подхода, помо-
+гает раскрыть экспериенциальную сущность определенного грамматического явления.
+Ключевые слова: конструирование опыта, экспериенциальный контекст, игровые картины, поведение
+в языке, энактивизм, холизм.
+Цитирование. Дружинин А. С. Кинофильм как источник эмпирических данных о языке (на примере
+контрфактуальных высказываний) // Вестник Волгоградского государственного университета. Серия 2, Язы-
+кознание. – 2021. – Т. 20, № 3. – С. 166–175. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.3.14
+Introduction
+Why sciences are concerned with the
+dynamics of experience. As Paul Valéry put it,
+“science is the collection of recipes that work
+always” [Valéry, 1957, p. 1253]. Any scientific
+research sets out to explore things and processes.
+By doing so, a scientist pursues the goal of
+explaining how they function to make sure he / she
+knows when, how and where they happen. It is
+the knowledge of these conditions that provides a
+truly scientific understanding and definition of what
+things and processes are. It is what “our faith in
+science rests upon” [Valéry, 1957, p. 1253].
+We cannot refer to things and processes
+independent of what we do. The Nobel Prize
+winner Percy Bridgman in his The Logic of
+Modern Physics (1927) made a case for the
+operational origin of all fundamental concepts of
+time, space, length, etc., and the respective terms
+used by science. “The true meaning of a term is
+to be found by observing what a man does with
+it (emphasis added. – A. D.), not by what a man
+says about it” [Bridgman, 1958, p. 7].
+Later, Humberto Maturana [1988] in his
+philosophy of cognition maintained that reality,
+however objective it might seem, has biological
+roots in ourselves – more precisely, in our doings.
+What we call the phenomena of reality are but our
+experiences. ‘What is this or that thing or how does
+it happen?’ is not what we should ask ourselves in
+an effort to unearth the truth of reality. Instead,
+questions like ‘What do I do when I distinguish a
+thing?’ are more scientifically effective [Maturana,
+2012]. For example, to investigate and define a
+concept in physics, psychology or chemistry one
+must isolate an object of observation, propose a
+hypothesis explaining how, where and when the
+phenomenon is, and is to be, repeatedly observed,
+and then put this hypothesis to ‘life test’ to check if
+it fits the real experiential situation [Glasersfeld,
+1995, p. 117]. This procedure requires a scientist
+to observe the dynamics of (his / her) doings,
+otherwise neither physics nor chemistry nor any
+other science would be able to validly explain the
+reality of our life, or rather, living.
+Thus, it appears that any science is meant to
+observe phenomena as experiences rather than
+objects ‘out there’, and it proves valid as long as it
+is experientially grounded, i.e. it can provide
+explanation of how, when and where this or that
+experience can recur without fail. In this respect,
+linguistics should pursue the same objectives. The
+present article will discuss why it does not happen
+and why mainstream theory of language has a too
+heavy legacy of Aristotle’s analytical logic to focus
+on human experience lived in the dynamics of
+communication. There will also be given a
+methodological alternative of studying cinema as
+language-in-motion which may help the language
+science to move from the (mono-)logical, text-
+oriented stance towards the eco-logical and
+experiential one.
+Why linguistics tends to study static
+objects. Per Linell [2005] in his provocative critique
+of linguistics gives 101 reasons why mainstream
+linguistics chooses to approach language as literacy
+and the art of alphabetic writing rather than as
+human’s natural bodily behavior situationally
+embedded in the social and cultural environment.
+He explains how linguists have become biased in
+their research towards written, static texts ever
+168
+ДИСКУССИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+since literacy began to play a big cultural and even
+political role. States have needed standardized
+national languages to stand out in the political arena,
+societies have needed educated people with good
+writing skills. Moreover, literacy has always served
+as a social distinction between those who can speak
+the proper and correct language and those who
+speak the vulgar vernacular. Language issues thus
+stand ‘proxy’ for wider social issues [Rickford,
+1999, p. 272]. “Inscriptions, in the concrete sense
+of static marks on paper, have been the dominant
+technology of language. At the same time, it is in
+the development of literacy, in the schooling needed
+for learning to read and write, that theories of
+language structure have become necessary” [Linell,
+2005, p. 5].
+According to Linell, the age-long tradition
+of language studies is characterized by scriptism,
+i.e. the influence of writing on the
+conceptualization of speech. Speech is a dynamic
+activity distributed in real time with both speaker
+and listener being physically present in the
+immediate context, while texts are offline,
+displaced and deferred. In terms of the dialogical
+property of interactivity, the written text is
+“suspended dialogue” [Peters, 1999] lacking any
+immediate situational context [Linell, 2005, p. 21].
+Suffice it to say that writing and reading belong
+to the so-called secondary socialization, while the
+primary empirical interactions in the form of
+speaking and hearing are overshadowed in texts.
+Thus, the structure of speech, or talk-in-
+interaction, is mainly studied from the perspective
+of its regular counterparts in conventional writing.
+Even those linguistic disciplines concerned with the
+grammar or pragmatics of spoken language treat
+utterances (a unit of speech) in comparison to
+sentences (a unit of text) and analyze what is
+analyzable textually (‘spoken texts’ or ‘spoken
+grammar’). For example, utterances which do not
+display full clause structures are interpreted as
+‘elliptical’, i.e. incomplete, lacking explicit proposition
+or even dysfunctional. In fact, any utterance in a
+spoken interaction may be called ‘elliptical’ because
+it is natural for participants in a dialogue to exploit
+properties of each other’s utterances and thereby
+dynamically co-construct meanings and attitudes
+[Bakhtin, 1981]. Another case in point is gestures.
+Gestures cannot be (fully) represented in writing,
+that is why their role in language analysis is often
+minimized. Indeed, gestures, bodily postures, facial
+expressions, gaze behavior are perfectly integrated
+with verbal conduct. Alongside with linguistic
+features, gestures help people construct meanings
+and attitudes and “exploit features of the built
+environment” [Goodwin, 2000].
+It follows that the main methodological gap
+in scriptism as posited by Linell and his supporters
+is the failure to depart from dualism. The desire
+to look at isolated structures as if independently
+existing objects is a hallmark of the Cartesian
+philosophy which dualizes our understanding of
+the world in terms of subject-object relationships.
+This tradition has persisted in linguistics ever since
+literacy made it possible to observe inscriptions,
+marks and other textually demarcated symbols
+on paper. With writing, language becomes a static,
+‘photographic’ (or rather, representational) object
+existing ‘out there’. “Linguists are not dealing with
+complex bodily conduct, behaviors, which exhibit
+recurrent structural properties. <...> Instead, they
+hypostatize, arrest, paralyze language structures
+as a body of knowledge, posit them as abstractions
+existing in and of themselves” [Linell, 2005, p. 9].
+Another epistemological trap of scriptism is
+rationalism. Written texts are by definition logically
+organized intellectual products because writing is
+a purely linear affair. Studying texts linguists tend
+to find explanation not for what, how and why
+the author organized in his / her writing (it is
+physically impossible, as the context of writing is
+never observable), but for how the author’s writing
+can be described and thus logically organized once
+again. In such a way, mainstream linguistic theory
+aims to establish double logical coherences which
+are detached from the reality of our perceptual
+acting in the immediate context.
+The overview of scriptism in linguistics
+allows us to arrive at one important conclusion:
+language studies are basically associated with
+textology; generalizations made by linguists as a
+result of their observations of speech are grounded
+mainly upon what is or is not common to see on
+paper, not in life. Indeed, language goes far
+beyond writing. If it were not the case, illiterate
+people would either be proclaimed a miracle or
+considered non-linguistic at all.
+From texts to experiences. In his studies
+of children’s cognitive development, Leo Vygotsky
+became the first Soviet scientist who proved that
+language should not be approached analytically,
+because language is synthesis by definition.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+169
+A.S. Druzhinin. Motion Pictures as a Source of Empirical Language Data
+Language, he maintained, is not what we write,
+nor what speak, but is what we do towards, in
+and through writing, speaking or any other social
+and cultural interaction. According to Vygotsky, “to
+understand another’s speech, it is not sufficient to
+understand his words – we must understand his
+thought. But even that is not enough – we must
+also know its motivation” [Vygotsky, 1962, p. 151].
+He claims that traditional methods of verbal
+definition, by which he evidently meant describing
+things, are totally “inadequate for studying
+concepts... as they overlook the dynamics and the
+development of the process of concept formation”
+[Vygotsky, 1962, p. 96]. To find a term or definition
+for a concept is to deal with ready-made knowledge
+as the resulting product rather than the process of
+thinking or knowing. This method also confines
+research material to isolated verbalizations as the
+only source of empirics.
+There are two important implications of this
+finding. First, language with all its structures,
+components or units cannot be investigated from
+within these units – it requires a much more holistic
+effort. Namely, we must look at the generative
+source of language, the process that takes place in
+a domain other than the domain of definitions or terms
+(cf.: [Maturana, Verden-Zöller, 2008, p. 154]).
+Second, we must integrate our abstractions back
+into the dynamics of bodily experience to check how
+they fit the conditions of our living.
+Experiential view of language underlies the
+philosophy of enactivism in which language is
+equated with the operational dynamics of
+experience construction, or enactment of the
+world [Piaget, 1937; Varela, Thompson, Rosh,
+1993; Glasersfeld, 1995]. There can be given three
+reasons to prove this point. First, “experience –
+that which we distinguish as happening to us and
+in us – cannot be denied” [Maturana, Verden-
+Zöller, 2008, p. 13]. Second, language is the root
+of all experience, i.e. all things happening to us
+and in us, since “the language I speak is my
+language, it makes me aware of myself” [Foerster,
+2003, p. 297], it makes me an experiencer. Third,
+experience or language is not something ready-
+made or passively received. It is actively
+constructed and organized in the course of
+cognitive development. Otherwise, we humans
+would not need to learn or live anything, instead
+we would be a machine waiting to be adjusted
+for the reception of the right signal.
+What would be more appropriately termed
+as languaging is thus a cycle of changes
+happening to/in our body to reciprocally maintain
+the continuity of our focused and unfocused
+attention on “a sort of universe we shall appear to
+ourselves to inhabit” [James, 1890, p. 401]. The fact
+that our attention can be unfocused on some
+sensorial data and be still ‘experientially active’ is
+crucial for us humans: our attention once focusing
+on a perceptual item can refocus on it later by some
+power of volition and through recognition matrices
+[Ceccato, Zonta, 1980; Glasersfeld, Ackermann,
+2011] which all, in turn, are made possible in and
+through languaging only [Kravchenko, 2016]. In this
+way we construct our experience out of the
+attentionally organized sensorial data, or else, our
+experiences. They are what we can easily isolate
+(abstract) from the sensorial flow, displace, or turn
+upon themselves (reflect upon them), and live again
+(enact) in a new context of interactions. Thus,
+languaging as experience construction can be
+characterized by the following ecology of enaction:
+framing (isolating certain items from the
+bodily dynamics) + reference (interacting with
+these isolations: reflecting upon them and acting
+upon these reflections) + attention (selection of
+frames and their reference through changing
+interests and desires, or relations).
+Thus, to study reference frames, what we
+commonly understand as names as well as their
+constellations – texts, means to study
+experiences, i.e. probe into our bodily operations
+(sensorimotor functioning and thinking processes)
+and their attentional triggers (relations).
+Method of investigation
+of experiential dynamics
+in linguistic research
+The dynamics of languaging as attentional
+and referential framing makes our living cognitively
+‘eco-logical’. It means that we operate in such
+an ecology where our interests and desires, our
+attentional processes determine our bodily actions
+and operations (thinking, moving, sensing), and vice
+versa. It means that every doing of ours changes
+a relation in which our next doing occurs; every
+decision we make, every word we say is related
+to our previous experience and can be adequately
+understood only in relation to this experience. If,
+for instance, you move your hand from a basin of
+170
+ДИСКУССИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+cold water into one that is tepid, the second feels
+hot; if you begin with hot water, the tepid feels
+cold; the true temperature of the water, therefore,
+cannot be determined because our judgment
+depends on the experiential context.
+It follows that the object of linguistic study
+should be a frame of reference as an item of
+experience enacted in the operational bodily
+dynamics under certain contextual conditions. To
+investigate such an object, we must rely upon two
+methodological techniques by which we (1)
+analyze a frame in one domain of observable
+doings, as an action performed by the agent in
+relation to something or someone (what exists out
+there), and (2) synthesize all the accessible
+epistemological, psychological, and even
+physiological data to look at this frame in another
+domain, as an interaction between the agent and
+his / her relations (his / her experiential reality as
+what he / she distinguishes as existing out there).
+Thus, a hypothesis about a frame of
+reference as a linguistic abstraction must be based
+on the explanation of what, how, when and where
+we do ‘to make this reference happen’. It implies
+looking at the practical context of interactions in
+which this frame of reference is enacted to
+construct experience.
+One way to do this is to study children at
+different times of their cognitive development.
+A problem may arise because interrelated
+complexes in languaging do not take shape by
+default but are actively constructed and tested
+through trial and error over a course of time when,
+later, they become a more or less stable and
+sustainable structure or pattern of action.
+Another path to approach direct experience in
+its perceptual, empirical sense is to explain the
+circumstances under which it is enacted as an
+abstraction, or else, re-enacted as an already viable
+and stable conceptual structure, internalized pattern
+of action. In explaining the circumstances (when,
+where, why?) we will also be able to identify the
+mechanisms (how?) underlying this cognitive
+enactment. Such mechanisms are epistemological
+ways of concept construction in and through
+abstractions, generalizations, and reflections (for a
+detailed account see: [Piaget, 1937; Glasersfeld, 1995]).
+For the sake of clarity, I have summarized
+the procedural components of open-ended
+experiential analysis after Varela et al. [1993] and
+Glasersfeld [1995] and propose the following step-
+by-step question-answer algorithm of scientific
+observation and explanation of languaging-as-
+experience-construction (see Table 1).
+Table 1. Methodological algorithm of holistic research and open-ended experiential analysis of
+language
+(Step 1) Hypothesizing: What experience is enacted in/through a particular frame of reference? 
+(Step 2) Observation and analysis: When / where is it enacted? 
+What are the experiential circumstances driving one to refer to this experience? What new emerging 
+experiences and emotional perturbations ‘here and now’ cause one to recreate the old experience in question? 
+(Step 3) Observation and analysis:  Why is it enacted? 
+What kind of desired result does one seek to achieve? What kind of experiential balance does one strive to 
+restore? 
+(Step 4) Observation and analysis:  How is it enacted? 
+What operations does one do to experience something again? 
+ Is it a direct experience that is acted out almost automatically, without much thinking? (= Do I enact an 
+empirical abstraction from raw sensory material?) 
+ Is it an indirect experience, i.e. one not only enacts an isolated item of (abstraction from) raw sensory 
+material, but also reflects upon it to an extent that the experience is not re-created as it was? 
+ How exactly does one reflect upon the abstracted sensory material? 
+ Does one reflect upon the way one has this experience? (Does one change and develop an understanding of 
+an experience to figure out how else one can have this experience? = Do I enact a reflective abstraction?) 
+ Does one reflect upon the way one abstracts this experience? (Does one change or develop one’s 
+understanding of understanding an experience = Do I enact a reflected abstraction?)  
+(Step 5) Synthesis and verification of the hypothesis: Does the hypothesis work? Is the hypothesized experience 
+enacted in the observed circumstances non-controversially? Can the deduced hypothesis predict the happening of 
+the experience under the circumstances similar to those observed? How is the investigated experience distinguished 
+from other phenomena? What is a better term for the investigated experience? 
+ 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+171
+A.S. Druzhinin. Motion Pictures as a Source of Empirical Language Data
+Results and discussion
+Motion pictures as enactive data
+for linguistic research
+Why a picture in motion is better than a
+picture in isolation. To be able to grasp the
+dynamics of languaging, we should find ways to
+observe the experiential context of our semantic
+interactions, or else, our semantic living
+[Maturana, 2006]. The reason why it is not enough
+to study and describe language in its semantic
+abstractions is because isolated linear structures
+will never ‘tell us the whole (holistic) story’: they
+can only help de-fine, de-termine, find limitations
+to what we set out to observe (cf. step 1 in our
+methodological algorithm).
+Motion pictures provide more or less reliable
+data for investigating languaging processes
+because in films we see what people do and
+how they act, not just what they say. More than
+that, we can observe the movement of people’s
+(fictitious characters’) attention in their thinking
+about what is displaced from the immediate
+perceptual field. The latter becomes possible in
+such a special form of filmed interactions that is
+directed, i.e. when somebody (a film director)
+takes responsibility for the viewers’ holistic
+perception and understanding of what is happening
+on the screen. In other words, in a feature film,
+somebody’s living is projected as a complete,
+meaningful story of which a viewer is expected
+to make some whole sense. The experiential
+context in such a story is always thorough enough
+to rely upon because every doing of the character
+is shown as preceding from, and proceeding to,
+another doing of his / hers. All interactions of the
+character stand in some generative relation to each
+other, that is why the context of each interaction,
+in our case – referential and attentional framing,
+can be made easily explicit rather than speculated
+upon. Thus, motion pictures provide data on ‘living
+through talking’, acting upon language while other
+semantic data offer us mainly talks about talking,
+texts in and of themselves.
+I will try to make it more explicit why motion
+pictures go beyond familiar textual data and are
+useful in any linguistic research which is aimed at
+studying experience.
+1. Uninterrupted non-linear dynamics: films
+help follow non-linear cognito-perceptual changes
+as they unfold in the human mind. There are no
+visible textual demarcations hindering us from
+experiencing the projected flow of living as it is.
+Motion pictures are free from the bias of linear
+written language where a reader is tempted into
+becoming a researcher by looking at structures
+and dialogical practices in isolation, as static
+product-oriented objects on paper [Linell, 2005]
+admitting of reading and rereading.
+We should remember that repeating an
+experience or interrupting the experiential flow is
+another experience. The director will never replay
+a series of shots for no particular reason, the
+director will make this replay a part of the
+continuous experiential flow as planned and
+determined by the story. Under ordinary
+circumstances, a viewer in the cinema cannot stop
+the movie and go back to the previous shot or the
+titles unlike a reader who sometimes has to refer
+to the footnotes, appendices, etc. The author of a
+book may choose to diverge from the narrative
+by introducing philosophical reflections that have
+little to do with the experiential dynamics of the
+character. The director of a film is unable to show
+anything but the flow of attention and experience
+of the characters or / and narrator in the projection
+of their living. In this way film watching can
+guarantee natural conditions for non-linear
+uninterrupted experiential dynamics.
+2. Broader contextuality: it should be once
+again stressed that in films we can observe
+practical, empirical domains of every semantic
+operation, while in texts we are confined to the
+semantic domain of the same semantic operations.
+Communication like any other interaction must be
+observed and scientifically explained across the
+domains of ‘action in’ and ‘action out’
+(or generative mechanism and resulting process),
+otherwise what we would be observing and
+explaining is not an inter-action.
+Even if we rely on data from corpora, what
+we will be studying in the final analysis are written
+texts, transcripts as linear affairs. Even if we find
+instances of spoken communication, we will not
+be able to make explicit the actual conditions in
+which the interaction in point occurred. As objects
+of study, texts are always bounded, while
+experiential background to the object of our study
+is never bounded; therefore, (experiential) context
+is not wholly observable in texts. To hypothesize
+about the experiential nature of this or that
+172
+ДИСКУССИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+semantic structure, we should go deeper into the
+person’s emotioning, thinking, and sensorimotor
+being in language. To make it possible, we must
+make sure we get ahold of the person’s relevant
+semantic living in totality. How can we make sure
+what is relevant and what is not in written texts?
+3. Distinctions between thinking and
+perceiving at one time: as a rule, films project not
+only something a character is perceiving, but also
+something a character is thinking. The director’s
+camera not only frames the perceptual dynamics
+of the character’s (or someone else’s) body, but
+it also captures the flow of attentional focalizations
+through which the character selects ways of
+relating the perceived dynamics to his / her earlier
+experiences. It means that films allow one to
+observe attentional processes that are
+unobservable in normal conditions (even in
+psychological experiments), let alone in texts
+(where we do not directly observe anything, but
+are engaged in reading only). Such a narrative
+technique of the moving image helps the viewer
+not only ‘experience’ the character’s living as it
+is, in the flow, but also follow the process of reality
+construction in the character’s world.
+4. Embodiment of knowing: films, as said
+before, project sensorimotor dynamics, thus
+making bodily movements (gaze, gestures, etc.)
+and sensoriality (hearing, seeing) observable.
+A case study: a concept of time
+reversibility in/through counterfactuals.
+To demonstrate how effectively motion pictures
+can be methodologically applied to linguistic
+research, I will give one example that is connected
+with the study of some fundamental concepts and
+grammatical problems connected with them.
+The concept of time, in particular, can be easily
+approached from a dynamic perspective in which
+we can more clearly see the experiential context
+of time as a way of acting and then deduce
+(or even observe) the attentional and referential
+mechanisms underlying this acting. A choice of
+those films which tell their story around or
+throughout changing temporal reality will help. For
+instance, Atonement (2007) is interesting in this
+sense.
+It is an if-only-I-had-not-done-it or it-
+would-have-happened-differently story about
+undoing the irreparable damage the main
+character once caused to her loved ones. Right
+from the point of dramatic and critical decision to
+wrongfully testify against her sister’s boyfriend
+and get him imprisoned amid the waging World
+War II, Briony begins to live a life which will never
+get back to normal. Her sense of guilt and regret
+are portrayed as reflections upon the lived past
+which repeatedly interrupt the linearity of her
+experiential flow as well as the film’s storytelling.
+Her attention is refocused on the earlier
+experiences and these refocalizations are often
+shown in reverse order to emphasize her desire
+to ‘restore’ the past. In the end she manages to
+beg forgiveness from her sister and her boyfriend,
+but later we see that this never happened and
+was part of her imagination. The people she
+betrayed were killed in the war. It appears that
+the bigger part of the story was told
+counterfactually, from the as-if perspective.
+Overwhelmed by the irreversible consequences
+of her light-minded behavior (her sister and her
+boyfriend’s death), the main character has created
+a reality of her own (that comes out as another
+narrative) and acts upon it to cope with a sense
+of guilt. Throughout this reality she repeatedly goes
+back to the moment of the regrettable wrongdoing,
+enacting the “if-only-it-had-happened-otherwise”
+cognitive program. This, in turn, illuminates the
+cognitive mechanism of experience construction
+in terms of counterfactuals (or the subjunctive, in
+their linguistic abstraction).
+The film director uses a number of
+techniques to portray Briony’s experience, among
+which flashback reversion is of the greatest
+interest. It visualizes the reverse motion of the
+mind, the refocalization of the character’s attention
+on some earlier salient experience. In particular,
+the farewell scene of Brinoy’s sister (Cecilia)
+parting with her (Cecilia’s) boyfriend at the
+doorstep of her mansion at the beginning of the
+film is shown in reverse order in the middle of the
+film to highlight the relational change which has
+happened in Briony’s mind. This change of value
+occurred right after the fatal mistake she made
+to get her sister’s boyfriend (Robbie) imprisoned
+and later killed in the war. She recognized this
+tragical mistake and now goes back to the lived
+experiences and replays them in reverse order.
+In doing so, the narrator (Briony) decides to
+construct a positively valued reality (the reality of
+begging forgiveness) which dominates the
+narrative and appears as a true story until her
+confession in the final scene. At the end of the
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+173
+A.S. Druzhinin. Motion Pictures as a Source of Empirical Language Data
+film we see older Briony who has just finished a
+novel Atonement about Cecilia and Robbie. She
+says that her sister and Robbie reunited only in
+the book, in reality they died and Briony never
+met them to claim forgiveness after what
+happened when she was a mindless teenager.
+Briony’s confession is shown to us as two
+sequences of moving images, the one is a negative
+reality of Robbie and Cecilia dying in the war, the
+second one is a positive, desired reality of Robbie
+and Cecilia enjoying their holiday by the seaside
+together.
+The analysis of how older Briony’s mind
+‘moves’ in her reflections on the past as shown
+by the director in the last scene suggests that
+the realities constructed are not of the ‘more
+true’ or ‘less true’ kind, they belong to one and
+the same level of actuality of the storyline: they
+both are objects of Briony’s attention. Both
+the death and the happy life of her sister are
+depicted sequentially. Their counterfactuals
+status emerges as a new understanding of the
+past and a change of relation Briony produces
+in her actuality (‘here and now’, at the moment
+of answering the interviewer’s questions, at the
+moment of regretting her mistakes and getting
+more dissatisfied with her present life), not in
+the ‘irreal’ world.
+The enactive data provided in the motion
+picture allow us to look at counterfactuals as a
+way of semantic living rather than a grammatical
+construction or logico-semantic structure. Briony
+lived a ‘counterfactual life’ throughout the second
+half of the story. Counterfactuals became for her
+a way of dealing with her sense of guilt, with the
+world that tragically changed for her the moment
+she made a life-changing decision to testify against
+her sister’s boyfriend. She enacted counterfactuals
+in and through her reflections upon the past where
+she re-organized the past experience by changing
+the relational value of this experience from the
+negative to the positive. The summary of our
+findings are given in Table 2.
+The findings will help us make a few
+linguistic generalizations on counterfactuals.
+Linguistically, counterfactuals are frames of
+reference in which the agent reverses the past
+time, or rather, his / her lived experiences, to
+counterbalance what he / she is actually living in
+the present. In other words, the value of the lived
+experience is not satisfying for the agent to live
+on and anticipate the coming changes in a normal,
+linear direction; he / she begins to (reflectively)
+change the direction of this experiential flow and
+act upon this change by constructing new
+experience out of the old one.
+This complex, non-linear process of
+attentional and experiential counterbalancing may
+well explain the complex and non-linear
+grammatical choices we make in our languaging.
+Table 2. Counterfactuals as an experience (a case study of Atonement)
+Step 
+Research Procedure 
+Results 
+Step 1 
+Hypothesizing 
+time is specifically experienced in/through a counterfactual way of dealing with 
+the world 
+Step 2 
+Observation and analysis: 
+when / where? 
+the experience is enacted after the character’s fatal mistake, in the circumstances of 
+repentance and atoning 
+Step 3 
+Observation and analysis: 
+why? 
+the experience is enacted to deal with a sense of guilt, to beg forgiveness from 
+the wrongfully betrayed people  
+Step 4 
+Observation and analysis: 
+how? 
+The experience is enacted 
+attentionally: through refocalizations on the lived experiences, the refocalizations 
+counterbalancing (helping to restore the balance in) the dynamics of the actual 
+living; 
+cognitively: through reflecting upon what happened in the past and acting upon 
+this reflection (constructing a new experience by reverting the way the past 
+experiences happened); 
+relationally: through a change of value attached to the lived experience 
+Step 5 
+Synthesis and verification 
+The investigation fits the following hypothesis: 
+a concept of time reversibility is enacted in/through counterfactuals; the experiential 
+result (the enactment) is counterbalancing reality 
+174
+ДИСКУССИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Namely, the pattern If I only I had not done
+such a mistake, everything would have
+happened differently involves a number of
+complicated and ‘illogical’ structures for a reason.
+Contrasting negation (If I had ... = in fact, I don’t
+have) helps to create a relational change and reverse
+the experience, past tense forms specify what kind
+of the lived experience we are reversing (in a
+reflective abstraction) and ‘future-in-the past’ would
+frames the result of this reversion, namely the
+construction of a new, counterbalancing experience.
+All in all, the counterfactual enactment of the
+world creates counterbalancing reality in
+referential frames of which we act to satisfy our
+changing interests and desires.
+To sum it up, the motion picture provided
+significant data for a holistic understanding of
+experience construction in terms of non-linear
+temporal reality. Different techniques of film
+making and our holistic perception of the story,
+the character’s living, rather than his / her talking,
+assured a maximum of methodological integration
+in the observation and synthetical study of
+languaging.
+Conclusion
+Motion pictures remain a good source of
+enactive data for linguistic research unless they
+are treated as texts. If they are, linguists find
+themselves “epistemologically trapped in the
+fragmentary understanding of language, culture
+and cognition” [Kravchenko, 2016]. Texts will
+never provide a whole picture of what human
+language is because in texts a human cannot be
+observed. In particular, texts are what we have
+already produced in the process of our experience
+organization, but they are far from this process
+itself, they have very little to say about how,
+where and when we organize our experience. If
+we cannot investigate such factors, we cannot
+construct a valid hypothesis about this or that
+experiential item generating our recurrent
+communicative behavior, or languaging dynamics.
+If we cannot do so, we fail to meet the
+requirements of scientific research to explain
+“how something works always”.
+Viewed holistically, motion pictures can
+safely be used in the study of languaging as
+experience construction because in them we can
+observe actors acting upon, and enacting, bodily
+dynamics. Just as our ‘moving’ attention selects
+some part of our perceptual field to frame for
+reference, the moving camera selects an image
+to capture for the meaningful development of the
+story. Just as the flow of our living causes us to
+construct meaningful experience by relating one
+experiential item to another, the developing story
+of a film makes sense to let one event happen
+after, before or during another. Just as for a
+scientific understanding of reality we explain the
+recurrent coherences of our experiential dynamics
+across separate relational domains, films allow us
+to look at the experiential dynamics of the
+characters in totality which gives us a better
+understanding of the latter’s behaviors.
+Linell expresses hopes that computer-
+supported visualization of languaging dynamics will
+offer a methodological alternative to the product-
+oriented approach of mainstream linguistics [Linell,
+2005, p. 220]. Some work has been done in this
+regard with Druzhinin et al. [2020] attempting to
+investigate such relational phenomena as
+dysphemisms and euphemisms in experiential
+contexts on the basis of TV drama shows and
+concluding that the distinction between the
+‘phemes’ depends upon the experience of the
+distinguisher. A lot of work is still to be done in
+the area of linguistic and cross-disciplinary
+research, and once we approach language in
+experiential totality, as where and how we humans
+organize our being, we will be able to write the
+long sought-after linguistic “recipes that work
+always”.
+REFERENCES
+Bakhtin M.M., 1981. The Dialogical Imagination:
+Four Essays by M.M. Bakhtin. Austin,
+University of Texas Press. 480 p.
+Bridgman P.W., 1958. The Logic of Modern Physics.
+New York, Macmillan, vol. 3. 246 p. (First
+Published in 1927).
+Ceccato S., Zonta B., 1980. Linguaggio, Consapevolezza,
+Pensiero. Milan, Feltrinelli. 269 p.
+Druzhinin A.S., Fomina T.A., Polyakov O.G., 2020.
+Evfemizmy, disfemizmy, ortofemizmy
+ieksperientsialnyi kontekst: kholisticheskii
+vzglyad na lingvisticheskuyu problemu
+[Euphemisms, Dysphemisms, Orthophemisms
+and Experiential Context: A Holistic View of the
+Linguistic Problem]. Yazyk i kultura [Language
+and Culture], no. 50 (2), pp. 23-40.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+A.S. Druzhinin. Motion Pictures as a Source of Empirical Language Data
+Foerster H. von, 2003. Understanding Understanding:
+Essays on Cybernetics and Cognition. New
+York, Berlin, Springer Science & Business Media.
+362 p.
+Glasersfeld E. von, 1995. Radical Constructivism:
+A Way of Knowing and Learning. Bristol, Falmer
+Press. 213 p.
+Glasersfeld E. von, Ackermann E.K., 2011. “Reflections
+on the Concept of Experience and the Role of
+Consciousness”. Unfinished Fragments.
+Constructivist Foundations, no. 6, pp. 193-203.
+Goodwin C., 2000. “Action and Embodiment Within
+Situated Human Interaction”. Journal of
+pragmatics, no. 32, pp. 1489-1522.
+James W., 1890. Principles of Psychology. New York,
+Henry Holt and Company, vol. 1. 716 p.
+Kravchenko A.V., 2016. Constructivism and the
+Epistemological Trap 
+of 
+Language.
+Constructivist Foundations, no. 12, pp. 39-41.
+Linell P., 2005. The Written Language Bias in
+Linguistics: Its Nature, Origins and
+Transformations. London, Routledge. 256 p.
+Maturana H., 1988. Reality: The Search for Objectivity
+or the Quest for a Compelling Argument. The
+Irish Journal of Psychology, no. 9, pp. 25-82.
+Maturana H., 2006. Self-Consciousness: How? When?
+Where? Constructivist Foundations, no. 3,
+pp. 91-102.
+Maturana H., 2012. Reflections on My Collaboration
+with Francisco Varela. Constructivist
+Foundations, no. 7, pp. 155-164.
+Maturana H.R., Verden-Zöller G., 2008. The Origin of
+Humanness in the Biology of Love. London,
+Andrews UK Limited. 252 p.
+Peters J.D., 1999. Speaking into the Air: A History of
+the Idea of Communication. Chicago, University
+of Chicago Press. 304 p.
+Piaget J., 1937. La Construction du Réel Chez L’Enfant.
+Neuchâtel, Delachaux et Niestlé. 345 p.
+Rickford J.R., 1999. The Ebonics Controversy in My
+Backyard: A Sociolinguist’s Experiences and
+Reflections. Journal of Sociolinguistics, no. 3,
+pp. 267-275.
+Valéry P., 1957. OEuvres. Paris, Bibliotheque de la
+Pleiade. 1872 p.
+Varela F.J., Thompson E., Rosh E., 1993. The Embodied
+Mind: Cognitive Science and Human
+Experience. Massachusetts, MIT Press. 309 p.
+Vygotsky L.S., 1962. Thought and Language.
+Cambridge, Massachusetts, MIT Press. 168 p.
+Information About the Author
+Andrey S. Druzhinin, Candidate Sciences (Philology), Associate Professor, English Language
+Department no. 3, MGIMO University, Prosp. Vernadskogo, 76, 119454 Moscow, Russia,
+andrey.druzhinin.89@mail.ru, https://orcid.org/0000-0001-9971-4019
+Информация об авторе
+Андрей Сергеевич Дружинин, кандидат филологических наук, доцент кафедры англий-
+ского языка № 3,  Московский государственный институт международных отношений (универси-
+тет) МИД России, просп. Вернадского, 76, 119454 г. Москва, Россия, andrey.druzhinin.89@mail.ru,
+https://orcid.org/0000-0001-9971-4019

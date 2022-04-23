@@ -1,0 +1,2145 @@
+ 
+ 
+ 
+DOI 10.31912/rjano-2019.1.1 
+IGOR MEL’ČUK 
+Observatoire de linguistique Sens-Texte, Université de Montréal 
+(Canada, Montréal) 
+igor.melcuk@umontreal.ca 
+RUSSIAN U Y-A EST´/– X CONSTRUCTIONS 
+The paper considers the problem of choice between the construction U Y-a est´ Х lit. 
+‘At Y is X’ (with the form est´ of the verb BYT´ ‘be’) and the construction U Y-a Х lit. 
+‘At Y X’ (with the zero form of the verb BYT´). This choice is determined by the meaning to 
+be expressed, that is, practically it can be reduced to the choice of the corresponding one of 
+several verbs BYT´ ‘be’. As the first approximation, the starting meaning ‘Y is a semantic ac-
+tant of X’ (U IvanaY temperaturaХ / èkzamenХ / dvoe detejХ ‘At Ivan [high] tempera-
+ture / [an] exam / two kids’) is expressed by the verb BYT´II.3 and by the construction U Y-a 
+Х; the meaning ‘Y has Х’ (U IvanaY est´ dačaХ / special´nyj pomoščnikХ / vremjaХ ‘At Ivan is 
+[a] summer.house / [a] special assistant / time’) is expressed by the verb BYT´III.2 and by the 
+construction U Y-a est´ Х. The paper also presents the vocable BYT´, with 13 lexemes; five of 
+these, which participate in the constructions under analysis, are accompanied with full lexico-
+graphic descriptions. A series of particular cases is analyzed in which the choice of the appro-
+priate construction is complicated by additional conditions. Formal semantic rules for the 
+production of both constructions are supplied. 
+ 
+Keywords: Russian language, semantics, syntax, semantics-syntax interface, the verb 
+BYT´ ‘be’, zero form of the verb, constructions U Y-а est´/– Х 
+To Alëša, with love. 
+ 
+*U menja zavtra est´ trudnyj èkzamen 
+lit. ‘At me tomorrow is difficult exam’. = 
+‘I have a difficult exam tomorrow’. 
+My grandson Alex Blostein 
+This paper is written within the Meaning-Text framework; it is impossible to 
+explain here the notations and formalisms used. The reader is kindly referred to 
+[Mel’čuk 2012–2015]. 
+1. The problem stated 
+The scientific problem discussed in this paper arose, as is often the case, 
+from a very practical, down-to-earth difficulty: 
+ИССЛЕДОВАНИЯ
+________________ 
+Русский язык в научном освещении. № 1. 2019. С. 6–45. 
+Igor M e l’ č u k  
+8 
+How to explain to my nice grandchildren, speaking (sometimes halting) Russian, 
+when you have to say in Russian U Y-a est´ X ‘At Y is X’ and when U Y-a X 
+‘At Y X’, i. e., without an overt verb form? 
+ 
+As common wisdom has it, in different contexts, either only the est´-
+construction is correct — (1a), or only the no-overt-verb construction is — (1b), 
+or both constructions are correct with different meanings — (1c), or, finally, 
+both are correct with (roughly) the same meaning — (1d): 
+ 
+(1) a. U Ivana est´ èta kniga ‘At Ivan is this book’ = ‘Ivan has this book’. ~ 
+ 
+ *U Ivana èta kniga ‘At Ivan this book’. 
+ 
+NB: 1. Here and below, all example sentences are supposed to fit into a communica-
+tively neutral context — that is, to be uttered, among other things, with a 
+neutral declarative prosody (interrogative and exclamative sentences are ex-
+cluded from consideration). Thus: 
+  
+  
+➚ 
+➘ 
+ 
+(i) *U Ivana èta kniga ‘Ivan has this book’. 
+ 
+ 
+ 
+But the expression U Ivana èta kniga is correct, if ‘u Ivana’ is a Focalized 
+Rheme, as in an answer to the question Where could this book be?;1 for in-
+stance: 
+  
+ 
+ 
+(ii) U IvánaSem-RHEME, Focalized èta kniga ‘At Ivan this book’. ≈ ‘It is Ivan who 
+has this book’. 
+ 
+ 
+ 
+Sentence (ii) expresses a meaning different from that of sentence (1a): 
+(1a) speaks of Ivan and tells us that he has this book, while (ii) indicates that 
+the location of the book is ‘at Ivan’. 
+ 
+  
+➘ 
+➚ 
+➘ 
+ 
+(iii) U Ivana ètaRh-Focus kniga ‘At Ivan this book’. ≈ ‘Ivan has exactly this book’. 
+ 
+ 
+ 
+Sentence (iii) tells us that the book Ivan has is exactly this book — a meaning 
+that again is different from that of sentence (1a). 
+ 
+2. Since the present paper concentrates on the grammatical correctness of the 
+two constructions, our examples are lexically the simplest possible; therefore, 
+some of them do not sound quite natural out of context. 
+                                                        
+1 The Semantic Rheme of a sentence S is the part of the meaning ‘S’ (of this sen-
+tence) that the Speaker presents as stated by means of S; the Rhematic Focus is the 
+part of Sem-R that supplies the value of the unknown element in the underlying question 
+to which S can be an appropriate answer; Focalized is the part of the meaning ‘S’ that 
+the Speaker presents as logically prominent. For instance: 
+(i) 
+JohnSem-T was seen there last FridaySem-R. 
+  
+ Rh-F 
+(ii) 
+JohnSem-T was seen there  lást   FridaySem-R. 
+(iii) As for John, heSem-T, Focalized was seen there last FridaySem-R. 
+(iv) It was thereSem-R, Focalized that John was seen last FridaySem-T. 
+For more details, see [Mel’čuk 2001]. 
+Russian U Y-a est´/– X constructions 
+9 
+ 
+3. The asterisks in examples (1) are not mine: they correspond to the judgments 
+of grammaticality found in most publications on the U Y-a est´/– X construc-
+tions. It will be shown in this paper that the expressions under consideration 
+are ungrammatical only with respect to a given meaning. 
+ 
+ 
+b. U Ivana golubye glaza ‘At Ivan blue eyes’ = ‘Ivan has blue eyes’. ~ 
+ 
+ *U Ivana est´ golubye glaza. 
+ 
+ 
+c. (i) U Ivana est´ takoj nož ‘At Ivan is such knife’ = ‘Ivan has such a  
+ 
+   
+knife’. ~ 
+ 
+   
+*U Ivana takoj nož. 
+ 
+  (ii) Ostorožno, u Ivana nož ‘Careful, at Ivan knife’ = ‘Careful, Ivan has a  
+ 
+   
+knife’ [a warning]. ~ 
+ 
+   
+*Ostorožno, u Ivana est´ nož. 
+ 
+ 
+d. (i) U Ivana k tebe est´ vopros ‘At Ivan to you is question’ = ‘Ivan has a  
+ 
+   
+question for you’. ≡ 
+ (ii) U Ivana k tebe vopros ‘At Ivan to you question’ = ‘Ivan has a ques-
+tion for you’. 
+ 
+The literature concerning the two constructions is vast; I will mention only 
+four major titles: the pioneering studies [Селивёрстова 1973; 1990: 66 — 88; 
+Янко 2001: 309 — 326], and [Апресян В. 2017]. The works by Yanko and 
+V. Apresjan, which propose detailed and well illustrated analyses of the U Y-a 
+est´/– X constructions, together with a good presentation of the relevant knowl-
+edge and a complete bibliography, have been especially useful for me. In par-
+ticular, Yanko [Янко 2001] establishes the main semantic contrast between the 
+two constructions: roughly, “U Y-a X” means ‘Y is a participant of situation X’, 
+while “U Y-a est´ X” means ‘Y has at his disposal a useful X’; V. Apresjan 
+[Апресян В. 2017] supplies an exhaustive inventory of semantic classes of pos-
+sible Xs. I used many of Yanko’s and V. Apresjan’s examples and some of their 
+proposals and conclusions, while trying to make another step forward. 
+ 
+In a nutshell, the problem that this paper is intended to solve can be formu-
+lated as follows: 
+ 
+To state the formal rules necessary and sufficient to produce all and only cor-
+rect occurrences of both U Y-a est´/– X constructions. 
+ 
+Formally, both constructions I am interested in have the following surface-
+syntactic structure: 
+ 
+oblique-objectival
+ 
+ 
+U–prepositional→Y BYT´–subjectival→X 
+ 
+— The preposition U ‘at’, which is essential for these constructions, is se-
+mantically empty (= does not correspond to a semanteme): it is governed by the 
+corresponding verb BYT´ and does not appear in the deep-syntactic structure. 
+— Both constructions have to be examined in the present tense of the indica-
+tive mood, since in the past and future tenses, as well as in the subjunctive-
+Igor M e l’ č u k  
+10 
+conditional, all BYT´ verbs (see Subsection 2.2) have the same inflectional 
+forms: byl, byla, bylo, budu, budeš´, … Only in the present indicative is it possi-
+ble to tease them apart: some BYT´ verbs in some particular contexts feature the 
+zero lex ØBYT´, some use the lex est´, and still some other allow both lexes de-
+pending on the context. This difference is described by means of distinguishing 
+several BYT´ verbs: the U Y-a est´ X construction contains BYT´II.3, BYT´II.4 or 
+BYT´III.1, and the U Y-a X construction BYT´II.3, BYT´II.5 or BYT´III.2; the lexi-
+cographic definitions of these verbs will be given below, Subsection 2.2. 
+— X and Y can have various dependents, actants as well as modifiers, and 
+these dependents can be relevant for the grammaticality and pragmatic accept-
+ability of a given construction. Thus, *U Ivana sosed ‘At Ivan neighbor’ is in-
+correct for the meaning ‘Ivan has a neighbor’ (the correct expression: U Ivana 
+est´ sosed ‘At Ivan is neighbor’), while U Ivana novyj sosed ‘At Ivan new 
+neighbor’ = ‘Ivan has a new neighbor’ is impeccable. 
+— The U Y-a X construction should not be confused with a case of syntacti-
+cally induced ellipsis of the est´ form. Thus, in sentence (2), the clauses 2 and 3 
+feature the U Y-a est´ X construction that has undergone ellipsis: 
+ 
+(2)  [U menja est´ serdce]1, a [u serdca — pesnja]2, a [u pesni — tajna]3 
+ 
+‘At me is heart, and at heart song, and at song secret’ [a popular Soviet 
+tango of 1930s]. 
+ 
+Before we plunge into the heart of the matter, two warnings: 
+— The English glosses to Russian examples (throughout the paper) are 
+mostly literal. Several English words that correspond to one Russian word are 
+united by periods: budet ‘will.be’. 
+— My approach is strictly synthetic — from meaning to text. Therefore, if a 
+text T is supplied with the gloss ‘g’, this means that ‘g’ can be expressed by T, 
+not that ‘g’ is the only meaning of T. 
+2. Preparing the solution 
+2.1. Terms to avoid 
+In a study like the present one, the use of precise notions and, consequently, 
+precise terminology is vital. Therefore, first of all, the following three terms fre-
+quently used in the discussions of the U Y-a est´/– X constructions must be 
+banned, because of their misleading connotations: 
+•  The term *copula as applied to the verbs BYT´ ‘be’ found in the U Y-a 
+est´/– X constructions. The fact is that these BYT´ are by no means copulas! 
+(Several BYT´ verbs are, of course, copulas, but these do not appear in our 
+constructions; for an inventory of BYT´ lexemes, see Subsection 3.2) 
+•  The term *zero verb as applied to the absence of an overt verb form in the 
+U Y-a X construction. This construction contains not a *zero verb, but the 
+Russian U Y-a est´/– X constructions 
+11 
+zero form of one of the verbs BYT´ — namely, ØBYT´II.3, ØBYT´II.5 or 
+ØBYT´III.2, which are the present tense wordforms of the verbs BYT´II.3, 
+BYT´II.5 and BYT´III.2 (they are by no means zero verbs; on zero lexemes, 
+see [Mel’čuk 2006: 447 — 495]). 
+• The term *possessive construction as applied to both our constructions. The 
+notion of “possession” is semantically too vague to be used in this case. 
+Even the sentence U Ivana est´ èta kniga ‘At Ivan is this book’, which is 
+the closest example of “possession,” can be continued …, no ona emu ne 
+prinadležit ‘…, but it does not belong to him’. The semantic relation be-
+tween Y and X manifested in the constructions under analysis is not “pos-
+session,” but a very general and vague “involvement.” This meaning is 
+considered indecomposable — a semantic primitive; in our description it is 
+expressed by the semanteme ‘have’ (in Russian, it is ‘imet´sja’ ≈ ‘be.had’). 
+2.2. The verb BYT´ in Russian 
+A U Y-a est´/– X construction is controlled, as will be shown, by one of the 
+five lexemes of the verbal vocable BYT´ ‘be’: respectively, BYT´II.3, BYT´II.4, 
+BYT´II.5, BYT´III.1, and BYT´III.2. Therefore, it is necessary to present here a 
+short description of the vocable BYT´. This description has been elaborated on 
+the basis of Ju. Apresjan’s paper [Апресян 2014] (where a detailed characteriza-
+tion of syntactic, lexical-combinatorial, prosodic and morphological properties 
+of the different BYT´ is offered) — with some changes2. 
+                                                        
+2 Modifications made in this paper with respect to Ju. Apresjan’s [Апресян 2014] list: 
+• From Apresjan’s 16 BYT´ lexemes the following 9 are left out: 
+Byt´ 2.2 (On uže byl v dva časa ‘He already was [here] at two o’clock’.) is consid-
+ered to be a particular case of byt´ 2.1 ‘be.located (= our BYT´IV ‘be.located’). 
+Byt´ 4.2 and 4.4 (Bylo pjat´ časov ‘[It] was five o’clock’ and S nim beda ‘With him 
+accident’.) are considered to be particular cases of byt´ 4.3 ‘take place, happen’ 
+(= our BYT´II.2 ‘take place’). 
+Byt´ 5.1 (the inevitability of an event: Byt´ groze ‘To.be to.thunderstorm’ = 
+‘A thunderstorm will happen’.) is considered to be a particular manifestation of 
+the syntactic construction VINF→NDAT, which is available with many different 
+verbs (Vojne eščë gremet´ i pylat´ ‘The war will still be rumbling and flaming’ 
+or Žit´ im i žit´ ‘They will still live and live’.). BYT´ in this construction is 
+byt´ 4.3 ‘take place, happen’. 
+Byt´ 5.2 (the inevitability of a bad event: Nam kryška lit. ‘To.us kaput’ = ‘We are 
+done in’.) is considered to be a particular case of byt´ 1.1 (the copula; our 
+BYT´I.1), used as a light verb with such nouns as KRYŠKA ‘≈ kaput’, KAPUT 
+‘kaput’, KONEC ‘end’ or XANA ‘≈ kaput’. 
+Byt´ 5.3 and 5.4 — the lexical items BUDET (‘enough’, as in Enough crying!) — 
+are considered to be lexemes of a separate vocable BUDET (Budet s tebja 
+‘You’ve had enough’; Budet tebe plakat´ ‘Enough to.you to.cry’). 
+Byt´ 6.1 and 6.2 (BYT´ as an auxiliary) are also considered to be particular uses of 
+byt´ 1.1 (the copula; our BYT´I.1). 
+Igor M e l’ č u k  
+12 
+In the examples below, all BYT´ verbs are cited in the present tense of the in-
+dicative mood, since the problematic phenomena in the two constructions mani-
+fest themselves only in the present. For each lexeme of BYT´ its possible inflec-
+tional forms of the present tense are indicated — both in the default (= general) 
+case and in some special cases, that is, under special conditions, which are speci-
+fied in the corresponding lexical entry. The present tense BYT´ forms are: 
+ 
+1)  a zero form ØBYT´ 3 
+2)  est´ for both a singular and a plural subject 
+3)  est´/sut´ for a singular/plural subject, respectively 
+4)  budet, actually the future tense form of BYT´; it is used in a few specific 
+cases in the sense of the present, such as Dvaždy tri budet šest´ 
+‘Two.times three is [lit. ‘will.be’] six’. | A vy kto budete? ‘And you who 
+are [lit. ‘will.be’]?’ | V nëm 20 kilo budet ‘In it 20 kg is [lit. ‘will.be’]’ = 
+‘It weighs about 20 kilos’. This use is stylistically marked (colloquial). 
+ 
+These forms, except budet, are not conjugated by person: they are the same 
+for any person. Not all of them are possible for all verbs of BYT´: BYT´I.1 has 
+ØBYT´ and est´, BYT´I.2 and BYT´I.3 — ØBYT´ and est´/sut´, BYT´I.4 — ØBYT´ and 
+budet, etc. 
+The four wordforms above are suppletive lexes of the corresponding verbal 
+lexemes; the selection of the appropriate one is performed by deep-
+morphological rules, based on the information stored in the lexicographic entries 
+for the verbs BYT´. 
+Since an in-depth characterization of the BYT´ lexemes is far beyond the goal 
+of this paper, several important details are ignored. Thus, the use of the pronoun 
+ÈTO ‘it’ with some of the copulas, but not with the others — as, e. g., in 
+Romb — èto četyrëxugol´nik ‘Diamond it [is] quadrangle’ vs. *Ivan — èto vrač 
+‘Ivan it [is] doctor’ — is left out; see [Mel’čuk 2012]. 
+ 
+BYT´ ‘be’ 
+ 
+I. Copula 
+1. BYT´I.1 ‘X←1–Y’ [“X is Y”] 
+BYT´I.1 is semantically empty—that is, 
+its signified contains no semantemes; it 
+has no source in the starting semantic 
+Èta knigaX interesnajaY ‘This book in-
+teresting’. | KurenieX vrednoY ‘Smok-
+ing 
+harmful’. 
+| 
+Kurit´X 
+vrednoY 
+‘To.smoke harmful’. | IxX pjateroY 
+                                                                                                                                  
+• Six BYT´ lexemes are added: two copular lexemes (BYT´I.3 — BYT´I.4, based on 
+[Mel’čuk 2012]), three “existential” lexemes BYT´II.3 — BYT´II.5 and the “avail-
+ability” lexeme BYT´III.2 are introduced as a result of the present research.  
+• Apresjan’s lexicographic numbering of the lexemes inside the BYT´ vocable has 
+been changed in order to make the semantic bridges better visible. 
+3 Useful remarks about cooccurrence properties of BYT´ zero forms (different from 
+analogous properties of overt forms) are found in [Летучий 2013]. 
+Russian U Y-a est´/– X constructions 
+13 
+structure and is used to “verbalize” non-
+verbal semantically predicative lexemes 
+L(‘Y’). 
+The present tense form: 
+ØBYT´I.1; est´ under special conditions 
+〈*sut´〉. 
+‘Of.them five’ = ‘They are five’. | 
+IvanX, kak vsegda, bezY deneg ‘Ivan, 
+as always, without money’. | VesX 
+granitnoj plity — 40 tonnY ‘Weight 
+of.granit slab 40 tons’. | IvanuY kaputX 
+‘To.Ivan kaput’ = ‘Ivan is kaput’. | 
+Ivanu len´Y idtiX tuda ‘To.Ivan lazi-
+ness to.go there’ = ‘Ivan is too lazy to 
+go there’. 
+2. BYT´I.2 ‘X is.identical.to Y’ 
+The present tense form: 
+ØBYT´I.2; est´/sut´ under special conditions.
+ČelovekX u okna — IvanY ‘Маn at 
+window Ivan’. | Ètot čelovekX (i est´) 
+IvanY ‘This man (surely) is Ivan’. | 
+Edinstvennaja svjataja bor´baX — 
+bor´baY s dremotoj ‘Only holy fight 
+fight against sleepiness’. | Naša 
+edinstvennaja nadeždaY — IvanX ‘Our 
+only hope Ivan’. 
+3. BYT´I.3 ‘X is.an.element.of class Y’
+Syn: JAVLJAT´SJA ‘be’ 
+The present tense form: 
+ØBYT´I.3; est´/sut´ under special conditions.
+IvanX — filosofY ‘Ivan philosopher’. | 
+KnigaX sprava — učebnikY ispanskogo 
+‘Book 
+on.the.right 
+textbook 
+of.Spanish’. | Tak kak rombX –/est´ 
+parallelogramY, to… ‘Since diamond 
+Ø/is parallelogram, …’ | KityX –/sut´ 
+mlekopitajuščie 
+životnyeY 
+‘Whales 
+Ø/are mammals’. | BoksX — diskus-
+sijaY s očen´ veskimi argumentami 
+‘Box discussion with very weighty 
+arguments’. 
+4. BYT´I.4 ‘X is.equivalent.to Y’ 
+The present tense form: 
+ØBYT´I.4; the future tense form budet is 
+used under special conditions. 
+“Window”X 
+po-russki 
+Ø/budet 
+“okno”Y 
+‘Window 
+in.Russian 
+Ø/will.be okno’. | DvaX pljus dva 
+Ø/budet četyreY ‘Two plus two 
+Ø/will.be four’. 
+5. BYT´I.5 ‘Y’s age.is X’ 
+The present tense form: 
+ØBYT´I.5; est´ under special conditions 
+〈*sut´〉. 
+IvanuY sorok letX ‘To.Ivan 40 years’ = 
+‘Ivan is 40 years old’. 
+II. Existence 
+6. BYT´II.1 ‘entity X exists [in the  
+world]’
+[“there is/are X(s)”] 
+Syn: SUŠČESTVOVAT´ ‘exist’; 
+IMET´SJA ≈ ‘be.present’, ‘be.had’ 
+(Est´) svežee pivoX ‘(Is) fresh beer’. | 
+V džungljax (est´) opasnye xiščnikiX 
+‘In jungle (is) dangerous predators’. | 
+V AfrikeY (est´) akulyX, v AfrikeY (est´) 
+gorillyX! ‘In Africa (is) sharks, in Af-
+Igor M e l’ č u k  
+14 
+The present tense form: 
+est´ 〈*sut´〉; ØII.1 under special conditions.
+rica (is) gorillas!’ | Est´ eščë na svete 
+poezdaX! ‘Is still in world trains!’ | 
+Ved´myX 
+vsë-taki 
+est´! 
+‘Witches 
+by.all.means is!’ = ‘… exist!’ | Est´ 
+eščë poroxX v poroxovnicax! ‘Is still 
+powder in powder.boxes!’ 
+7. BYT´II.2 ‘situation X exists’ 
+[“X takes place”] 
+Syn: ˹IMET´ MESTO˺ ‘take.place’ 
+The present tense form: 
+ØBYT´II.2; est´ under special conditions 
+〈*sut´〉. 
+Pjat´ časovX ‘5 o’clock’ 〈Bylo/Budet 
+pjat´ časov ‘It was/will.be 5 o’clock’〉. 
+| ZimaX ‘Winter’ [Ivan skazal, čto sej-
+čas zima ‘Ivan said that now winter’.] 
+8. BYT´II.3 ‘X–ρi→Y’ 
+[“X has Y as an actant”] 
+BYT´II.3 is semantically empty:  
+it expresses no semantemes. 
+ 
+The present tense form: 
+ØBYT´II.3; est´ under special conditions 
+〈*sut´〉. 
+U IvanaY grippX ‘At Ivan flu’. | U Iva-
+naY zavtra èkzamenX ‘At Ivan tomor-
+row exam’ [either Ivan is an examiner 
+or an examinee]. | U IvanaY molodaja 
+mat´X ‘At Ivan young mother’. | 
+U domaY dve dveriX ‘At house two 
+doors’. | U IvanaY slabye myšcyX 
+‘At Ivan weak muscles’ [Ivan’s mus-
+cles are weak].  
+9. BYT´II.4 ‘entities X–ρi→Y, some of 
+Xs being Z’ 
+BYT´II.4 is semantically almost empty (like 
+BYT´II.3), adding to ‘X’ the semanteme 
+‘some.of [Xs]’ and a constraint on actant X 
+(‘entities’). 
+Syn: IMET´SJA ‘be.had’ 
+The present tense form: 
+est´ 〈*sut´〉. 
+U IvanaY est´ slabyeZ myšcyX ‘At Ivan 
+is [some] weak muscles’ [some of 
+Ivan’s muscles are weak]. | U ètoj knigiY 
+est´ mjatyeZ stranicyX ‘At this book is 
+[some] crumpled pages’.  
+10. BYT´II.5 ‘situation X or a situation 
+that involves X affects Y’ 
+The present tense form: 
+ØBYT´II.5 
+U IvanaY zavtra èkzamenX syna 
+‘At Ivan tomorrow [his] son’s exam’. | 
+U IvanaY zavtra MašaX ‘At Ivan to-
+morrow Masha’ [an event involving 
+Masha that affects Ivan will take place 
+tomorrow]. 
+III. Availability 
+11. BYT´III.1 ‘X useful.to Y is.had.by 
+Y’ 
+ Syn: IMET´SJA ‘be.had’ 
+The present tense form: 
+est´ 〈*sut´〉. 
+U IvanaY est´ domX za gorodom ‘At 
+Ivan is house in country’. | Est´ u nasY 
+eščë doma delaX! ‘Is at us still at.home 
+business!’ | U domaY est´ dve dveriX 
+‘At house is two doors’. | U ètoj 
+raketyY est´ kryl´jaX ‘At this missile is 
+Russian U Y-a est´/– X constructions 
+15 
+wings’. | U IvanaY est´ krasivyj gal-
+stukX ‘At Ivan is beautiful tie’ [some-
+where in a closet]. | U IvanaY est´ gde 
+žit´X ‘At Ivan is where to.live’. | A u 
+Ivana est´ Maša ‘And at Ivan is Masha’. 
+12. BYT´III.2 ‘X useful.to or usable.by 
+Y is.had.by Y, Y handling X at the 
+moment of speech or the moment spe-
+cified in speech’ 
+The present tense form: 
+ØBYT´III.2. 
+Smotri, u IvanaY kamen´X ‘Watch.out, 
+at Ivan rock’. | U IvanaY krasivyj 
+galstukX ‘At Ivan beautiful tie’ [he is 
+wearing it]. | — Da u rebënka nožnicy 
+v rukax! ‘But at child scissors in hands!’ 
+IV. Location 
+13. BYT´IV ‘X is.located.in Y’ 
+Syn: NAXODIT´SJA ‘be.located.in’ 
+The present tense form: 
+ØBYT´IV. 
+DetiX s utra na ozereY ‘Kids from 
+morning at lake’. | RekaX Xingu — 
+v BraziliiY ‘Xingu River in Brazil’. | 
+U IvanaY sejčas MašaX ‘At Ivan now 
+Masha’. 
+ 
+Comments 
+1. The vocable BYT´ features four lexeme groupings: I. copula, II. existence, 
+III. availability, and IV. location; this is a fairly traditional set. The lexeme 
+BYT´I.1 is semantically empty, and the lexemes BYT´II.1, BYT´III.1 and BYT´IV 
+express semantic primitives (which agrees with Anna Wierzbicka’s views — 
+see, for instance, [Goddard, Wierzbicka 2014: 12]: 
+BYT´I.1: ‘X←1–Y’ | BYT´II.1: ‘X exists’ | BYT´III.1: ‘X is.had.by Y’ 4 |  
+BYT´IV: ‘X is.located.in Y’ 
+This fact allows me to include these lexemes in one vocable (together with 
+all other BYT´ verbs): even if there are no explicit semantic bridges between 
+them, formally — syntactically and morphologically — they are closely related. 
+2. The lexeme BYT´I.1 — the pure copula — verbalizes non-verbal semanti-
+cally predicative lexemes; DSynt-actant II [⇔ ‘Y’] of the verb BYT´I.1 must be a 
+genuine semantic predicate. BYT´I.1 also describes the grammatical (as an auxil-
+iary verb) and semi-grammatical (as a support verb) uses of BYT´: 
+ — BYT´ as an auxiliary in the passive. For instance, Dom ØBYT´I.1/byl/budet 
+postroen ‘The house is/was/will.be built’ and in the imperfective future tense My 
+budemBYT´I.1 stroit´ dom ‘We will.be building the house’. 
+ — BYT´ as a support (= light) verb with predicative adverbs of the type 
+MOŽNO ≈ ‘is.possible’ or XOLODNO ≈ ‘is.cold’. For instance, Možno vojti? 
+‘[Is it] possible to.go.in?’, with the surface-syntactic structure including an 
+empty zero dummy subject Ø(neu,sg)
+empty  ≈ ‘it’: 
+Ø(neu,sg)
+empty  ←subjectival–BYT´I.1–copular-attributive-objectival→MOŽNO 
+                                                        
+4 BYT´III.1 also expresses the semanteme ‘useful [to X]’. 
+Igor M e l’ č u k  
+16 
+Or else, Ivanu xolodno ‘To.Ivan cold’ = ‘Ivan is cold’, with the surface-syntactic 
+structure 
+ 
+Ø(neu,sg)
+empty  ←subjectival–BYT´I.1–copular-attributive-objectival→XOLODNO 
+–indirect-objectival→IVAN 
+ 
+In this construction, BYT´I.1 acquires additional DSynt-actant III (the Experi-
+encer), which comes from its copular objectival attribute — MOŽNO or 
+XOLODNO; this DSyntA III is implemented as the dative indirect object of 
+BYT´I.1. (For the zero dummy subject, see [Mel’čuk 2006: 477 — 478], and for 
+the cop-attr-obj SSyntRel, [Mel’čuk 2015: 92 — 93].) 
+3. The lexeme BYT´IV expresses the semantic primitive ‘X is.located.in Y’, 
+which specifies the physical spatial coordinates Y of X. BYT´IV is also readily 
+used as a support verb with the names of states, processes, etc.: Dom 
+ØBYT´IV/byl/budet na stadii zaveršenija ‘The house is/was/will.be on stage 
+of.completion’. | Ivan ØBYT´IV/byl/budet v obmoroke ‘Ivan is/was/will.be in 
+deep.syncope’. | Ivan ØBYT´IV/byl/budet za nemedlennyj ot´´ezd ‘Ivan is/was/will.be 
+for immediate departure’. 
+2.3. Not to be confused with 
+The following three constructions sufficiently resemble the U Y-a X con-
+struction, in particular because they always can be expanded by a preposed 
+U→NGEN phrase. However, all the three are communicatively and syntactically 
+different from the U Y-a X construction and are excluded from our analysis. 
+ 
+• Qualificative construction 
+ 
+X BYT´I.1 Y ‘X←1–Y‘property’’ [“X has property Y”]: 
+Mama sovsem molodaja ‘Mom quite young’. 
+ 
+Adding the U→NGEN phrase to a qualificative construction, we obtain, for in-
+stance, (3): 
+ 
+ 
+  
+ 
+ 
+(3)  [U Ivana mamaX  ]Sem-T  ØBYT´I.1 sovsem molodajaY ‘At Ivan mom quite  
+ 
+young’ = ‘Ivan’s mom is quite young’. 
+ 
+In (3), the semantic Theme [Sem-T] is ‘Ivan’s mom’. The phrase u Ivana does 
+not syntactically depend on BYT´I.1, as it does in the U Y-a X construction, but 
+on the noun MAMA ‘mom’, being its Possessor Attribute (see [Iordanskaja, Mel’-
+čuk 1995]; for the possessive U N1
+GEN N2 construction, see [Крейдлин 1979] 5). 
+                                                        
+5 Even if this has no direct relation to our topic: among other things, Krejdlin 
+[Крейдлин 1979] formulates series of constraints on the use of the U→NGEN as Posses-
+sive Attribute, such as the impossibility of the U→NGEN phrase with a noun modified by a 
+qualifying adjective: 
+(i)  a. Eë glaza sijali ‘Her eyes were shining’. 
+~ 
+  
+ Glaza u neë sijali ‘Eyes at her were shining’. 
+Russian U Y-a est´/– X constructions 
+17 
+In other words, the semantically equivalent phrases u Ivana mama ≡ mama u 
+Ivana both mean ‘Ivan’s mom’; such phrases are not considered in this paper. 
+ Sentence (4), semantically fairly close to (3), is communicatively and syn-
+tactically quite different: 
+   
+ 
+ 
+(4) [U IvanaY]Sem-T ØBYT´II.3 sovsem molodaja mamaX ‘At Ivan quite young  
+mom’ ≈ 
+ 
+‘Ivan has a quite young mom’. 
+ 
+Sentence (4) represents the U Y-a X construction. It does not state that Ivan’s 
+mom has the property of being very young, but states something about Ivan — 
+namely, that he is in the situation of having a quite young mother 6. In (4), the 
+semantic Theme of the sentence is ‘Ivan’, while the meaning ‘Ivan’s mom’ is 
+part of the semantic Rheme. 
+ 
+• Existential construction 
+ 
+(PREP(loc) Y) BYT´II.1 X ‘(PREP(loc)) Y there.is X’: 
+V ètoj kvartire est´ gaz/ljudi ‘In this apartment [there.]is gas [gas cooking]/  
+people’. 
+ 
+The U→NGEN phrase can be readily added also to this construction: 
+ 
+ 
+  
+(5)  U Ivana v→kvartire est´→gaz 〈ljudi〉 
+ 
+‘At Ivan in apartment is gas 〈people〉’ = ‘In Ivan’s apartment there is 
+gas 〈there are people〉’. 
+                                                                                                                                  
+ 
+b.  Eë golubye glaza sijali ‘Her blue eyes were shining’.  ~  
+  
+ 
+ 
+*Golubye glaza u neë sijali ‘Blue eyes at her were shining’. 
+The presence of a restrictive modifier does not preclude the U→NGEN as Possessive 
+Attribute: 
+(ii) Eë levaja ruka drožala ‘Her left hand was trembling’. 
+~ 
+ 
+Levaja ruka u neë drožala ‘Left hand at her was trembling’. 
+6 The situation with this construction is in fact more complex. If sentence (4) is ne-
+gated, the result is the negation of the property ‘being that young’: 
+(i)  Nepravda, mat´ u Ivana sovsem ne takaja molodaja  
+ 
+‘Not true, Ivan’s mother is not that young’. 
+At the same time, the negation of (ii) produces (iii) or (iv): 
+(ii)  U Ivana šikarnaja dača ‘At Ivan luxurious summer.house’. 
+(iii) Nepravda, u Ivana net nikakoj šikarnoj dači  
+ 
+‘Not true, at Ivan no any luxurious summer.house’. 
+(iv) Nepravda, dača u Ivana sovsem ne takaja šikarnaja  
+ 
+‘Not true, Ivan’s summer.house is not that luxurious’. 
+However, it is impossible to discuss here the problem of the scope of negation in the 
+constructions under analysis. 
+Igor M e l’ č u k  
+18 
+But in (5), just as in (3), the phrase u Ivana is a Possessive Attribute of kvar-
+tira — not our cup of tea. 
+ 
+• Locative construction 
+ 
+X BYT´IV PREP(loc) Y ‘X is.located PREP(loc) Y’: 
+Naša mebel´ na čerdake ‘Our furniture in attic’. 
+ 
+Consider sentences (6) with U→NGEN phrases: 
+ 
+(6) a. Naša mebel´ u Ivana na čerdake ‘Our furniture is at Ivan in attic’ = 
+‘…in Ivan’s attic’. 
+ 
+b. Naša mebel´ u Ivana ‘Our furniture is at Ivan’s.place’. 
+ 
+c. Naša mebel´ u Ivana, na čerdake ‘Our furniture is at Ivan’s.place, in 
+the attic’.  
+ 
+(6a) contains the free phrase U→NGEN ‘at N’, playing the role of a Possessor At-
+tribute (‘at Ivan in attic’ = ‘in Ivan’s attic’) — as in (5). (6b) contains the syntac-
+tic idiom ˹U→NGEN˺ ‘at N’s place’; this is not the free U→NGEN phrase discussed 
+in this paper, but a locative actant of the verb BYT´IV. Finally, (6c) features two 
+pseudo-coordinate locative phrases, the first being the syntactic idiom 
+˹U→NGEN˺, and the second a semantic elaboration of the first. The idiom 
+˹U→NGEN˺ is of course ignored in what follows. Thus, such sentences as U Ivana 
+est´ gaz ‘At Ivan’s [there.]is gas’, Maša sejčas u Ivana ‘Masha now at Ivan’s’, 
+etc. will not be considered. 
+ 
+NB: The borderline between the existential and the locative constructions is rather 
+murky, so that fairly often it is difficult to tell one from the other. However, 
+for the present paper, this fact is irrelevant. 
+2.4. The importance of the communicative structure 
+Both the U Y-a est´/– X constructions are linked in an essential way with the 
+semantic-communicative structure [Sem-CommS] of the corresponding utterance. 
+On the one hand, the central fact here is as follows: Communicatively, the 
+meaning ‘Y’ is always (a part of) the Sem- (and the Synt-)Theme of the sentence 
+produced, but syntactically it is realized not as DSynt-actant I of the BYT´ verb 
+that controls the U Y-a est´/– X construction. For Russian, the preferred way of 
+expressing the Sem-Theme is by DSyntA I (and the SSynt-Subject). However, 
+in the U Y-a est´/– X constructions the Sem-Theme ‘Y’ is syntactically imple-
+mented not as DSyntA I and the surface subject, but as DSyntA II, turned on the 
+surface into an oblique object. For this reason, the lexicographic definitions of 
+the BYT´ lexemes that participate in the U Y-a est´/– X constructions are formu-
+lated “against the communicative current,” which is normally not done: these 
+definitions start not with the Sem-Theme ‘Y’, but with ‘X’, which corresponds 
+to DSyntA I, but does not express the Sem-Theme. 
+On the other hand, the choice of the surface present tense form est´ of the 
+verb BYT´II.3 over its zero form in several cases is conditioned by the Focalized 
+character of the meaning involved. 
+Russian U Y-a est´/– X constructions 
+19 
+3. The solution 
+3.1. Preliminary remarks 
+A solution to the problem stated above (the end of Section 1) is based on the 
+following two postulates:  
+•  The question to be answered is exclusively “How to say this?”, rather than 
+“How is this understood?”. Everything linked to the understanding or inter-
+pretation of the constructions under analysis is avoided.  
+•  The description proceeds from a given meaning to the corresponding 
+text(s). The problem of constructing an appropriate meaning for a given 
+situation is not discussed. 
+ 
+In addition, two fundamental observations have to be insisted upon. 
+ 
+Observation 1 
+All sentences implementing both the U Y-a est´/– X constructions that are 
+marked as ungrammatical in numerous publications are in fact syntactically 
+and morphologically absolutely correct. What is wrong with them is that they 
+express an inappropriate meaning — a meaning that does not correspond to 
+the situation being described. 
+ 
+But the production, for a given situation, of a correct linguistic meaning to be 
+expressed is not part of a linguist’s preoccupations (we are supposed to only 
+deal with а correct expression of a given meaning). 
+Here are three hackneyed examples of “ungrammatical” variants of the U Y-a 
+est´/– X constructions, accompanied by parallel examples which demonstrate 
+that in an appropriate context — that is, corresponding to an appropriate mean-
+ing — the problematic expressions are fully grammatical. 
+ 
+(7) a. *U Ivana est´ xorošaja doč´ ‘At Ivan is good daughter’ = ‘Ivan has a 
+good daughter’. 
+  
+b. Dlja ètogo u Ivana est´ xorošaja doč´, kotoruju možno pozvat´ na po-
+mošč´ 
+ 
+ 
+‘For this at Ivan is good daughter, whom is.possible to.call for help’. 
+(8) a. *U Ivana est´ gripp ‘At Ivan is flu’ = ‘Ivan has flu’. 
+  
+b. Razrešenija ujti u Ivana net, zato u nego est´ gripp, na kotoryj on možet 
+soslat´sja 
+ 
+ 
+‘Permission to.leave at Ivan is.not, yet at him is flu, which he can pre-
+text’. 
+(9) a.  ii(i)  ?U Ivana est´ familija ‘At Ivan is family.name’. 
+ 
+ 
+i(ii)  *U Ivana familija ‘At Ivan family.name’. 
+ 
+ 
+(iii)  *U Ivana est´ russkaja familija ‘At him is Russian family.name’.  
+ 
+b.  i (i)  Dlja ètogo u Ivana est´ familija i svjazi 
+ 
+ 
+ 
+‘For this at Ivan is family.name and connections’. 
+ 
+ 
+i(ii)  U vsex svoi problemy, u Ivana — familija 
+ 
+ 
+ 
+‘At everybody own problems, at Ivan family.name’. 
+Igor M e l’ č u k  
+20 
+ 
+ 
+(iii)  Dlja ètogo u Ivana est´ russkaja familija i pravil´nye znakomstva 
+ 
+ 
+ 
+‘For this at Ivan is Russian family.name and right acquaintances’. 
+ 
+Before proceeding, let me insist on the following universally known, but of-
+ten forgotten fact: 
+ 
+Generally speaking, the asterisk “ *,” this symbol of ungrammaticality, indi-
+cates not only morphological and/or syntactic incorrectness, but marks as 
+well linguistic expressions incorrect — i. e. ungrammatical — only with 
+respect to a given meaning. 
+ 
+An expression *L̃(‘σ’) either may be incorrect morphologically and/or syn-
+tactically, or else it may be morphologically and syntactically perfect, but inap-
+propriate for the meaning ‘σ’. It is the latter case that is typical of the ungram-
+maticality of the Russian expressions having the U Y-a est´/– X form. In point of 
+fact, it proved impossible to find an example where one of the U Y-a est´/– X 
+constructions is absolutely ungrammatical: it is only semantically ungrammati-
+cal, because it does not correspond to the intended meaning. Create an appropri-
+ate context, and this construction turns out fully acceptable. 
+ 
+Next, consider the second fundamental fact. 
+ 
+Observation 2 
+The grammaticality of the U Y-a est´/– X constructions is not fully deter-
+mined by their lexical “filling”: the meaning and other properties of the ex-
+pression X are not crucial, even if they are quite relevant on many occasions 
+(all semantically essential properties of possible Xs are considered in [Апре-
+сян 2017]). In order to ensure a grammatical use of these two constructions it 
+is necessary that the meaning to express and the corresponding verb BYT´ be 
+selected in an appropriate way. 
+ 
+The U Y-a BYT´ X constructions differ only by the lexemes of the verb BYT´; 
+therefore, our problem can be reduced to the lexicographic descriptions of these 
+lexemes BYT´ and the choice of the BYT´ verb corresponding to the given meaning. 
+3.2. Lexicographic description of the relevant verbs BYT´ 
+3.2.1. S e m a n t i c  c o n t r a s t s  b e t w e e n   
+t h e  r e l e v a n t  v e r b s  B Y T ´  
+Considering pairs of semantically contrasting sentences with one of the U Y-a 
+est´/– X constructions, we can isolate semantic components present in the defini-
+tions of the five BYT´. 
+ 
+“Utilitarian” character of BYT´III.1 [Янко 2001] 
+Let me begin with sentences (10), where both X and Y are instantiated by 
+human proper names; these have no meaning of their own and thus contribute 
+nothing to the meaning of the construction: 
+ 
+(10) a. U IvanaY est´BYT´III.1 MašaX ‘At Ivan is Masha’. 
+Russian U Y-a est´/– X constructions 
+21 
+ 
+b.  U IvanaY Ø BYT´II.5 
+MašaX ‘At Ivan Masha’. 
+ 
+ [My ljudi svobodnye, a u Ivana — Maša ‘We are free people while 
+Ivan has Masha’.] 
+ 
+Sentence (10a) can be continued … i poètomu on možet mnogo rabotat´ 
+〈sovsem ne rabotat´〉 ‘… and therefore he can work a lot 〈not work at all〉’, but the 
+continuation ?… i poètomu on vynužden mnogo rabotat´ 〈sovsem ne rabotat´〉 
+‘… and therefore he has.to work a lot 〈not work at all〉’ does not sound right: 
+in the U Y-a est´ X construction, X is presented as an entity that somehow is 
+“usable” by Y, since X enables Y to do what Y is supposed/intends to do. At the 
+same time, sentence (10b) readily admits both continuations: it is less specific; 
+here, X denotes any situation concerning Y one way or another. The comparison 
+of the two sentences allows us to conclude that BYT´III.1 denotes the availability 
+of an entity X that is somehow positive for Y, while BYT´II.5 is about a fact X, 
+or a situation, that affects Y. (‘Masha’ in (10b) refers to an unspecified situation 
+of which Masha is a participant.) This conclusion is corroborated by (11), where 
+both X and Y denote inanimates: 
+ 
+(11) a.  U ètoj bajdarkiY est´BYT´III.1 mačtaX ‘At this kayak is mast’. 
+ 
+b. U ètoj bajdarkiY Ø BYT´II.3 
+mačtaX ‘At this kayak mast’. 
+ 
+Sentence (11a) can be continued by … tak čto možno ispol´zovat´ parus ‘… 
+so that a sail can be used’, but not by ?... tak čto ona ne projdët pod nizkim mo-
+stom ‘… so that it won’t pass under a low bridge’; (11b) allows for both con-
+tinuations. These observations correspond to Yanko’s statement [Янко 2001: 
+310] that the constructions under analysis differ as follows: the U Y-a est´ X 
+construction denotes the existence of an entity that is somehow available to Y. 
+(Yanko calls this BYT´ “utilitarian.”) In contrast, the U Y-a X construction de-
+scribes, in Yanko’s words, “a current phenomenon Х of the world,” to which Y 
+is related (in our terms, the situation of which Y is a participant). 
+The pairs of sentences in (12)–(13), where the est´ form is used, confirm 
+what we already know: 
+ 
+(12) a. U IvanaY est´BYT´III.1 MašaX ‘At Ivan is Masha’. [= (10a)] 
+ 
+b. U IvanaY est´BYT´II.3 vragiX ‘At Ivan is enemies’. 
+(13) a. U ètoj bajdarkiY est´BYT´III.1 mačtaX ‘At this kayak is mast’. [= (11a)] 
+ 
+b. U ètoj bajdarkiY est´BYT´II.3 proboinyX ‘At this kayak is holes’. 
+ 
+Both (12a) and (13a) state that there is X available to Y — that is, X “useful” 
+for Y; these sentences include BYT´III.1. However, X in (12b) and (13b) X is not 
+at all “useful” for Y — this BYT´ is not utilitarian in Yanko’s sense; these sen-
+tences contain BYT´II.3, implemented by the est´ variant of its present tense 
+form (est´ vragi is obtained by special case 3.2) or 3.3), and est´ proboiny by 
+special case 5.2) in the lexicographic entry for BYT´II.3, p. 23). 
+The result: the semantic component ‘useful’ has to be introduced into the 
+definition of the verb BYT´III.1; the verbs BYT´II.3 and BYT´II.5 do not need this 
+Igor M e l’ č u k  
+22 
+type of component. The contrast of verbs BYT´II.3 vs. BYT´III.1 is well illustrated 
+by E. Savvina’s example: 
+ 
+(14) a.  U Ivana vyxodnoj ‘At Ivan day.off’ = ‘It’s Ivan’s day off’. 
+ 
+b. U Ivana est´ vyxodnoj(, čtoby s”ezdit´ k materi) 
+ 
+ ‘At Ivan is day.off to go.see mom’ = ‘Ivan has a day off to go and see 
+his mom’. 
+ 
+ “Partial” character of BYT´II.4 [Селивёрстова 1973] 
+Sentences in (15) indicate the necessity of the semantic component ‘some of 
+[Xs are Z-y]’ in the definition of BYT´II.4: 
+ 
+(15) a.  U IvanaY ØBYT´II.3 sedye volosyX ‘At Ivan white hairs’ =  
+ 
+ 
+‘Ivan has white hair’ or ‘Ivan has white hairs’. 
+ 
+ 
+The form volosy is ambiguous between VOLOSY(pl. tantum) ‘[the] hair’ 
+and VOLOSPL [‘hairs’]. 
+ 
+b. U IvanaY est´BYT´II.4 sedye volosyX ‘At Ivan is white hairs’ = ‘Ivan has 
+some white hairs’. 
+ 
+“Actual” character of BYT´III.2 [Апресян 1995: 523] 
+And, finally, the contrast seen in (16) allows us to introduce another seman-
+tic component — ‘Y is handling X at the moment of speech or the moment 
+specified in speech’; it is covered by the verb BYT´III.2: 
+ 
+(16) a. U IvanaY est´BYT´III.1 nožX 
+ 
+ 
+  ‘At Ivan is knife’ [somewhere — maybe in his pack or at home]. 
+ 
+b. U IvanaY ØBYT´III.2 nožX  
+ 
+  ‘At Ivan knife’ [in his hand; this sentence is a typical warning]. 
+ 
+Now I am in a position to propose the lexical entries for our five verbs BYT´. 
+ 
+3.2.2. L e x i c a l  e n t r i e s  f o r  t h e  f i v e  v e r b s  B Y T´:   
+B Y T´ I I . 3 - 5  a n d  B Y T´ I I I . 1 - 2  
+BYT´II.3 
+ 
+Definition 
+U Y-a X:  ‘situacija X–ρi→Y Sem-T [“X imeet Y aktantom ρi”]’ =  
+ 
+‘situation X–ρi→Y Sem-T [“X has Y as actant ρi”] 
+BYT´II.3 ∈ Funci(L(‘X’)) 
+ 
+Comments 
+1. ‘X’ denotes a situation — that is, either a fact or an entity inherently in-
+volved in a fact. To put it differently, ‘X’ is a predicate or a quasi-predicate, 
+while ‘Y’ can be anything: either a (quasi-)predicate or a semantic name: 
+U ètogo želanijaY — otčëtlivye konturyX ‘At this desire clear-cut contours’ 
+(‘Y’ is a predicate), U ètoj stat´iY mnogo nedostatkovX ‘At this paper many 
+Russian U Y-a est´/– X constructions 
+23 
+drawbacks’ (‘Y’ is a quasi-predicate), or U IvanaY — golubye glazaX ‘At Ivan 
+blue eyes’ (‘Y’ is a semantic name). 
+2. ‘Y’ is the communicatively dominant node of the Semantic Theme of the 
+meaning to be expressed, the rest of this meaning being the Semantic Rheme 
+(and maybe the Semantic Specifiers). ‘Y’ plays the same role in all definitions 
+of the lexemes BYT´ below. 
+3. ρi = 1, 2, 3: U Ivana èkzamen ‘At Ivan exam’ (‘Ivan←1–exam’ or 
+‘Ivan←2–exam’: kto1 èkzamenuet kogo2); U Ivana prikaz ‘At Ivan order’ 
+(‘Ivan←3–order’: kto1 prikazyvaet čto2 komu3). 
+4. The verb BYT´II.3 appears as an element of the value of the lexical func-
+tion Funci applied to L(‘X’). 
+ 
+Government Pattern 
+X ™ I 
+Y ™ II 
+–subj→NNOM 
+oblig 
+–obl-obj→U NGEN 
+oblig 
+ 
+U IvanaY goreX ‘At Ivan misfortune’. | U IvanaY gripX ‘At Ivan flu’. | U Iva-
+naY žaždaX ‘At Ivan thirst’. | U IvanaY est´ drugX ‘At Ivan is friend’. | U IvanaY 
+est´ terpenieX ‘At Ivan is patience’. 
+ 
+Morphology 
+The present tense form is: 
+In the general (= default) case — ØBYT´II.3: U IvanaY durnoe nastroenieX ‘At 
+Ivan Ø bad mood’ = ‘Ivan is in a bad mood’. | U ètogo veščestvaY sladkij vkusX 
+‘At this substance sweet taste’. | U IvanaY vesnuškiX ‘At Ivan freckles’. | U Iva-
+naY problemyX na rabote ‘At Ivan problems at work’. 
+In a special case — est´BYT´II.3 (for both numbers of the subject 〈*sut´〉): 
+U IvanaY est´ problemyX na rabote ‘At Ivan is problems at work’. | U ètogo 
+gazaY est´ cvetX ‘At this gas is color’. 
+ 
+Special cases 
+ 
+■ Est´ is obligatory 
+ 
+Independently of X’s meaning (= for all Xs) 
+1.  BYT´II.3 expresses the Rhematic Focus (see Footnote 1): 
+ 
+  
+➚ 
+ ➘ 
+ 
+Uvy, u IvanaY est´Rhem-F rakX ‘Sorry, Ivan does have cancer’. 
+2.  BYT´II.3PRES is conjoined with BYT´II.3PAST/FUT: 
+ 
+U IvanaY byli i do six por est´ furunkulyX ‘Ivan had and still has boils’. 
+ 
+Depending on X’s meaning (= only for some Xs) 
+3. ‘X’: either 3.1) X is an inherent characteristic of Y, 
+or 3.2) X is something external with respect to Y — that is, nei-
+ther a property/state nor a regular part of Y, 
+or 3.3) ‘Y’ is SemA 2 of ‘Х’; 
+Igor M e l’ č u k  
+24 
+and L(‘X’) has no modifier (“modifier” must be understood here 
+quite liberally — anything that depends on L(‘X’) in the deep-
+syntactic structure by the DSyntRel ATTR): 
+ 
+1) U IvanaY est´BYT´II.3/*ØBYT´II.3 xarakterX ‘At Ivan is/*Ø character’ = ‘Ivan 
+has a strong character’. 
+vs. 
+ 
+U IvanaY *est´BYT´II.3/ØBYT´II.3 sil´nyj xarakterX ‘At Ivan *is/Ø strong character’ 7. 
+2) а. U IvanaY est´BYT´II.3/*ØBYT´II.3 vozmožnost´X pomoč´ nam ‘At Ivan is/*Ø 
+possibility to.help us’. 
+ 
+b. U IvanaY est´BYT´II.3/*ØBYT´II.3 koronkiX ‘At Ivan is/*Ø crowns [on teeth]’. 
+3) U ètix sobytijY est´BYT´II.3/*ØBYT´II.3 svideteliX ‘At these events is/*Ø wit-
+nesses’ [‘events←2–witnesses’]. 
+ 
+■ Est´ is possible 
+4. ‘X’: either 4.1) X is a mental phenomenon [of Y], 
+or 4.2) X is neither a property/state nor a regular part of Y, 
+or 4.3) ‘Y’ is SemA 2 of ‘X’; 
+and L(‘X’) has a modifier: 
+ 
+1) U IvanaY na ètu temu est´BYT´II.3/ØBYT´II.3 drugoe mnenieX  
+ 
+‘At Ivan on this topic is/Ø different opinion’. 
+2) a. U IvanaY est´BYT´II.3/ØBYT´II.3 prekrasnaja vozmožnost´X pomoč´ nam 
+ 
+ ‘At Ivan is/Ø excellent possibility to.help us’. 
+ 
+b. U IvanaY est´BYT´II.3/ØBYT´II.3 neskol´ko zolotyx koronok  
+ 
+ ‘At Ivan is/Ø several gold crowns’. 
+3) U ètix sobytijY est´BYT´II.3/ØBYT´II.3 mnogočislennye svideteliX 
+ 
+‘At these events is numerous witnesses’. 
+ 
+5. ‘X’: either 5.1) X is the desire of Y to perform the corresponding action 
+or 5.2) X is a non-inherent particularity of Y 8: 
+1) U IvanaY est´BYT´II.3/ØBYT´II.3 (drugoj) voprosX 
+‘At Ivan is/Ø (different) question’ [here vopros means ‘the desire to ask a 
+question’]. 
+                                                        
+7 This contrast cannot be described by a purely semantic condition because of the follow-
+ing equivalence: 
+(i) U IvanaY est´ xarakterX. ≡ (ii) U IvanaY sil´nyj xarakterX ‘At Ivan strong character’; 
+in (i), xarakter is XARAKTER1b ‘strong character’, while (ii) contains XARAKTER1a ‘char-
+acter’. Several nouns can appear in such pairs: AVTORITET ‘authority’, MOZGI ‘brains’, 
+SERDCE ‘heart’, TALANT ‘talent’, VOZMOŽNOST´ ‘possibility’, VYBOR ‘choice’, etc. 
+8 The expression “non-inherent particularity” is an abbreviation for a set of several se-
+mantemes that must be included in the corresponding definitions to indicate the non-inherent 
+character of the property/state/entity in question. For instance: ‘X’s Y-y accent (in Z)’ = ‘Y-y 
+mode of pronunciation (of language Z) that X can have’ [John’s British accent in French], 
+where the semanteme ‘can’ shows that having an accent is not an inherent particularity of X. 
+Russian U Y-a est´/– X constructions 
+25 
+2) a.  U IvanaY est´BYT´II.3/ØBYT´II.3 akcentX ‘At Ivan is/Ø [foreign] accent’. 
+ 
+b.  U IvanaY est´BYT´II.3/ØBYT´II.3 mnogo krasnyx rodinokX ‘At Ivan is/Ø many 
+red birthmarks’. 
+ 
+Three important caveats 
+1. A possibility to use the present form est´ instead of a zero present form in 
+a special case does not automatically accrue to all BYT´ lexemes. Thus, BYT´IV 
+‘be.located [somewhere]’ does not allow est´ under any circumstances. Therefore, 
+this possibility should be lexicographically indicated. 
+2. The proposed description of the distribution of the two present tense forms 
+of BYT´II.3 (ØBYT´II.3 vs. est´ BYT´II.3) is approximate; it is an attempt at useful gener-
+alizations, which I think are possible only partially. 
+3. In order to avoid confusion, let me remind the reader that the above condi-
+tions for the choice between the forms ØBYT´II.3 vs. est´BYT´II.3 of the lexeme 
+BYT´II.3 should not and do not describe the cases of impossibility to combine the 
+lexeme BYT´II.3 itself with L(‘X’) — that is, they do not preclude such expres-
+sions as *U IvanaY est´/ – dobrotaX ‘At Ivan is/Ø goodness’ = ‘Ivan is good’. 
+This is the task for semantic rules that control lexical cooccurrence by means of 
+lexical functions (see Subsection 3.3). 
+ 
+Examples 
+U IvanaY — (nebol´šaja/vysokaja) temperaturaX ‘Ivan has a (slight/high) fe-
+ver’. | U IvanaY est´Rhem-F (nebol´šaja/*vysokaja) temperaturaX ‘Ivan has a 
+(slight/*high) fever’ (cf. example (29), p. 37) [e.g., as an objection to the statement 
+‘Ivan has no fever’]. | U IvanaY byla i (do six por) est´ temperaturaX ‘Ivan had and 
+(still) has a fever’. | U ètoj židkostiY est´/*Ø vkusX ‘This liquid has taste’. | U ètoj 
+židkostiY Ø/*est´ vkusX mëda ‘This liquid has a taste of honey’. | U ètogo stolaY 
+Ø/*est´ tri jaščikaX ‘This table has three drawers’. 
+ 
+BYT´II.4 
+ 
+Definition 
+U Y-a est´ X-y:  
+‘suščnosti X–1→YSem-T’ 
+‘nekotorye iz X-ov — 
+Z-ovye’ 
+[“X-y imejut Y aktantom 1, 
+pričëm nekotorye iz X-ov — 
+Z-ovye”] 
+ 
+ 
+ 
+‘entities Xs–1→Y Sem-T 
+‘some of Xs are Z-y’ 
+[“Xs have Y as actant 1, 
+some of Xs being Z-y”] 
+ 
+Government Pattern 
+X ⇔ I 
+Y ⇔ II 
+–subj→NPL, NOM 
+oblig 
+–obl-obj→U NGEN 
+oblig 
+ 
+U IvanaY est´ gnilyeZ zubyX ‘Ivan has some rotten teeth’ [other teeth are OK; 
+the sentence U Ivana gnilye zuby — with BYT´II.3 — means that all of Ivan’s teeth are 
+rotten]. 
+Igor M e l’ č u k  
+26 
+Morphology 
+The present tense form: est´ for both numbers of the subject 〈*sut´〉. 
+ 
+Examples 
+U IvanaY est´ ploxieZ studentyX ‘Ivan has some bad students’. | U ètoj strojkiY 
+est´ i blagorodnyeZ celiX ‘This construction has also some noble goals’. | 
+U ètogo zdanijaY est´ zamečatel´nye/čudoviščnyeZ svojstvaX ‘This building has 
+some extraordinary/awful properties’. 
+ 
+BYT´II.5 
+ 
+Definition 
+U Y-a X:  ‘Situacija X ili situacija, svjazannaja s X-om, zatragivaet YSem-T’ = 
+ 
+‘Situation X or a situation involving X affects YSem-T’ 
+ 
+Government Pattern 
+X ⇔ I 
+Y ⇔ II 
+–subj→NNOM 
+oblig 
+–obl-obj→U NGEN 
+oblig 
+ 
+U IvanaY Ø nogiX ‘At Ivan legs’ [Ivan is somehow affected by a situation in-
+volving his legs: for instance, they hurt him or, on the contrary, they are very 
+good and give him some advantage]. 
+ 
+Morphology 
+The present tense form: ØBYT´II.4. 
+ 
+Examples 
+U IvanaY Ø/*est´ razvodX ego dočeri ‘Ivan has to deal with the divorce of his 
+daughter’. | U nasY uže Ø/*est´ osen´X ‘We already have fall here’. 
+ 
+BYT´III.1 
+ 
+Definition 
+U Y-a est´ X: ‘Suščnost´ X, poleznaja dlja Y-a, imeetsja u suščnosti YSem-T’ = 
+ 
+‘Entity X useful to Y is.had.by entity YSem-T’ 
+ 
+Comment 
+‘Useful’ must be taken in the broadest sense possible: ≈ ‘enabling Y to do 
+what he intends or is supposed to do’. 
+ 
+Government Pattern 
+X ⇔ I 
+Y ⇔ II 
+–subj→NNOM 
+oblig 
+–obl-obj→U NGEN 
+oblig 
+ 
+U IvanaY est´ neobxodimye znanijaPL-X ‘At Ivan is necessary knowledge’. 
+ 
+Russian U Y-a est´/– X constructions 
+27 
+Morphology 
+The present tense form: est´ for both numbers of the subject 〈*sut´〉. 
+ 
+Examples 
+U IvanaY est´ vremjaX ‘At Ivan is time’ = ‘Ivan has time’. | U IvanaY est´ èta 
+knigaX ‘Ivan has this book’. | Čtoby dobivat´sja svoego, u MašiY est´ ogromnye 
+sinie glazaX ‘In.order to.get her.way, Masha has enormous dark blue eyes’. | 
+U čelovekaY est´ lëgkieX ‘Humans have lungs’. 
+ 
+BYT´III.2 
+ 
+Definition 
+U Y-a X: ‘Suščnost´ X, kotoraja polezna dlja Y-a ili kotoruju Y možet is-
+pol´zovat´, imeetsja u suščnosti YSem-T, pričëm Y manipuliruet 
+X-om v moment t0’ | ‘t0 is the moment of speech or the moment 
+specified by speech’ = 
+‘Entity X useful to Y or usable by Y is.had by entity YSem-T, 
+Y handling X at the moment t0’ 
+ 
+Government Pattern 
+X ⇔ I 
+Y ⇔ II 
+–subj→NNOM 
+oblig 
+–obl-obj→U NGEN 
+oblig 
+ 
+Morphology 
+The present tense form: ØBYT´III.2. 
+ 
+Examples 
+U IvanaY pistoletX ‘Ivan has a pistol’ [a warning]. | Esli u napadajuščegoY 
+nožX, nel´zja pytat´sja vyxvatit´ ego ‘If the attacker has a knife, you shouldn’t try 
+to take it away’. 
+ 
+Our lexicographic description of the relevant BYT´ verbs can be summarized 
+in the following table: 
+ 
+BYT´II.3 :  
+“X has Y as its Sem-actant” 
+ 
+U Ivana gripp ‘At Ivan flu’. 
+U Ivana est´ vkus ‘At Ivan is 
+taste’. 
+ 
+ØBYT´ in the gen-
+eral case, est´ in a 
+special case 
+BYT´II.4 :  
+“Xs have Y as their Sem-act-
+ant, some of Xs being Z-y” 
+ 
+U Ivana est´ gnilye zuby 
+‘At Ivan is some rotten teeth’.
+ 
+est´ 
+BYT´II.5 :  
+“Situation (involving) X af-
+fects Y” 
+ 
+U Ivana razvod dočeri 
+‘At Ivan divorce of daughter’.
+ 
+ØBYT´ 
+Igor M e l’ č u k  
+28 
+BYT´III.1:  
+“X useful for Y is had by Y”
+ 
+U Ivana est´ novyj galstuk 
+‘At Ivan is new tie’. 
+ 
+est´ 
+BYT´III.2:  
+“X useful for Y or usable by 
+Y is had by Y, X being han-
+dled by Y at moment t0” 
+ 
+U Ivana novyj galstuk 
+‘At Ivan new tie’. 
+ 
+ØBYT´ 
+  
+Among these verbs, it is BYT´II.3 that creates all the difficulties; the remain-
+ing four BYT´ verbs are quite well-behaved. This is linked to the fact that 
+BYT´II.3 does not express a semanteme, as other BYT´ do, but a semantic rela-
+tion. This fact buttresses our decision to describe BYT´II.3 “in isolation.” Inter-
+estingly, the existence of sentences such as (17) does not force the reunion of 
+BYT´II.3 and BYT´II.5 under one lexeme with a disjunctive definition (on dis-
+junctive definitions, see [Mel’čuk 2012–2015, II: 324ff]: 
+ 
+(17)  U IvanaY operacijaXʹ i razvodXʹʹ Maši ‘At Ivan surgery and Masha’s di-
+vorce’, 
+ 
+where Ivan is a participant of surgery (as a patient or as the surgeon) and is af-
+fected by Masha’s divorce, in which he is not a participant. BYT´II.3 and 
+BYT´II.5 seem to satisfy the Green-Apresjan Criterion [Mel’čuk 2012–2015, II: 
+330–333]. Namely, they appear to be “superposed” and allow the conjoined de-
+pendents of both (OPERACIJA ‘surgery’ is coming from BYT´II.3, and RAZVOD 
+‘divorce’ from BYT´II.5), without creating a humorous effect (= a pun), as, e.g., 
+in She took a lover and two aspirins. However, the lexicographic information for 
+BYT´II.3 and BYT´II.5 is very different, and this allows us to keep both lexemes 
+apart. Moreover, (17) can be easily interpreted in the sense that the surgery also 
+affects Ivan — that is, in the sense of BYT´II.5, which facilitates its acceptance. 
+3.3. Semantic rules for the verbs BYT´ in the U Y-a est´/– X constructions 
+The next step is the formulation of semantic rules for the verbs BYT´II.3-5 and 
+BYT´III.1-2, used in the U Y-a est´/– X constructions. These rules establish corre-
+spondences between 
+— the starting Sem-structure, which includes one of the following two se-
+manteme configurations: 
+either ‘X–ρi→Y’ or ‘X←1–σ–2→Y’ | ‘σ’ = ‘affect’/‘be.had’; 
+and 
+— a corresponding DSynt-tree of the form L(‘X’)←I–L
+BYT´–II→L(‘Y’), 
+where both lexemes L(‘X’) and L(‘Y’) are nouns, and L
+BYT´ is one of the 
+five verbs BYT´, described in Subsection 3.2. 
+ 
+Accordingly, there are two major types of semantic rules: 
+II.  For the case where the element in the starting Sem-structure to be ex-
+pressed is a semantic relation ρi between ‘X’ and ‘Y’: ‘X–ρi→Y’. 
+Russian U Y-a est´/– X constructions 
+29 
+RDSynt
+L(‘Y’)(N)
+L(‘X’)(N)
+Funci 
+I
+ TDSynt
+i+I
+ RSem 
+‘X’ 
+ TSem 
+‘Y’ 
+ρi  
+non C  [see Sem-rule 2] 
+ ⇔ 
+II.  For the case where the element in the starting Sem-structure to be ex-
+pressed is a semanteme ‘σ’ linking ‘X’ and ‘Y’: ‘X←1–σ–2→Y’; this ‘σ’ 
+either is ‘affect’ or ‘be.had’ (= Rus. ‘imet´sja’). 
+ 
+Notations 
+ 
+ — ρi: the semantic relation subordinating ‘Y’ to ‘X’ (i = 1, 2, 3, …) 
+ — Shading indicates the context of the rule: elements that are not processed 
+by the rule, but whose presence is necessary for the rule to apply. 
+ 
+I .  ‘ X ’  a n d  ‘ Y ’  a r e  l i n k e d  b y  a  s e m a n t i c  r e l a t i o n  ρ i   
+( =  ‘ Y ’  i s  a  S e m - a c t a n t  o f  ‘ X ’ )  
+Sem-rules 1 and 2 both express a semantic relation ρi between ‘X’ and ‘Y’. 
+Sem-rule 1 covers a common case — the lion’s share of the uses of the U Y-a 
+est´/ – X construction, such as U IvanaY zaporX ‘At Ivan constipation’, U IvanaY 
+kanikulyX ‘At Ivan holidays’, U IvanaY kurčavye volosyX ‘At Ivan curly hair’, 
+U IvanaY zamečatel´naja ženaX ‘At Ivan excellent wife’, U IvanaY est´ xarakterX 
+‘At Ivan is character’, etc. 
+Sem-rule 2 is foreseen for a particular case, where the noun L(‘X’) is in the 
+plural and has a modifier L(‘Z’); then the following contrast is possible (this 
+contrast was first brought to the attention of linguists in [Селивёрстова 1973] 
+and [Арутюнова 1976: 279–280]: 
+ 
+(18) a.  U IvanaY nepravil´nyeZ ubeždenijaX ‘At Ivan wrong convictions’: 
+ 
+ rather all of Ivan’s convictions are wrong. 
+ 
+b. U IvanaY est´ nepravil´nyeZ ubeždenijaX ‘At Ivan is wrong convictions’: 
+ 
+ some of Ivan’s convictions are wrong. 
+ 
+To ensure the proper application of Sem-rule 2, it is supplied with a special 
+condition — “C ”; Sem-rule 1 requires, quite naturally, the condition “non C.” 
+ 
+Sem-Rule 1: The common case 
+Sem-rule 1 expresses the semantic relation ρi between ‘X’ and ‘Y’, which 
+are both communicatively dominant nodes in their respective semantic-
+communicative areas, by the empty lexical-functional (= support) verb Funci. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Igor M e l’ č u k  
+30 
+1)  a.  U IvanaY ØBYT´II.3 syp´X ‘At Ivan rash’. 
+ 
+b. U IvanaY est´BYT´II.3 syp´X ‘At Ivan is rash’ [BYT´II.3 expresses the Rhe-
+matic Focus]. 
+2)  U IvanaY ØBYT´II.3/*est´BYT´II.3 otpuskX ‘At Ivan leave’ = ‘Ivan is on leave’. 
+3) a. U IvanaY ØBYT´II.3/*est´BYT´II.3 sil´nyj xarakterX ‘At Ivan strong character’. 
+ 
+b. U IvanaY *ØBYT´II.3/est´BYT´II.3 xarakterX ‘At Ivan is character’ [strong 
+character; special case 3.1)]. 
+4)  U arbuzaY vsjudu ØBYT´II.3/*est´BYT´II.3 puzoX [V. Orlov] ‘At watermelon eve-
+rywhere belly’. 
+5)  U IvanaY ØBYT´II.3/est´BYT´II.3 gorbX ‘At Ivan hump’ [special case 5.2)]. 
+6)  U ètogo domaY ØBYT´II.3/est´BYT´II.3 dyraX v kryše ‘At this house hole in roof’ 
+[special case 5.2)]. 
+7)  a. U IvanaY ØBYT´II.3/est´BYT´II.3 mnenieX, čto… ‘At Ivan Ø/is opinion that ...’ 
+ 
+b. U IvanaY ØBYT´II.3/est´BYT´II.3 drugoe mnenieX ‘At Ivan Ø/is different opinion’. 
+8)  U ètogo sobytijaY *ØBYT´II.3/est´BYT´II.3 svideteliX ‘At this event is witnesses’. 
+9)  U ètogo tekstaY ØBYT´II.3/*est´BYT´II.3 dva avtoraX ‘At this text two authors’. 
+10) U IvanaY ØBYT´II.3/est´BYT´II.3 prikazX ‘At Ivan Ø/is order’. 
+ 
+Most often, ρi = 1, and Func1 is needed; however, the examples 8) and 9) 
+demonstrate the case of ρi = 2 (and Func2: ‘svidetel´–2→sobytie’, ‘avtor–
+2→tekst’), while the example 10) shows ρi = 3 (and Func3: ‘prikaz–3→Ivan’). 
+Only the rule with Funci is given here, since the verbs that are values of two 
+other lexical-functional empty verbs (= support verbs) — Operi and Laborij 
+— cannot participate in the U Y-a est´/– X constructions for a purely syntactic 
+reason: L(‘Y’) must be their syntactic subject, while in the said constructions the 
+noun L(‘Y’) is an oblique object of the verb. 
+For those expert readers who would like to see the Operi rule as well, here 
+it is: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RSem 
+ ‘X’ 
+ TSem 
+‘Y’ 
+ρi 
+�
+Operi
+RDSynt
+I
+TDSynt
+ L(‘X’)(N) 
+L(‘Y’)(N) 
+i+1
+ 
+ 
+1) IvanY imeet mnenieX, čto… 
+ 
+‘Ivan has opinion that…’ 
+2) a.  IvanY ØBYT´IV v otpuskeX ‘Ivan on leave’. 
+ 
+b. Ivan naxoditsja v otpuske. 
+3)  Èto mnenieY xarakterizuetsja četyr´mja osobennostjamiX 
+ 
+‘This opinion is.characterized by.four particularities’. 
+⇔
+Russian U Y-a est´/– X constructions 
+31 
+A semantic relation ρi between a (quasi-)predicative semanteme ‘X’ and its 
+Sem-actant ‘Y’ is expressed lexically (that is, by a semantically empty support 
+verb L(ρi)) if ‘X’ and ‘Y’ are in different Sem-communicative areas — namely, 
+‘X’ is in the Sem-Theme and ‘Y’, in the Sem-Rheme. In this case, the needed 
+verb is Funci(L(‘X’)), whose syntactic pattern fits the U Y-a est´/– X construc-
+tion. As any lexical function, the Funci verb has all elements of its value ex-
+plicitly specified in the lexical entry for its keyword, L(‘X’). Note that: 
+ — On the one hand, the value of Funci quite often includes verbs different 
+from BYT´II.3, BYT´II.4, BYT´III.1 and BYT´III.2: U Ivana imeetsja mnenie  
+‘At Ivan there.is opinion’, U Ivana najdëtsja vremja dlja Maši ‘At Ivan 
+will.find.itself time for Masha’, Na Ivane ležit vina za požar ‘On Ivan is.lying 
+guilt for fire’, Ivanu prinadležit vsja vlast´ ‘To.Ivan belongs all authority’, Ivana 
+b´ët oznob ‘IvanACC is.beating [a] chillNOM’ = ‘A chill is.shaking Ivan’, V duše 
+Ivana živët nadežda ‘In soul of.Ivan is.alive hope’, Pobeda dostaëtsja Ivanu 
+‘Victory comes to.Ivan’, etc. 
+— On the other hand, even if BYT´II.3 is possible in the U Y-a X construction 
+in most cases where Y is an actаnt of X, this is by no means true in all cases. 
+Thus, several names of human qualities and psychological/physiological states — 
+such as ŽESTOKOST´ ‘cruelty’, DOBROTA ‘goodness’, NEŽNOST´ ‘tenderness’, 
+ČISTOPLOTNOST´ ‘cleanliness’, GNEV ‘anger’, GOLOD ‘hunger’, BOL´ ‘pain’, 
+etc. — do not combine with BYT´II.3 in the role of X. In other words, 
+Func1(ŽESTOKOST´/DOBROTA/…) = — [no value] (19a); to express the intended 
+meaning a different support verb — XVATAT´ — is needed (19b): 
+ 
+(19)  a.  U IvanaY *est´BYT´II.3/*ØBYT´II.3 žestokost´ X  pozvat´ Mašu 
+ 
+ 
+‘At Ivan *is/*Ø cruelty  to.invite Masha’. 
+ 
+b. U IvanaY xvataet žestokostiX  pozvat´ Mašu 
+ 
+ 
+‘At Ivan is.enough cruelty to.invite Masha’. 
+ 
+However, this constraint is not purely semantic: thus, such human quality 
+noun as SKLONNOST´ ‘propensity’ and illness nouns (which designate physio-
+logical states) cooccur with BYT´II.3: 
+ 
+(20) a. U IvanaY est´BYT´II.3/ØBYT´II.3 sklonnost´X k trjukam ‘At Ivan is/Ø pro-
+pensity to tricks’. 
+ 
+b. U IvanaY *est´BYT´II.3/ØBYT´II.3 kor´X ‘At Ivan *is/Ø measles’. 
+ 
+There are as well pairs of semantically close nouns such that one accepts 
+BYT´II.3 as an element of the value of Funci and the other does not: 
+ 
+(21) a.  U Ivana ØBYT´II.3 prekrasnaja reputacija ‘At Ivan excellent reputation’. 
+ 
+ 
+vs. 
+ 
+ 
+*U Ivana ØBYT´II.3 vseobščaja izvestnost´ ‘At Ivan universal renown’. 
+ 
+b.  U Ivana ØBYT´II.3 neprerekaemyj avtoritet sredi studentov 
+ 
+ 
+‘At Ivan undisputed authority among students’. 
+ 
+ 
+vs. 
+ 
+ 
+*U Ivana ØBYT´II.3 rešajuščee vlijanie na studentov  
+ 
+ 
+‘At Ivan decisive influence on students’. 
+Igor M e l’ č u k  
+32 
+The corresponding constraints seem to be lexical; therefore, Sem-rule 1 is 
+necessary. Тhe recourse to Funci and, consequently, to the lexical entries for 
+L(‘X’)s effectively solves the problem of choosing the appropriate verb — in 
+particular, BYT´II.3 in the U Y-a est´/– X constructions — to express the seman-
+tic relation ρi for all cases of ‘Y’ being an actant of ‘X’. 
+ 
+NB: Sem-rule 1 ensures only the choice of the verbal lexeme, in the case that is of in-
+terest to us — of BYT´II.3. The choice of the appropriate lex — that is, ØBYT´II.3 
+vs. est´BYT´II.3 — is done according to the morphological information in the lexi-
+cal entry for BYT´II.3, see Subsection 3.2.2, pp. 23–25. 
+ 
+Sem-Rule 2: The particular case (‘some of Xs [are Z-y]’) 
+Sem-rule 2 expresses the semantic relation ρi between ‘X’ and ‘Y’ (as in the 
+previous rule, both are communicatively dominant nodes in their respective 
+Sem-Comm-areas) plus the semanteme of “partiality” — ‘some of Xs [are Z-y]’ — 
+by the verb BYT´II.4. 
+ 
+ 
+  
+1)  a. U IvanaY est´ BYT´II.4 sedyeZ volosyX ‘At Ivan is some white hairs’. ≢ 
+ 
+b. U IvanaY ØBYT´II.3 sedye volosyX ‘At Ivan white hair’. 
+2) U IvanaY est´BYT´II.4 nepravil´nyeZ vzgljadyX ‘At Ivan is wrong opinions’ 
+[but Ivan also has right opinions]. 
+3) U ètogo xramaY est´BYT´II.4 bronzovyeZ dveriX ‘At this temple is bronze 
+doors’ [but there also are some other, non-bronze doors]. 
+ 
+ 
+I I.  ‘ X ’  a n d  ‘ Y ’  a r e  l i n k e d  b y  a  s e m a n t e m e   
+( ‘ X  a f f e c t s  Y ’  o r  ‘ X  i s . h a d  b y  Y ’ )  
+For the Sem-rules 3 and 4 it is irrelevant whether ‘Y’ is or is not a semantic 
+actant of ‘X’; they express the semantemes linking ‘X’ and ‘Y’: Sem-rule 3 ex-
+presses the semanteme ‘X affects Y’, Sem-rules 4.1-4.2, the semanteme 
+‘X is.had by Y’, and Sem-rule 4.3, the semanteme configurations ‘X is.had by Y, 
+Y handling Y at moment t0’. 
+RDSynt
+L(‘Y’)(N) 
+ L(‘X’)(N)PL
+BYT´II.4
+I
+TDSynt 
+II
+⇔ 
+ 
+‘X’ 
+TSem 
+‘Y’ 
+ρi 
+‘X’ 
+‘some’
+‘more.than. 
+ one’ 
+‘Z’ 
+1 
+1 
+1
+Referenti
+C =
+Russian U Y-a est´/– X constructions 
+33 
+Sem-Rule 3 
+Sem-rule 3 expresses the meaning ‘situation (involving) X affects Y’ by the 
+verb BYT´II.5. Note that ‘X’ is not the dominant node in the Sem-Rheme. 
+ 
+ 
+ 
+1)  U IvanaY ØBYT´II.5 razvodX Maši ‘At Ivan Masha’s divorce’. 
+2)  U IvanaY ØBYT´II.5 Mašino postuplenieX v universitet ‘At Ivan Masha’s en-
+tering university’. 
+3)  U nasY ØBYT´II.5 odni doždiX ‘At us only rains’. 
+4)  U IvanaY ØBYT´II.5 MašaX ‘At Ivan Masha’ [Ivan is affected by a situation that 
+involves Masha]. 
+The sentence U IvanaY MašaX has the semantic representation in (22): 
+ 
+(22)
+ 
+ 
+ 
+To correctly implement the SemR (22) the following semantic rule of regular 
+metonymy is needed: ‘situation←1–involve–2→Y’ ⇔ L(‘Y’). 
+ 
+ 
+Sem-Rules 4.1– 4.2 
+Sem-rules 4.1–4.2 deal with the semanteme Rus. ‘X imeetsja u Y-a’ ≈ ‘X 
+is.had.by Y’. If ‘X’ is or can be characterized as useful for ‘Y’, then Sem-rule 
+4.1 is applied; otherwise, Sem-rule 4.2. As in Sem-rule 3, the meaning ‘X’ is not 
+the dominant node in the Sem-Rheme. 
+ 
+Sem-Rule 4.1 
+The semanteme configuration ‘entity X useful.to Y is.had.by entity YSemT’ 
+is expressed by the verb BYT´III.1. 
+ 
+ 
+ 
+ TSem 
+ ‘Ivan’ 
+RSem
+ ‘situation’ 
+ ‘Masha’ 
+2
+ ‘involve’ 
+ ‘affect’ 
+2 
+1
+1
+ ⇔
+RDSynt
+L(‘Y’)(N) 
+ L(‘X’)(N) 
+BYT´II.5
+I
+TDSynt
+II
+ TSem 
+ ‘Y’ 
+ ‘affect’ 
+RSem
+ ‘X’⊃ ‘fact’ 
+2 
+1 
+Igor M e l’ č u k  
+34 
+ 
+ 
+ 
+1)  Est´BYT´III.1 u nasY madam KaplunX [I. Babel] ‘Is at us Madam Kaplun’. 
+2)  U IvanaY est´BYT´III.1 plastikovye lyžiX ‘At Ivan is plastic skis’. 
+3)  U IvanaY est´BYT´III.1 celaja komandaX programmistov ‘At Ivan is whole 
+team of.programmers’. 
+4)  U IvanaY est´BYT´III.1 stydX ‘At Ivan is shame’. 
+5)  a.  U IvanaY eščë est´BYT´III.1/*ØBYT´II.3 benzinX ‘At Ivan still is gas’. 
+ 
+b. U IvanaY eščë est´BYT´III.1/ØBYT´II.3 mnogo benzinaX ‘At Ivan still is/Ø 
+much gas’ (cf. (30), p. 38). 
+6)  U IvanaY est´BYT´III.1 vypit´X ‘At Ivan is to.drink’ = ‘Ivan has some booze’. 
+7)  [— U vasY est´BYT´III.1 oružieX? ‘At you is weapon?’] — Da, u menjaX 
+est´BYT´III.1 pistoletX ‘Yes, at me is pistol’ [not necessarily with me at this moment]. 
+ 
+Cf. [— U vasY est´BYT´III.1 oružieX? ‘At you is weapon?’9] — Da, u menjaY 
+ØBYT´III.2 pistoletX ‘Yes, at me pistol’ [it is with me at this moment]. 
+ 
+Sem-Rule 4.2 
+The semanteme configuration ‘entity X useful.to or usable.by Y is.had.by en-
+tity Y, Y handling X at moment t0’ is expressed by the verb BYT´III.2. 
+ 
+ 
+U IvanaY ØBYT´III.2 nožX ‘At Ivan knife’. 
+                                                        
+9 A question with BYT´III.2 in the given situation is inappropriate: BYT´III.2 implies that 
+the Speaker sees the Addressee handling a weapon, so that the question becomes rhetorical 
+and expresses the Speaker’s amazement. 
+RDSynt
+L(‘Y’)(N) 
+ L(‘X’)(N) 
+BYT´III.2 
+I
+TDSynt
+I
+ 
+ TSem 
+ ‘Y’⊃ ‘entity’ 
+ ‘be.had’ 
+ RSem 
+ ‘X’⊃ ‘entity’ 
+ ‘handle(V)’ 
+ ‘useful’ 
+1 2 
+2
+ ‘t0’ 
+1
+1
+1 
+2 
+ ‘usable’
+2 
+ ‘or’ 
+1 
+1
+⇔
+‘t0’ is the moment of 
+speech or the moment 
+specified by speech 
+ ⇔
+RDSynt
+L(‘Y’)(N) 
+ L(‘X’)(N) 
+BYT´III.1 
+I
+TDSynt
+II
+ TSem 
+ ‘be.had’ 
+ RSem
+ ‘X’⊃ ‘entity’ 
+1 
+‘useful’ 
+ ‘Y’⊃ ‘entity’ 
+ 
+2 
+1 
+2 
+Russian U Y-a est´/– X constructions 
+35 
+Now I am in a position to formulate the solution to the problem stated at the 
+end of Section 1: 
+ 
+The semantic rules necessary and sufficient to produce all and only correct 
+occurrences of both U Y-a est´/– X constructions are in fact lexicographic 
+descriptions of the five lexemes of the verb BYT´ — BYT´II.3-5 and 
+BYT´III.1-2. 
+ 
+Note, however, that 100 % accuracy cannot be attained, mainly because of 
+the approximate character of our semantic and pragmatic conditions in the mor-
+phological zone of the lexicographic entry for the verb BYT´II.3. 
+4. Several case studies of the U Y-a est´/– X constructions 
+Let me consider several difficult cases involving the two constructions under 
+consideration, where various factors intervene and blur the picture. 
+ 
+• Polysemy in Action 
+ 
+Polysemy of L(‘X’) 
+ 
+(23) a. U IvanaY ØBYT´II.3/*est´BYT´III.1 stydX pered Mašej 
+ 
+ ‘At Ivan shame before Masha’ = ‘Ivan is ashamed of Masha’.  
+ 
+b. U IvanaY *ØBYT´II.3/est´BYT´III.1 stydX pered Bogom ‘At Ivan is shame be-
+fore God’ = ‘Ivan has the ability to be ashamed of God’. 
+ 
+This contrast is explained by the polysemy of the noun STYD ‘shame’. Sen-
+tence (23a) features STYD1 ‘feeling of embarrassment…’ — that is, it speaks of 
+an actual psychological state of the person; (23b) contains STYD2 ‘ability to feel 
+shame1’. In (23a) the Speaker communicates about Ivan that he is, at this par-
+ticular moment, a participant of the concrete situation ‘being.ashamed of 
+Masha’, which requires BYT´II.3 (by Sem-rule 1). (23b) tells us about Ivan that 
+he has “at his disposal” this particular ability (to be ashamed of God) — that is, 
+BYT´III.1 has to be used (Sem-rule 4.2). 
+ 
+Polysemy of the phrase “U + NGEN” 
+ 
+(24) a. U Ivana sejčas ØBYT´IV Maša ‘At Ivan’s now Masha’: Masha is now at 
+Ivan’s place. 
+ 
+b. i(i)  U Ivana sejčas est´BYT´III.1 Maša ‘At Ivan now is Masha’: 
+ 
+ 
+ 
+Ivan now has Masha “at his disposal” — she enables him to do 
+something. 
+ 
+ 
+(ii) U Ivana sejčas ØBYT´II.3 Maša ‘At Ivan now Masha’: 
+ 
+ 
+ 
+Ivan is now affected — positively or negatively — by a situation 
+involving Masha. 
+ 
+Igor M e l’ č u k  
+36 
+(24a) contains the syntactic idiom ˹U Ivana˺ 10 ‘at Ivan’s place’ and the verb 
+BYT´IV; in the sentences in (24b) one sees the same constructions as in (24a) 
+with BYT´III.1 and (10b) with BYT´II.5, respectively. (Sentences (24a) and (24b-ii) 
+are homophonous and cannot be distinguished outside of context.) 
+ 
+• Conversational Implicatures in Action [Grice 1975] 
+ 
+(25) a.  U Ivana est´BYT´III.1 plastikovye lyži (the example is from [Апресян 
+1995: 523]) 
+ 
+ 
+‘Ivan has plastic skis — habitually, that is, not here and not now’: 
+ 
+ 
+this is so-called “virtual, or permanent, belonging”. 
+ 
+b.  U Ivana ØBYT´III.2 plastikovye lyži 
+ 
+ 
+‘Ivan has plastic skis — here and now’: this is so-called “actual be-
+longing” 11. 
+ 
+This well known contrast makes one think of the semantic component ‘not 
+here and not now’ in the definition of BYT´III.1. This, however, would be a 
+wrong decision. Sentence (25a) is understood in the sense of “virtual, or perma-
+nent, belonging” because of the Gricean Maxim of Quantity: the Speaker is sup-
+posed to be as informative as possible; therefore, if he says (25a), with BYT´III.1, 
+this entails that he does not mean that Ivan is using his skis here and now — 
+otherwise, he would have expressed the actantial link between ‘Ivan’ and ‘skis’ 
+(Ivan is actually using the skis), as he does in (25b) by selecting BYT´III.2. 
+ 
+• A Problematic Meaning in Action 
+ 
+  Silly Meaning 
+Is sentence (26a) grammatical? 
+ 
+(26) a. U ètogo domaY est´BYT´III.1 dver´X ‘At this house is door’. 
+ 
+Of course, it is, even if it seems funny, while both sentences in (26b) are abso-
+lutely normal: 
+ 
+ 
+b.  i(i) U ètogo doma est´BYT´III.1 dve dveri ‘At this house is two doors’. 
+ 
+ 
+(ii) U ètogo doma est´BYT´III.1 gigantskaja bronzovaja dver´ 
+ 
+ 
+ 
+‘At this house is giant bronze door’. 
+                                                        
+10 Interestingly, the locative idiom ˹U IVANA˺ ‘at Ivan’s’ has directional and ablative 
+versions: ˹K IVANU˺ ‘to Ivan’s’ [Locad(˹U IVANA˺)] and ˹OT IVANA˺ ‘from Ivan’s’ 
+[Locab(˹U IVANA˺)]. 
+11 Possible continuations for sentences (25a-b): 
+(i) U Ivana est´ plastikovye lyži, tak čto on sumeet 〈*ne sumeet〉 katat´sja na ètix 
+sklonax 
+‘At Ivan is plastic skis, so that he will.be.able 〈*will.not be.able〉 ski on these 
+slopes’. 
+(ii)  U Ivana plastikovye lyži, tak čto on sumeet 〈ne sumeet〉 katat´sja na ètix sklonax 
+ 
+‘At Ivan plastic skis, so that he will.be.able 〈will.not be.able〉 ski on these slopes’. 
+Russian U Y-a est´/– X constructions 
+37 
+The catch in (26а) is its poor meaning, just like that of its English gloss: what 
+indeed is the Speaker communicating when he utters This house has a door? 
+Every house has a door, and everyone knows it. But put sentence (26a) in an ap-
+propriate context, and it becomes impeccable: 
+ 
+ 
+c.  U ètogo doma est´BYT´III.1 dver´, kryša, četyre steny — dom kak dom 
+‘This house has a door, a roof, four walls — quite an ordinary 
+house’. 
+ 
+   Inappropriate Meaning 
+ 
+1) Two friends A and B are together; they need to immediately go to a place 
+far away, and A proposes to take B there. In this situation, B can utter any of the 
+sentences in (27a). However, if A and B are planning to go somewhere in a 
+week from the moment of speech, the first variant in (27b) is more natural: 
+ 
+(27) a. Ponimaju, u tebja est´BYT´III.1/ØBYT´I1I.2 mašina ‘I.see, at youSG is/Ø car’. 
+ 
+b. Ponimaju, u tebja est´BYT´III.1/?ØBYT´I1I.2 mašina ‘I.see, at youSG is/?Ø car’. 
+ 
+The verb BYT´III.2 should not be used in the second situation, since the se-
+manteme ‘byt´III.2’ includes the component ‘Y is.handling X at this moment’, 
+which makes this meaning inappropriate in the given circumstances. 
+2) [The example is from [Мелиг 2004: 438–439]; I adapted it for the purpose 
+of this paper.] The Speaker, seeing a fruit in Ivan’s hand (but not quite clearly), 
+says (28a); however, if Ivan is not here, he must say (28b): 
+ 
+(28)  a. U Ivana ØBYT´III.2/*est BYT´III.1 jabloko ili gruša ‘At Ivan apple or pear’. 
+ 
+b. U Ivana est BYT´III.1/*Ø BYT´III.2 jabloko ili gruša ‘At Ivan is apple or pear’. 
+ 
+The explanation is straightforward: sentence (28a) expresses the meaning 
+“At this moment, Ivan is handling an apple or a pear” and accordingly contains 
+the verb BYT´III.2; sentence (28b) expresses the meaning “Ivan has at his dis-
+posal an apple or a pear” and contains the verb BYT´III.1. 
+ 
+   Different Meanings of the Phrase L(‘X’)→ADJ/ADV 
+ 
+(29) BYT´II.3 
+ 
+a.  U IvanaY ØBYT´II.3/est´BYT´II.3
+Rhem-F akcentX ‘At Ivan Ø/is [foreign] accent’. 
+ 
+b.  U IvanaY ØBYT´II.3 lëgkij 〈sil´nyj〉 akcentX ‘At Ivan slight 〈heavy〉 [foreign] 
+accent’. 
+ 
+c.  U IvanaY est´BYT´II.3 lëgkij 〈*sil´nyj〉 akcentX ‘At Ivan is slight 〈*heavy〉 
+[foreign] accent’. 
+ 
+Sentence (29a) tells us that Ivan is a non-native speaker, or, formally, that 
+‘Ivan’ is a Sem-actant of the situation ‘having an accent’; this warrants the verb 
+BYT´II.3, more precisely the form ØBYT´II.3. At the same time, the Speaker may 
+insist on this fact — by means of BYT´II.3, which in this case expresses the 
+Rhematic Focus; this gives us est´BYT´II.3. However, the equivalence ØBYT´II.3 ≡ 
+est´BYT´II.3 does not work in (29b–c): *U IvanaY estBYT´II.3 sil´nyj akcentX ‘At Ivan is 
+Igor M e l’ č u k  
+38 
+heavy [foreign] accent’ is jarring. The reason is pragmatic: it is less natural to 
+insist on the fact that somebody has a heavy accent — this is too audible! 
+(Or you could say Akcent u Ivana sil´nyj ‘At Ivan accent [is] heavy’.) Therefore, 
+in this case using the verb BYT´II.3 to express a Rhematic Focus is unappropriate. 
+The same factors are at work in U Ivana est´ temperatura ‘At Ivan is fever’. ~ 
+U Ivana est´ nebol´šaja temperatura ‘At Ivan is slight fever’. ~ *U Ivana est´ 
+vysokaja temperatura ‘At Ivan is high fever’. (But again with the Rhematic Fo-
+cus on est´BYT´II.3 the sentences U IvanaY est´BYT´II.3 sil´nyj akcentX/vysokaja tempera-
+turaX are fully grammatical.) 
+Another example: 
+ 
+(30) a. U IvanaY est´BYT´III.1/*ØBYT´II. 2 vremjaX ‘At Ivan is/*Ø time’ = ‘Ivan 
+has time’. ≡ 
+ 
+b. U IvanaY est´BYT´III.1/ØBYT´II.3 dostatočno vremeniX ‘At Ivan is/Ø enough 
+time’. 
+ 
+Sentence (30a) communicates about Ivan that there is the resource ‘time’ 
+available to him: the verb must be BYT´III.1. However, if the Speaker starts with 
+‘enough 〈much, little …〉 time’, he can keep considering time as an available re-
+source and still use BYT´III.1, but he also has the option to present ‘Ivan’ as a 
+Sem-actant of the situation ‘having enough 〈much, little …〉 time’ and use 
+BYT´II.3: the added quantitative adverb/adjective “drags” Ivan into this situation 
+(‘enough 〈much, little …〉 time for Ivan’). As a result, in (30b), both verbs 
+BYT´II.3 and BYT´III.1 are licensed. 
+ 
+• Syntax in Action  
+ 
+(31) a. U ètoj židkosti ØBYT´II.3/*est´BYT´II.3 rezkij zapax ‘At this liquid Ø/*is 
+strong smell’. 
+ 
+b. U ètoj židkosti *ØBYT´II.3/est´BYT´II.3 zapax ‘At this liquid *Ø/is smell’. 
+ 
+This contrast is taken care of by Sem-rule 1, using Special case 3.1) in Mor-
+phology for the verb BYT´II.3. 
+5. Equivalence of the U Y-a est´ X and U Y-a X constructions  
+There is an additional hurdle in the study of the U Y-a est´/– X constructions: 
+the equivalence of both constructions on many occasions. Two cases are to be 
+distinguished: either the two constructions are semantically equivalent, or syn-
+onymous (have a common Sem-representation), or they are not synonymous, but 
+pragmatically equivalent (have different Sem-representations, which correspond 
+to the same reality). 
+• The two constructions are synonymous, that is, the corresponding sen-
+tences — for instance, (32a) and (32b) — have the same Sem-representation, 
+shown in (32c): 
+Russian U Y-a est´/– X constructions 
+39 
+RSem 
+‘key’ 
+TSem
+‘Ivan’ 
+‘be.had’ 
+1
+2
+1 ‘useful’ 
+2
+ RSem 
+‘key’ 
+TSem
+‘Ivan’ 
+1
+‘be.had’ 
+‘useful’ 
+1
+2
+2
+1
+2
+‘handle(V)’ 
+(32) a. U ètoj stat´i ØBYT´II.3    tri nedostatka ‘At this paper three drawbacks’. ≡ 
+ 
+b. U ètoj stat´i est´BYT´II.3 tri nedostatka ‘At this paper is three drawbacks’. 
+ 
+c.
+ 
+ 
+ 
+One sees here the optional variants of the present tense form of BYT´II.3, 
+foreseen by Special case 5.2) in the lexicographic entry for this verb (p. 25). 
+Another similar case: 
+ 
+(33) a.  U Ivana ØBYT´II.3       durnaja privyčka kovyrjat´ v nosu 
+ 
+   ‘At Ivan bad habit to.pick in nose’. 
+ 
+b. U Ivana est´BYT´II.3 durnaja privyčka kovyrjat´ v nosu  
+ 
+  ‘At Ivan is bad habit to.pick in nose’. 
+ 
+• The two constructions are not synonymous, that is, the corresponding sen-
+tences have different Sem-representations. 
+Thus, sentences (34a) and (34c) can both be felicitously used in the same 
+situation, even if their SemRs, shown in (34b) and (34d), are different. 
+ 
+(34) a.  [ — Tut zaperto. — Ničego,] u Ivana est´BYT´III.1 ključ 
+ 
+  ‘[ — Here locked. — Never mind,] at Ivan is key’: 
+ 
+ (34a) communicates that Ivan has a key at his disposal, no matter 
+whether the Addressee sees or does not see it at the moment. 
+ 
+b.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This SemR is implemented by the verb BYT´III.1.  
+ 
+ 
+c. [ — Tut zaperto. — Ničego,] u Ivana ØBYT´III.2 ključ. 
+ 
+  ‘[ — Here locked. — Never mind,] at Ivan key’: 
+ 
+ (34c) states that Ivan has a key in his hand (or at least has it immedi-
+ately accessible — “here and now”), which he is handling at this 
+moment. 
+d. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ Here the verb BYT´III.2 is used. 
+TSem
+‘paper’
+1
+‘this’
+ RSem 
+‘drawback’ 
+1
+1
+‘three’ 
+Igor M e l’ č u k  
+40 
+Sentences (35a) and (35c) behave in the same way; in (35c), the noun DOM 
+‘house’ is taken to be a quasi-predicate denoting Ivan’s property. 
+ 
+(35) a. U Ivana est´BYT´III.1 dom [na more] ‘At Ivan is house [at sea]’. 
+ 
+ b.
+ 
+ 
+ 
+ c. U Ivana ØBYT´II.3 dom [na more] ‘At Ivan house [at sea]’. 
+d.
+ 
+ 
+ 
+And now to round up my presentation: 
+ 
+(36) U každoj stranyY ØBYT´II.3/est´BYT´III.1 svoja mafijaX, a u ètoj mafiiY 
+ØBYT´III.2/est´BYT´III.1 svoja strana ‘At each country Ø/is own mafia, but at 
+this mafia Ø/is own country’. 
+6. Conclusions 
+6.1. A practical conclusion 
+Dear Alëša, for you the conclusion is fairly simple. Roughly speaking: 
+ —  Either you want to communicate that Y is a participant of the situation 
+X (in technical terms, ‘Y’ is an actant of ‘X’); then you choose the verb 
+BYT´II.3, with its regular zero form ØBYT´II.3 in the present. 
+ —  Or you want to communicate that Y has an X at his disposal; then you 
+choose the verb BYT´III.1, with its regular est´BYT´III.1 form in the present. 
+Barring some less important details, this is an acceptable recipe for dealing 
+with the U Y-a est´/– X constructions in Russian. 
+6.2. Theoretical conclusions 
+1. The choice between the U Y-a est´/– X constructions (i.e., with one of the 
+BYT´ verbs) is determined by the meaning to be expressed: roughly, “Y has X at 
+Y’s disposal” vs. “Y is a Sem-actant of X”. 
+2. The U Y-a est´/– X constructions are described by means of five verbs BYT´: 
+— For general cases: 
+BYT´II.3, with the default (= unmarked) present tense form ØBYT´II.3 and the 
+marked present tense form est´BYT´II.3, 
+BYT´II.5, with the present tense form ØBYT´II.3, 
+and 
+BYT´III.1, with the present tense form est´BYT´III.1. 
+RSem 
+‘house’ 
+TSem
+‘Ivan’ 
+‘be.had’ 
+1
+2
+1 ‘useful’ 
+2
+RSem 
+‘house’ 
+ TSem
+‘Ivan’ 
+1
+Russian U Y-a est´/– X constructions 
+41 
+ —  For particular cases: 
+BYT´II.4, with the present tense form est´BYT´II.4 (‘some of Xs are Z-y’) 
+and 
+BYT´III.2, with the present tense form ØBYT´III.2 (‘Y is handling X at moment t0’) 
+3. Both constructions are sensitive to fine semantic distinctions between Xs. 
+Thus, we have: 
+ 
+U IvanaY est´BYT´II.3/*Ø BYT´II.3 xarakterX ‘At Ivan is/*Ø character’ = ‘Ivan has a 
+strong character’. ~ 
+U IvanaY *est´BYT´II.3/Ø BYT´II.3 sil´nyj xarakterX ‘At Ivan *is/Ø strong character’ = 
+‘Ivan has a strong character’. 
+but 
+U IvanaY est´BYT´II.3/Ø BYT´II.3 (novoe) vozraženieX ‘At Ivan is/Ø new objection’. 
+ 
+This difference in behavior is due to the fact that ‘character’ is Y’s permanent 
+property, while ‘objection’ in this sentence denotes Y’s desire to perform the ac-
+tion of objecting. 
+The semantic distinctions laid bare by the U Y-a est´/– X constructions force 
+the semanticians to sharpen the whole families of lexicographic definitions; see 
+Footnote 8. 
+4. The general picture of the U Y-a est´/– X constructions is complicated by 
+many-to-many correspondences between the meanings to be expressed and the 
+physical forms in the realm of the verbs BYT´. Thus, the same form appears as a 
+lex of different BYT´ lexemes: 
+Ø 
+in BYT´II.3, BYT´II.5 and BYT´III.2; 
+est´ in BYT´II.3, BYT´II.4, BYT´III.1 and BYT´III.2. 
+On the other hand, different BYT´ forms can express the same meaning, as 
+ØBYT´II.3 and est´BYT´II.3: U Ivana (est´) vopros ‘Ivan has a question’; or, at the least, 
+they correspond to the same extralinguistic situation, as est´BYT´III.1 and ØBYT´III.2, 
+cf. examples (34) and (35). 
+5. The choice of the verb BYT´II.3 in the U Y-a est´/– X constructions is lexi-
+cally determined by L(‘X’) and has to be described by the lexical function 
+Func1(L(‘X’)). 
+6. As the next step of this research, other constructions including one of the 
+five verbs BYT´ have to be considered — in particular, constructions with loca-
+tive phrases, such as V ètoj stat´e est´BYT´II.3/*ØBYT´II.3 nedostatki ‘In this paper 
+is/*Ø drawbacks’ vs. V ètoj stat´e est´BYT´II.3/Ø BYT´II.3 rjad nedostatkov ‘In this pa-
+per is/Ø number of.drawbacks’, where the use of BYT´II.3 is the same as in the U 
+Y-a est´/– X constructions. 
+7. The distribution of the present tense forms of BYT´II.3 raises the following 
+morphological problem: 
+The wordforms est´BYT´II.3 and ØBYT´II.3 are suppletive lexes of the verbal lex-
+eme BYT´II.3; however, the conditions for their use include semantic and 
+syntactic characteristics of DSynt-actant I (≈ the surface subject) of the verb. 
+Is this a typologically normal situation? 
+Igor M e l’ č u k  
+42 
+It is not, even if similar cases — that is, the cases where the choice of an al-
+lolex of a given lexeme is determined by another lexeme — are known; for in-
+stance: 
+— In French, the verb POUVOIR ‘can, be able’: the choice of the allolex puis 
+[IND.PRES.1.SG] instead of peux in an inversion (Puis-je vous aider? ‘Can I help 
+you?’ vs. *Peux-je vous aider?). 
+— In German, the singular genitive with some proper nouns: the allomorph 
+-s is used if the noun has no determiner, and the allomorph -Ø if it has (alle 
+Mächte Europa+s ‘all powers of.Europe’ vs. alle Mächte des alten Europa+Ø 
+‘all powers of.the old Europe’; see the discussion in [Mel’čuk 2006: 402–403]). 
+The question remains open about theoretical implications of the existence of 
+such allolexes as est´BYT´II.3 and ØBYT´ II.3. 
+Acknowledgments 
+Thanks a zillion to Lidija Iordanskaja, who worked through several previous ver-
+sions of the paper and contributed many essential improvements; her perspicacious 
+insistence saved me from several blunders. The subsequent versions underwent the 
+scrutiny of V. Apresjan, G. Krejdlin, J. Milićević, E. Savvina, T. Yanko and an anony-
+mous reviewer, whose remarks, objections and proposals helped me avoid many an 
+obscure, inaccurate and clumsy formulation. 

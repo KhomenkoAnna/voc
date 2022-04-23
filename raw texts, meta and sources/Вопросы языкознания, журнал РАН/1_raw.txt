@@ -1,0 +1,1004 @@
+2021. № 1 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+С. / Pp. 7–28
+ 
+Voprosy Jazykoznanija
+Bound forms, welded forms, and affixes: 
+Basic concepts for morphological comparison
+Martin Haspelmath
+Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany; 
+Leipzig University, Leipzig, Germany; martin_haspelmath@eva.mpg.de
+Abstract: This paper proposes definitions of three terms that can potentially be used in answering key 
+questions of general morphology and syntax: bound form, welded form, and affix. The term affix is 
+sometimes thought to involve phonological “fusion” of some kind, but I propose that it is best de-
+fined as a bound non-root that cannot occur on roots of different classes. A bound form (or non-autono-
+mous form) is generally defined as a form that does not occur on its own (thus, its definition makes 
+no reference to phonology). As a term for a bound form that shows phonological interactions with its 
+host, I propose the new term welded form. I discuss the ways in which these terms may (or may not) 
+help us justify the syntax-morphology subdivision, and the ways in which these terms may perhaps 
+be the basis for justifying speculative classifications such as the well-known isolating, agglutinative 
+and flective types.
+Keywords: affix, agglutination, alternations, morpheme, morphology, wordhood
+Acknowledgements: I have discussed the issues of this paper with many colleagues over the years, but 
+I would like to single out Matthew Dryer, David Gil, Chao Li, Östen Dahl, and Harald Hammarström 
+for making particularly useful contributions to my thinking. I also thank two anonymous reviewers 
+for Voprosy Jazykozanija that made extremely good comments which helped me improve the paper. 
+The support of the European Research Council (ERC Advanced Grant 670985, Grammatical Univer-
+sals) is gratefully acknowledged.
+For citation: Haspelmath M. Bound forms, welded forms, and affixes: Basic concepts for morphological 
+comparison. Voprosy Jazykoznanija, 2021, 1: 7–28.
+DOI: 10.31857/0373-658X.2021.1.7-28
+Связанные формы, спаянные формы и аффиксы: 
+Базовые понятия для морфологического сопоставления
+Мартин Хаспельмат
+Институт эволюционной антропологии Макса Планка, Лейпциг, Германия; 
+Лейпцигский университет, Лейпциг, Германия; martin_haspelmath@eva.mpg.de
+Аннотация: В статье предлагаются определения для трех понятий, которые, предположительно, 
+могут быть использованы в решении ключевых вопросов общей морфологии и синтаксиса: свя-
+занная форма, спаянная форма и аффикс. Иногда считается, что понятие аффикса подразумевает 
+некую фонологическую «фузию», но я предлагаю определять его просто как связанный морф, 
+не являющийся корнем и сочетающийся с корнями только одного класса. Связанная (или не-
+автономная) форма определяется как форма, не употребляющаяся изолированно (таким обра-
+зом, и ее определение не опирается на фонологию). Для связанной формы, фонологически вза-
+имодействующей с опорным элементом, я предлагаю новый термин спаянная форма (welded 
+form). Я рассматриваю вопрос о том, как эти понятия могут пригодиться (или не пригодиться) 
+© 2021
+8 
+Voprosy Jazykoznanija 
+2021. № 1
+для того, чтобы эмпирически обосновать разграничение морфологии и синтаксиса, а также 
+умозрительные классификации типа известного деления языков на изолирующие, агглютина-
+тивные и флективные.
+Ключевые слова: агглютинация, аффикс, морфема, морфология, слово, чередования
+Для цитирования: Haspelmath M. Bound forms, welded forms, and affixes: Basic concepts for morpho-
+logical comparison. Voprosy Jazykoznanija, 2021, 1: 7–28.
+DOI: 10.31857/0373-658X.2021.1.7-28
+1. Introduction: 
+Three definitions and five principles
+In this paper, I propose and discuss the following definitions of three important concepts that 
+we need for comparing languages in terms of their morphosyntactic properties.
+(1) 
+bound form (§4)
+A bound form is a form that cannot occur on its own.
+(2) 
+welded form (§5)
+A welded form is a bound form which has shape variants phonologically conditioned by its 
+host, or which phonologically conditions shape variants of its host.
+(3) 
+affix (§6)
+An affix is a bound morph that is not a root, that must occur on a root, and that cannot oc-
+cur on roots of different root classes.
+Morphological typology is an area where traditional stereotypes abound, so it is particularly 
+important to be critical of our traditional terminology. Plungian [2000: 81] hints at the problem-
+atic nature of two traditional terms when he says in his discussion of the terms root and affix: 
+“I do not know a single effective definition of root and affix”.
+The present discussion will be based on the following five principles for good general ter-
+minology of linguistics (note that I am talking about general terms for general linguistics, not 
+about terms for particular phenomena in particular languages).
+(4) 
+A. All terms intended for technical use should be clearly defined on the basis of other 
+well-defined terms, or on the basis of widely understood (quasi-)primitive terms.
+ 
+B. Frequently used terms should be defined in a simple way, so that first-year students 
+of linguistics can be expected to understand and remember the definitions.
+ 
+C. The range of application of the definition of a widely used term should not deviate sub-
+stantially from its traditional range of application.
+ 
+D. General concepts are comparative concepts (defined in the same way for all languages), 
+because each language has its own building blocks.
+ 
+E. A term’s general definition is a comparative definition and thus need not cover the en-
+tire domain of what a corresponding language-particular category covers. In other words, 
+shared-core definitions of general terms (§7) are fully acceptable.
+Before discussing the three definitions in (1)–(3) further (below in §§4–6), I will briefly re-
+view some reasons for the need for clear definitions (§2) and I will remind readers of the shaky 
+basis for some of the stereotypical terms of traditional “morphological typology” (§3).
+ 
+ Martin Haspelmath 
+9
+2. Why we need clear definitions
+The need for clear definitions of technical scientific terms would seem to be completely un-
+controversial, but in actual fact, linguists do not spend much energy on providing clearly defined 
+technical terms. Our scholarly associations do not have terminology committees, and my per-
+sonal experience shows that many colleagues are not really interested in questions of terminol-
+ogy (although they will admit in private that our terminology is often unclear). Terminological 
+questions are often seen as inextricably linked to substantive questions, and as long as we do not 
+make progress on these, these colleagues do not find terminological clarity urgent.
+But without clear terms, we will not be able to tell each other about whatever progress we 
+make on substantive questions, because we will not understand each other. So we must separate 
+our terminology from substantive questions. The latter may prove intractable for a long time 
+to come, but terminological issues are easier to make progress on, as I would like to show here. 
+I will discuss the three definitions in (1)–(3) and explain some of their ingredients (so that they 
+comply with principle A), and I hope that it will become clear that the definitions of the fre-
+quently used terms bound form and affix also comply with the principles B and C.
+In the domain of morphology, which has been the subject of linguists’ descriptions for hun-
+dreds of years, a particular problem that is not widely recognized is the existence of power-
+ful traditional stereotypes. It would seem obvious that a science cannot make progress with-
+out ridding itself of stereotypes, but linguists have been slow to recognize these in their ways 
+of talking about the structure of “words”. We have usually taken the existence of “words” for 
+granted, and we have traditionally treated “inflection” differently from other structures without 
+thinking much about these decisions.
+Since the beginning of the modern continuous tradition of European academic linguistics 
+in the 16th century, grammarians have been talking about “inflection” of “words”, without wor-
+rying much about how to recognize words and how to distinguish inflection from “particles” 
+of various types. On the other hand, lexicographers have been compiling dictionaries, with 
+“word” entries, which are quite separate from grammatical descriptions, and typically published 
+in different books. This practice continues until now, and the main innovation that was intro-
+duced in the 20th century is the term “lexeme” for a “dictionary word”. The term “word-form” 
+for a “grammar word”, coming from the Russian tradition (slovoforma; e.g. [Zaliznjak 1967; 
+Mel’čuk 1993–2000]), has not become equally widespread yet (but see, for example, [Haspel-
+math 2002]). 1 In addition, there are relationships between different lexemes that are listed in dic-
+tionaries, and these are usually described by rules of “derivation” (a 19th century term). So we 
+have the following stereotypical entities:
+(5) 
+grammar:    word-forms,   inflection    (described in paradigms)
+ 
+dictionary:   lexeme,        derivation   (described separately)
+But in actual fact, of course, there is a continuum between grammar and lexicon/dictionary (e.g. 
+[Jackendoff, Audring 2020]), so terms like those in (5) are perhaps not more than artifacts of the 
+European tradition of describing languages in two types of books. This need not be the case — it 
+might turn out that speakers do indeed organize their mental knowledge along similar lines (e.g. 
+[Pinker 1999]), but whether this is the case is a very difficult and unresolved substantive issue. 
+All too often, linguists simply presuppose that there is a distinction between inflection and deriva-
+tion, and between grammar and lexicon. But our current knowledge does not bear this out (see, e.g., 
+[Plank 1994; Spencer 2013] on the non-existence of a division between inflection and derivation).
+Moreover, there is a powerful stereotype of a “morphology vs. syntax” distinction. Morphol-
+ogists have their own journals, handbooks and conferences, but there are serious doubts that the 
+ 
+1 In the British tradition, the term grammatical word is sometimes used instead of word-form (cf. [Bauer 
+2019: 6]).
+10 
+Voprosy Jazykoznanija 
+2021. № 1
+“word” notion, which would be at the basis of such a distinction, is based on more than the tra-
+ditional spelling habits of European linguists (e.g. [Haspelmath 2011a; Tallman 2020]). If one 
+only lives in morphologists’ circles, one can have many local insights and lead a happy life, but 
+one will never find out whether morphology is a distinct domain of Human Language.
+When questioned about this, linguists often say in their defense that these traditional choices 
+have been “fruitful” or “inspiring”, which is no doubt the case, but there is no reason to think 
+that other choices could not have been equally inspiring and fruitful. And in the later 20th cen-
+tury, many generative linguists thought that there was a very rich innate grammar blueprint, con-
+sisting of many dozens or even hundreds of innate elements. On that view, it made sense to hy-
+pothesize that our technical terms correspond to innate elements of the human mind. But this 
+view has largely disappeared.
+Thus, there is no way around separating our concepts (and the terms for them) from the sub-
+stantive issues that we want to address. The question whether morphology is separate from syn-
+tax cannot be answered by presupposing the existence of morphology, but only by working 
+with low-level concepts that are independent of a possible syntax/morphology distinction, and 
+likewise independent of a possible inflection/derivation distinction. The terms bound form (1), 
+welded form (2), and affix (3) should be usable in attempts to answer such questions because 
+they do not depend on an answer to them. And the terms bound form and affix, which are already 
+widely used, should have a clear and widely accepted (retro-)definition, 2 because they are tech-
+nical terms that linguists expect to have a clear definition.
+3. Morphological comparison and “morphological typology”
+By “morphological comparison” as used in the title, I mean the study of differences and simi-
+larities between languages and between constructions of the same language with respect to gen-
+eral properties of “word-size forms” (where this is a vague term for forms that are roughly of the 
+size of words in typical European languages). So even if we do not presuppose anything about 
+the existence of a distinct “morphological component” in any language, we may still want to ad-
+dress some of the old questions in this domain.
+“Morphological typology” is an area with a well-known and well-rehearsed history (e.g. 
+[Horne 1970; Comrie 1989: §2.3; Payne 2017; Arkadiev 2020]), and the “types” in (6) with their 
+example languages are well-known stereotypes.
+(6) 
+isolating        Chinese
+ 
+agglutinative   Turkish
+ 
+flective         Sanskrit
+ 
+incorporating   Mohawk
+ 
+synthetic       Latin
+ 
+analytic         English
+In fact, for quite some time, the term “language typology” was strongly associated with this 
+kind of classification of languages, and it was only with Greenberg’s work (e.g. [1974]) that the 
+term came to be applied to a broader range of phenomena.
+But as with the inflection–derivation distinction and the syntax–morphology distinction, we 
+do not know whether the types in (6) are significant. They come from the early 19th century 
+ 
+2 By “retro-definition”, I mean a definition of an older (but undefined) term that captures the range of uses 
+of that term to a very large extent.
+ 
+ Martin Haspelmath 
+11
+[F. Schlegel 1808; A.W. Schlegel 1818; Humboldt 1822], and were proposed in a period of sci-
+ence when racial types were popular (in particular, Johann Friedrich Blumenbach’s division 
+of human populations into Caucasian, Mongolian, Malayan, Ethiopian and American races). 3 
+But these racial types have been thoroughly discredited for quite some time now and are agreed 
+to be not more than racist stereotypes, which should lead linguists to ask whether their morpho-
+logical stereotypes have any scientific basis.
+Again, in order to find out whether languages (or types of constructions) cluster significantly 
+in such a way that the terms in (6) have a real meaning, we need uncontroversial basic terms 
+which we can use to test specific hypotheses (see, e.g., [Haspelmath 2009] for an attempt to test 
+the “agglutination hypothesis”).
+Importantly, these basic terms must be comparative concepts (principle D), because languages 
+cannot be compared in terms of their building blocks. Each language has its own categories (de-
+fined in terms of its own system), so for comparison, we need concepts that apply to every lan-
+guage in the same way, regardless of the specifics of its unique system. This also means that the 
+definitions in (1)–(3) need not be applied in the description of particular languages — though 
+for reasons of transparency, we should of course define a language-particular “affix” concept 
+in a way that yields results similar to (3).
+Before moving on to some further discussion of each of the three terms (bound forms in §4, 
+welded forms in §5, and affixes in §6), I should note that there is no direct relationship between 
+the concerns of this paper and the various “frameworks” that have been prominent in the liter-
+ature on general morphology (a-morphous morphology, realizational morphology, Distributed 
+Morphology, Paradigm Function Morphology, and so on). Much of the time, these works seem 
+concerned with finding the innate building blocks of our biocognitive blueprint for grammar, 4 
+which are hypothesized to be the same for all languages. I think that this goal is premature, be-
+cause we do not know whether there are any domain-specific, let alone grammar-specific compo-
+nents to human linguisticality (= our biological capacity for language). Thus, I envisage a more 
+modest goal, namely to describe and compare the structures of languages systematically and 
+thoroughly, with the hope of finding generalizations that can eventually point us to larger causal 
+connections of diverse kinds. This is what most linguists do anyway in practice, so the present 
+paper should be of interest to any linguist, regardless of their wider interests and ultimate goals.
+4. Bound forms
+The first term that I discuss is the term bound (contrasting with free), which occurs in the 
+definition of affix in (3). The term is not uncommon in the literature, but it does not seem to be 
+very clear to many linguists what exactly it refers to, as they seem to associate boundness with 
+phonological properties. 5 However, a bound form is clearly defined in terms of lack of indepen-
+dent occurrence, 6 as in (1) (repeated from §1 above).
+ 
+3 Both Wilhelm von Humboldt (originating from Berlin) and the two Schlegels (originating from Han-
+nover) studied in Göttingen around 1790, when Blumenbach was teaching there, so the influence may 
+even have been quite direct.
+ 
+4 The innate blueprint for grammar is often called “universal grammar”, and sometimes simply “language 
+faculty”, e.g. in Anderson [2008: 811]: “[The] central goal of linguistics: the devising of ways to infer 
+the properties of the human language faculty from the available data”.
+ 
+5 A kind of sloppy terminology that one sometimes encounters is the wrong derived form “boundedness”, 
+instead of correct boundness. (Boundedness is the property of being bounded, which comes from the 
+verb to bound or the noun boundary. By contrast, bound(ness) comes from the verb to bind.)
+ 
+6 I use the expressions independent occurrence, occur on its own, and occur in isolation interchangeably.
+12 
+Voprosy Jazykoznanija 
+2021. № 1
+(1) 
+bound form
+A bound form is a form that cannot occur on its own.
+This simple and straightforward definition was given by Leonard Bloomfield (see 7a) when he 
+first introduced this term in his book Language, and it is found in many other influential works. 
+A selection of further quotations is given in (7b–f) (the emphasis in (a–c) is in the original).
+(7) 
+a. “A linguistic form which is never spoken alone is a bound form; all others … are free 
+forms.” [Bloomfield 1933: 160]
+ 
+b. “Some forms … have the property that on occasion they may occur as whole utter-
+ances… This property is freedom; forms that have it are free. Other segmental forms 
+are not free, and are therefore called bound.” [Hockett 1958: 168]
+ 
+c. “Forms which never occur alone as whole utterances (in some normal situation) are bound 
+forms; forms which may occur alone as utterances are free forms.” [Lyons 1968: 201]
+ 
+d. “Two types of bound morphemes are found attached to (free) words in many languages: 
+clitics and affixes, in particular inflectional affixes.” [Zwicky, Pullum 1983: 502]
+ 
+e. “A useful distinction which is often made is that between ‘free’ and ‘bound’ forms. 
+A free form can make up a complete word on its own, a bound form cannot. All affixes 
+are, by their nature, bound.” [Dixon 2010: 145]
+ 
+f. “We recognize the ability of words to stand alone by saying that they are free forms. 
+Units that are incapable of standing alone, such as affixes, are correspondingly called 
+bound forms.” [Aronoff, Fudeman 2011: 35]
+None of these authors link boundness to phonology, 7 so it is surprising that in actual prac-
+tice, linguists often talk about boundness as if it were somehow caused by a form’s phonological 
+properties (a search for “phonologically bound” on Google Ngram Viewer will readily confirm 
+this; see also the last paragraph of §5). Now it is true that many bound forms appear phonolog-
+ically deficient. For example, the Arabic person suffix -tu (as in katab-tu ‘I wrote’) has a short 
+vowel, the French definite article le has a schwa vowel, and the Russian preposition s ‘with’ has 
+no vowel at all. In Standard Arabic, all free forms have at least a long vowel (or more than one 
+vowel), and in French and Russian, all free forms have at least a full vowel. So these forms are 
+phonologically different from free forms, and can be seen as deficient.
+But phonological deficiency does not explain all cases of boundness. In many or most lan-
+guages, there are bound forms that are not phonologically deficient. For example, German -heit 
+(as in Weis-heit ‘wis-dom’) is phonologically complete, and so is Spanish -dor (as in refrig-
+era-dor ‘refrigerat-or’), but these forms do not occur on their own and are thus bound forms.
+Another term pair with the same meaning as bound /  free is the pair non-autonomous /  autono-
+mous (e.g. [Plungian 2000: 19]). However, these terms have not been used very widely (and note 
+that Lehmann’s [1982/2015] notion of “autonomy of a sign” is much broader).
+Independent occurrence (i.e. occurrence as a non-defective utterance) 8 is sometimes said 
+to be a problematic criterion because it cannot be investigated by the usual fieldwork methods, 
+ 
+7 Boundness should not be confused with Lehmann’s [1982/2015] notion of bondedness, which is defined 
+in very vague terms (including phonological properties): “The syntagmatic cohesion or bondedness 
+of a sign is the intimacy with which it is connected with another sign to which it bears a syntagmatic relation. 
+The degree of bondedness of a sign varies from juxtaposition to merger, in proportion to its degree of gram-
+maticality” [Lehmann 1982/2015: §4.3.2]. Linguists also sometimes use the odd expression “bound mor-
+phology”, which seems tautological (presumably non-bound forms are not morphological by definition).
+ 
+8 Of course, when someone is prevented from finishing an utterance (e.g. “a mosqui… ouch!”), the re-
+sulting partial expressions are not considered free forms, and neither are partial forms that only occur 
+in metalinguistic uses (e.g. “the English -ing form”).
+ 
+ Martin Haspelmath 
+13
+and because it is a matter of degree. Of course, no criterion is absolutely watertight, but I do 
+not think that the boundness status of a form cannot be investigated by the usual methods. 
+It may be necessary to set up entire dialogue situations and ask speakers about their naturalness, 
+which is not so easy, but which is necessary for other phenomena anyway. Short free forms are 
+likely to occur independently in elliptical situations, e.g. in answers to questions. Thus, wa-
+ter can occur on its own in English, in particular when answering a question (What would you 
+like?), but fork cannot occur on its own. For example, when asked Would you like chopsticks 
+or a fork?, the answer cannot be *fork, but must be a fork, showing that fork (unlike water) is 
+not a free form in English.
+One good thing about the criterion of independent occurrence is that it can very often be ob-
+served “in nature”. In actual conversations, speakers utter many short free forms, e.g. OK, true, 
+absolutely, hopefully, quickly, I don’t know, and so on. Thus, these forms are easy to recognize 
+as free forms. Recognizing bound forms as such is not so easy, because there is no positive cri-
+terion for boundness. A bound form is simply a form that is not free, i.e. that cannot occur on its 
+own. But in practice, almost all forms that are treated by grammarians as coordinators, sub-
+ordinators, discourse markers, (non-demonstrative, non-numeral) articles, flags (case-mark-
+ers or adpositions), tense and aspect markers, and agreement markers are bound forms. There 
+may be occasional cases of subordinators that can also be used as adverbs (e.g. English before), 
+or tense-aspect auxiliaries that can be stranded in elliptical yes-no answers (e.g. the Russian fu-
+ture-tense auxiliary, as in Da, budet ‘Yes, she will’), and these are free forms. But by and large, 
+there does not seem to be a big practical problem in distinguishing free forms and bound forms. 9
+The crucial advantage of the criterion of independent occurrence is that it can be applied in ex-
+actly the same way in all languages, and this is what we need for general concepts (principle D 
+in (4)). I know of no alternative concept that can give us a definition of “affix” and that can be 
+applied uniformly across languages, 10 so I take it as uncontroversial that we minimally need the 
+criterion of boundness to distinguish affixes from non-affixes.
+A bound form is sometimes bound to a specific type of form, which is called its host 
+(following Zwicky’s [1977] terminology), which means that it may occur next to this type 
+of form, but not next to other types of forms. For example, the English clitic ’s (from is) oc-
+curs following a subject nominal, but not following an adverbial (My friend’s at home; *My 
+friend usually’s at home). Affixes are bound to a root (as we will see in §6), and enclitics are 
+bound to a preceding host. Bound prepositions like Russian s ‘with’ will surely be said to be 
+bound to their complement nominal (e.g. s Volodej ‘with Volodja’), even if they are not re-
+garded as proclitics. But languages may also have clause-level particles that are not limited 
+to a particular type of host. For example, the German unstressed discourse particle ja cannot 
+occur on its own, 11 so it is a bound form. But it does not occur on a specific type of host, as il-
+lustrated by the examples in (8) (the particle ja is not reflected in the translation, as there is 
+no clear English counterpart).
+ 
+9 It may appear counterintuitive that some English nouns are free forms (water and the other mass nouns), 
+while most are bound forms in the singular (fork and the other count nouns). Similarly, while most 
+Russian case forms of nouns are free, Locative case forms are bound (e.g. v Moskv-e ‘in Moscow’ vs. 
+*Moskv-e [Moscow-loc], see [Plungian, Semionova 2016: 106]). But this situation is probably not un-
+common, even though it has not been widely remarked upon. If there is no expectation that boundness 
+is a particularly “deep” property of linguistic forms, it is not surprising.
+ 10 Sometimes the term “attached“ is used in defining affixes, e.g. in Bauer’s [2019: 124] definition of af-
+fix: “a morph which cannot stand alone in a sentence, but must be attached to a root to make a word.” 
+Bauer does not say what he means by “attached”, and the first sentence of the definition suggests that 
+the crucial property of an affix is indeed its boundness (in the sense of (1)).
+ 11 In addition to this particle, there is also a stressed discourse particle ja, and an answer particle ja ‘yes’. 
+These three elements have the same segmental shape, but very different semantic and syntactic proper-
+ties, so I treat them as three different forms.
+14 
+Voprosy Jazykoznanija 
+2021. № 1
+(8) 
+a. Sie arbeitet ja heute viel.
+ 
+b. Heute arbeitet sie ja viel.
+ 
+c. Sie arbeitet heute ja viel.
+‘She works a lot today.’ 
+Thus, the term bound does not entail any kind of “attachment” to anything. It merely refers 
+to the lack of independent occurrence. It is a separate question to what extent bound forms are 
+not only restricted in their independence, but also positionally. Impressionistically, it is surely 
+the case that bound forms are much more likely to be subject to rigid ordering rules than free 
+forms. But it seems that nobody has established this empirically by actually counting. And just 
+as there are some bound forms with multiple positional possibilities (as seen in (8)), there are 
+also many free forms that obey strict ordering rules. For example, money and more are both free 
+forms in English, but they can only be combined in one way (more money, not *money more).
+Finally, it should be noted that a bound form need not be a minimal form (i.e. a morph). 
+For example, Modern Greek has clitic person forms such as ton ‘him’, tin ‘her’, tus ‘(to) them’, 
+tu ‘to him’, and tis ‘to her’. They are bound person forms (or person indexes [Haspelmath 2013]), 
+but they are not minimal: They can be segmented as to-n [he-acc], ti-n [she-acc], t-us [he-pl.
+obl], t-u [he-gen], ti-s [she-gen], because there are other forms in the language that have these 
+kinds of suffixes. These combinations of morphs are constituents and are thus forms, 12 so they 
+are bound forms which are not morphs.
+Perhaps the most interesting recent discussion of boundness is found in Boye & Harder [2012: 
+29], who note that bound forms need not be grammatical forms, but grammatical forms are al-
+ways bound because they are by their very nature discursively secondary. The boundness property 
+is thus not linked to any architectural properties of language (syntax vs. morphology) or to pho-
+nological properties, but to the way languages organize information in discourse.
+5. Welded forms
+Another widely used metaphor that goes back to American linguistics of the first half of the 
+20th century is “fusion”: the idea that morphological elements can show degrees of “coales-
+cence”, rather than being “mechanically combined” with each other. 13 Sapir [1921] gave the 
+examples of high /  heigh-t and deep /  dep-th, where the root and the affix “cannot be torn apart 
+quite so readily as could the good and -ness of good-ness”. Now my question is how this met-
+aphor can be translated into a clearly definable criterion.
+First of all, it is important to distinguish two different phenomena that are often conflated 
+when discussing the distinction between agglutination and flection: cumulation (= joint expres-
+sion) of two grammatical meanings or distinctions, and phonological variation. The metaphor 
+of “fusion” is often associated with the idea of “lack of clear morpheme boundaries” (e.g. [By-
+bee 1985: 45]), and of course, there are no “morpheme boundaries” in a cumulative affix like -ov 
+ 12 See [Haspelmath 2020] for the definition of the terms morph and form. (A form must be a constituent, 
+but how exactly this term is defined is not fully clear. So the notion of ‘a form’ must probably be taken 
+as a quasi-primitive concept; see principle A in (4).)
+ 13 Sapir’s [1921] use of the “mechanic” metaphor echoes F. Schlegel’s [1808] contrast between “me-
+chanic” (= agglutinative) and “organic” inflection. Schlegel was not very explicit about the meaning 
+of the latter, but he seems to have meant the Indo-European ablaut inflection where one might see more 
+“coalescence” of the forms. (Of course, Schlegel’s organic vs. mechanic contrast was associated with 
+a value judgement — he regarded the Indo-European patterns as superior. Sapir rejected this view, but 
+still continued to use the “mechanic” metaphor.)
+ 
+ Martin Haspelmath 
+15
+for Genitive Plural in Russian (e.g. [Comrie 1989: 45]). But the presence of cumulation (which 
+is widespread for case and number in conservative Indo-European languages) is quite different 
+from the presence of phonological variation — the latter is extremely common in the world’s lan-
+guages. Many affixes are like -th in English heigh-t and dep-th in that they either have shape 
+variants themselves (-th vs. -t) or trigger shape variants in their host (deep vs. dep-). For such 
+phenomena, I suggest we use the new term welded form:
+(2) 
+welded form
+A welded form is a bound form which has shape variants phonologically conditioned by its 
+host, or which phonologically conditions shape variants of its host.
+A few more examples of welded forms are given in (9)–(12).
+(9) 
+welded non-roots with shape variants
+ 
+a. Russian ‘with’             s toboj ‘with you’     vs. so mnoj ‘with me’
+ 
+b. English indefinite article   a pear                vs. an apple
+ 
+c. German 3rd singular        komm-t ‘comes’      vs. find-et ‘finds’
+ 
+d. Japanese past tense        mi-ta ‘saw’           vs. yon-da ‘read (pst)’
+ 
+e. Russian reflexive suffix    myl-sja ‘he washed’   vs. myla-s’ ‘she washed’
+(10) welded non-roots that condition shape variants
+ 
+a. English plural      wife           vs. wive-s
+ 
+b. Polish plural        Polak ‘Pole’   vs. Polac-y ‘Poles’
+ 
+c. Romanian plural    cal ‘horse’     vs. ca-i ‘horses’
+(11) welded roots with shape variants
+ 
+a. Russian ‘crumple’   mja-t’ [crumple-inf]        vs. mn-u [crumple-prs.1sg]
+ 
+b. Spanish ‘say’        dig-o [say-prs.1sg]         vs. dic-e [say-prs.3sg]
+ 
+c. Polish ‘mother’      matk-a [mother-nom.sg]    vs. matc-e [mother-dat.sg]
+(12) welded roots that condition shape variants
+ 
+a. Russian infinitive            mo-č’ [be.able-inf] (root mo(g)-)  vs. pe-t’ [sing-inf]
+ 
+b. Gothic nominative singular  harj-is ‘army’                     vs. haird-eis ‘shepherd’
+Even though a welded form is defined as a kind of bound form, 14 we may say that two ele-
+ments that occur together are “welded together” if only one of them is welded in the sense of (2). 
+For example, the two forms in pass-ed can be said to be welded together even though only the 
+suffix is welded.
+It is actually not so clear in what sense welded forms conform to the “fusion” metaphor 
+because there is no problem with identifying the morph boundaries in (9)–(10) (and in Sa-
+pir’s original examples heigh-t and dep-th, there is no problem with boundaries either). There 
+is “coalescence” (“growing together”) in the sense that two forms that are welded together 
+ 14 Of course, free forms may also have shape variants that are phonologically conditioned, e.g. English 
+write, which has the shape variants [raɪt] and [raɪɾ] (in writ-ing). But intuitively, the intimacy of the pho-
+nological connection between adjacent forms is relevant only to the nature of bound forms, and this is 
+reflected in the definition in (2).
+16 
+Voprosy Jazykoznanija 
+2021. № 1
+typically have a history of occurring in a sequence, which made the phonological change 
+possible.
+So it seems to me that the new term welded is more suitable for the sense in (2), for which 
+“fused” has sometimes been used. 15 For example, Bybee [1985: 4–5] talks about the “de-
+gree of morpho-phonological fusion of an affix to a stem”, by which she means “the extent 
+to which the stem and affix have a morpho-phonemic effect upon one another”. But note that 
+weldedness as defined in (2) is not a matter of degree: Either a bound form is welded or it 
+is not welded.
+The sense in (2) was also prominent in Alpatov’s [1985] proposal for classifying bound forms 
+in the world’s languages (see [Arkadiev 2020: §2] for recent discussion of Alpatov’s paper). 
+He distinguished three types of grammatical markers:
+(13) a. flexions:          attached directly, shape variants
+ 
+b. formants:         attached directly, no shape variants
+ 
+c. function words:   separable by free forms
+The distinction between unwelded and welded forms is very much in the spirit of Alpa-
+tov’s distinction between flexions and formants (see also [Alpatov 2018]).
+I should now add a few remarks about the precise meaning of shape variants in (2). There 
+are three clear ways in which a grammatical meaning may be expressed in a variable way, ex-
+emplified by (14a–c).
+(14) a. automatic phonetic alternations
+ 
+ 
+English    let [let]                  vs. lett-ing [leɾɪŋ]
+ 
+ 
+Spanish    veo [beo] ‘I see’         vs. lo veo [loβeo] ‘I see it’
+ 
+ 
+German   leb-en [leːbən] ‘live‘     vs. leb [leːp] ‘live (impv)‘
+ 
+ 
+Russian    nós-it [ˈnosʲɪt] ‘carries’   vs. nos-í [nɐˈsʲi] ‘carry (impv)’
+ 
+b. morphophonological alternations (shape variants of the same form)
+ 
+ 
+Polish     mlek-o ‘milk‘     vs. mlecz-ko ‘milk (dim)’ 
+ 
+ 
+English    wife              vs. wive-s
+ 
+ 
+Spanish    cont-ar ‘count’   vs. cuent-o ‘I count’
+ 
+ 
+Russian    zamok ‘castle’    vs. zamk-i ‘castles’
+ 
+c. suppletive alternations (different forms)
+ 
+ 
+English    plural      cow-s                    vs. ox-en
+ 
+ 
+Latin      future      lauda-bi-t ‘will praise’   vs. audi-e-t ‘will hear’
+ 
+ 
+Russian    plural      knig-i ‘books’            vs. pis’m-a ‘letters’
+ 
+ 
+M. Greek  genitive   spiti-u ‘of the house’     vs. poli-s ‘of the city’
+ 15 One might say that there is “true fusion” of two elements if the “resulting form” shares features of both 
+“underlying forms”, as in Russian moč’ ‘be able’ (12a), which may be said to be “fused” from mog- 
+[be.able] plus -t’ [inf] (cf. [Plungian 2001: 670]). However, this presupposes an abstract analysis 
+in terms of “underlying” and “derived” forms, which cannot be done in an objective way that would be 
+suitable for cross-linguistic comparison and general linguistics.
+ 
+ Martin Haspelmath 
+17
+By shape variants, I mean in particular the morphophonological alternations as in (14b). 
+The suppletive morph sets in (14c) are not included, because they are clearly different forms, not 
+shape variants of the same form [Haspelmath 2020]. In the same way, automatic phonetic alter-
+nations of the type (14a) are typically excluded from discussions in morphology because they 
+are regarded as being purely a matter of phonology, so they should not count as shape variants. 
+To make this clearer, the definition in (8) could be made more precise, to say “A welded form 
+is a bound form which has non-automatic shape variants…”. I have not done this, because the 
+definition is already fairly complex (almost too complex for principle B).
+Unfortunately, while everyone agrees that the three broad types in (14a–c) are different, lin-
+guists have not found ways of drawing clear boundaries between them, despite looking for such 
+boundaries for decades. For example, is the English alternation between [-d] and [-t] in the En-
+glish past-tense suffix an automatic alternation (14a) or a morphophonological alternation (14b)? 
+This is hard to say, because it does not occur in other forms, and there are not many similar al-
+ternations (though the related [-s/-z] alternation in plural forms suggests that it is an automatic 
+alternation). There was a lot of work on drawing the boundaries between automatic and morph-
+ophonological alternations in the 1980s and 1990s (often in terms of “postlexical” vs. “lexical” 
+behaviour of “affixes” and “clitics”, e.g. [Dressler 1985; Miller 1992; Anderson 1992; Halp-
+ern 1995; Kiparsky 1996; Monachesi 1999]). I do not have anything to contribute to the ways 
+in which the boundaries should be drawn here, so I will not say more about this. 16 Note also that 
+phonologically conditioned shape variants need not be due to an adjacent bound form: In the 
+Spanish contrast between contár and cuénto (14b), the stem change is conditioned by stress. Pro-
+sodic properties also seem to be important for many people’s intuitive notion of “fusion”, but 
+they are left out of consideration here (this would be a separate project).
+I conclude that the notion of welding as defined here can serve as the basis for further research 
+to explore the intuition that phonological interactions involving bound forms have larger signifi-
+cance (as in Bybee 1985, and in much of the literature on “fusion” vs. “agglutination”). It seems 
+best to avoid the vague term “fusion”, and it also seems wise to avoid talking about “phonologi-
+cal boundness”. This latter term is actually used quite commonly, but I have never seen it defined 
+in a textbook or survey article. We saw in §4 that boundness, as usually defined in the literature, 
+has nothing to do with phonological properties. Thus, when linguists talk (loosely) about “pho-
+nological boundness”, what they actually seem to have in mind is weldedness. 17
+6. Affixes
+To conclude the discussion of the three key terms that were introduced in §1, let us look at the 
+term affix. For a long time, I was not sure how to define an affix, because the literature shows 
+that the various criteria that have been given for distinguishing between affixes and clitics do not 
+ 16 However, it is important not to confuse “(morpho-)phonological variants” with “phonologically condi-
+tioned variants”, as is sometimes done. For example Alpatov [1985: 94] describes Turkish vowel har-
+mony variants as “phonologically conditioned variation”, when in fact he means “purely phonological 
+variation” (i.e. 14a). Crucially, suppletive alternations as in (14c) may also be phonologically condi-
+tioned, even though the forms that vary are not phonologically similar (e.g. the Dutch plural suffixes 
+-en and -s, whose distribution depends on the phonological properties of the host noun).
+ 17 Some linguists seem to use “phonologically bound” also when an element is somehow prosodically de-
+pendent, e.g. by lacking its own stress properties (like Ancient Greek clitics; I did this in [Haspelmath 
+2002: §8.2]). It is for such “obligatorily stressless” elements that one could perhaps justify the idea that 
+phonologically deficient elements cannot occur on their own (cf. the discussion in §4). However, as just 
+noted, I leave prosodic properties out of consideration in the definitions of this paper. By lumping sev-
+eral different properties together (as I did in [Haspelmath 2002]), one is not likely to find phenomena 
+that are comparable across languages.
+18 
+Voprosy Jazykoznanija 
+2021. № 1
+converge [Haspelmath 2011b; 2015; Bickel, Zúñiga 2017]. The approach proposed by Zwicky & 
+Pullum’s [1983] famous paper does not yield clear results in the world’s languages.
+However, once one adopts the principle E in (4), namely that our comparative defini-
+tions may be definitions of the shared core of what is found in languages, we can define affix 
+as in (3).
+(3) 
+affix
+An affix is a bound morph that is not a root, that must occur on a root, and that cannot oc-
+cur on roots of different root classes.
+Tense suffixes (almost) always occur on verbs, possessive prefixes always occur on nouns, 
+and comparative suffixes always occur on adjectives. By contrast, typical clitics occur on words 
+of various classes. For example, the Russian interrogative enclitic li can occur on verbs (znaeš’ 
+li? ‘do you know?’), adjectives (zdorov li? ‘is he well?’), adverbs (zdes’ li? ‘here?’), and so on. 
+Recall also the example of the German clause-level particle ja in (8a–c) above, which is not an af-
+fix even though it is a bound form. The definition in (3) does not make reference to weldedness 
+at all, and this seems right, because some elements that are clearly not affixes are welded forms 
+(e.g. the English indefinite article: a or an, depending on the phonological context).
+So for a large class of elements, this definition immediately makes the right subdivisions. 18 
+It also conforms with Alpatov’s [1985: 95] definition of “function words” as opposed to “flex-
+ions/formants” (cf. 13 above): Alpatov says that the main feature of function words that distin-
+guishes them from affixes is that “other lexical units” can occur between them and “the stems 
+to which they belong”. For example, the Russian preposition v ‘in’ might be said to be an affix 
+by Zwicky & Pullum’s criteria, because the shape variants v and vo are distributed in a partly 
+idiosyncratic way. However, as Alpatov notes, it does not always occur immediately next 
+to the noun (“the stem to which it belongs”), but can be separated from it by adjectives (e.g. 
+v bol’šom dome ‘in (a) big house’). Plungian [2000: 21] calls this property of non-affixes sep-
+arability. In the parlance of the definition in (3), we would say that the preposition v can oc-
+cur “on noun roots”, but also “on adjective roots”. Thus Russian v, as well as all other Russian 
+prepositions, are not prefixes.
+Another example is the English indefinite article. The shape variants a and an cannot be due 
+to an automatic phonetic alternation, but the article is not a prefix, because it can occur not only 
+on nouns (a house, an apple), but also on prenominal adjectives (a big house, an open house).
+In the same vein, Polish person-marking clitics are not “floating affixes” (e.g. [Crysmann 
+2006]), because they can occur on roots of different classes:
+(15) a. W   domu        to     zrobili꞊ście?
+in    house         that   did꞊2pl
+‘Did you do that at home?’
+ 
+b. W   domu꞊ście   to     zrobili?
+in    house꞊2pl     that   did
+‘Idem’
+These forms have long been a thorny problem in Polish because they are welded forms (in that 
+they occasionally influence the shape of their host). But weldedness and affixhood can some-
+times go different ways.
+Now what exactly is meant by “occurring on a root”? Many affixes occur not immediately 
+adjacent to a root, but are (or may be) separated from it by another affix, e.g. Latin person-num-
+ber suffixes (-s, -isti, etc.)
+ 18 But it is not compatible with the idea that there can be “phrasal affixes” (e.g. [Anderson 1992; Börjars 
+2003]), although an affix may of course occur at the edge of a phrase (cf. the discussion of Japanese 
+flags in the last paragraph of this section).
+ 
+ Martin Haspelmath 
+19
+(16) a. lauda-s       ‘you praise’
+ 
+b. lauda-bi-s    ‘you will praise’
+ 
+c. lauda-v-isti   ‘you have praised’
+These are affixes because they occur next to other elements that are affixes, too. If the future 
+form -bi and the perfect form -v were not affixes, then person forms like -s and -isti would not 
+be affixes either. So we need to define the notion of “occurrence on a root” as follows:
+(17) occurrence on a root:
+A bound form X is said to occur on a root Y if it occurs directly next to the root or next 
+to an affix that occurs on the root.
+This gives the desired result for a large number of affixes that always occur on nouns (pos-
+sessive affixes, number affixes, case affixes, various types of derivational affixes), affixes that 
+occur on adjectives (comparative and superlative affixes, attenuative affixes, abstract-noun 
+affixes), and affixes that occur on verbs (voice, aspect, evidentiality, tense, mood, argument 
+affixes). 19
+If a bound form occurs next to another bound form that is not an affix itself, it does not qualify 
+as an affix. Consider the Turkish examples in (18), where the question is whether person-num-
+ber indexes like -sun [2sg] are suffixes.
+(18) a. gel-iyor-sun      [come-prog-2sg]      ‘you are coming’
+ 
+b. gel-iyor mu-sun   [come-prog qp-2sg]   ‘are you coming?’
+ 
+c. su mu             [water qp]             ‘water?’
+Based on the spelling (and maybe also on the vowel harmony), one might think that -sun 
+is a suffix in (18a), but it follows the question particle mu, as seen in (18b). This question par-
+ticle is not root-specific, but can also occur on a noun (in 18c), so it is not an affix (and Turk-
+ish spelling does not treat it as such). Therefore, the bound person marker -sun is not an affix 
+by the definition in (3).
+Note also that there is no need, on the definition given here, to say which form an affix “be-
+longs to” (cf. Alpatov’s formulation earlier in this section). While it is perhaps clear that a com-
+parative affix “belongs to” an adjective, and a plural affix “belongs to” a noun, this is much less 
+clear in other cases, because affixes often have a larger semantic scope. Thus, a case affix may be 
+said to belong to the entire nominal whose role it marks, and not merely to the noun. And a tense 
+affix may be said to belong to the entire clause (or at least the entire predication) whose tem-
+poral location it expresses, not merely to the verb. But if a bound role marker always occurs 
+on nouns, it is a case affix, and if a bound tense marker always occurs on verbs, it is a tense af-
+fix, regardless of its semantic scope.
+The formulations in (3) and (17) are neutral with respect to ordering, so they do not exclude 
+the possibility of affixes that occur on different sides of the root under different conditions. Thus, 
+the bound person forms for objects in the Romance languages are affixes, because they always 
+occur on verb roots. Italian object “clitics” as in (19) are discussed by Monachesi [1999] (though 
+her reasons for a treatment as affixes rather than clitics are far more complex).
+(19) Italian
+ 
+a. mi da     ‘gives to me’ (indicative)
+ 
+b. da-mmi   ‘give to me’ (imperative)
+ 19 Note that the definition is recursive in that an affix may occur next to an affix that itself occurs next 
+to an affix, and so on.
+20 
+Voprosy Jazykoznanija 
+2021. № 1
+The next question is: What exactly does it mean that a bound form occurs on roots of “differ-
+ent classes”? Recall from principle D above that the definitions must apply in the same way to all 
+languages, so there can only be one answer: The root classes must be the three classes in (20).
+(20) a. noun = thing root
+ 
+b. verb = action root
+ 
+c. adjective = property root
+It is only these three root classes that can be used in cross-linguistic comparison because they 
+can be identified in all languages (cf. [Croft 1991; Haspelmath 2012; 2021]).
+There may be other kinds of elements that we may be tempted to call “roots” (maybe “pronoun 
+roots”, or “temporal adverb roots”), but there does not seem to be any need to include them, because 
+they are marginal in one way or another. This also means that we can define the term “root” as in (21).
+(21) root
+A root is a morph that denotes a thing, an action, or a property.
+This is important for the definition of affix because an affix is defined as a non-root morph. 
+There have been many attempts to distinguish affixes from roots in other ways (cf. the discussion 
+in [Plungian 2000: §I.3.1]), but I think that we need a simple way of defining affixes, as a type 
+of bound morphs that are not roots. (One may also say that an affix is a marker that cannot oc-
+cur on roots of different root classes, because the term marker is best defined as a bound morph 
+that is not a root, in the sense of (21).)
+Now what about case-markers that may occur both on nouns and on adjectives (e.g. Latin 
+hort-us nov-us ‘new garden (nominative)’, hort-i nov-i ‘of the new garden (genitive)’, etc.)? And 
+what about gender markers that occur both on adjectives and verbs (e.g. Russian byl-a interesn-a 
+‘was interesting’, with feminine singular -a)? Or plural markers that occur on nouns and adjec-
+tives (e.g. Spanish casa-s nueva-s ‘new houses’). The answer is perhaps surprising: These are 
+not affixes by the definition in (3). But I think that it is the right answer after all, as I will dis-
+cuss in the next section (§7). 20
+However, it should be noted that while the definition of affix given in this section should be 
+acceptable for the discipline of linguistics, this in no way implies that affixhood (or a notion 
+of wordhood that might build on it) must be significant for understanding Human Language. 
+It could still be that our propensity to use the term “affix” is more based on European spelling 
+habits than on anything in languages. To see the problem, let us briefly compare Russian prep-
+ositions (e.g. v ‘in’, s ‘with’, na ‘on’) and Japanese case-markers (e.g. nominative ga, accusa-
+tive o, dative ni). The former are not prefixes (as we saw), but the latter may well be suffixes, 
+because they seem to only occur on nouns. If this is the case (see [Spencer, Otoguro 2005: §5] 
+for discussion of these elements), then what can we conclude from this? It does not really seem 
+to tell us anything about the nature of these forms, because it has to do with the order of nouns 
+and adjectives: In Russian, adjectives are prenominal, so that NP-initial flags cannot be prefixes 
+(by our definition). In Japanese, nouns are always final in the noun phrase, so NP-final flags are 
+suffixes. But this seems to be a fact about the order of adjective and noun, not a fact about the 
+nature of the role-marking elements (for this reason, the term flag is better suited for compar-
+ative purposes, as noted in [Haspelmath 2019]). 21 Since the subdivision of grammar into mor-
+ 20 A reviewer notes that one could distinguish different degrees of word-class sensitivity. I have defined 
+affix as showing strong sensitivity (being limited to a single root class), while stereotypical clitics show 
+no sensitivity at all. Eventually, we want to measure such differences, and one could of course use a dif-
+ferent cut-off point for the term affix. The choice proposed here is also driven by considerations of sim-
+plicity (principle (B) in (4); see also note 25 below).
+ 21 In Basque, an SOV language that shares some typological features with Japanese, adjectives happen 
+to follow nouns. As a result, the Basque flags are postpositions, not suffixes, but this is hardly a signif-
+icant difference between Japanese and Basque.
+ 
+ Martin Haspelmath 
+21
+phology and syntax seems to be (at least in part) based on the difference between affixes and 
+“words”, these accidental factors in the identification of affixes indicate that there is probably 
+no deeper significance to this traditional subdivision.
+7. Shared-core definitions of comparative concepts
+All languages consist of extremely complex sets of forms and regularities, and they are harder 
+to compare than the stereotypical cases may suggest. Historical linguists and lexical typologists 
+routinely compare words of different languages based on their meanings, and study phenomena 
+such as colexifications (e.g. [List et al. 2018]). But even very simple phenomena such as ‘hand/
+arm’ colexification are not completely straightforward, because a language might have two dif-
+ferent terms, with one of the terms meaning ‘hand plus forearm’ (cf. [Brown 2005] for discus-
+sion). So when we treat such a language in the same way as English (rather than like Russian, 
+which has a single word, ruka, for ‘hand or arm’), we are ignoring some aspects of the diversity.
+But this is unavoidable, because the goal of cross-linguistic comparison cannot be complete 
+comparison of all aspects of a language. We always need to focus on some parts where the com-
+parison seems particularly fruitful. Bickel & Nichols [2013] are explicit about this in their WALS 
+chapters about morphological typology: Instead of considering the entire range of case mark-
+ers and tense-aspect-mood markers, they focus on a single characteristic marker (a grammati-
+cal case marker, a past tense marker, etc.).
+Likewise, technical terms that are intended for general comparison cannot be defined in such 
+a way that they always cover the entire range of phenomena in a particular language. When ret-
+ro-defining an existing term, we need to focus on the shared core of what the term denotes in the 
+actual literature (cf. principle C and E). Since [Foley, Van Valin 1977] at the latest, it has been 
+known that the term “subject” cannot be defined in such a way that it covers all the relevant 
+phenomena in each individual language, and at the same time applies to all languages. So Com-
+rie [1978] and Dixon [1979] proposed to use the terms S, A and P for those arguments of verbs 
+that are readily comparable across languages, and Dixon used “subject” in the sense of “S or A” 
+(what Kibrik [1997: 291] calls “principal”). This does not cover all cases, because “dative sub-
+jects”, “expletive subjects” and all kinds of other phenomena in various languages are not in-
+cluded, but it certainly covers the shared core of what linguists have called “subject”. It allows 
+us to make general and comparative statements (e.g. “Both Russian and Persian show agreement 
+of the verb with the subject”), even though it does not extend to special cases. The role-types S, 
+A and P are defined with respect to a rather narrow set of verb types (single-argument change-
+of-state verbs, two-argument physical-effect verbs), but it is only with verbs of this type that lan-
+guages behave uniformly [Haspelmath 2011a]. So strictly speaking, experiential verbs (including 
+common perception verbs like ‘see’) are not included in the general definition. But in practice, 
+this does not matter much, because there is no question which argument is the English Subject 
+in Kim saw her. There is also no question how to call this syntactic function in English (Subject, 
+because it matches the general “subject” quite well).
+So cross-linguistic comparison removes some language-particular facts from consideration 
+for purposes of general linguistics, but in cases like “subject”, this is not a problem, because the 
+shared core can still be compared in alignment typology in a very fruitful way. Likewise, I think 
+that it is not a problem that the definition of affix in (3) is a shared-core definition. It does not 
+cover all phenomena that have been called affixes in particular languages, and that we proba-
+bly want to continue to call affixes. For example, Russian has several participial forms of verbs 
+that can themselves take number-case suffixes, e.g. znajušč-aja ‘knowing (nom.sg.f)’, zna-
+jušč-uju ‘knowing (acc.sg.f)’, znajušč-ix ‘knowing (gen.pl)’. But these number-case suffixes 
+occur not only on such verbs, but also on adjectives, e.g. bol’š-aja ‘big (nom.sg.f)’, bol’š-uju 
+‘big (acc.sg.f)’. So are these elements affixes or clitics? Well, from a Russian perspective, we 
+22 
+Voprosy Jazykoznanija 
+2021. № 1
+want to say that they are Russian Affixes. But from the general perspective of the definition in (3), 
+they are not affixes. This may at first sound unintuitive, but it is no more problematic than say-
+ing that in Kim saw her, Kim is not a subject from a general perspective.
+Cross-linguistic comparison must concentrate on those aspects of languages that are com-
+parable, and as a consequence, general definitions of grammatical terms must often be defined 
+in terms of a shared core of phenomena. Not all grammatical terms require a shared-core defi-
+nition (the term bound of §4 can be used cross-linguistically in the same way as in particular 
+languages, because the definitional criterion of independent occurrence is so simple), but many 
+of them do. However, we have seen that it is not problematic in any way.
+8. Back to “morphological typology”
+Now that we have clear definitions of the terms bound, welded and affix, does this help us 
+with the “morphological types” that go back to the Schlegels and Humboldt (§3)?
+Let us consider a set of straightforward expressions for location in five languages, correspond-
+ing to five of the six types in (6) above.
+(22) a. Mandarin Chinese   zài Shànghǎi   ‘in Shanghai’     (isolating?)
+ 
+b. Turkish              İstanbul’da     ‘in Istanbul’      (agglutinating?)
+ 
+c. Latin                Brundisi-i      ‘in Brundisium’   (flective?)
+ 
+d. Sanskrit             Śiv-e           ‘in Śiva’          (synthetic?)
+ 
+e. English              in Glasgow                       (analytic?)
+The affix concept of §6 allows us to say that the Turkish, Latin and Sanskrit markers are af-
+fixes, as opposed to the Chinese and English markers, which can occur on roots of different 
+classes (both English and Chinese nouns may be preceded by modifying adjectives). So these 
+examples might be taken to exemplify the common definition of isolating languages in terms 
+of “lacking morphology”. The term “analytic” does not seem to have a meaning different from 
+“isolating” (in practice, it is not much used for classifying entire languages, but it is often used 
+for “analytic constructions”; cf. [Haspelmath, Michaelis 2017]).
+Now this might be taken as a basis for computing indexes of analyticity/isolation and syn-
+theticity along the lines of Greenberg [1960] (see [Payne 2017: 82–87] for recent discussion). 
+We might identify roots and affixes in corpora of different languages and count how many affixes 
+there are in each language. 22 But would this help us distinguish types that are relevant beyond 
+this counting exercise? Recall from §6 (last paragraph) that the distinction between an affix and 
+a non-affix may have to do with word order possibilities. This can also be illustrated by Hebrew, 
+which has a preposed locative marker like Chinese and English.
+(23) Hebrew   be-Ħaifa   ‘in Haifa’
+But Hebrew has no prenominal adjectives, so the “preposition” be- is actually a prefix by the 
+definition in §6. As a result, Hebrew but not Chinese or English would be synthetic on this 
+count, just as Japanese but not Basque would be synthetic (see note 21). This would be consis-
+tent, but apparently unrevealing. The widespread idea that “morphology” is somehow “com-
+plex” while “isolating” structures are “simple” (cf. [Gil 2008]) is thus not straightforward at all. 
+ 22 But recall that this would allow us to count only those elements that are affixes on verbs, nouns and ad-
+jectives. Elements which occur on personal pronouns, on demonstratives, on auxiliary verbs etc. could 
+not be counted. So the counts would not be exhaustive (cf. §7), but apparently still representative.
+ 
+ Martin Haspelmath 
+23
+Placing a grammatical marker in a fixed position where it is always next to verb or a noun is not 
+more complex than placing it in a fixed position where it is always at the beginning of a noun 
+phrase or a verb phrase.
+Next, what about the difference between agglutinative and flective languages? One might say 
+that agglutinative languages are those with few welded forms, both among the roots and among 
+the affixes, while flective languages are those with many welded forms (using the new term 
+welded form of §5). Plungian [2001: §2.1–2] discusses the flective type in these terms, as does 
+Payne [2017: 87]. So what about Turkish, the language that is always mentioned as a paradigm 
+case of an agglutinative language (cf. 22b)? It is well-known that Turkish has suffixes which vary 
+by vowel harmony (and a kind of consonant harmony), e.g. İstanbul’da ‘in Istanbul’ vs. Paris’te 
+‘in Paris’. So is the locative suffix -da/-de/-ta/-te welded, according to our definition? I would say 
+that it is, because vowel harmony is a morphophonological alternation, not an automatic pho-
+netic alternation (recall the three-way distinction in (14)). But as I said, the precise boundaries 
+are not agreed among linguists, 23 and it would take a major effort to come up with clear types 
+and technical terms for them that can be applied in an objective way.
+But Plungian and Payne also add cumulation as an additional ingredient of flective lan-
+guages, in line with the earlier literature. 24 For example, like Latin and Sanskrit in (22c–d), 
+Russian shows cumulation of case and number meanings (24a), while Modern Armenian does 
+not (24b).
+(24)                 nom.sg   ins.sg    nom.pl     ins.pl
+ 
+a. Russian      sten-a    sten-oj    sten-y       sten-ami    ‘wall(s)’
+ 
+b. Armenian   ban-∅    ban-ov    ban-er-∅   ban-er-ov   ‘thing(s)’
+But is cumulation closely related to weldedness of forms? As I noted earlier, cumulation is not 
+common, while welded forms are extremely common in the world’s languages. And in an earlier 
+preliminary study (Haspelmath 2009), I did not find that weldedness correlates with cumulation.
+The technical terms defined in the present paper do not allow us to make progress with re-
+gard to cumulation, because cumulation can be identified only if it is fully clear which gram-
+matical meanings are expressed by a form. And this is rarely as clear as in the classical number 
+and case paradigms. For Spanish verb inflection, Payne [2017: 88] notes that the form habl-ó ‘s/
+he spoke’ could be said to express five meanings (or “categories”): indicative mood, third per-
+son, singular number, past tense, and perfective aspect. But whether “perfective” and “past” are 
+separate meanings is not quite clear (the aspectual contrast is not relevant for present and future 
+tenses), and the “indicative meaning” is also not fully clear (there is no future subjunctive, and 
+“subjunctive” forms are as much syntactically as semantically determined). So before we can 
+compute a general “cumulation” index, we would have to find a way to determine the number 
+of grammatical meanings that a form expresses.
+Thus, the new, rigorously defined terms of the present paper help us only in limited ways 
+in understanding whether the old “morphological typology” still has any value. It may well be 
+that it will have to go the way of Blumenbach’s classification of human races, and it may be wise 
+for the moment to continue to put question marks behind all these terms (as was done in (22)).
+ 23 Alpatov [1985: 94] regards Turkish vowel harmony as purely phonological, not morphophonological 
+(i.e. (14a), not (14b)). The reason why I do not regard it as an automatic phonetic alternation is that it 
+is violated in many Turkish roots (of Arabic or Persian origin). Its effects can be seen by linguists also 
+in non-borrowed roots, but it is obligatory in the language system only in morphological/morphosyn-
+tactic contexts.
+ 24 In addition, Plungian mentions suppletive alternations as in (14c) (cf. also [Haspelmath 2009]). These 
+are sometimes mentioned as typical of flective languages, but they do not seem to have anything to do 
+with “fusion” or “lack of clear morpheme boundaries” (so maybe they are mentioned primarily because 
+they are common in Indo-European).
+24 
+Voprosy Jazykoznanija 
+2021. № 1
+9. Back to the purposes of general terminology in linguistics
+It should have become clear by now that the simple definitions of common terms (bound form, 
+affix, root) proposed in this paper are not based on brilliant new insights on how the perennial 
+problems of grammatical terminology can be solved. However, what is probably quite new here 
+(compared to attempts such as [Bloomfield 1933; Hockett 1947; Mel’čuk 1982; Mel’čuk 1993–
+2000]) are two realizations:
+(25) General linguistics must be based on comparative concepts, 
+ 
+while particular linguistics must be based on language-particular categories.
+(26) Widely used terms must be defined clearly as comparative concepts.
+The first entails that the definitions must be independent of language-particular phenomena 
+(principle D in (4)), which rules out many of the criteria that have been discussed in the liter-
+ature. Of course, if one decided to follow the approach of “building block uniformity” (as is 
+characteristic for traditional generative grammar), then the picture would look rather differ-
+ent: One may hypothesize that a category such as “affix” or “clitic” is an element of our in-
+nate grammar blueprint, and then there is no limit to the kinds of symptoms that one might 
+use to identify affixes or clitics (cf. [Haspelmath 2015]). But if one has no great trust in a rich 
+set of innate grammatical elements, then one must base general linguistics on comparative 
+concepts.
+The second realization is that if there is no clear definition of widely used terms, linguists 
+will continue to be as confused as they have been over the last decades. Textbooks will continue 
+to present salient examples and hope that their readers will somehow form the right concepts, 
+based on the examples. But if a textbook does not define a term, the readers will not understand 
+what it means and will instead create their own stereotype. This may often lead to the appear-
+ance of widespread agreement, as noted by Plungian [2011: 18]:
+ 
+“As in many other cases, when we deal with traditional concepts of linguistics that rely 
+on the intuition of speakers of European languages and a long descriptive practice, it is 
+often much simpler to give an acceptable result of classification than to identify those cri-
+teria on which this result was based.”
+However, if the criteria are not clear, then the “acceptability” of a classification may be based 
+on shared stereotypes rather than on true differences in the world (recall from §3 the failure of ra-
+cial classifications, which were widely accepted for a long time, but which were shown to be 
+without any scientific foundation).
+Now it may of course turn out that the comparative definitions proposed here will not be par-
+ticularly helpful, or rather that other definitions will be much more useful for gaining insights 
+about Human Language. This is a separate question that I do not deal with here. But until we 
+have clearly better general concepts and terms, we must continue working with terms like “af-
+fix” and “root”, and they should have clear and simple definitions. 25 (Other terms, such as “fi-
+nite” or “markedness”, may not be amenable to retrodefinition, so they should be abandoned. 
+But in general, proposing a retrodefinition is preferable to proposing abandoning a term, because 
+such negative recommendations are rarely effective.)
+ 25 A reviewer asked whether it is a scientific requirement that frequently used terms should have simple 
+definitions (recall principle B in (4)). The answer is of course no: It is a purely practical requirement, 
+and if we had very good reasons to think that an affix concept that requires a very complex definition is 
+needed, then we should use such a definition for this term. But since we do not know much about what 
+concepts yield the best results, we should choose a simple definition (for practical, including pedagog-
+ical purposes).
+ 
+ Martin Haspelmath 
+25
+Finally, there is a further question that some readers may have: Need the definitions be cat-
+egorical, as I have presented them in this paper? Wouldn’t it be more appropriate to have defi-
+nitions that are fuzzy or vague, corresponding to the fuzziness or continuity that we find in the 
+actual world (cf. [Plungian 2000: 20])? The reason why I think that the definitions cannot be 
+fuzzy or prototype-based is that we need these terms in order to test hypotheses. The terms are 
+our “units of measurement”, analogous to the SI units in physics. It does indeed seem to be the 
+case that many languages have more or less fuzzy categories. But some categories are not fuzzy 
+at all. 26 And while there are many cases of vagueness or unclarity of cross-linguistic concepts 
+(what exactly is “finiteness” of verbs? what exactly is “left dislocation”?), there are other cases 
+where cross-linguistic classification is very clear (e.g. demonstratives, question pronouns, nu-
+merals and negative markers are readily identified across languages).
+So the extent to which a phenomenon is fuzzy is an empirical question, and to answer such 
+questions, we need good research tools: general terms that are not defined in a stereotypical 
+or subjective way, but in a simple straightforward way so that all linguists understand the terms 
+in the same way. It appears that many linguists think that this is not possible or not a worthwhile 
+task, but this paper has tried to show that it is possible (at least for bound and welded forms and 
+for affixes), as long as one understands that the definitions must sometimes be shared-core defi-
+nitions (principle E, §7). But since the definitions are comparative definitions anyway and can-
+not be applied to particular languages, this is not a defect of these definitions.
+ABBREVIATIONS
+ 26 For example, it is very clear what a verb is in Russian, or what a vowel is in German; there do not seem 
+to be any unclear cases of “verb-noun” hybrids or “vowel-consonant hybrids” in these languages.
+acc — accusative
+dat — dative
+dim — diminutive
+f — feminine
+gen — genitive
+impv — imperative
+inf — infinitive
+ins — instrumental
+nom — nominative
+obl — oblique
+pl — plural
+prog — progressive
+prs — present
+sg — singular
+qp — question particle

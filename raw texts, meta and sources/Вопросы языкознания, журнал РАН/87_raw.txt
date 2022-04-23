@@ -1,0 +1,422 @@
+C. / Pp. 130—137 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2018. № 1
+ 
+Voprosy Jazykoznanija
+ T. Reinhart (auth.), M. Everaert, M. Marelj, E. Reuland (eds.). Concepts, syntax 
+and their interface: The Theta System. Cambridge (MA): MIT Press, 2016. 288 p. ISBN 
+9780262034135*.
+Mikhail Yu. Knyazev
+National Research University Higher School of Eco-
+nomics, Saint Petersburg, 190121, Russian Federa-
+tion; Saint Petersburg State University, Saint Peters-
+burg, 199034, Russian Federation;
+mknyazev@hse.ru
+Михаил Юрьевич Князев
+Национальный исследовательский университет 
+«Высшая школа экономики», Санкт-Петербург, 
+190121, Российская Федерация; Санкт-Петербург-
+ский  государственный  университет, Санкт-Петер-
+бург, 199034, Россий ская Федерация;
+mknyazev@hse.ru
+1. Introduction. Due to her untimely death in 2007, Tanya Reinhart never completed the 
+planned Linguistic Inquiry volume on the Theta System (TS), which is regarded by some as “one 
+of her major contributions to linguistic theory” (p. xi). The planned volume was supposed to pro-
+vide a comprehensive text containing a systematic exposition of TS, reﬂecting its subsequent de-
+velopment by Reinhart and her collaborators since the publication of her ﬁrst two expository ar-
+ticles on TS in 2000 and 2002. The aim of the book under review, edited by linguists at Utrecht 
+institute of Linguistics OTS (UiL OTS), with whom she actively collaborated for the last 15 years 
+of her life, is to provide such a comprehensive text.
+Chapter I, the core of the book, is an extended and annotated version of Reinhart’s “foun-
+dational” article “The Theta System: Syntactic realization of verbal concepts,” supplemented 
+by a summary of [Reinhart 2002] by the editors. Although the article was previously published 
+as [Reinhart 2000] in UiL OTS Working Papers in Linguistics, the editors decided that, due to its 
+seminal status, it deserves to be more widely accessible. The chapter also contains a short note 
+by Reinhart’s former graduate student and now an assistant professor at UiL OTS Marijana Marelj, 
+which discusses implications of TS to Case Theory and is based on the LSA course co-taught 
+by Reinhart and Marelj in 2005.
+Chapter II, “The Thematic Phase and the architecture of grammar” by Reinhart’s former col-
+leagues at Tel Aviv University Julia Horvath and Tal Siloni, is arguably the most interesting contribu-
+tion in this volume for a general linguistic audience already familiar with TS. The chapter discusses 
+differences between TS and the so-called “syntacticocentric” approaches to argument structure es-
+poused by Hagit Borer [2005] and Gillian Ramchand [2008] among others. The chapter provides 
+evidence against such approaches and in favor of the active lexicon approach favored by TS.
+Finally, Chapter III, “Clitics and reﬂexives: Reducing the lexicon-syntax parameter,” by Mari-
+jana Marelj and Eric Reuland, does not address TS directly but is concerned with the status of the 
+Lex(icon)-Syn(tax) parameter [Reinhart, Siloni 2005], developed within TS and aimed at explain-
+ing cross-linguistic variation in reﬂexivization and other thematic arity operations. The article 
+is part of a larger project of revising Chomsky’s [1981] canonical Binding Theory, led over the 
+years by Reuland and his co-authors, including Reinhart herself (e. g. [Reinhart, Reuland 1993; 
+Reuland 2011]). In their contribution, Marelj and Reuland attempt to reduce the Lex-Syn param-
+eter to independent principles of grammar (in accordance with the current minimalist assump-
+tions) while supporting the core theoretical insight of TS, i. e. the existence of lexical operations.
+After a brief introduction of TS (Section 2), I will critically examine the following three ques-
+tions, which roughly correspond to the three chapters of the volume:
+ 
+— What is the empirical motivation for TS (Section 3)?
+ * I am grateful to Eric Reuland for reading and commenting on an earlier version of this review.
+ 
+Mikhail Yu. Knyazev 
+131
+ 
+— What are the advantages of TS over syntacticocentric approaches to argument structure 
+(Section 4)?
+ 
+— How can TS and the results obtained within TS be integrated into the current grammat-
+ical theory (Section 5)?
+2. TS in a Nutshell. The main question TS is concerned with is what kind of information 
+pertaining to the conceptual structure of verbs is legible to the computational system (syntax). 
+To address this question, TS proposes a way of encoding verbal concepts in the form of particular 
+combinations of feature clusters (related to each other by arity operations) as well as the inter-
+face between the system of concepts and syntactic structure in the form of mapping/linking in-
+structions. Thus, TS can be viewed as a kind of channel through which conceptual information is 
+passed down to the syntax. In this way, TS crucially differs from “syntacticocentric” approaches, 
+where conceptual information (often referred to as “encyclopedic information”) is either totally 
+inaccessible to the syntax (as in Borer’s [2005] approach) or accessible only in the form of a small 
+inventory of c-selectional features (as in Ramchand’s [2008] approach). Under both approaches, 
+thematic information is encoded directly by the syntactic structure (hence “syntacticocentric”), 
+rendering the lexicon superﬂuous as a separate module of representing conceptual information.
+Perhaps the most recognizable feature of TS is the decomposition of traditional semantic roles 
+into clusters of two binary features [±c] for causal responsibility and [±m] for (obligatory) mental 
+involvement in the event / state, giving rise to eight possible combinations, as in the Table below.
+Table
+The correspondence between the feature clusters of the Theta System
+and the traditional semantic roles
+Cluster
+Label
+Causes the denoted 
+event (change)
+Mental state (volition, 
+intention) is relevant
+Fully speciﬁed clusters
+[+c+m]
+Agent
+Yes
+Yes
+[+c−m]
+Instrument
+Yes
+No
+[−c+m]
+Experiencer
+No
+Yes
+[−c−m]
+Theme / Patient
+No
+No
+Unary clusters
+[+c]
+Cause
+Yes
+Unvalued
+[+m]
+Sentient 1
+Unvalued
+Yes
+[−c]
+Goal / Benefactor
+No
+Unvalued
+[−m]
+Subject Matter /
+Target of Emotion
+Unvalued
+No
+Such decomposition allows to deﬁne classes of theta-roles (akin to classes of phonemes) and 
+thereby (i) capture generalizations about mapping/linking (see (1)), as well as (ii) give a precise 
+formulation of thematic arity operations such as Expletivization (external role reduction), Bundling 
+(reﬂexivization), Causativization, etc. (see Section 3). In addition, TS provides an instruction for 
+marking the concept with the ���(usative) feature (cf. Burzio’s generalization).
+(1) 
+Merging instructions
+ 
+a. The class of [+] clusters is merged externally.
+ 
+b. The class of [–] clusters is merged internally.2
+ 
+c. When nothing rules it out, merge externally.
+ 
+1 This cluster is associated with the subject of verbs such as see, hear, love, know, and believe.
+ 
+2 Theme unergatives like glow present an exception to (1b), which led Reinhart to restrict the rules in (1) 
+to concepts with n > 1 clusters. See, though, [Potashnik 2012] for an alternative analysis of these verbs.
+5*
+132 
+Voprosy Jazykoznanija 
+2018. № 1
+(2) 
+Accusative marking
+If the lexical entry includes a [+c] cluster and a fully-speciﬁed cluster [−c±m] (i. e. [–c+m] 
+or [–c–m]), it is marked with the ��� feature.
+We now turn to empirical arguments advanced by Reinhart in favor of TS.
+3. Empirical motivation for TS. Reinhart’s article in Chapter I presents two main arguments 
+for TS, which come from the Unaccusative puzzle and Experiencer alternations.
+The Unaccusative puzzle consists of two questions: (i) how can the grammar and the child 
+learning the grammar “know” which verbs have unaccusative syntax (i. e. that their sole argument 
+is internal); (ii) why do unaccusative verbs often share morphology with reﬂexive verbs, cf. Stakan 
+razbilsja ‘the glass broke’ and Ivan pomylsja ‘Ivan washed.’ Building on the observation that most 
+unaccusative verbs have transitive counterparts allowing for both animate and inanimate causers 
+(cf. Max / The storm / The stone broke the window), Reinhart argues that a verb is unaccusative iff 
+(i) its verbal concept includes a [+c] role, and (ii) this role is reduced (by Expletivization—external 
+role reduction). Transitive counterparts of unaccusative verbs are thus contrasted with “true” caus-
+ative verbs like walk, derived from the separate Causativization operation, which adds a [+c+m] 
+(mentally involved) argument (cf. Max / *Hunger walked the dog) to the original entry. By giving 
+a formal, feature-based deﬁnition of unaccusativity in contrast to purely semantic approaches like 
+that of [Levin, Rappaport Hovav 1995], Reinhart is able to correctly classify “semantic exceptions,” 
+namely “Theme unergatives” like glow (which do not seem to have transitive counterparts, but see 
+[Potashnik 2012]) and “internally-caused” verbs like arrive and happen (which do have transitive 
+counterparts in some languages). Given that unaccusative verbs are derived by a role-reducing op-
+eration, i. e. Expletivization, Reinhart is able to capture their morphological similarity with reﬂex-
+ive verbs, derived by the Bundling operation (which also reduces the internal role).
+Experiencer alternations (e. g. The doctor’s letter worries her vs. She worries about her 
+health) are puzzling because: (i) intransitive alternants are unergatives despite their morphologi-
+cal similarity to unaccusatives (cf. udivit’sja ‘become surprised’ and slomat’sja ‘become broken’); 
+(ii) subjects of transitive alternants have “unaccusative” properties (allow backwards anaphora 
+as in Heri health worries every patienti) despite being externally-merged as Causes [Pesetsky 
+1995]; (iii) simultaneous realization of Cause ([+c]) and Subject Matter ([–m]) roles is disallowed 
+(Pesetsky’s [1995] T/SM restriction), cf. *[The doctor’s letter] worried Lucy [PP about her health], 
+see (5). Reinhart argues that both transitive and intransitive alternants correspond to the under-
+lying three-place concept ([+c], [–c+m], [–m]). Intransitive alternants are derived by the Exple-
+tivization operation reducing the [+c] role (hence morphological similarity to unaccusatives), but 
+their remaining cluster is mixed ([–c+m]) and thus, by (1c), is external. The T/SM restriction is 
+derived from (i) the assumption that clusters having a construal under which they are identical are 
+non-distinct (thus [+c] and [–m] in (5) are non-distinct as they both can be construed as [+c–m]), 
+and (ii) a ban on the co-occurrence of non-distinct clusters.3 Because of this semantic similarity 
+the transitive subject can be construed not only as [+c] but also as [–m] and thus merged inter-
+nally, accounting for the backwards anaphora pattern.
+In addition to Reinhart’s arguments, Marelj’s contribution (extending Reinhart’s article) presents 
+evidence in favor of the accusative marking principle in (2). Marelj argues that it captures the failure 
+of PP-selecting verbs such as worry (about) and wonder (about) to assign accusative case — a be-
+havior unexpected under Burzio’s generalization, which assumes that the presence of an external 
+argument is sufﬁcient for accusative-assignment. Marelj observes that the PP-argument of these 
+verbs is compatible with (but does not require) a Cause interpretation, as in The question made 
+John wonder (cf. *The question made John ask), and hence should correspond to the [–m] clus-
+ter, unspeciﬁed for the [±c] feature. Therefore, by (2), it cannot ���-mark the verb. This allows 
+Marelj to derive the case-related distinction between ask and wonder assumed by Pesetsky [1982].
+ 
+3 The notion of non-distinctness here follows Marelj’s [2004] reinterpretation of Reinhart’s original deﬁ-
+nition.
+ 
+Mikhail Yu. Knyazev 
+133
+While Reinhart’s analysis of unaccusative and Experiencer verbs is convincing, the ���-mark-
+ing principle in (2) and the account of the T/SM restriction are not unproblematic. The problem 
+with (2) is that it is too strong. First, contra (2), accusative can be assigned by verbs that lack [+] 
+clusters — a problem inherited by (2) from Burzio’s generalization — as in Russian MenjaACC tošnit 
+‘I feel nauseated’ and English It struck me that I should have used “Elmer” in this sentence (see 
+[Marantz 2000]). Second, contra (2), accusative can be assigned not only to Theme ([–c–m]) or Ex-
+periencer ([–c+m]) arguments but also to Goals ([–c]) and Instruments ([+c–m]), as shown in (3).
+(3) 
+a. John[+c+m] gave Mary[–c] a book[–c–m].
+ 
+b. John[+c+m] shot the bullet[–c–m] / the victim[–c] / the gun[+c–m]. 
+[Potashnik 2012]
+One may object that this is not a “true” accusative but an underlying dative / oblique disguised 
+as accusative, as proposed in [Potashnik 2012] and [Botwinik 2013], and thus is not subject to (2). 
+However, if “surface accusative” is not regulated by TS, Marelj’s account of the difference be-
+tween ask and wonder is lost, as nothing precludes the [–m] cluster of wonder to be assigned 
+“surface accusative” (unless one provides an independent account of the difference between “sur-
+face” vs. “deep accusative”).4
+Reinhart’s account of the T/SM restriction in terms of non-distinctness is also too strong. First, 
+it incorrectly rules out the co-occurrence of [–c] and [–m] (which are non-distinct under Reinhart’s 
+deﬁnition), cf. Pesetsky’s [1995] example Sue is angry with Bill[–c] about the party[–m].5 Second, 
+it fails to account for the contrast in (4) (due to [Hartman 2008]), similar to the T/SM restriction. 
+It is not the co-occurrence of [+c] and [–m] per se that causes ungrammaticality in (4a), cf. the 
+grammatical (4b), but that of the three clusters ([+c], [–m] and [–c+m]) simultaneously, cf. (5).6
+(4) 
+a. *The bridge[+c] dwarfed Mary[–c+m] the lighthouse[–m].
+ 
+b. The mansion[+c] dwarfs the house next door[–m].
+(5) 
+*The doctor’s letter[+c] worried Lucy[–c+m] about her health[–m].
+Having presented empirical arguments for TS, we turn to more conceptual issues relating to the 
+difference between TS and alternative approaches to argument structure.
+4. Comparison between TS and syntacticocentric approaches. The main claim of Chap-
+ter II by Horvath and Siloni is that syntacticocentric approaches to argument structure such as that 
+of Borer [2005] and Ramchand [2008] came to dominate over active lexicon approaches such 
+as TS not because of their intrinsic value but due to the fact they ﬁt better with other inﬂuential 
+proposals (e. g. Larsonian [1988] VP-shell, Chomsky’s [1995] little v / Kratzer’s [1996] Voice, se-
+mantic decomposition of verb meanings into abstract predicates such as ����� and ������ [Dowty 
+1979], Baker’s [1988] Uniformity of Theta-Assignment Hypothesis and Distributed Morphology 
+[Marantz 1997]). The aim of Horvath and Siloni is threefold: (i) to reexamine evidence for syn-
+tactic decomposition / syntacticocentric approaches, which Horvath and Siloni believe is sparse, 
+(ii) to propose an alternative for articulated VP to handle three-argument verbs, and (iii) to pres-
+ent evidence for active lexicon approaches.
+ 
+4 Note that “deep accusative” cannot be identiﬁed by standard structural Accusative diagnostics as shown by the 
+passivization of verbs with [–c] / [+c–m] arguments, as in The victim was shot and Mary was given a book, cf. (3).
+ 
+5 See [Knyazev 2013] for some further problems with this constraint.
+ 
+6 Knyazev [2016] argues that the T/SM restriction in Russian (cf. the Russian counterpart of (5) *Pis’mo 
+doktora bespokoit Ljusi o ee zdorov’e) stems from the realization of the same theta-role twice. This is sug-
+gested by the fact that the subject of object Experiencer verbs like bespokoit’ ‘worry’ and pugat’ ‘frighten’ 
+is not a Cause but a Subject Matter (contra [Pesetsky 1995]). This is shown by the infelicity of examples 
+like #Tabletka pugaet / bespokoit Ivana ‘#The pill worries / frightens John’ in a sci-ﬁ context where a fear / 
+worry-inducing drug affects Ivan unbeknownst to him.
+134 
+Voprosy Jazykoznanija 
+2018. № 1
+Horvath and Siloni start with calling into question evidence for syntactic decomposition ap-
+proaches from the ambiguity of again (e. g. [von Stechow 1996]) and other adverbials, showing 
+that such ambiguity is not as pervasive as these approaches suggest (by freely providing differ-
+ent structural positions for such adverbials), cf. the lack of the restitutive interpretation in #John 
+cleaned the jacket again (‘the jacket became clean again without John having cleaned it before’) 
+and the lack of the result state modiﬁcation in #I dried the towels for a few days (‘the towels were 
+dry for a few days’). Horvath and Siloni also argue against approaches introducing external argu-
+ments by a separate head (little v / Voice) (i) by providing examples where a verb imposes selec-
+tional restrictions on its external argument (cf. The bees / *The snake stung John), which are hard 
+to capture in such approaches, and (ii) by questioning the standard “special meanings” arguments 
+for such approaches (e. g. [Marantz 1984]). Horvath and Siloni suggest that special meanings 
+for external but not internal arguments, i. e. the fact that the interpretation of the object in John 
+killed a bottle inﬂuences that of the subject (cf. John killed a cockroach) but not vice versa, are 
+due to the conventionalization of interpretive units (= constituents), which include [V-O] but not 
+[S-V], rather than from the separation of the external argument from the VP. The same applies 
+to the argument from the non-existence of S-V idioms. Horvath and Siloni also correctly predict 
+that special meanings are in fact possible with external arguments of unergative verbs (The en-
+gine ran, His nose ran, etc.), which is unexpected under the “little v” approach.
+In order to handle three-argument verbs and IO-DO asymmetries (see [Larson 1988]) in a system 
+without articulated VP, Horvath and Siloni propose that V can remerge at the root of the current VP, 
+providing space, i. e. a speciﬁer, for the extra argument. For example, after [VP Mary give a book] is 
+built, give is remerged to yield [VP John [give [Mary give a book]]]. The asymmetries between the 
+arguments follow from the order of merger, which itself follows from a modiﬁcation of Reinhart’s 
+merging instructions in (1): (i) [–] clusters are merged by the ﬁrst merger of V; (ii) [+] clusters are 
+merged by the last merger of V; (iii) mixed clusters ([+c–m] and [–c+m]) are merged either by the 
+second (including vacuous) or last merger of V, depending on whether there is already a [+] clus-
+ter. These rules explain different realization of mixed clusters as in Max peeled the apple with the 
+knife vs. The knife peeled the apple and His health worries John vs. John worries about his health.
+Horvath and Siloni present three arguments against syntacticocentric approaches and in favor 
+of the active lexicon. First, arity operations can have selectional restrictions that are easier deﬁned 
+in terms of TS features than in terms of functional heads, e. g. Hungarian causativization, which 
+requires a [+] argument [Horva th, Siloni 2011]. Second, reduction operations (e. g. Expletiviza-
+tion, deriving Unaccusative / subject Experiencer verbs) do not make sense in the syntax assuming 
+syntax does not destroy structure, whereas nothing precludes eliminating clusters from a concept 
+(= a set of clusters) in TS. This is explained in TS by placing such operations in the (active) lex-
+icon, which is achieved by Reinhart and Siloni’s [2005] Lex-Syn parameter.7
+Third, arity operations can be lexically restricted in some languages (e. g. Russian -sja reﬂex-
+ivization). Although Horvath and Siloni effectively destroy arguments for syntacticocentric ap-
+proaches, their arguments against such approaches are not deﬁnitive. First, the argument against 
+reduction in syntax begs the question as to whether unaccusative and subject Experiencer alterna-
+tions cannot be accounted for without reduction, as, for instance, in [Ramchand 2008]. Second, the 
+argument from the thematic sensitivity of arity operations also begs the question as to whether such 
+sensitivity cannot be captured by syntactic selection for different functional heads (encoding differ-
+ent external arguments), as, for example, in Folli and Harley’s [2005] “ﬂavors” of v approach. Thus, 
+in order to evaluate Horvath and Siloni’s ﬁrst two arguments, one needs an explicit side-by-side com-
+parison between TS and the aforementioned approaches, which is unfortunately missing in Horvath 
+ 
+7 In Chapter III, Marelj and Reuland present an additional argument against the view that roots are category-
+neutral, which is often associated with Borer / Distributed Morphology. The argument concerns verbalizing 
+morphemes in Sakha [Vinokurova 2005]. Although such morphemes are highly productive, they still resist 
+inherently “verbal” roots like ‘cut’ (and similarly for nominalizing morphemes), suggesting that roots do 
+have categorial speciﬁcation (see [Wood, Marantz 2017] for further discussion).
+ 
+Mikhail Yu. Knyazev 
+135
+and Siloni’s text. However, as it is also generally missing in syntacticocentric literature, this rein-
+forces Horvath and Siloni’s main point that TS / active lexicon has been abandoned without sufﬁ-
+cient scrutiny. Their third argument, which might be the strongest, is discussed in the next section.
+5. TS and present-day grammatical theorizing. Chapter III by Marelj and Reuland is con-
+cerned with a speciﬁc proposal developed within TS, namely Reinhart and Siloni’s [2005] Lex-Syn 
+parameter, rather than with TS per se. Marelj and Reuland’s aim is to bring Reinhart and Siloni’s pa-
+rameter up to date with the current theoretical assumptions (i. e. minimalism). Dissatisﬁed with its 
+“domain-speciﬁc” and “global” character, Marelj and Reuland attempt to reduce it to “low-level dif-
+ferences in functional structure between languages” coupled with “domain-general” explanatory mech-
+anisms — an agenda stemming from Reuland’s “reductionist” approach to reﬂexivity (see, e. g., [Reu-
+land 2011]). Instead of restricting lexical reﬂexivization to “lexicon languages” like Russian, as envis-
+aged by Reinhart and Siloni’s Lex-Syn parameter, Marelj and Reuland argue that it should in principle 
+be universally available, including in “syntax languages” like Italian (the remaining differences be-
+tween “lexicon” and “syntax” reﬂexives being accounted for by independent properties of clitics in the 
+“syntax languages”). Thus, while rejecting a speciﬁc TS proposal (the Lex-Syn parameter), Marelj 
+and Reuland’s approach supports the crucial TS assumption of active lexicon and thereby TS itself.
+The aim of Marelj and Reuland is twofold: (i) to provide an alternative account of “the Lex-
+Syn parameter effects” without invoking the parameter itself (i. e. the notion of a “syntax lan-
+guage”), (ii) to provide an argument for the existence of lexical reﬂexivization even in what was 
+described by Reinhart and Siloni as “syntax languages” (e. g. Italian), suggesting its universality.
+Reinhart and Siloni’s Lex-Syn parameter is motivated by the contrast between lexically re-
+stricted (simplex) reﬂexives like Dutch zich in (6), and reﬂexive clitics like Italian si in (7). While 
+zich is mostly restricted to grooming verbs, as in (6a), and is blocked with verbs like ‘admire’, 
+as in (6b) (cf. Russian reﬂexive -sja in *Ivan uvažaetsja), si is fully productive.8 On Reinhart and 
+Siloni’s account, the contrast follows if Bundling, i. e. the operation deriving reﬂexive predicates, 
+is parameterized as occurring in the lexicon in languages like Russian or Dutch (hence lexically-
+restricted) and as occurring in the syntax in languages like Italian (hence lexically-unrestricted).
+(6) 
+�����
+ 
+a. Jan    wast         zich.
+Jan     washes       ����
+ 
+b. Jan    bewondert   zich*(zelf).
+Jan     admires       ����(����)
+(7) 
+�������
+ 
+Gianni    si    lava / ammira.
+Gianni     ��    washes / admires
+Marelj and Reuland propose an alternative explanation of these facts capitalizing on the ad-
+ditional contrast between simplex and complex reﬂexives in (6b). They argue that the ungram-
+maticality of zich in (6b) actually follows from the fact that simplex reﬂexives, being argumental 
+expressions, are subject to the constraint against identical co-arguments (IDI) [Reuland 2011], 
+which is circumvented by complex reﬂexives like zichzelf (“protecting” the argument, as it were). 
+As for (6a), here zich is not a true argument because reﬂexivization of grooming verbs in Dutch 
+is derived in the lexicon by Bundling creating a one-place predicate (with no argument slot). The 
+role of zich in (6a) is merely to check the “accusative case residue.”
+In order to account for why Italian si in (7) does not violate IDI, Marelj and Reuland observe 
+that si independently differs from both zich and -sja in its clitic status. Assuming that clitics at-
+tach to heads from argument positions, they form non-uniform A—non-A—A chains in examples 
+ 
+8 Unfortunately, the authors do not discuss ECM reﬂexivization as in French Jean se considère intelligent 
+‘Jean considers himself intelligent’, which is a hallmark of “syntactic” reﬂexivization according to [Reinhart, 
+Siloni 2005].
+136 
+Voprosy Jazykoznanija 
+2018. № 1
+like (7), as in [TP Giannii … [vP [v sii + ammira] [VP ammira sii]]]. Marelj and Reuland further as-
+sume that non-uniform chains are treated by the computational system as two distinct argument 
+chains and thus interpreted as two distinct arguments, thereby circumventing IDI.
+Marelj and Reuland’s account of (6)—(7) is based on the assumption that both zich in (6b) 
+(but not in (6a)) and si in (7) can be true arguments. To support this claim, they present evidence 
+from the availability of proxy readings, which require an argumental reﬂexive, cf. Ringo načal 
+razdevat sebja ‘Ringo started undressing himself’ vs. #Ringo načal razdevat’sja ‘#Ringo started 
+undressing’ in the “wax museum” context. While Dutch zich in principle allows proxy readings, 
+they are unavailable with grooming verbs, as in Plotseling begon Ringo zich*(zelf) te ontkleden 
+‘All of a sudden Ringo started undressing.’ Such readings are also (partially) available for reﬂex-
+ive clitics like Italian si supporting Marelj and Reuland’s non-uniform chain analysis.
+To show that even in “syntax languages” like Italian, reﬂexivization (Bundling) must occur 
+in the lexicon, Marelj and Reuland present evidence from auto-preﬁxation (cf. Russian samo-pre-
+ﬁxation), illustrated in (8). They observe that auto-preﬁxation (i) disallows proxy readings in ex-
+amples like (8a), and (ii) is disallowed with grooming verbs, as shown in (8b) (see [Castella 2011]). 
+This pattern follows if (i) auto-preﬁxation involves Bundling in the lexicon, explaining the lack 
+of proxy readings, and (ii) grooming verbs like lavare are reﬂexivized prior to auto-preﬁxation 
+thereby blocking it (assuming auto-preﬁxation applies to two-place verbs).
+(8) 
+�������
+ 
+a. Quel    politico    si    è     auto-eletto.
+that     politician   ��CL   ���   ����-elected
+ 
+b. Gianni    si    (*auto-)lava
+Gianni     ��CL   ����-washes
+Summarizing, Marelj and Reuland explain the empirical results of the Lex-Syn parameter 
+by reducing “reﬂexivization in the syntax” to independent properties of reﬂexive clitics, simul-
+taneously providing support for the potential universality of lexical reﬂexivization and thus for 
+active lexicon / TS itself.
+Marelj and Reuland’s contribution suggests that while the empirical results and theoretical 
+assumptions of the Lex-Syn parameter / TS are mostly correct, it fails as an explanatory frame-
+work as is because it lacks the degree of ﬂexibility required to capture the complexity of the data, 
+which is evident from comparing its modest conceptual apparatus to that of Marelj and Reuland, 
+who use a diversity of theoretical tools. On the ﬂip-side, Reinhart’s work retains a stronger “the-
+oretical unity” and, in a way, provides a more “psychologically satisfactory” explanation. In fact, 
+the same applies to the comparison between TS and syntacticocentric approaches (see Section 4). 
+Because of its smaller “theoretical ﬂexibility,” TS is harder to tweak to gain in descriptive ade-
+quacy, as opposed to syntacticocentric approaches which are “omnivorous” in being able to ac-
+commodate any new data (by, for example, postulating another functional head). However, be-
+cause of this very reason, TS has a much stronger explanatory potential.
+From this perspective, it appears that the dominance of syntacticocentric approaches in linguistic 
+practice (pace Horvath and Siloni) actually stems from the fact that most formal linguists working 
+on argument structure place greater premium on the accurate description of the observed phenomena 
+rather than “deep explanations.” Syntacticocentric approaches become the approaches of choice be-
+cause they are more suited to such description. Whether this characterization is true, the lesson pro-
+vided by the discussion of TS in the reviewed book, beyond its doubtless theoretical and empirical 
+value for specialists working on argument structure, is that linguists should be more aware of the theo-
+retical choices they make and should reﬂect more on the development and progress of linguistics.

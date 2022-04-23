@@ -1,0 +1,985 @@
+С. / Pp. 104–123 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2020. № 2
+ 
+Voprosy Jazykoznanija
+Persian adjectives in the light of Typological Prototype Theory
+Amin Karimi
+Vali Rezai@
+University of Isfahan, Isfahan, Iran; vali.rezai@fgn.ui.ac.ir
+Abstract : This study seeks to examine the lexical category of adjective in Persian using the Typological 
+Prototype Theory (TPT) as its theoretical framework. This study aims to (a) evaluate TPT in determin-
+ing the prototypical features of Persian adjectives, (b) account for the morphological and syntactic dif-
+ferences between prototypical and non-prototypical adjectives in Persian, and (c) determine the associ-
+ation between frequency of occurrence and prototypicality of Persian adjectives. Having collected the 
+data from Persian Language Database as w ell as Bijankhan Corpus and analyzed them based on the 
+criteria and sub-criteria of TPT, we concluded that TPT can distinguish between Persian adjectives de-
+noting property, action and object, but is actually incapable of accounting for the behavioral diﬀ erences 
+among the sub-categories of these adjectives due to the insuﬃ  cient set of criteria and sub-criteria pro-
+posed for this purpose. Actually, this theory could prove more helpful in distinguishing between pro-
+totypical and non-prototypical parts of speech if it had considered the monosemy and polysemy phe-
+nomena, more various syntactic functions of POS, diﬀ erent morphological features like derivation, and 
+class range. It was also shown in this research that there exists a relationship between the traditional-
+ly-categorized adjective types in Persian and their degree of prototypicality, in such a way that prop-
+erty adjectives and object adjectives are the most and the least prototypical respectively, while the ac-
+tion adjectives are in between them in terms of prototypicality.
+Keywords: adjective, Iranian, parts of speech, Persian, prototype
+For citation: Karimi A., Rezai V. Persian adjectives in the light of Typological Prototype Theory. Voprosy 
+Jazykoznanija, 2020, 2: 104–123.
+DOI: 10.31857/S0373658X0008828-9
+Персидские прилагательные 
+с точки зрения теории типологических прототипов
+Амин Карими
+Вали Резаи@
+Исфаханский университет, Исфахан, Иран; vali.rezai@fgn.ui.ac.ir
+Аннотация: В данной статье лексическая категория прилагательных в персидском языке исследуется 
+с точки зрения теории типологических прототипов (ТТП). Цель исследования заключается в том, 
+чтобы (а) оценить возможности ТТП в выявлении прототипических свойств лексической катего-
+рии на материале персидских прилагательных, (б) описать морфологические и синтаксические 
+различия между прототипическими и непрототипическими прилагательными в персидском языке 
+и (в) определить связь между частотностью персидских прилагательных и степенью их прототи-
+пичности. Собрав данные из двух корпусов персидского языка и проанализировав их в соответ-
+ствии с критериями ТТП, мы приходим к выводу, что данный подход позволяет различить при-
+лагательные с семантикой качества, объекта и действия, но не позволяет учесть различия в упо-
+треблении между более мелкими подклассами прилагательных, поскольку предлагаемый набор 
+© 2020
+ 
+ Amin Karimi, Vali Rezai 
+105
+критериев для этого недостаточен. Данная теория могла бы более эффективно различать прото-
+типические и непрототипические части речи, если бы учитывала явление полисемии, большее 
+количество синтаксических функций частей речи, словообразование и размер категорий. В ста-
+тье также демонстрируется наличие связи между традиционно выделяемыми типами прилага-
+тельных в персидском языке и степенью их прототипичности: прилагательные с семантикой ка-
+чества ближе всего к прототипу, прилагательные с семантикой объекта — дальше всего от него, 
+в то в время как прилагательные с семантикой действия находятся в этом отношении посередине.
+Ключевые слова: иранские языки, персидский язык, прилагательные, прототип, части речи
+Для цитирования: Karimi A., Rezai V. Persian adjectives in the light of Typological Prototype Theory. 
+Вопросы языкознания, 2020, 2: 104–123.
+DOI: 10.31857/S0373658X0008828-9
+Introduction
+Parts of speech (POS) are the basic linguistic categories in a language which play a key role 
+in most syntactic theories and morphological analyses. They are “classes of words established 
+primarily on the basis of grammar, where they occur in clauses, what words they combine with 
+and pattern of agreement and government” [Brown, Miller 2013: 474]. It is not easy to deﬁ ne 
+POS because they have, besides their unmarked usages, extended and marked usages so that 
+a particular syntactic function may be fulﬁ lled by diﬀ erent lexical categories. This is why Hen-
+geveld [1992] used the phrase “without further measures being taken” in his deﬁ nitions of POS 
+including adjectives 1, by which he means the marked and unmarked functions of POS. As one 
+of the most important POS found in most languages of the world, adjective is no exception to this 
+rule and has many extended uses in Persian.
+The traditional grammarians of the Persian language have described and categorized adjec-
+tives in this language based on semantic and/or morphosyntactic factors, but as we know, mere 
+emphasis on these factors cannot account for diﬀ erent functions of this POS in this language, 
+because adjectives do not have identical behavior and features. This is why we have to resort 
+to the Prototype Theory (PT) which considers the members of a set to be hierarchical and unequal, 
+unlike the Aristotelian Set Theory, which posits that all members of a category or set are equal. 
+The PT emphasizes inequality of the members of a category [Lakoﬀ  1987]; that is, a lexical cat-
+egory has central members with all or most of the features of that category and peripheral mem-
+bers with fewer such features. Typological Prototype Theory (TPT), which is the framework for 
+this research, is a typological-functional approach developed by Croft, according to which typo-
+logical prototypes are deﬁ ned based on function and are universal and cross-linguistically valid 
+[Croft 2001: 84]. He proposes that prototypical adjectives have the semantic function of “prop-
+erty” and the pragmatic function of “modiﬁ cation”. In comparison with the peripheral mem-
+bers, the central members of a category, which are typological prototypes, have higher frequency 
+of occurrence, less morphological marking and a full behavioral potential [Croft 2003: 1630].
+The present research is an attempt to investigate Persian adjectives from the typological proto-
+type perspective. The two main criteria used in this approach to distinguish prototypical members 
+from the peripheral ones are structural coding and behavioral potential. The behavioral potential 
+criterion for adjectives consists of attributive and predicative function, gradability, and frequency 
+of occurrence. Obviously, adjectives used both attributively and predicatively are more proto-
+typical than those used either attributively or predicatively. Furthermore, adjectives which can 
+merely be used attributively are more prototypical than those that can only be used predicatively, 
+because the attributive function is the unmarked usage of adjectives. The gradability sub-crite-
+rion, manifested in Persian in comparative and superlative forms, intensifying adverbs and the 
+ 
+1 “An adjectival predicate is a predicate which, without further measures being taken, can be used 
+as a modiﬁ er of a nominal head.” [Hengeveld 1992: 37]
+106 
+Voprosy Jazykoznanija 
+2020. № 2
+reduplication process, will also be used to determine how prototypical an adjective is. The last 
+sub-criterion used in this study is the frequency of occurrence, according to which the more fre-
+quently an adjective is used, the more central or prototypical it is. To determine the frequency 
+of adjectives, we will use the Persian Language Database [PLDB] as well as [Bijankhan Corpus].
+This is a descriptive-analytical research conducted using the content analysis method. The 
+research data have been collected from PLDB and Bijankhan Corpus. Besides, a part of the raw 
+data was provided by the researchers in such a way that the researchers found suitable adjec-
+tives related to diﬀ erent categories and classiﬁ ed them within the framework of TPT. The col-
+lected data will be analyzed and diﬀ erent limitations imposed by the Persian language on the 
+use of adjectives will be described and discussed. Since the parts of speech simultaneously do 
+one of the propositional acts of modiﬁ cation, predication or reference on the one hand, and be-
+long to one of the semantic categories of property, object or action on the other, they can be di-
+vided into <modiﬁ cation, property>, <modiﬁ cation, object>, <modiﬁ cation, action>, <reference, 
+property>, <reference, object>, <reference, action>, <predication, property>, <predication, ob-
+ject>, and <predication, action>. As adjectives in attributive position perform the propositional 
+act of modiﬁ cation, they belong to <modiﬁ cation, property>, <modiﬁ cation, object>, or <mod-
+iﬁ cation, action>. In order to analyze these three types of adjectives in terms of prototypicality, 
+we will select several lexemes of each type and analyze their prototypicality status based on the 
+criteria of the Typological Prototype Approach.
+The present research seeks to answer the following questions:
+ 
+1. Can TPT determine the prototypical features of Persian adjectives?
+ 
+2. How do Persian prototypical and non-prototypical adjectives diﬀ er morphosyntactically?
+ 
+3. How are the traditionally categorized adjectives of Persian associated with prototypi cality?
+Considering the fact that no independent research has been conducted on prototypicality 
+of diﬀ erent types of Persian adjectives yet, the present research can ﬁ ll the existing gap and thus 
+prove helpful for the Persian language and linguistics as well as for translators. Besides, an im-
+portant point having been neglected in the existing Persian dictionaries is inclusion of informa-
+tion about the attributive and predicative functions of words, which is largely due to the fact that 
+such an important issue is still under research in the Persian language.
+1. Previous studies
+Due to the importance of adjective as one of the main parts of speech, most Persian gram-
+mar books have dealt with the deﬁ nition, description, and formation of adjectives, but very few 
+of them have actually discussed their diﬀ erent attributive and predicative functions and the lim-
+itations imposed by the Persian language on diﬀ erent usages of them. Moreover, the Persian 
+grammar books currently available to readers have mostly conﬁ ned themselves within the tra-
+ditional framework, rather than based on modern linguistic theories, although we should never 
+deny the importance of the traditionally-based studies and the large contributions that they have 
+made to our knowledge about Persian grammar. We ﬁ rst introduce these traditionally-based 
+sources and then go to other books or articles written based on modern linguistic theories. We 
+will end this section with an overview of the books and sources written in and about languages 
+other than Persian which concern the research topic and TPT.
+Persian grammarians have provided similar deﬁ nitions of adjective and described and cat-
+egorized this POS mainly based on the semantic criterion. Natel Khanlari [1964: 179] deﬁ nes 
+adjective as a word modifying a noun and divides Persian adjectives into descriptive, numer-
+ical, demonstrative, interrogative and indeﬁ nite types. This author adds that descriptive ad-
+jectives in Contemporary Persian precede nouns, although they used to act as postmodiﬁ ers 
+in the ancient literature. Sadeghi and Arjang [1979: 3] claim that Persian adjectives can all act 
+ 
+ Amin Karimi, Vali Rezai 
+107
+as nominals, adding that some of them are used both adjectivally and nominally simultaneously. 
+Gharib et al. [1984: 47] divide adjectives in Persian into subjective, objective, comparative and 
+attributive types. Shafaei [1984: 20] mentions some practical limitations of the usage of adjec-
+tives in Persian, including the fact that some of them are rarely used comparatively and superla-
+tively, because they are derived from nouns. Moreover, he asserts that subjective adjectives take 
+complements and are thus to be regarded as marked adjectives, as they are derived from verbs.
+Zamanian [1990: 60] suggests that some of the Persian subjective adjectives are used with the 
+meaning of objective adjectives and vice versa. Monshizadeh [2004] deﬁ nes adjective of ability 
+as a type of verbal adjective that refers to the future tense in terms of the category of mode. He 
+divides verbal adjectives into objective and subjective types depending on the transitivity or in-
+transivity of the verb from which the adjective is derived.
+Meshkatoddini [2004: 84] asserts that some adjectives such as javân ‘young’, dânâ ‘knowl-
+edgeable’ and siâhpoust ‘black’ can also be used as nominals, and some adjectives such as zende 
+‘live’, morde ‘dead’, mozakar ‘male’ and xâmuš ‘switched oﬀ ’ cannot normally be used in com-
+parative and superlative forms.
+Although most of the sources available to readers are based on traditional views rather 
+than modern linguistic theories, there are a few books and articles dealing with Persian ad-
+jectives based on the modern linguistic views and criticizing the traditionally-based sources. 
+For example, Bateni [1970: 71] argues that the deﬁ nitions having been given for POS in Per-
+sian grammar books so far are mostly based on their meanings rather than on the formal re-
+lations and functions, and this is why such deﬁ nitions are for the most part misleading and 
+inaccurate. He exempliﬁ es it with the the word tâze ‘new’ in three sentences being used 
+as diﬀ erent categories:
+(1) 
+Ali   yek   ketâb-e   tâze   xar-id.
+Ali   one   book-��   new    buy-���.3��
+‘Ali bought a new book.’
+(2) 
+Hame-ye   tâze-hâ   piš-e       šomâ   ast.
+all-��        new-��    beside-��   you     be.���.3��
+‘You have all the news.’
+(3) 
+Rezâ   tâze   âmad-e     ast.
+Reza   new    come-����   be.���.3��
+‘Reza has just (lit. “newly”) come.’
+The word tâze is used in the above sentences as an adjectival, a nominal and an adverbial re-
+spectively.
+Sasani [2001] has used a fuzzy approach to investigate parts of speech and their similarities 
+and diﬀ erences in Persian and found that lexical categories have no clear-cut boundary in this 
+language. He argues that lexical categories have unmarked functions as well as marked, less 
+common, or peripheral functions which do not necessarily overlap with the primary function 
+of other lexical classes. He adds that not all Persian adjectives can be used both predicatively 
+and attributively.
+As mentioned earlier, there are only few books and articles in Persian having dealt with the 
+research topic and its theoretical framework. Now, let us introduce a few of the studies conducted 
+in and about languages other than Persian concerning the research topic and TPT.
+Sasse [1993: 661] argues that the prototypical function of adjectives lies in their attributive 
+rather than predicative usage, because adjectives merely have attributive function in a large 
+number of languages of the world. Dixon [2004: 37] divides adjectives into 13 semantic cores 
+of dimension — age, value, color, physical property, human propensity, speed, diﬃ  culty, simi-
+larity, quality, quantity, location, and ordinals — out of which adjectives which denote the ﬁ rst 
+four characteristics are prototypical. He further calls some non-prototypical adjectives as either 
+“nouny” or “verby”.
+108 
+Voprosy Jazykoznanija 
+2020. № 2
+Tribushinina [2008] investigated adjectives of color and dimension in terms of prototypical-
+ity, coming to the conclusion that adjectives of dimension are less prototypical than adjectives 
+of color. She further divided color adjectives into focal and non-focal adjectives in terms of fea-
+tures including cognitive salience, usage, importance and being simple or compound.
+Mpofu [2009] carried out a study on prototypicality of Shona adjectives. She used attributive 
+position, predicative position, agreement, gradability and frequency as some criteria to distin-
+guish prototypical adjectives from peripheral ones in this language and claimed that prototypi-
+cal adjectives are those that can meet all of the above-mentioned criteria.
+Although many studies have been conducted concerning TPT and the lexical category of ad-
+jective in diﬀ erent languages so far, the books and articles available on the lexical category 
+of adjective in Persian have mainly used the traditional rather than typologically-oriented ap-
+proaches in their analyses. This is why we have chosen to investigate Persian adjectives using 
+TPT, which is a functional-typological framework argued to be universally applicable to all lan-
+guages of the world.
+2. Theoretical framework
+This research has been conducted within the framework of the Universal-Typological Proto-
+type Theory, presented by Croft [1991; 2001; 2003]. Before we deal with this universal theory, 
+we prefer to give a brief explanation of the general Prototype Theory.
+2.1. The Prototype Theory
+The Prototype Theory (PT) postulates that categories are formed around prototypes and re-
+semblance to the prototype, and not according to a yes-or-no distinction [Ungerer, Schmid 
+1996: 14]. A prototype may be deﬁ ned as the most representative, or most salient, instance 
+of a schema [Taylor 2003: 591], or the clearest, central or best member of a category. Rosch and 
+Mervis [1975] state that the prototypical members of a category have more attributes in com-
+mon with other members of the same category, but display fewer attributes common with mem-
+bers of contrasting categories. The major premises of the PT are that: a) a category has central 
+and peripheral members, b) category membership is a matter of degree, and c) categories have 
+fuzzy boundaries. Cognitive approaches in linguistics, therefore, regard linguistic categories 
+as prototype notions with fuzzy boundaries and state that a category consists of prototypical and 
+non-typical members [Langacker 1987; Croft 2003; Taylor 2003]. POS are also seen as con-
+sisting of a prototype, that is, the central or core member that has all the necessary features for 
+that category; and boundary cases that extend from the prototype to other members in other 
+categories, what Croft [2003: 163] refers to as peripheral members, and that these members do 
+not display the full behavioral potential that a central member displays. Langacker [1987: 14] 
+believes that m uch of a language is a matter of degree. Linguistic relationships are not invari-
+ably all-or-nothing aﬀ airs, nor are linguistic categories always sharply deﬁ ned along the edges.
+2.2. The Universal-Typological Prototype Theory
+The Universal-Typological Prototype Theory is a cognitive theory which investigates lan-
+guage facts on the basis of function, focusing on how grammatical structures are represented 
+in the mind of the speaker [Croft 2001: 3]. This theory combines modiﬁ cations based on semantic 
+ 
+ Amin Karimi, Vali Rezai 
+109
+class and discourse functions. Croft [2001: 87] asserts that the semantic classes of objects, prop-
+erties, and actions are the typological prototypes of referring, attributive, and predicative con-
+structions respectively. He adds that these three propositional acts should be able to describe the 
+referring, predicative and attributive constructions of any language.
+Croft further discusses the propositional acts on the basis of four semantic criteria, namely, 
+valency, stativity, transitoriness and gradability. Valency refers to the inherent relationality 
+of a concept or the number of “arguments” required by the concept. Nouns are said to have a va-
+lency of zero because they are do not need reference to another concept, while adjectives and 
+verbs are inherently relational with adjectives having a valency of 1, whereas verbs have a va-
+lency of 1 and above. Stativity refers to whether a concept is a state or a process, while transito-
+riness refers to whether the concept is a transitory state, a process or a permanent state. As Croft 
+points out, only states are permanent. The last criterion, gradability, refers to whether a concept 
+is gradable. Croft’s hypothesis is that these four semantic criteria should be able to describe the 
+semantic classes of objects, actions and properties.
+The typological prototypes are unmarked in their respective functions of reference, modiﬁ ca-
+tion and predication. In their prototypical function, POS do not require any additional morphemes 
+in order to encode a particular function. This unmarked function is also referred to by Croft 
+as zero structural coding function [2001: 89]. Croft further highlights that the semantic class and 
+propositional act functions dichotomy constitute the typologically unmarked prototypes. In light 
+of this hypothesis, Croft deﬁ nes POS as follows: noun = reference to an object; adjective = mod-
+iﬁ cation by a property; and verb = predication of an action. However, a property word may also 
+be used as a referring expression, while an action word may also be used as a modiﬁ er. In order 
+to be able to perform these non-prototypical functions, the respective POS would require to be 
+overtly marked by additional morphemes, what Croft [2001: 88] calls overt structural coding 
+or typological markedness, and this is presented in Table 1.
+Table 1
+Overt structural coding constructions for POS [Croft 2001]
+Reference
+Modiﬁ cation
+Predication
+Objects
+UNMARKED NOUNS
+genitive, adjectivalizations,
+PPs on nouns
+predicate nominals, copulas
+Properties deadjectival nouns
+UNMARKED ADJECTIVES
+predicate adjectives, copulas
+Actions
+action nominals, 
+complements, 
+inﬁ nitives, gerunds
+participles, relative clauses
+UNMARKED VERBS
+The table above shows that prototypical adjectives are those which belong to the semantic cat-
+egory of property and which perform the propositional act of modiﬁ cation. Other types of adjec-
+tives such as participles, which do not belong to the semantic category of property, are marked 
+and peripheral members of the adjective category.
+3. Methodology
+This is a descriptive-analytical research conducted using the content analysis method. The 
+required data have been collected from two great corpora of the Persian language, namely the 
+Persian Language Database [PLDB] and [Bijankhan Corpus]. The former is a software package 
+with various texts of Persian including the vernacular, formal, stylistic and practical varieties. 
+This corpus includes important literary works such as poetry, stories, drama, children’s litera-
+ture, newspapers, and literary and scientiﬁ c periodicals. The latter is a tagged corpus suitable 
+110 
+Voprosy Jazykoznanija 
+2020. № 2
+for natural language processing research on the Persian language. This collection is gathered 
+from daily news and non-specialized texts. In this collection, all documents are categorized into 
+diﬀ erent subjects such as political, cultural, etc.; there are about 4300 diﬀ erent subject catego-
+ries. The corpus contains about 2.6 million manually tagged words with a tag set that contains 
+550 Persian part-of-speech tags. To achieve more reliable results, we have used the two cor-
+pora so that our data can actually represent the usage in Contemporary Persian. Besides, a part 
+of the raw data was provided by the researchers in such a way that the researchers found suit-
+able adjectives related to diﬀ erent categories and classiﬁ ed them within the framework of TPT. 
+The collected data were then analyzed and diﬀ erent limitations on the use of adjectives were 
+described and discussed.
+As shown above, there are three types of propositional acts and three basic semantic catego-
+ries, so that there are nine theoretically possible usages for a paticular word. As the present re-
+search is an attempt to determine the prototypicality of descriptive adjectives and descriptive ad-
+jectives perform the propositional act of modiﬁ cation, we can divide these adjectives into three 
+types, namely, <modiﬁ cation, property>, <modiﬁ cation, object>, and <modiﬁ cation, action>, 
+and analyze these types in terms of prototypicality.
+4. Prototypicality of Persian adjectives
+We divide Persian descriptive adjectives into three types: <modiﬁ cation, property>, <modiﬁ -
+cation, object>, and <modiﬁ cation, action>, and then analyze them separately in terms of proto-
+typicality. To distinguish prototypical adjectives from non-prototypical ones, we use two criteria 
+of TPT; namely structural coding and behavioral potential. The latter consists of three sub-crite-
+ria, namely gradability, attributive and predicative functions, and frequency of occurrence.
+4.1. The <modiﬁ cation, property> adjectives
+This type of adjectives are descriptive and morphologically simple adjectives (i.e. not de-
+rived from other adjectives) such as bozorg ‘big’, zibâ ‘beautiful’, xub ‘good’, bad ‘bad’, sangin 
+‘heavy’, čâq ‘fat’ and so on. Now we evaluate the prototypicality of this type of adjectives based 
+on the criteria and sub-criteria of TPT:
+4.1.1. Structural coding
+These adjectives are to be regarded as prototypical based on this criterion, because most 
+of them have received no aﬃ  x to perform the propositional act of modiﬁ cation 2.
+ 
+2 It is noteworthy that a few of such adjectives such as mehrbân ‘kind’ and sangin ‘heavy’ are diachron-
+ically derivative adjectives, but synchronically speaking, they are considered in the mind of Persian 
+speakers as simplex rather than derivative due to unproductivity of the aﬃ  xes used in their construc-
+tion. In other words, few Persian speakers consider sangin to be made up of sang ‘stone’ + in. However, 
+this is not always the case, as there are some other such constructions the constituents of which are eas-
+ily reminded by Persian speakers while they are used. For example, upon hearing the adjectives rangin 
+‘colored’, khashmgin ‘angry’ and ghamgin ‘sad’, all Persian speakers grasp their meaning through their 
+main constituents, namely rang ‘color’, khashm ‘fury’, and gham ‘grief’, respectively. Therefore, the 
+latter group of adjectives are derivatives both diachronically and synchronically, while sangin is a de-
+rived adjective only diachronically.
+ 
+ Amin Karimi, Vali Rezai 
+111
+4.1.2. Behavioral potential
+Gradability. To test the gradability of the <modiﬁ cation, property> adjectives, we review the 
+comparative use of some of these adjectives in the two corpora used in the research:
+(4) 
+noh-sa        sâl    zamin    se     barâbar   bozorg-tar   šod.
+nine-hundred   year   Earth     three   times       big-����     become.���.3��
+‘The Earth became bigger three times as much for nine hundred years.’
+(5) 
+javân-ân   be   xâter-e     moqeiyat-e   behtar   xud   râ   molzam   be   vorud
+young-��   to    thought-��   position-��     better     self   ���   required   to    enter
+ 
+be   dânešgâh   na-dân-and.
+to    university    ���-know-3��
+‘The youth should not consider it necessary for themselves to enter the university in or-
+der to attain a better position.’
+These sentences show that the <modiﬁ cation, proper ty> adjectives are gradable and thus pro-
+totypical in this respect. However, it should be noted that prototypicality consists of a set of com-
+ponents, and thus adjectives which are used comparatively and superlatively are not equally pro-
+totypical; gradability is a necessary but insuﬃ  cient condition for prototypicality of adjectives. 
+The following criteria shuold be met as well.
+Attributive and predicative uses of the <modiﬁ cation, property> adjectives can be illus-
+trated with the following sentences:
+(6) 
+radio   ke     bâ    sedâ-ye     boland   be   kâr    oftâd,
+radio    when   with   volume-��   loud      to    work   begin
+ 
+pedar   nafas-i      be    asudegi    keš-id.
+father    breath-����   with   relaxation   take-���.3��
+‘When the radio began working with a loud volume, father felt quite relaxed.’
+(7) 
+zabân     va    nahve-ye   motafâvet-e   zendegi-ye   mardom
+language   and   way-��      diﬀ erent-��     life-��        people 
+ 
+barây-e   man   jâleb       ast.
+for-��     me     interesting    be.���.3��
+‘People’s language and way of life are interesting to me.’
+The sentences above show that the <modiﬁ cation, property> adjectives can be used in both 
+attributive and predicative positions and there is no limitation as to their attributive and predica-
+tive usages. This type of adjectives can thus be considered prototypical in this respect.
+Frequency of occurrence. The adjectives of this class hav e a very high frequency of use. 
+The ﬁ ve adjectives of this category presented in Table 2 are just a few examples of these very 
+frequently used adjectives.
+The table shows that both positive and comparative forms of the <modiﬁ cation, property> ad-
+jectives have a high frequency of occurrence in the corpora, which conﬁ rms that they are proto-
+typical. To sum up, we can say that the <modiﬁ cation, property> adjectives have met all crite-
+ria and sub-criteria of TPT well enough. However, not all members of this category are equally 
+prototypical, meaning that their prototypicality can be shown along a continuum. The following 
+graph shows the frequency of occurrence of this type of adjectives in the corpora.
+The graph (Figure 1) shows that bozorg is the most frequently-used and  jâleb is the least fre-
+quently-used adjectives in the <modiﬁ cation, property> type examined in this research, and the 
+other adjectives are in between A noteworthy point is that we tested 20 adjectives from each 
+category and found that they had similar responses to the criteria and sub-criteria of the Typo-
+logical Prototype Theory, but for practical purposes we have enlisted only a few representative 
+adjectives from each category in the tables and graphs.
+112 
+Voprosy Jazykoznanija 
+2020. № 2
+Table 2
+Frequency of the positive and comparative forms of the <modiﬁ cation, property> adjectives
+Occurrences 
+in Bijankhan Corpus
+Occurrences 
+in PLDB
+Positive / comparative
+adjectives
+5567
+1748
+bozorg ‘big’
+ 423
+  64
+bozorgtar ‘bigger’
+1871
+ 916
+xub ‘good’
+1529
+ 780
+behtar 3 ‘better’
+1106
+ 488
+boland ‘tall’
+  51
+  29
+bolandtar ‘taller’
+ 494
+ 227
+jâleb ‘interesting’
+  29
+  18
+jâlebtar ‘more interesting’
+ 840
+ 274
+matlub ‘favorable’
+  34
+  15
+matlubtar ‘more favorable’
+0
+1000
+2000
+3000
+4000
+5000
+6000
+bozorg ‘big’ 
+xub ‘good’ 
+boland ‘tall’ 
+jâleb ‘interesting’ matlub ‘favorable’ 
+PLDB
+Bijankhan Corpus
+Figure 1. Frequency of the positive <modiﬁ cation, property> adjectives
+4.2. The <modiﬁ cation, object> adjectives
+ The <modiﬁ cation, object> adjectives are noun-derived adjectives such as mardâne ‘man-
+like’, rangin ‘colorful’, and tehrâni ‘Tehrani’. They are referred to in traditional grammar as re-
+lational adjectives. Most of them do not have comparative and superlative forms: *axlâq-e 
+pezeškitar (lit. “more medical ethics”), *extelâfât-e qânunitar (lit. “more legal disputes”), *ﬁ zik-e 
+hasteeitar (lit. “more nuclear physics”).
+ 
+3 This is a suppletive form commonly used as the comparative form of xub in Persian, although xubtar is 
+also rarely used in that sense. However, this word is used so frequently by Persian speakers that most 
+of them conceive of it as a separate positive form, which may account for its higher frequency than that 
+of other comparative adjectives.
+ 
+ Amin Karimi, Vali Rezai 
+113
+The noteworthy point is that not all of the adjectives belonging to the <modiﬁ cation, object> 
+category have equal practical limitations; rather some of them have more limitations and are 
+thus more marked than others. Actually, the high frequency of some of these adjectives cause 
+them to take semantic content, and thus move from marked towards unmarked along the marked-
+ness continuum. For example, châmskiayi ‘Chomskyan’ and esfahâni ‘Isfahani’ are sometimes 
+used in a sense more than just denoting a type of relation to Chomsky and Isfahan respectively; 
+rather, they sometimes denote a property usually attributed to these nouns. This is why we can 
+talk of a person being “very Isfahani” (having a particular property attributed to Isfahani peo-
+ple) or even “more Isfahani” than another one. We may then say that there is no clear-cut bound-
+ary between the so-called relational and descriptive adjectives, as we sometimes encounter the 
+process when a particular relational adjective goes away the <modiﬁ cation, object> prototype 
+and approaches the <modiﬁ cation, property> category. This is also the case about adjectives 
+like axmu ‘fretful’ and tarsu ‘timid’, which have originally been derived from nouns, but are 
+considered property adjectives by Persian speakers due to their high frequency as well as their 
+fossilized aﬃ  xes. This is why they are used in comparative and superlative forms as frequently 
+as the normally categorized <modiﬁ cation, property> adjectives, which shows that there are 
+fuzzy boundaries between the members of a particular category. Now, we examine the proto-
+typicality degree of this type of adjectives based on the criteria of TPT.
+4.2.1. Structural coding
+Considering the fact that these adjectives are the result of noun suﬃ  xation, the existence 
+of these suﬃ  xes shows that they are structurally coded and thus far from prototypical adjectives.
+4.2.2. Behavioral potential
+Gradability. In normal circumstances, the <modiﬁ cation, object> adjectives cannot be used 
+in comparative and superlative functions, although there are rare cases where they come to be 
+used as property adjectives and thus take the comparative and superlative suﬃ  xes. An example is 
+when we talk of a woman having a more mardâne ‘manly’ appearance than another one, in which 
+case mardâne is used as a <modiﬁ cation, property>, rather than a <modiﬁ cation, object> adjective.
+Attributive and predicative usages. Having reviewed the corpuses to evaluate prototypical-
+ity of the <modiﬁ cation, property> adjectives, we encountered the following sentences:
+(8) 
+dar   ân    ruz-e   bârâni    raftoâmad   qeire ’âdi   bud.
+in     that   day-��   rainy      traﬃ  c        unusual      be.���.3��
+‘There was an unusual traﬃ  c on that rainy day.’
+(9) 
+šab-e     âxar-i    ke    be   gardeš   raf-t-am    havâ     bârâni   bud.
+night-��   last-����   that   to    picnic    go-���-1��   weather   rainy     be.���.3��
+‘It was raining last night when I went on a picnic.’
+However, certain <modiﬁ cation, object> adjectives are used in attributive position more fre-
+quently than in predicative position. Consider the following sentences:
+(10) modir     yek   hošdâr-e    axlâqi   be   ân-hâ   dâd.
+manager   one   warning-��   ethical    to    that-��   give.���.3��
+‘The manager gave them an ethical warning.’
+(11) 
+?hošdâr-e   modir     be   ân-hâ   (xeili)   axlâqi   bud.
+warning-��   manager   to    that-��   (very)   ethical    be.���.3��
+‘The manager’s warning to them was (very) ethical.’
+114 
+Voprosy Jazykoznanija 
+2020. № 2
+The two sentences show that axlâqi in the NP hošdâr-e axlâqi ‘ethical warning’ cannot be 
+used predicatively. We may then say that the <modiﬁ cation, object> adjectives are more marked 
+and peripheral than the <modiﬁ cation, property> adject ives. The researchers examined this cat-
+egory of adjectives in terms of the criteria and sub-criteria of the Typological Prototype Theory 
+and found that the adjectives of this category have the same behavior with respect to these cri-
+teria and sub-criteria, some of which are presented in the following table:
+Table 3
+Prototypicality degree of < modiﬁ cation, object> adjectives
+Behavioral potential
+Structural coding
+Adjective
+predicative use
+attributive use
+gradability
++
++
+−
++
+noqre-ei ‘silver’
++
++
+−
++
+kudakâne ‘child-like’
++
++
+−
++
+pašmi ‘woolen’
++
++
+−
++
+abrišami ‘silky’
++
++
+−
++
+bârâni ‘rainy’
+As the table above shows, the <modiﬁ cation, object> adjectives can be considered proto-
+typical in terms of attributive and predicative functions, but they are structurally coded as well 
+as non-gradable. With every aspect of prototypical adjectives in mind, we may say that the 
+<modiﬁ cation, object> adjectives are to be considered as non-prototypical, although they are 
+by no means equally peripheral. Now we will see whether the sub-criterion frequency of occur-
+rence conﬁ rms this conclusion or not.
+4.2.3. Frequency of occurrence
+The data from PLDB and Bijankhan Corpus shows that the adjectives of this class do not 
+have high frequency of use. The ﬁ ve adjectives of this category presented in Table 4 are just 
+a few examples. We also examined their comparative forms in order to conﬁ rm the gradability 
+criterion of prototypicality.
+Table 4
+Frequency of the positive and comparative forms of the <modiﬁ cation, object> adjectives
+Occurrences
+in Bijankhan Corpus
+Occurrences
+in PLDB
+Simple / comparative adjectives
+37
+ 0
+noqre-ei ‘silver’
+ 0
+ 0
+noqre-eitar ‘more silver’
+38
+23
+kudakâne ‘child-like’
+ 0
+ 0
+kudakânetar ‘more child-like’
+20
+ 4
+pašmi ‘woolen’
+ 0
+ 0
+pašmitar ‘more woolen’
+28
+15
+abrišami ‘silky’
+ 0
+ 0
+abrišamitar ‘silkier’
+65
+42
+ bârâni ‘rainy’
+ 1
+ 0
+bârânitar ‘rainier’
+ 
+ Amin Karimi, Vali Rezai 
+115
+The table above shows that <modiﬁ cation, object> adjectives are less frequently used in the 
+corpuses than <modiﬁ cation, property> adjectives, and the comparative forms of such adjec-
+tives have no frequency at all, which conﬁ rms that they are non-prototypical adjectives. To sum 
+up, we can say that the <modiﬁ cation, object> adjectives do not meet some criteria and sub-cri-
+teria of TPT. However, not all members of this type of adjectives are equally non-prototypical, 
+meaning that their prototypicality can be shown along a continuum. The following graph shows 
+the frequency of occurrence of the <modiﬁ cation, object> adjectives in the corpora.
+0
+10
+20
+30
+40
+50
+60
+70
+noqre-ei ‘silver’ kudakâne ‘childlike’ pašmi ‘woolen’ 
+abrišami ‘silky’ 
+bârâni ‘rainy’ 
+PLDB
+Bijankhan Corpus
+Figure 2. Frequency of the positive <modiﬁ cation, object> adjectives
+The above graph shows that the <modiﬁ cation, object> adjectives have a low frequency of oc-
+currence in both Bijankhan Corpus and PLDB. A noteworthy point is that the most frequently 
+used adjective of this category, i.e. bârâni has a lower frequency of occurrence in the two cor-
+puses than the least frequently used adjective of the <modiﬁ cation, property> category, i.e. jâ-
+leb, showing that the <modiﬁ cation, object> adjectives are to be regarded more peripheral ad-
+jectives than the <modiﬁ cation, property> adjectives in terms of frequency of occurrence. Now, 
+we investigate prototypicality of the <modiﬁ cation, action> adjectives.
+4.3. The <modiﬁ cation, action> adjectives
+Although this type of adjectives modify nouns, they denote actions rather than properties. 
+The adjectives of this group are derived from verbs. They are present and past participles which 
+are referred to as subject and object adjectives respectively in the traditional Persian grammar. 
+An important point worth noting is that the <modiﬁ cation, action> adjectives lend themselves 
+more easily than other types of adjectives to category shift; that is, there are many more nomi-
+nalization cases of the <modiﬁ cation, action> adjectives than other types of adjectives in Persian. 
+For example, nominals such as nevisande ‘writer’, xaridâr ‘buyer’, forušande ‘salesperson’, and 
+jangande ‘warrior’ have originally been adjectives, but are only rarely used adjectivally in con-
+temporary Persian. Now, we examine the prototypicality of the <modiﬁ cation, action> adjec-
+tives based on the criteria of TPT.
+116 
+Voprosy Jazykoznanija 
+2020. № 2
+4.3.1. Structural coding
+Since the  <modiﬁ cation, action> adjectives are derived from verbs by the addition of an ad-
+jective-making suﬃ  x, they can be said to be structurally coded adjectives. These adjectives are 
+thus to be considered peripheral or non-prototypical adjectives in terms of structural coding.
+4.3.2. Behavioral potential
+This criterion is related to the behavior or usage of prototypical adjectives. It has three sub-cri-
+teria, namely gradability, attributive and predicative uses, and frequency of occurrence.
+Gradability. The <modiﬁ cation, action> adjectives, in their unmarked usages, are only rarely 
+used comparatively or superlatively:
+(12) *qazâ-ye   poxte-tar
+food-��      cooked-���
+‘more cooked food’
+However, the <modiﬁ cation, action> adjectives, like other types of adjectives, also have 
+extended usages, which may make us categorize them as other types of adjectives. For exam-
+ple, poxte is also used in Persian to modify a person rather than food in the sense of ‘experi-
+enced’, or ‘well-rounded’, in which case it is to be categorized as a <modiﬁ cation, property> 
+adjective. This is the very reason why it lends itself to comparative or superlative positions 
+as easily as do other <modiﬁ cation, property> adjectives. This is indeed the non-inherent 
+use of this word, just as the use of the word šekanande ‘fragile’ in the following sentence 
+from the corpus:
+(13) ma   borukrasi-ye    besyâr   šekanande-yi   dâr-im.
+we    bureaucracy-��   very      fragile-����      have-���.1��
+‘We have a very easily-aﬀ ected bureaucracy.’
+In (13), the adjective šekanande, which is morphologically a present participle, is used 
+in an extended, non-inherent, or, more precisely, metaphorical sense — as a “property” rather 
+than “action” adjective. This is why it can be modiﬁ ed by an intensifying adverb. We can come 
+to the conclusion that prototypicality is a context-dependent phenomenon and words should 
+not be evaluated in terms of prototypicality independently from the contexts where they appear. 
+However, we may say that the <modiﬁ cation, action> adjectives are actually used in compar-
+ative or superlative forms less frequently than those of the type <modiﬁ cation, property>, and 
+the very few comparative uses of such adjectives can be accounted for by the fact that they have 
+come to denote property rather than action, a phenomenon which can be referred to as demar-
+cation and can be said to comply well with the so-called fuzzy theory, which is one of the ma-
+jor principles of TPT.
+Attributive and predicative functions. The following sentences from the corpora suggest 
+that <modiﬁ cation, action> adjectives are used in both attributive and predicative positions:
+(14) …ke    yak-i     az   čand   xatari    ast
+which   one-����   of    few    danger    be.���.3��
+ 
+ke    solh-e    šekanande   dar   Kabol   râ   tahdid   mi-kon-ad
+that   peace-��   fragile        in     Kabul    ���   threat     ����-do-���.3��
+‘…which is one of the few dangers that threaten the unstable peace in Kabul.’
+(15) in    nazarieh   az    didgâh-e   qoumšenâsi   šekanande   be   nazar   mi-res-ad.
+this   theory      from  view-��     ethnology      fragile        to    view    ����-reach-���.3��
+‘This seems not to be a strong theory from the perspective of ethnology.’
+ 
+ Amin Karimi, Vali Rezai 
+117
+To summarize, the adjectives of this category have the same behavior with respect to all 
+of the criteria of TPT except for the sub-criterion of gradability. Some of these adjectives are 
+presented in the following table:
+Table 5
+Prototypicality degree of the <modiﬁ cation, action> adjectives
+Behavioral potential
+Structural coding
+Adjective
+predicative use
+attributive use
+gradability
++
++
+−
++
+raftani ‘about to go’
++
++
++
++
+binâ ‘able to see’
++
++
++
++
+kušâ ‘hard-working’
++
++
+−
++
+šekastani ‘breakable’
++
++
++
++
+šekanande ‘fragile’
+As the table above shows, these <modiﬁ cation, action> adjectives are used in attributive and 
+predicative positions, but they are structurally coded words. On the other hand, some of them 
+are gradable, while others are not. What we can conclude is that this type of adjectives cannot 
+be considered prototypical based on structural coding and gradability criteria. Now we will see 
+whether the sub-criterion of frequency conﬁ rms this conclusion or not.
+Frequency of occurrence. According to the data of PLDB and Bijankhan Corpus, adjectives 
+of this class have a very low frequency of use. The ﬁ ve adjectives of this category presented 
+in Table 5 are just a few examples representing these low-frequency adjectives. We also exam-
+ined their comparative forms in order to conﬁ rm the gradability criterion.
+Table 6
+Frequency of the positive and comparative forms
+of <modiﬁ cation, action> adjectives
+Occurrences 
+in Bijankhan Corpus
+Occurrences 
+in PLDB
+Positive / comparative adjectives
+ 7
+ 9
+raftani ‘about to go’
+ 0
+ 0
+raftanitar ‘more likely to go’
+16
+ 6
+binâ ‘able to see’
+ 0
+ 1
+binâtar ‘more capable of seeing’
+35
+ 2
+kušâ ‘hard-working’
+ 1
+ 0
+kušâtar ‘more hard-working’
+ 1
+ 1
+šekastani ‘breakable’
+ 0
+ 0
+šekastanitar ‘more breakable’
+53
+37
+ šekanande ‘fragile’
+ 3
+ 0
+šekanandetar ‘more fragile’
+These data conﬁ rm that these adjectives are peripheral, or non-prototypical. However, in the 
+case of šekanande, which occurs with a higher frequency than the other adjectives of this cate-
+gory, we may say that this adjective has come to be used in an extended and metaphorical sense 
+to denote a human state or property (as a <modiﬁ cation, property> adjective), which accounts 
+for its high frequency.
+To sum up, we can say that the <modiﬁ cation, action> adjectives do not meet at least two cri-
+teria of TPT. However, not all members of this category are equally non-prototypical, meaning 
+118 
+Voprosy Jazykoznanija 
+2020. № 2
+that their prototypicality can be regarded as a continuum. The following graph shows the fre-
+quency of occurrence of the <modiﬁ cation, action> adjectives in the corpora.
+0
+10
+20
+30
+40
+50
+60
+raftani ‘about to 
+go’ 
+binâ ‘seeing’ 
+kušâ ‘hard-working’  
+šekastani 
+‘breakable’ 
+šekanande ‘fragile’ 
+PLDB
+Bijankhan Corpus
+Figure 3. Frequency of occurrence of ﬁ ve representative <modiﬁ cation, action> adjectives
+The above graph shows that the examined adjectives have a low frequency of occurrence both 
+in Bijankhan Corpus and in PLDB, with šekastani and šekanande at the two extremes of the 
+continuum. A noteworthy point is that the most frequently used adjective of this category, i.e. 
+šekanande, has a lower frequency in the two corpora than the least frequently used adjective 
+of the <modiﬁ cation, property> category, showing that the <modiﬁ cation, action> adjectives 
+are not as prototypical as the <modiﬁ cation, property> adjectives in this respect. To have a more 
+illustrative view of prototypical and non-prototypical adjectives, let us compare all three types 
+based on the criteria and sub-criteria of TPT.
+4.4. A comparison of the prototypicality 
+of property, object and action adjectives
+To compare the prototypicality degree of all types of adjectives, we have used all of the cri-
+teria and sub-criteria of TPT, except for the sub-criterion “attributive and predicative use”, be-
+cause all types of adjectives are used both attributively and predicatively and this sub-criterion 
+is thus redundant. The following graph (p. 119) summarizes the comparison of 15 adjectives se-
+lected from three adjective categories based on structural coding and gradability.
+This graph shows that the <modiﬁ cation, property> adjectives are prototypical in terms of both 
+structural coding and gradability. However, the <modiﬁ cation, action> adjectives are structur-
+ally coded and some of them are not gradable. They are, therefore, peripheral, or non-prototyp-
+ical. The third group, the <modiﬁ cation, object> adjectives are non-prototypical in terms of both 
+structural coding and gradability. To sum up, we can show the prototypicality degree of these 
+three types of adjectives along a continuum in the following way:
+Prototypical adjectives 
+ Non-prototypical adjectives
+Property       Action         Object
+This means that property adjectives are more prototypical than action and object adjectives, 
+and that object adjectives are more peripheral than action adjectives. Now we will see whether 
+the frequency data are in line with this result.
+ 
+ Amin Karimi, Vali Rezai 
+119
+0
+5
+10
+15
+20
+25
+structural markedness
+gradability
+Figure 4. A comparison of property, object and action adjectives 
+based on structural coding and gradability
+Next graph (Figure 5) shows that the <modiﬁ cation, property> adjectives are also more 
+frequently used than the other two types, and are therefore closer to prototypical adjectives. 
+However, not all lexemes are equally prototypical, because prototypicality is basically a mat-
+ter of degree.
+One of the major shortcomings of TPT is that it does not provide us with suﬃ  cient criteria 
+to enable comparing diﬀ erent adjectives in terms of prototypicality. In other words, the criteria 
+that we can extract from this theory for diﬀ erentiating between prototypical and peripheral ad-
+jectives are not comprehensive enough to be applied to all members of diﬀ erent parts of speech 
+and to lead us to reliable results. It seems that TPT has assigned too many aspects of language 
+to parameters, which has led to the widened scope of parameters and the limited scope of prin-
+ciples. This is the very reason why researchers of speciﬁ c languages cannot limit themselves 
+to the criteria proposed by TPT in their research. In other words, as people all over the world 
+have many similarities in their behavior, it is not unlikely to have many common features appli-
+cable to all languages of the world.
+Now the question arises as to how to distinguish the class of adjectives from other parts 
+of speech (nouns and adverbs). As we know, an adjective describes a noun or pronoun, while 
+an adverb describes a verb or anything apart from a noun and pronoun. However, many Persian 
+words such as tond ‘fast’, xub ‘good/well’, and zibâ ‘beautiful/beautifully’ are used both adjec-
+tivally and adverbially:
+(16) Ali   rânande-ye   xub-i      ast.
+Ali   driver-��       good-����   be.���.3��
+‘Ali is a good (adj.) driver.’
+(17) Ali   xub   rânandegi   mi-kon-ad.
+Ali   well   driving       ����-do-���.3��
+‘Ali drives well (adv.).’
+It is the context (the type of verb) that helps us distinguish the part of speech of such words, 
+although adverbs are also made up of a preposition + adjective (+ the suﬃ  x -i), e.g. be xub-i 
+‘well’, be tond-i ‘fast’, be zibâ-yi ‘beautifully’, in which case such a construction helps us to de-
+termine their part of speech. The same problem exists in the case of words functioning as both 
+adjectives and nouns. For instance, bozorg ‘big’, which is originally an adjective, may come 
+120 
+Voprosy Jazykoznanija 
+2020. № 2
+0
+1000
+2000
+3000
+4000
+5000
+6000
+The Persian Database
+Bijankhan Corpus
+Figure 5. A comparison of property, action and object 
+adjectives in terms of frequency of occurrence
+to be used nominally as well, but morphological markers such as suﬃ  xes help us to determine 
+their part of speech. For example, bozorg-ân ‘great people’ has taken the plural noun suﬃ  x -ân, 
+whereas, if it takes the comparative suﬃ  x -tar, it is certainly an adjective rather than a noun. 
+However, if such ﬂ exible words are not accompanied by such distinguishing suﬃ  xes, the ezafe 
+particle may help us to determine their lexical categories:
+ 
+ Amin Karimi, Vali Rezai 
+121
+(18) pedar-e   Rezâ   mard-e   bozorg-i   ast.
+father-��   Reza   man-��    great-����   be.���.3��
+‘Reza’s father is a great man.’
+In this sentence, bozorg does not take the ezafe particle, so it is an adjective. However, this 
+word takes that particle in the following sentence and is used nominally rather than adjectivally:
+(19) pedar-e   Reza   bozorg-e   šahr   ast.
+father-��   Reza   great-��    city    be.���.3��
+‘Reza’s father is the great man of the city.’
+Therefore, in addition to the context (type of verb), morphological evidence such as suﬃ  xes 
+and the ezafe particle marks the class of such ﬂ exible words.
+5. Conclusion and discussion
+This study investigated the lexical category of adjectives in Persian within the framework 
+of TPT. One of important aims of this study was to evaluate TPT in determining the prototyp-
+ical features of Persian adjectives. Having collected the data from two corpora and analyzed 
+them with respect to the criteria and sub-criteria of TPT, we came to the conclusion that TPT 
+can partly help to determine and deﬁ ne prototypical and atypical adjectives in Persian, but it 
+has certain shortcomings in this respect due to the insuﬃ  cient set of criteria and sub-criteria 
+proposed for this purpose. In other words, although this theory has proposed two major cri-
+teria for prototypicality of adjectives, these criteria are not comprehensive enough to deter-
+mine the prototypicality degree of diﬀ erent adjectives within the same category. These cri-
+teria could have more sub-criteria concerning diﬀ erent morphological, syntactic, semantic, 
+and pragmatic behavior such that they could help us determine the prototypicality degree 
+of diﬀ erent members of a category. More speciﬁ cally, TPT could prove more helpful in dis-
+tinguishing between prototypical and non-prototypical words if it considered the monosemy 
+and polysemy phenomena, more various syntactic functions of POS, morphological features 
+like derivation, and class range.
+The present study also aimed to account for the morphological and syntactic diﬀ erences be-
+tween prototypical and non-prototypical adjectives in Persian. Having tested diﬀ erent types 
+of adjectives using the two criteria proposed within the theoretical framework of the research, 
+we came to the conclusion that prototypical adjectives, unlike peripheral or non-prototypical 
+ones, are structurally unmarked, lend themselves to comparative and superlative forms more 
+easily, and are used both attributively and predicatively. In addition, having investigated the as-
+sociation between frequency of occurrence and prototypicality of adjectives in Persian by using 
+PLDB and Bijankhan Corpus, we concluded that those adjectives which are regarded by TPT 
+as prototypical are also used more frequently in the mentioned corpora.
+One of the main questions which the present paper sought to answer was about the degree 
+to which the sub-classes of adjectives in traditional Persian grammar such as descriptive, re-
+lational, ability, subjective and objective adjectives are associated with prototypical adjectives 
+in this language. Therefore, one of the hypotheses of this research was that there is a relation-
+ship between the traditionally categorized adjective types in Persian and their degree of proto-
+typicality. It was shown that such relationship exists, in such a way that property adjectives are 
+the most prototypical and object adjectives are the least prototypical , while the action adjec-
+tives are in between them on the prototypicality continuum. The so-called descriptive adjectives 
+all belong to the <modiﬁ cation, property> category and are thus prototypical. However, the so-
+called relational adjectives all belong to the <modiﬁ cation, object> category and are thus periph-
+eral, or non-prototypical. The rest of the traditional categories, including the so-called subjective, 
+122 
+Voprosy Jazykoznanija 
+2020. № 2
+objective and ability adjectives are all to be regarded in their unmarked usages as <modiﬁ cation, 
+action> adjectives and are thus also peripheral.
+However, it was shown in this study that due to diﬀ erent inherent and non-inherent senses, the 
+same adjective may simultaneously belong to more than one category depending on the context 
+in which it appears. In other words, a speciﬁ c (metaphorical) sense of a given word may exclude 
+that word from its common and unmarked category and cause it to take the features of another 
+category. This is why we cannot determine the extent to which an adjective, apart from its con-
+text, is prototypical. In addition to the demarcation phenomenon, speakers sometimes recatego-
+rize a word into another part of speech, the phenomenon known as category shift. This is why 
+we can talk of processes such as adjectivalization, deadjectivalization, nominalization, denom-
+inalization, verbalization, deverbalization, and so on in languages. The present paper provided 
+examples of nominalization in Persian, but each of these processes could be used as a future re-
+search topic in a particular language.
+ABBREVIATIONS
+1, 3 — 1st, 3rd person
+���� — comparative grade
+�� — ezafe
+���� — imperfective
+���� — indeﬁ nite article
+�� — plural
+POS — part(s) of speech
+��� — present tense
+��� — past tense
+PT — Prototype Theory
+TPT — Typological Prototype Theory
+�� — singular

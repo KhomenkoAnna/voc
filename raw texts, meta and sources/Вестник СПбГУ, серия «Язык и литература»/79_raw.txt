@@ -1,0 +1,749 @@
+© Санкт-Петербургский государственный университет, 2020
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+https://doi.org/10.21638/spbu09.2020.309 
+487
+UDC 811.16
+Marina Yu. Kotova
+St. Petersburg State University, 
+7–9, Universitetskaya nab., St. Petersburg, 199034, Russia 
+m.kotova@spbu.ru
+Olga V. Raina
+St. Petersburg State University, 
+7–9, Universitetskaya nab., St. Petersburg, 199034, Russia 
+o.raina@spbu.ru
+Towards a linguistic vision of the world at  
+the paremiological level of language*
+For citation: Kotova M. Yu., Raina O. V. Towards a linguistic vision of the world at the paremiological 
+level of language. Vestnik of Saint Petersburg University. Language and Literature. 2020, 17 (3): 487–504. 
+https://doi.org/10.21638/spbu09.2020.309
+This article examines the thematic groups of the Russian paremiological minimum of Grigoriy 
+Permyakov, and its reflection in various foreign paremiological corpora, to support the idea 
+of the specifics of a linguistic picture of the world at the paremiological level of language. The 
+authors’ collections of Slavonic proverbs from 2000–2019 are utilized. The work applies the 
+approach of contrastive paremiological studies promulgated by Valeriy Mokienko, in order 
+to demonstrate the systematic characteristics of the paremiological level of expression: poly-
+semantic, currently synonymous (70 groups) and antonymous (30 groups) Russian proverbs. 
+Some proverbs are found in several synonymous and/or antonymous pairs: from our database, 
+the total number of proverbial synonyms is 195 out of 500 proverbs, and of proverbial ant-
+onyms 83 out of 500 (as a result, approximately 39 % of our Russian paremiological minimum 
+are in a synonymous relationship and approximately 17 % of proverbs are in an antonymous 
+relationship). The authors conclude that the synonymous proverbs appear in all 12 groups of 
+our thematic classification of Russian proverbs and the antonymous Russian proverbs appear 
+in 10 thematic chapters out of 12. It is proposed that the thematic subgroups, containing syn-
+onyms or/and antonyms, are the dominating segments of the Russian proverbial representa-
+tion of the world, which highlight the most important sides of the Russian conception of life 
+embodied in proverbs.
+Keywords: paremiological level, paremiological minimum, proverbial representation of the 
+world, Russian language, thematic classification.
+Introduction
+Professor Valeriy Mokienko outlined the following linguistic aspects of Slavonic 
+paremiology: traditions and the present in paremiology and paremiography, the contem-
+porary paremiography of Slavonic languages; proverbs and sayings: the status, terminol-
+* This paper is written within the framework of the project “Electronic dictionary of current active 
+East Slavonic proverbs” (20-012-00105) funded by the Russian Foundation for Basic Research (RFBR).
+488 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+ogy and aspects of research; functioning of paremias in modern literary languages, media 
+and living speech; variability of paremias as reflection of their dynamics; cognitive aspects 
+of research on proverbs; paremiological minimum; cross-language comparison and his-
+torical-etymological analysis of Slavonic proverbs [Mokienko 2018: 251–271].
+This research has been conducted in accordance with Prof. Mokienko’s outline. The 
+purpose of this study, in regard to the thematic groups of the Russian paremiological mini-
+mum, is to describe the phenomena of polysemy, synonymy, and antonymy as highlighters 
+of the paremiological level of the Russian language, on the one hand, and to demonstrate 
+the most vivid thematic segments of the Russian proverbial representation of the world, 
+containing proverbial synonyms and antonyms, on the other hand.
+To solve the problem, we utilize the collections of Slavonic proverbs from 2000 to 
+2019 and the approach of contrastive contextual and linguistic cultural studies is applied 
+[RSDP 2000; HP-1 2013; HP-4 2018; HP-6 2019].
+Taking into consideration that a proverb points to a situation and that the connotative 
+aspect predominates over the denotative and significative in the semantic structure of a 
+proverb, we demonstrate that proverbial synonyms are tokens of identical situations and 
+paremiological antonyms are signs of opposite situations.
+Following the Russian paremiologist Grigoriy Permyakov, we determine the pare-
+miological polysemy, synonymy, and antonymy as the semantic features of the language’s 
+paremiological system, i.e. the paremiological level of the Russian language [Permyakov 
+1979; 1988].
+Semantic specifics of the Russian paremiological system:  
+proverbial polysemy, synonymy, and antonymy.  
+The structure of the entry in the dictionary of proverbs 
+It is important to clarify from the outset the mechanism by which the dictionary defi-
+nition of the Russian proverb is established on the basis of our paremiographic experience. 
+This mechanism reflects various problems of paremiology and paremiography. Here, we 
+will apply the principles and structure of the Russian-Slavonic Dictionary of Proverbs with 
+English Parallels (RSDP), published by Kotova in 2000 [RSDP 2000].
+This creative process of establishing a definition of a proverb is influenced by the com-
+position of the dictionary, the system of mutual connections of proverbs (proverbial poly-
+semy, synonymy, antonymy), and the lexical semantics of the components of proverbs.
+The RSDP consists of four parts. We designate them here in the order of their applica-
+bility to our paremiographic work; this does not correspond to their order in the contents 
+of RSDP: the thematic index of Russian proverbs; the alphabetical index of all components 
+of Russian proverbs from the RSDP, the dictionary (the main part); alphabetical indexes of 
+all foreign proverbs included in the dictionary.
+Thematic classification helps to identify the polysemy of proverbs, thanks to their 
+uninhibited inclusion into various thematic groups.
+In RSDP 24 % of our proverbial material is presented in several thematic sections at 
+the same time; hence, a quarter of Russian proverbs are polysemantic. This data is found 
+in the process of the creation of the index for all components of Russian proverbs, where at 
+each head-word proverb entry, an arrow points to the numbers of chapters and headings 
+of the thematic index in which this proverb is given.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+489
+The following types of polysemantic proverbs are to be found:
+ 
+— proverbs with a figurative form of expression, e.g.: Не так страшен черт, как 
+его малюют (lit. “The devil is not as terrible as he is depicted”). ‘1. Encourage-
+ment to act despite obvious difficulties; 2. rejoicing in connection with the suc-
+cessful business, which at first seemed very difficult’ [RSDP 2000: 174] (cf. the 
+English proverbial parallel: The devil is not so black as he is painted [HP-4: 142]);
+ 
+— proverbs with a direct form of expression, e. g.: Там хорошо, где нас нет (lit. “It’s 
+good where we are not”) ‘1. This is said when looking for something better; 2. A 
+cautious remark about the praise of distant and hard-to-reach places’ [RSDP 2000: 
+169] (cf. the English proverbial parallel: The grass is always greener on the other 
+side of the fence [HP-4: 146]);
+ 
+— proverbs with semantic duality, e. g.: Чем бы дитя ни тешилось, лишь бы не 
+плакало /lit. “It does not matter how the child plays, the most important thing is 
+that the child does not cry.” ‘1. This is said by parents about children, forgiving all 
+their pranks and fulfilling all their desires, so that they do not disturb others; 2. 
+about somebody who finds comfort and enjoyment in any situation, which other 
+people see as an empty caprice, but they forgive him for it, feeling sorry for him’ 
+[RSDP 2000: 52].
+Synonymous proverbs are clearly indicated in separate subheadings of the thematic 
+index, for example:
+А Васька слушает, да ест /lit. “Well, Vaska the cat listens, but eats”/ — В одно ухо вошло, 
+а в другое вышло /lit. “It went in one ear and came out the other”/;
+Вор у вора дубинку украл /lit. “The thief stole the truncheon from the thief”/— Мошенник 
+на мошеннике сидит и мошенником погоняет /lit. “The swindler sits on a swindler and 
+drives a swindler”/;
+Снявши голову, по волосам не плачут /lit. “Those left without their head, do not cry for 
+their hair”/ — После драки кулаками не машут /lit. “They don’t wave their fists after a 
+fight”/; 
+Назвался груздем — полезай в кузов /lit. “If you call yourself a mushroom — get in the 
+basket”/— Взялся за гуж — не говори, что не дюж /lit. “If you start to do something — do 
+not say that you are not strong”/, and others.
+Some dictionary entries also contain antonyms, for example:
+На Бога надейся, а сам не плошай /lit. “God saves those who save themselves”/ (cf. the 
+English proverbial parallel God helps those who help themselves [HP-4: 64]);
+‘You must fight for your goals, you should not just passively wait for the mercy of God (fate) 
+(this is said when one has to demonstrate courage and decisiveness)‘ (opposite: Человек 
+предполагает, а Бог располагает — En. Man proposes, God disposes) [RSDP 2000: 22].
+Accordingly, the synonymy and antonymy of Russian proverbs is made manifest in 
+the thematical index of the RSDP. 
+The definition of a proverb reflects the relationship with the various thematic chap-
+ters of the thematic index in which the interpreted proverb is included. This relation-
+ship either provides grounds for the establishment of several proverbial meanings, or it is 
+brought into the definition of a single meaning of the proverb, for example:
+490 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+Одна паршивая овца все стадо портит /lit. “One black sheep spoils the whole flock”/ ‘1. 
+About a person who violates a family’s well-being with his nefarious actions; 2. about a 
+person who is negatively perceived in society, and differs sharply from all the others’ [RSDP 
+2000: 104] (cf. the English proverbial parallel There is a black sheep in every flock [HP-4: 
+153]). This proverb is placed in the thematic index under two headings: in the fourth sec-
+tion, “Children — parents”, of the fourth chapter, “House. Family. Children. Parents. Raising 
+children”; and in the twelfth section, “Head — subordinates”, of the eighth chapter, “The 
+relationship between people”;
+Старого воробья на мякине не проведешь /lit. “An old sparrow is not caught with 
+chaff”/ ‘An elderly, experienced man who cannot be fooled by primitive tricks’ [RSDP 2000: 
+35] (cf. the English proverbial parallel Old birds are not caught with chaff [HP-4: 116]). The 
+proverb is included in three thematic headings: the thirteenth subheading, “Ability — inabil-
+ity”, of the first thematic chapter, “Coping. Work. Occupation. Learning. — Rest. Idleness. 
+Laziness. Ignorance”; in the fifth subheading, “Mind — age”, of the second chapter, “Person”; 
+and in the second subheading, “Youth — old age”, of the fourth chapter, “House. Family. 
+Children. Parents. Raising children.” 
+The thematic index is organized according to the dichotomous principle, which is 
+manifested in most of the titles of chapters and subheadings, and in the location of pro-
+verbial material: if in this category there are proverbial correlations between the different 
+polarities of the title, they are located in two columns; if the dichotomy is the essence of 
+the semantics of the proverb and is inextricably included in its internal form, the proverbs 
+are located in one column in the middle of the page, for example:
+«VII. Love. Friendship.
+3) Love — indifference.
+ 
+Любовь горы свернет 
+ 
+ 
+С глаз долой — из сердца вон
+ 
+/lit. “Love will move mountains”/ 
+ 
+/lit. “Out of sight out of mind”/
+4) Love — hate.
+ 
+От любви до ненависти один шаг
+ 
+/lit. “From love to hate there is one step”/» [RSDP 2000: 193–194]
+Let us consider the relationship of the paremiological meaning and the lexical mean-
+ing of words-components in proverbs with a direct form of expression (e.g., Обещанного 
+три года ждут /lit. “For something promised we wait three years”/, cf. the English pro-
+verbial parallel A promise costs nothing [HP-4: 21]), with a figurative expression (e.g., Своя 
+рубашка ближе к телу /lit. “His own shirt is closer to his body”/) and in proverbs with se-
+mantic duality (e.g., Russian Не хлебом единым жив человек /lit. “No one lives on bread 
+alone”/, cf. the English proverbial parallel Man shall not live by bread alone [HP-4: 102]).
+The proverb Обещанного три года ждут /lit. For something promised, we wait three 
+years/ does not contain an allegory and it has no imagery, so only background knowledge 
+will help a foreigner (for ex., a Pole) to recognize a proverb in this sentence and suggest a 
+connection with the Polish proverbial parallel Obiecanki, cacanki, a głupiemu radość /lit. 
+“Promises are rattles, and a stupid amusement for stupid people”/.
+The Russian maxim turned from a sentence with free meaning into a proverb ow-
+ing to such acquired features as reproducibility, expressiveness, aphoristic characteristics, 
+didacticism and, most importantly, the ability to function as a sign of a certain situation. 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+491
+If we turn to the thematic index, we will find it listed in four situations, the sign of which 
+this proverb can be:
+1) the first theme “Coping. Work. Occupation. Learning. — Rest. Idleness. Laziness. 
+Ignorance”, the tenth subgroup “Words (promises) — deeds”
+2) the eighth theme “The relationship between people,” the second subgroup 
+“Gratitude — ingratitude for help,” 
+3) the eighth theme “The relationship between people,” the fifth subgroup “Generous 
+gift — humble gift”
+4) the eighth theme “The relationship between people,” the eleventh subgroup 
+“Promise — keeping a promise.” 
+In the definitions of this Proverb in the RSDP, these situations are summarized under 
+two meanings: ‘1. a consolation to the one who hopes somebody will fulfil his promises, 
+2. this is said mockingly by somebody who has deceived a naive and trusting person by 
+promising him anything’ [RSDP 2000: 103].
+Thus, the definition does not show the interpretation of the literal meaning of the 
+proverb, but serves as information about the scope, conditions, and situation of Russian 
+proverbs’ function: Обещанного три года /lit. “For something promised we wait three 
+years”/, including the characteristics of emotional and expressive colouring in its use. 
+An example of a proverb with an allegorical (figurative) form of expression and vivid 
+imagery (inner form) is Своя рубашка ближе к телу /lit. “His own shirt is closer to his 
+body”/ ‘1. This is said about a selfish person who thinks only about his own interests; 2. 
+about a person who cares only about his belongings and does not worry about the safety of 
+someone else’s property’ [RSDP 2000: 130]. It is represented in the thematic index within 
+two themes: 
+1) the third theme “Character. Psyche. Morality. Emotions,” the fifth subgroup 
+“Selfishness”;
+2) the eighth theme “The Relationship between people,” the seventh subgroup “My 
+own — the other.” 
+Its semantics is due primarily to the literal meaning of its two components — one’s 
+own and closer. The components shirt and body work to create an image (note its ac-
+tive foreign proverbial parallels, for example, Polish Bliższa koszula ciału /lit. “The shirt is 
+closer to the body”/).
+The lexical dichotomy their own — someone else’s determines a paremiological oppo-
+sition in the seventh subgroup, “My own — the other”, of the eighth theme in the thematic 
+index. In the left column there are the proverbs В чужой монастырь со своим уставом 
+не ходи /lit. “Do not go to a foreign monastery with your charter”/ (cf. the English prover-
+bial parallel When in Rome, do as the Romans do [HP-4: 173]) and Своя рубашка (рубаха) 
+ближе к телу /lit. “His own shirt is closer to his body”/. In the right hand column there 
+are the proverbs На чужой каравай рот не разевай /lit. “On someone else’s loaf do not 
+open your mouth”/ and Чужую беду руками разведу, а к своей и ума не приложу /lit. 
+“I will help someone else’s misfortune, but I cannot solve my own problem”/. In the left 
+column, the semantic centre of the proverbs is the component own, and in the right — the 
+semantic dominant is the component of someone else’s.
+492 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+The more meanings a Russian proverb has, the more complicated it becomes to match 
+it with a foreign paremiological equivalent. The process of this matching becomes more 
+difficult in the case of synonymous relationships of a proverb in the Russian proverbial 
+system. 
+Themes of proverbial representation of the world,  
+reflected by synonymous and antonymous Russian proverbs
+Synonymous proverbs
+According to Outi Lauhakangas, “with the term synonymy we refer to proverbs, 
+which have the same idea but not the same form. If proverbs have both the same idea and 
+they vary only by some words or grammatical structures, they are proverb variants to each 
+other” [Lauhakangas 2014: 54].
+Examining the coverage of synonymous Russian proverbs in the thematic index of 
+the RSDP [RSDP 2000: 182–203], which includes 500 Russian proverbs, we come to the 
+following results:
+1) The number of synonymous groups in the thematic index is 70 (from two to eight 
+proverbs in one synonymous group). Some proverbs are represented in sever-
+al synonymous groups; the total number of proverbs within the 70 synonymous 
+groups is 195.
+2) Synonymous Russian proverbs appeared in all 12 thematic chapters (themes), but 
+not in every subgroup of these themes. 
+Antonymous proverbs
+Our research into proverbial antonyms is based on the concept of linguistic opposites 
+(Lev Novikov) and on the ideas of objectification of antinomies and classification of an-
+tinomies (Wilhelm von Humboldt, Alexander Potebnya, Pavel Florensky, Yuri Apresyan, 
+Tatyana Bochina, E. N. Miller, E. Rodicheva, Nikolai Shanskiy and others).
+We are also aware of the results Russian researcher Natalia Golembovskaja’s candi-
+date’s thesis. Golembovskaja was the first within the field of contrastive paremiology to 
+study the problem of the expression of the antonymy in Russian and Lithuanian proverbs 
+[Golembovskaja 2013; 2014]. Her dissertation contains a detailed survey of the represen-
+tation of the established structure of linguistic and cultural antinomies in the semantics 
+of Russian and Lithuanian. The analysis of the lexical and grammatical means of express-
+ing antinomy, and the consideration of the norms and contexts of the use of antonyms is 
+based on a field approach. She analyzed the whole Russian proverbial corpus regardless of 
+the current frequency of proverbs. This is the difference between her approach and ours.
+We have come to the following conclusions:
+1) The number of antonymous groups in the thematic index is 30 (from two to eight 
+proverbs in one antonymous group). Some proverbs are represented in several ant-
+onymous groups; the total number of proverbs within the antonymous groups is 83;
+2) antonymous Russian proverbs appeared in ten thematic chapters (themes I–IX, 
+XII), but not in every subgroup of these themes. 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+493
+Let us examine here the coverage of the actively used synonymous and antonymous 
+Russian proverbs in the thematic index of the RSDP and illustrate the whole thematic 
+classification with all subgroups; an asterisk (*) is used to distinguish the subgroups con-
+taining actively used proverbial synonyms; the hash symbol (#) marks the subgroups with 
+active proverbial antonyms.
+THE THEMATIC CLASSIFICATION OF RUSSIAN PROVERBS IN THE RSDP:
+I. Coping. Work. Occupation. Learning. — Rest. Idleness. Laziness. Ignorance
+1) * Beginning — end
+2) * Condition — effect 
+3) Reason — consequence
+4) * # Purpose — means (* Synonyms: Игра не стоит свеч /lit. “The game is not 
+worth the candle”/; Овчинка выделки не стоит /lit. “The sheepskin is not 
+worth the manufacturing”/, cf. the English proverbial parallel The game is not 
+worth the candle [HP-4 2018: 145] vs. # an antonym: Игра стоит свеч /lit. “The 
+game is worth the candle”/)
+5) Whole (total) — essential
+6) # Large — small 
+7) # Search — find 
+8) Success — failure
+9) # Seriousness — carelessness 
+10) * # Words (promises) — deeds (# an antonym: Обещанного 3 года ждут /lit. 
+“For something promised we are waiting for three years”/, see the English prover-
+bial parallel A promise costs nothing [HP-4 2018: 21] vs. * Synonyms Сказано — 
+сделано /lit. “Said — done”/, cf. the English proverbial parallel So said, so done 
+[HP-4 2018: 132]; Назвался груздем — полезай в кузов /lit. “If you call your-
+self a mushroom — get in the basket”/, cf. the English proverbial parallel In for a 
+penny, in for a pound [HP-4 2018: 84])
+11) Work — result
+12) * Work — Rest — Pampering 
+13) * # Skill — lack of practice (# an antonym: Терпение и труд все перетрут /
+lit. “Tolerance and hard work will do everything”/, cf. the English proverbial par-
+allel Care and diligence bring luck [HP-4 2018: 37] vs. * the synonyms Работа 
+дураков любит /lit. “Work loves fools”/; Работа не волк, в лес не убежит /
+lit. “Work is not a wolf, it won’t escape to the forest”/)
+14) * Diligence — laziness 
+15) Diligence
+16) * # Learning, knowledge — ignorance, inattention (*synonyms Век живи — век 
+учись /lit. “Live a century — learn a century”/; Повторенье — мать ученья /
+lit. “Repetition is the mother of learning”/; Ученье — свет, неученье — тьма 
+/lit. “Learning is light, laziness is darkness”/, cf. the English proverbial parallel 
+Live and learn [HP-4 2018: 97] vs. # an antonym Много будешь знать — скоро 
+состаришься /lit. If you learn much you will soon grow old/, cf. the English pro-
+verbial parallel Too much knowledge makes the head bald [HP-4 2018: 163])
+494 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+II. Person (human) 
+1) # Appearance (beautiful-ugly; clothes; health and state of mind) 
+2) * Dignity — vices 
+3) Drunk — sober
+4) # Mind — stupidity 
+5) Mind — age
+6) Sly person — simpleton
+7) # Language, speech — silence 
+III. Character. Psyche. Morality. Emotions
+1) Modesty — bragging (boasting)
+2) * Stealth 
+3) Coldness — kindness, tenderness
+4) * # Optimism — uncertainty (* synonyms Где наша не пропадала! /lit. “We 
+will not be lost!”/, Не боги горшки обжигают /lit. “It’s not the gods who burn 
+pots”/, cf. the English proverbial parallel What man has done, man can do [HP-
+4 2018: 170] vs. #an antonym Как бы чего не вышло /lit. “It could result in un-
+desirable consequences”/
+5) * Selfishness 
+6) Commitment — caution
+7) * Conscience
+8) * Freedom, independence — constrained desires 
+9) * Satisfaction — unsatisfied desire
+10) * # Courage — fear (* synonyms Волков бояться — в лес не ходить /lit. “If 
+you are afraid of wolves, do not go to the forest”/; Где наша не пропадала! /
+lit. “We will not be lost!”/, Кто смел, тот и съел /lit. “He that is brave will 
+eat”/; Либо пан, либо пропал /lit. “Win or lose”/; Риск — благородное дело /
+lit. “Risk is a noble thing”/; Смелость города берет /lit. “The brave conquer 
+cities”/; Чем черт не шутит /lit. “What tricks does not the devil play”/, cf. the 
+English proverbial parallel He that fears every bush must never go a-birding [HP-
+4 2018: 71] vs. # an antonym У страха глаза велики /lit. “Fear has huge eyes”/, 
+cf. the English proverbial parallel Fear has magnifying eyes [HP-4 2018: 58])
+11) * Despair — bravado
+IV. House. Family. Children. Parents. Education (Raising children, Upbringing) 
+1) * House. Family. 
+2) # Youth — old age 
+3) Husband — wife
+4) # Children — parents 
+5) * Pampering — disobedience
+V. Property. Owner. Guest. Wealth
+1) House, property
+2) * Host — guest 
+3) * Food, treat 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+495
+4) # Economy — mismanagement 
+5) * # Thrift — wastefulness (* synonyms Денежки счет любят /lit. “Money likes 
+to be counted”/; Копейка рубль бережет /lit. “A kopek will save a ruble”/, cf. 
+also the English proverbial parallel You look after the pennies, the pounds look af-
+ter themselves vs. an antonym Деньги — дело наживное /lit. “Money is an accu-
+mulative business”/
+6) * # Wealth — poverty (# an antonym Не было ни гроша, да вдруг алтын /lit. 
+“He had no money, but suddenly he got a lot of money at once”/, cf. the English 
+proverbial parallel From rags to riches [HP-4 2018: 63] vs. * synonyms Где тонко, 
+там и рвется /lit. “It tears in the weakest part”/; Не до жиру, быть бы живу /
+lit. “Being alive is more important than being fat”/, cf. the English proverbial par-
+allel A chain is no stronger than its weakest link [HP-4 2018: 11])
+VI. Time. Patience
+1) Past — present — future
+2) * Provision of time — lack of time 
+3) * Slowness 
+4) Delay
+5) * Summing up 
+6) * # Call for patience — impatience (# an antonym Терпи, казак, атаманом 
+будешь /lit. “Be patient, soldier, you will become a commander”/, cf. the English 
+proverbial parallel While there is life, there is hope [HP-4 2018: 174] vs. the syn-
+onyms Всему есть предел /lit. “Everything has its limit”/; Всякому терпению 
+приходит конец /lit. “Each act of patience gets to the end”/)
+VII. Love. Friendship
+1) * Love mutual 
+2) * # Love unrequited (* synonyms Насильно мил не будешь /lit. “You cannot 
+make somebody fall in love with you”/; Сердцу не прикажешь /lit. “You cannot 
+force your heart”/, cf. the English proverbial parallel You can take a horse to water, 
+but you cannot make him drink [HP-4 2018: 179] vs. an antonym Стерпится — 
+слюбится /lit. “You will get used to him/her and then you will love him/her”/, 
+cf. the English proverbial parallel Marry first and love will come afterwards [HP-
+4 2018: 103])
+3) # Love — indifference
+4) Love — hate
+5) Lack of choice
+6) The consequences of love drama
+7) Love after forty (male — female)
+8) Wedding
+9) * # Friendship — aversion (* synonyms Человек человеку друг /lit. “A man is 
+man’s best friend”/; Не имей сто рублей, а имей сто друзей /lit. “Don’t have a 
+hundred rubles, but have a hundred friends”/, cf. the English proverbial parallel 
+A friend in need is a friend indeed vs. # an antonym Человек человеку волк /lit. 
+“A man is a wolf to a man”/)
+496 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+10) * # Assistance (Help) of a friend (# an antonym Не в службу, а в дружбу /lit. 
+“Not through duty, but friendship”/ vs. * synonyms Дружба дружбой, а служба 
+службой /lit. “Friendship is friendship, but service is service”/; Свои люди — 
+сочтемся /lit. “We are close friends and will settle up”/; Дружба дружбой, 
+а табачок врозь /lit. “Friendship is friendship, but tobacco is something else”/)
+11) * Similarity — dissimilarity of friends 
+12) * Equality — non-equality 
+VIII. The relationship between people
+1) # Good — bad person in relations with other people (callousness, narcissism, 
+predation, ingratitude, duplicity, meanness, ignorance, and selfishness) 
+2) * Gratitude — ingratitude for help 
+3) * # The unity of the individual and society — the isolation of the individual from 
+society (* synonyms Один за всех, все за одного /lit. “One for all, all for one”/; 
+Один в поле не воин /lit. “One is not able to struggle alone”/; Одна ласточка 
+весны не делает /lit. “One swallow does not make a spring”/, cf. the English 
+proverbial parallel One swallow does not make a summer [HP-4 2018: 122] as # 
+antonyms vs. * synonyms Живи своим умом /lit. “Live on one’s wits”/; Каждому 
+свое /lit. “To each his own”/, cf. the English proverbial parallel To each his own 
+[HP-4 2018: 162]; Каждый сам за себя отвечает /lit. “Each is responsible for 
+himself”/)
+4) Community — dependency
+5) * # Generous gift  — humble gift (# an antonym Не дорог подарок, дорога 
+любовь /lit. “We appreciate not a gift, but love”/, cf. the English proverbial paral-
+lel Small gifts keep friendship alive [HP-4 2018: 131] vs. * the synonyms Дареному 
+коню в зубы не смотрят /lit. “Don’t look a gift horse in the mouth”/, cf. the 
+English proverbial parallel Don’t look a gift horse in the mouth [HP-4 2018: 103]; С 
+паршивой овцы хоть шерсти клок /lit. “Even a shred of wool is good enough 
+if it appears from a black sheep”/)
+6) Fed — hungry
+7) My own — the other
+8) Meeting — parting
+9) Humility — pride (arrogance)
+10) Sympathy — indifference 
+11) Promise — keeping a promise
+12) * Superior (Boss) — subordinates
+IX. Conflict
+1) The Source of the conflict — the outcome of the conflict
+2) Strength — weakness
+3) Repentance; reconciliation
+4) * # Compromise  — stubbornness, intransigence (*the synonyms Худой мир 
+лучше доброй ссоры /lit. “Better a lean peace than a good quarrel”/, cf. the 
+English proverbial parallel Better a lean peace than a good quarrel [RSPD 2000: 
+95]; И волки сыты, и овцы целы /lit. “When the wolves are full, the sheep are 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+497
+unharmed”/ vs. # an antonym Нашла коса на камень /lit. “Scythe ran against 
+the stone”/, cf. the English proverbial parallel Diamond cut diamond [HP-4 2018: 
+42])
+5) * Guilt — innocence (injustice) 
+6) * Resentment — threat 
+7) Talkativeness — restraint
+8) * # Crime (offence) — disclosure (* the synonyms Вор у вора дубинку украл /
+lit. “The thief stole the baton from the thief”/; Мошенник на мошеннике сидит 
+и мошенником погоняет /lit. “A swindler sits on a swindler and drives a swin-
+dler”/, cf. the English proverbial parallel To deceive a deceiver is no deceit [HP-
+4 2018: 162]); (# the antonyms Не пойман — не вор /lit. “You cannot call some-
+one a thief until you catch him stealing”, cf. the English dialect proverbial parallel 
+A blot is no blot unless it be hit [RSDP 2000: 34]/ — На воре шапка горит /lit. 
+The thief’s hat burns/, cf. the English proverbial parallel He that has a great nose 
+thinks everybody is speaking of it [HP-4 2018: 72])
+X. Happiness — trouble 
+1) * Happiness — misfortune 
+2) * Joy — trouble 
+XI. Life. Death. Recommendations 
+1) * Life — death 
+2) * Intelligence — stupidity 
+3) Distinction — similarity
+4) Tips and precautions
+XII. Fate. God
+1) * # Fatality of the past, present and future (* synonyms Каждый кузнец своего 
+счастья /lit. “Every man is a blacksmith of his own fortune”/, cf. the English 
+proverbial parallel Every man is the architect of his own fortune [HP-4 2018: 54]; 
+Береженого Бог бережет /lit. “He that takes care is saved by God”/; На Бога 
+надейся, а сам не плошай /lit. “God saves those who save themselves”/ ‘You 
+must fight in the name of your goals, you should not just passively wait for the 
+mercy of God (fate) (this is said, when you have to show courage and decisive-
+ness)‘ vs. an antonym Человек предполагает, а Бог располагает /lit. “Man 
+proposes, God disposes”/, cf. the English proverbial parallel Man proposes, God 
+disposes [HP-4 2018: 101])
+2) * Objective — subjective 
+3) * Duality of phenomena 
+4) Large amount — small amount
+5) The main matter — the secondary matter
+6) * Secret — explicit 
+7) * Truth — deception
+8) * Good — bad 
+9) * God 
+498 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+The subheadings with signs “#” and “*”, mentioned above, demonstrate the special 
+segments of the Russian proverbial representation of the world. Their specificity is obvi-
+ous because of the number of synonymous and antonymous proverbs which highlight the 
+thematic significance of the segments of the proverbial vision of the world.
+To specify the paremiological antonymy, we have to point out the following types of 
+antonymous oppositions:
+a) Grammatical correlations, which differ by positive/negative forms of verbs, for 
+ex., Яйца курицу не учат /lit. “Eggs do not teach a hen”/, cf. the English prover-
+bial parallel Don’t teach your grandmother to suck eggs [HP-4 2018: 47] — Яйца 
+курицу учат /lit. “Eggs do teach a hen”/ (two examples);
+b) Antonymous proverbial pairs created by antonymous proverbial components, for 
+ex., Человек человеку друг /lit. “A man is man’s best friend”/ Человек человеку 
+волк /lit. “A man is a wolf to a man”/ (one example);
+c) Proverbial antonyms without any of the component correlations mentioned 
+above, but with just the main characteristics: they designate opposite situations 
+(e.g., the antonyms from chapter V, subheading four, “Economy — mismanage-
+ment”: # Готовь сани летом, а телегу зимой /lit. “Prepare your sledge in sum-
+mer and your cart in winter”/, cf. the English proverbial parallel Providing is pre-
+venting [HP-4 2018: 126] — Гром не грянет — мужик не перекрестится /lit. “If 
+there is no thunder, a peasant will not cross himself”/, cf. the old English prover-
+bial parallel Don’t have thy cloak to make when it begins to rain [RSDP 2000: 45])
+Russian synonymous proverbs and  
+their corresponding proverbial parallels in foreign languages.  
+Use of proverbs on the internet
+Not all Russian proverbial synonyms match foreign examples. Let us select, for ex-
+ample, two other current Slavonic paremiological corpora (Bulgarian and Polish) and one 
+German. The Bulgarian and Polish proverbial material from our collections of Slavonic 
+proverbs from the years 2000–2019 [RSDP 2000; HP-1 2013; HP-6 2019] are used here in 
+comparison to German proverbs from the internet database SWP and the set of common 
+proverbs by Kathrin Steyer [SWP; Steyer 2012].
+Here we provide three examples from three different thematic chapters where all the 
+above mentioned languages are represented:
+a) Chapter I. Coping. Work. Occupation. Learning.  — Rest. Idleness. Laziness. 
+Ignorance (Diligence — laziness).
+Two Russian proverbial synonyms:
+Без труда не вытащишь и рыбки из пруда /lit. “You don’t easily pull out even a 
+fish from the pond”/ ‘Even the smallest business requires effort for its successful imple-
+mentation’ — En. proverb He who would catch fish must not mind getting wet [RSDP 2000: 
+159]
+“Село было большое, народу встречалось много, и все говорили: “Какое счастье, 
+как же ты её (щуку) вытащил?” Рыбак спокойно и чуть насмешливо всем отвечал: 
+“Без труда не вытащишь и рыбку из пруда!” ” (http://fraze.ru/index.php).
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+499
+and Любишь кататься ― люби и саночки возить /lit. “Love to ride — love to carry 
+a sledge”/ ‘Industrious and thrifty people should work hard to get the pleasure they want’ — 
+En. proverb He that would have eggs must endure the cackling of hens [RSDP 2000: 134–135]
+“Они не заморачивались: любит, не любит. И любили напропалую. Но как в любви 
+без страданий? … Так вот, дорогие мужчины, окружайте нас любовью, радуйте нас 
+и страдайте вместе с нами. Любишь кататься, люби и саночки возить” [PR].
+These proverbs have the following proverbial parallels:
+ 
+— two Bulgarian synonymous proverbs: Без мокри гащи раци не се ловят /lit. 
+“No wet pants no crabs to catch”/
+«Тия пищови му отиваха като на свинче звънче, но той и без това не ги ползваше, 
+знаеше че без мокри гащи раци не се ловят» [HP-1 2013: 11];
+Сухи гащи риба не ядат /lit. “Dry pants do not eat fish”/
+“Тук му е мястото да кажем, че сухи гащи риба не ядат… не, че при мокрите е 
+обратно!” [HP-1 2013: 216];
+ 
+— three Polish synonymous proverbs: Bez pracy nie ma kołaczy /lit. “No work no 
+cakes”/
+“Kolejne miesiące nauki będą za sobą niosły wiele pracy i wysiłku, bo jak mówi po-
+wiedzenie „Bez pracy nie ma kołaczy”. Życie nieustannie nas zaskakuje, więc nigdy nie 
+wiemy, kiedy zdobyta wiedza będzie nam potrzebna. Zwykle dostrzegamy to dopiero w 
+dorosłym życiu” [HP-6 2019: 10];
+Pieczone gołąbki nie lecą same do gąbki /lit. “Stuffed cabbage rolls don’t fly by them-
+selves into a mouth”/
+Ktoś napisał , że zorganizowany w „samochodówce” Dzień ON miał na celu nie tyle aktywi-
+zację, co zapobieganie wykluczeniu w przyszłości… Ciekawa jestem jak ten ktoś, wyobraża 
+sobie zapobieganie wykluczeniu bez aktywizacji… Jakaś nowa, cudowna metoda? Nie znam 
+takiej — aby zapobiegać wykluczeniu muszą działać wszystkie strony, a szczególnie ON. Bez 
+aktywizacji, wskazywania sposobów i alternatyw nie będzie efektów… Pieczone gołąbki nie 
+lecą same do gąbki [HP-6 2019: 210–211];
+Cierp ciało, kiedyś chciało /lit. “The human body must suffer for its desires”/
+“Cierp ciało — kiedyś chciało!.. —Będziesz miało na coś głosowało. Poniewczasie 
+powiecie — głos wznosząc do krzyku: „już odzyskałem rozum!”: Lecz ręka…w nocniku” 
+[HP-6 2019: 23];
+ 
+— a German proverb: Ohne Fleiß kein Preis /lit. “No pain, no gain”/
+“Ohne Fleiß kein Preis — dieser Sinnspruch hat auch im Profi-Fußball sein Gültig-
+keit. So hat mangelnder Lerneifer jetzt dem Fußball-Trainer der israelischen U-21-Natio-
+nalmannschaft den Job gekostet.” Quelle [SWP].
+All these proverbs are united by one common meaning: ‘effort is the main clue to 
+success.’
+b) Chapter III. Character. Psyche. Morality. Emotions (Courage — fear)
+Two Russian Proverbial synonyms Обжегшиcь на молоке, дуют и на воду /lit. 
+“One who’s been burned with milk blows even on water”/ ‘About a man who takes exces-
+sive care, fearing that the old troubles will recur’ [RSDP 2000: 96]
+500 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+“Этих девушек я хоть понимаю: обжегшись на молоке и на воду дуют. Понятно, 
+что пережив ад на земле в предыдущих отношениях, они осторожничают и стара-
+ются обезопасить себя” [ZD].
+and Пуганая ворона (Пуганый заяц) и  куста боится /lit. “Frightened crow 
+(Frightened hare) is afraid of a bush”/ ‘About a cowardly or cautious person who consid-
+ers the most insignificant circumstances (things, objects) dangerous for himself’ [RSDP 
+2000: 36]
+“Пуганая ворона куста боится, — смеясь, сказал Артемьев. — Капарин этот — 
+трус, да разве он на что-либо решится? <…> Пуганый заяц и пенька боится”1.
+have the following parallel foreign proverbs:
+ 
+— a Bulgarian proverbial parallel: Парен каша духа /lit. “The one who is burned, 
+blows on porridge”/
+“Както казва една стара, българска, народна мъдрост: „Парен, каша духа”. Този 
+път българинът няма да се остави да бъде манипулиран, а ще търси правата си.” 
+[HP-1 2013:184–185];
+ 
+— a Polish proverbial parallel: Kto się /raz/ na gorącym sparzy (sparzył) na zimne 
+dmucha /lit. “The one who is once burned on hot, blows on cold”/
+“Kto się na gorącym sparzy na zimne dmucha. Tusk już POkazal co Potrafi. Byla wy-
+soka woda i co?” [HP-6 2019:133];
+ 
+— a German proverbial parallel: Gebranntes Kind scheut das Feuer /lit. “A burnt 
+child dreads the fire”/
+Gebranntes Kind scheut das Feuer? Auch dieses Sprichwort hat aber offensichtlich keine 
+Gültigkeit, zumindest wenn es um die Ehe geht. Denn viele Menschen entschließen sich, 
+doch noch einmal zu heiraten, manchmal im fortgeschrittenen Alter, wenn das Motiv zur 
+Familiengründung mit Kindern bereits wegfällt. Quelle. [SWP].
+The common seme in the semantic structure of each proverb in item B is ‘previ-
+ous misfortune leads to extra precautions’ (cf. also the English proverbial correspondence 
+Once bitten, twice shy [HP-4 2018: 118]).
+c) Chapter XII. Fate. God (Duality of phenomena)
+Two Russian proverbial synonyms: Нет худа без добра /lit. “There is no trouble 
+without luck”/ ‘This is said in those cases when one wants to reassure someone in a dif-
+ficult situation, stressing that this provision can give positive results’ [RSDP 2000: 171].
+“Вот так, нет худа без добра! Если бы не сломался тот подъемник, мы бы так 
+возможно и не покатались бы в таком замечательном лесу!” [http://vkusno-foto.ru/]
+and Не было бы счастья, да несчастье помогло /lit. “There would be no happiness, 
+but the misfortune has helped”/ ‘Failure was the reason for success’ [RSDP 2000: 155].
+“Не было бы счастья (1 сезон) — Все серии — Мелодрама | Русские мелодрамы 
+HD” [YT]
+have the following proverbial parallels:
+ 
+— a Bulgarian proverb: Всяко зло за добро /lit. “There is no trouble without luck”/
+1 URL: https://translate.academic.ru (Access date 12.11.2019).
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+501
+“Той банкрутирал в  Швеция и  — всяко зло за добро  — емигрирал във 
+Финландия, после в Санкт Петербург, където направил пари” [HP-1 2013: 41];
+ 
+— two Polish synonymous proverbs: Nie ma tego złego, co by na dobre nie wyszło /
+lit. “There is no such bad, that does not lead to good”/
+“Rodzina myślała, że śpię i nie chciała mi przeszkadzać. Sylwester, który miał się oka-
+zać dla mnie katastrofą okazał się piękną chwilą z najlepszą konsolą na świecie. Przy-
+słowie, że nie ma tego złego co by na dobre nie wyszło sprawdziło się w pełni w moim 
+przypadku.” [HP-6 2019: 182–183];
+Szczęście w nieszczęściu /lit. “Luck in misfortune”/
+“Wypadek Kubicy: skandaliczna akcja ratunkowa i wielkie szczęście w nieszczęściu.” 
+[HP-6 2019: 253];
+ 
+— a German proverbial parallel: Kein Nachteil ohne Vorteil /lit. No disadvantage 
+without an advantage/
+“Kein Nachteil ohne Vorteil: Der Regen macht die Kärnten Cards zur Mangelwa-
+re. „Wir haben vergangene Woche einen enormen Ansturm auf die Kärnten Card erlebt. 
+Zeitweise sind sie sogar ausgegangen“, sagt Birgit Pukelsheim von der Kärnten Werbung. 
+Quelle” [SWP].
+The semantic structures of all proverbs in this item point to the common meaning 
+‘each misfortune has positive features’ (cf. also the English proverbial parallel Every cloud 
+has a silver lining [HP-4 2018: 49]).
+Conclusion
+Such phenomena as paremiological polysemy, synonymy, and antonymy support the 
+thesis that there exists a paremiological level of language, as argued by the Russian pare-
+miologist Permyakov in the twentieth century. 
+According to our results from this research and our earlier studies [Kotova 2019a; 
+2019b; Kotova, Raina, Sergienko 2017], 
+a) a quarter of Russian Proverbs of Russian paremiological minimum is polyseman-
+tic; 
+b) the number of synonymous groups in the thematic index is 70 (from two to eight 
+proverbs in one synonymous group). Some proverbs participate in a few synony-
+mous groups, the total number of proverbs within the 70 synonymous groups is 
+195 (therefore, approximately 39 % of our Russian proverbs are in a synonymous 
+relationship). Synonymous Russian proverbs appeared in all 12 chapters of the 
+thematic index of the RSDP, but not in all subgroups. This fact specifies the the-
+matical subgroups which contain synonymous proverbs as a thematic space with 
+special importance and emphasis in the Russian proverbial representation of the 
+world;
+c) the number of antonymous groups in the thematic index is 30 (from two to eight 
+proverbs in one antonymous group). Some proverbs participate in several anton-
+ymous groups; the total number of proverbs within the 30 antonymous groups is 
+83 (therefore, approximately 16,6 % of our Russian proverbs are in an antonymous 
+relationship). Antonymous Russian proverbs appeared in ten chapters of the the-
+502 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+matic index of RSDP (I–IX, XII), but not in all subgroups. This fact specifies the 
+thematical subgroups, which contain antonymous proverbs, as a thematic space 
+with special importance and emphasis in the Russian proverbial world picture;
+d) while matching proverbs — Russian and Bulgarian, Russian and Polish, Russian 
+and German — we consider only active ‘living’ Russian and foreign proverbs, 
+which we have shown in contemporary contexts. We came to the conclusion that 
+foreign proverbial parallels (Bulgarian, Polish and German) to the Russian syn-
+onymous proverbs usually reflect one general seme of the semantic structure 
+of all Russian proverbial synonyms. The Bulgarian, Polish, or German synony-
+mous proverbs corresponding to Russian proverbial synonyms are not identical 
+to Russian examples in their proverbial imagery and proverbial components, and 
+demonstrate their own specifics that reflect their national proverbial representa-
+tion of the world;
+e) the specificity of the thematic subgroups, containing synonymous and antony-
+mous proverbs, points to the thematic significance of these subgroups, which we 
+consider as specifically important segments of the Russian proverbial representa-
+tion of the world. They are the following 17 thematic subgroups (including eight 
+thematic chapters out of 12):
+ • from the thematic chapter I. Coping. Work. Occupation. Learning. — Rest. 
+Idleness. Laziness. Ignorance: Purpose — means; Words (promises) — deeds; 
+Skill — lack of practice; Learning, knowledge — ignorance, inattention and 
+others;
+ • from the thematic chapter III. Character. Psyche. Morality. Emotions: Opti-
+mism — uncertainty; Courage — fear;
+ • from the thematic chapter V. Property. Owner. Guest. Wealth: Thrift — waste-
+fulness; Wealth — Poverty;
+ • from the thematic chapter VI. Time. Patience: Call for patience — impatience;
+ • from the thematic chapter VII. Love. Friendship: Love unrequited; Friend-
+ship — Aversion; Assistance of a Friend;
+ • from the thematic chapter VIII. The relationship between people: The unity of 
+the individual and society — the isolation of the individual from society; Gen-
+erous gift — humble gift;
+ • from the thematic chapter IX. Conflict: Compromise — stubbornness, intran-
+sigence; Crime (offence) — disclosure;
+ • from the thematic chapter XII. Fate. God: Fatality of the past, present and fu-
+ture. 
+Abbreviations
+En. — English
+lit. — Literal translation of all components of a proverb
+Excerpted Collections and Dictionaries of Proverbs
+HP-1 2013 — Kotova M. Yu., Kolpakova A. A., Raina O. V. Handbooks of Paremiorapher. Issue 1. Bulgarian 
+Proverbial Parallels of Russian Proverbs from Paremiological Minimum. M. Yu. Kotova (ed.). St. Peters-
+burg: Filologicheskii fakul’tet SPbGU Publ., 2013. 240 p. (In Russian)
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+503
+HP-4 2018 — Kotova M. Yu., Kolpakova A. A. Handbooks of Paremiorapher. Issue 4. English Proverbial Paral-
+lels of Russian Proverbs from Paremiological Minimum (with the corresponding Bulgarian, Slovak and 
+Czech proverbs). M. Y. Kotova (ed.). St. Petersburg: Contrast Publ., 2018. 188 p. (In Russian)
+HP-6 2019 — Kotova M. Yu., Kolpakova A. A., Raina O. V., Shestakova-Stukun A. S. Handbooks of Pare-
+miorapher. Issue 6. Polish Proverbial Parallels of Russian Proverbs from Paremiological Minimum. 
+M. Yu. Kotova (ed.). St. Petersburg: Filologicheskij fakul’tet Sankt-Peterburgskogo gosudarstvennogo 
+universiteta Publ., 2019. 304 p. (In Russian)
+RSDP 2000 — Кotova М. Yu. Russian-Slavonic Dictionary of Proverbs with English Parallels. St. Petersburg: 
+Saint Petersburg University Press, 2000, 360 p. (In Russian)
+Steyer 2012 — Steyer K. (ed.). Sprichwörter multilingual. Theoretische, empirische und angewandte Aspekte 
+der modernen Parömiologie. Tübingen: Narr Verlag, 2012. 470 p. (in German)
+Internet Sources
+SWP — EU-Sprichwortplattform. http://www.sprichwort-plattform.org (accessed: 12.11.2019).
+YT —http://www.youtube.ru (accessed: 12.11.2019).
+ZD —http://www.zadolba.li (accessed: 12.11.2019).
+PR —http://www.proza.ru (accessed: 12.11.2019).

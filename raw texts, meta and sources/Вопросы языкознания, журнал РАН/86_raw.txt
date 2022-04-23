@@ -1,0 +1,204 @@
+C. / Pp. 126—129 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2018. № 1
+ 
+Voprosy Jazykoznanija
+R. Hickey (ed.). The Cambridge handbook of areal linguistics. Cambridge: Cambridge 
+University Press, 2017. 1032 p. ISBN 9781107051614*.
+Dmitry Nikolaev
+Russian State University for the Humanities, Mos-
+cow, Russia; Russian Presidential Academy of Na-
+tional Economy and Public Administration, Moscow, 
+Russia; The Hebrew University of Jerusalem, Jeru-
+salem, Israel; dsnikolaev@gmail.com
+Дмитрий Сергеевич Николаев
+Российский государственный гуманитарный уни-
+верситет, Москва, Россия; Российская академия на-
+родного хозяйства и государственной службы, Мо-
+сква, Россия; Иерусалимский еврейский универси-
+тет, Иерусалим, Израиль; dsnikolaev@gmail.com
+The aim of ‘The Cambridge handbook of areal linguistics’ edited by Raymond Hickey is to pro-
+vide a ‘focused and clearly structured volume’ on areal linguistics, which is understood by the 
+editor of the book as ‘research into how languages come to share features diachronically and the 
+manner in which this takes place’ (p. 1). Areal linguistics is therefore a multidisciplinary research 
+enterprise situated at the intersection of different subﬁelds of linguistics ‘such as language contact, 
+typology and historical linguistics’. In other words, areal linguistics is interested in non-trivial 
+spatial constellations of linguistic features that arise historically due to language contact.
+The volume consists of a preface that brieﬂy outlines the main research questions and describes 
+the contents of individual contributions, followed by two parts that constitute the bulk of the book: 
+‘Issues in areal linguistics’ and ‘Case studies for areal linguistics’.
+The ﬁrst part begins with an essay ‘Why is it so hard to deﬁne a linguistic area?’ by Lyle Camp-
+bell. It mostly reiterates the statement made in the scholar’s authoritative paper [Campbell 2006] 
+that it is fruitless ‘to struggle over the intractability of deﬁning the concept “linguistic area” and 
+the speciﬁc “linguistic areas”’ and that researchers should focus on ‘understanding the changes 
+themselves, in particular in this instance the changes diffused across languages’ instead (p. 34). 
+This research programme is in stark contrast to that proposed by Balthasar Bickel in the short 
+chapter entitled ‘Areas and universals’. Bickel notes in passing that humans are good at spotting 
+spatial patterns, which provides an intuitive explanation for the enduring interest in linguistic ar-
+eas, but his main concern is with carefully controlling for distributions of linguistic features in ty-
+pologists’ quest for universal tendencies, not with particular historical scenarios.1 Instead of trying 
+to account for diffusion of individual changes (which is in most cases simply impossible), Bickel 
+takes the existence of linguistic areas for granted and urges researchers to come up with ways 
+to control for possible phylogenetic and areal biases; he discusses two methods — Predictive Ar-
+eality Theory and the Family Bias Method — that were developed precisely with this aim in mind.
+The next chapter, ‘Reassessing sprachbunds: A view from the Balkans’ by Victor A. Friedman 
+and Brian D. Joseph, can also be construed as a response to linguistic-area sceptics, in this case 
+based on the long history of research on the Balkans, the ‘prototypical sprachbund’. To tackle 
+the sprachbund issue, the scholars propose a questionnaire on the properties of a particular lin-
+guistic region that must be completed in order to decide whether the region should be considered 
+a bona ﬁde linguistic area. The questions concern the number of different languages and language 
+families represented in the region, the number and distributional properties of the features used 
+to establish the sprachbund, the causal issues (contact vs. inheritance), the issues of delineation 
+(i. e. how to draw borders, core vs. periphery), and ﬁnally the issue of whether the convergence 
+ * This paper was ﬁnancially supported by the Russian Science Foundation (RSF), grant № 14-18-00590-П 
+ “Texts and practices of folklore as a model of cultural tradition: А comparative-typological study”.
+ 
+1 He references work by Dryer [1989] and Nichols [1992], who drew the attention of typologists to large-
+scale areal patterns.
+ 
+Dmitry Nikolaev 
+127
+processes that resulted in the formation of the sprachbund are still ongoing. By answering these 
+questions with regard to the Balkan sprachbund, Friedman and Joseph essentially propose yet 
+another linguistic-area delineation framework and eventually come to the conclusion that (i) lin-
+guistic areas do exist as theoretically meaningful, well-deﬁned entities, which reﬂect ‘the effects 
+of intense multilateral, multidirectional, mutual multilingualism’ (p. 80), and that (ii) the Balkans 
+are an example of such an entity.
+The chapter ‘Areal sound patterns: From perceptual magnets to stone soup’ by Juliette Blevins 
+proposes and elaborates the notion of areal sound pattern (ASP), deﬁned brieﬂy as a ‘sound 
+pattern shared minimally by two languages, having arguably diffused from one into the other’ 
+(p. 89; a more elaborate deﬁnition is given on p. 88). Blevins gives several examples of ASPs: 
+pre-glottalisation of voiced stops in Formosan languages, the absence of contrastive retroﬂex-
+ion in two regions in Australia, the presence of glottalised consonants in the Paciﬁc Northwest 
+of North America, and devoicing of ﬁnal obstruents in Europe. She then proceeds to propose 
+a general historical scenario which could account for the emergence of ASPs that are not entirely 
+due to loan phonology. According to Blevins, ASPs arise due to what she calls the perceptual 
+magnet effect: in situations of bilingualism, ‘the phonetic prototype established for one language 
+may have a magnet effect in another’ (p. 99). The perceptual magnet effect skews the distribution 
+of allophones in the pool of synchronic variation already existing in the target language and thus 
+pulls it towards a certain developmental trajectory, which is still always possible, but much less 
+probable without this inﬂuence. Blevins discusses properties of sound patterns and contact situa-
+tions, which are more or less likely to lead to areal spread, and discusses several other examples 
+of possible ASPs (e. g. clicks in South Africa, ejectives in the Caucasus, retroﬂexion in South Asia, 
+and tone in Southeast Asia) and their historical background.
+The chapter ‘Convergence and divergence in the phonology of the languages of Europe’ 
+by Thomas Stolz and Nataliya Levkovych gives a descriptive statistical overview of consonantal 
+inventories in European languages (Europe in this chapter is meant to include the westernmost 
+parts of Kazakhstan, as well as Transcaucasia and Anatolia). The scholars provide tables and 
+maps depicting the distributions of different airstream mechanisms, manners and places of ar-
+ticulation, phonation types, secondary articulations, and particular segments in the languages 
+of Europe. Additionally, they provide data on phylum-internal diversity along these lines. Based 
+on the collected data, Stolz and Levkovych conclude that (i) Caucasian languages are clearly dif-
+ferent from other languages of the region, as are, to a lesser extent, the Eskimo-Aleut languages 
+of Greenland, and that (ii) ‘minority conﬁgurations tend to occur in languages that are remote 
+from the centre of the European continent’ (p. 154). They also note the presence of an east-west 
+cline in the distribution of phonological features, which is evident even if the Caucasian data 
+are not taken into account.
+The chapter ‘Word prominence and areal linguistics’ by Harry van der Hulst, Rob Goedemans, 
+and Keren Rice surveys areal effects in the distribution of stress and pitch-accent types in the 
+languages of the world with a focus on hybrid stress-pitch-accent systems. Basque, languages 
+of North America, and aboriginal languages of Australia are presented as case studies.
+A similar overview of areal phenomena in the distribution of a particular fragment of linguistic 
+system is presented by Maria Koptjevskaja-Tamm and Henrik Liljegren in the chapter ‘Semantic 
+patterns from an areal perspective’. For the ﬁrst time, they survey areal clusters of lexico-seman-
+tic parallels (calques), shared formulaic expressions, and patterns of organisation of semantic do-
+mains in different regions and then exemplify these phenomena with a case study of the Greater 
+Hindu Kush linguistic area.
+The second part of the handbook consists of case studies of several kinds, and instead of sur-
+veying them sequentially, I group them thematically in this review.
+The ﬁrst group consists of chapters dealing with particular linguistic areas. These chapters are 
+‘The Caucasus’ (Sven Grawunder), ‘Western Asia: East Anatolia as a transition zone’ (Geoffrey 
+Haig), ‘The Kalahari Basin area as a “sprachbund” before the Bantu expansion’ (Tom Güldemann 
+and Anne-Maria Fehn), ‘Jharkhand as a “linguistic area”: Language contact between Indo-Aryan 
+128 
+Voprosy Jazykoznanija 
+2018. № 1
+and Munda in Eastern-Central South Asia’ (John Peterson), ‘Sri Lanka and South India’ (Um-
+berto Ansaldo), ‘Language in the Mainland Southeast Asia’ (N. J. Enﬁeld), ‘Languages of East-
+ern Melanesia’ (Paul Geraghty), and ‘The Western Micronesian Sprachbund’ (Anthony P. Grant).
+These chapters demonstrate a high degree of variation in the proposed criteria for establishing 
+linguistic areas, the features that can be selected to prove their existence, and their resulting geo-
+graphical structure. Some areas, such as Sri Lanka, are clearly delineated and are based on deep 
+grammatical similarities decisively separating languages of the area from their relatives in other 
+regions. Other areas are more tentative in that they have fuzzy boundaries and/or show overlap-
+ping but not coextensive distributions of diagnostic features (cf. the maps in the chapters on the 
+Caucasus and Jharkhand), which may not be numerous or deeply entrenched. Insofar as these 
+chapters represent the general outlook of research on linguistic areas, they depict a ﬁeld more an-
+chored to common sense and explanatory clarity than to strict application of ﬁrst principles of sta-
+tistical analysis (which are conspicuously absent from these contributions).
+The chapters from the second group are dedicated to areal processes that shape the structure 
+of languages from a particular linguistic family or other phylogenetic unit. These chapters are ‘The 
+Germanic languages and areal linguistics’ (Johan van der Auwera and Daniël Van Olmen), ‘Va-
+rieties of English’ (Bernd Kortmann and Verena Schröter), ‘Slavic languages’ (Alan Timberlake), 
+‘Areal contact in Nilo-Saharan’ (Gerrit J. Dimmendaal), ‘Niger-Congo languages’ (Jeff Good), 
+and ‘The Transeurasian languages’ (Martine Robbeets). The last chapter is markedly different 
+from the rest. It starts out from the communis opinio that the similarities between Transeurasian 
+languages (also known as Altaic languages) are due to prolonged contact but concludes with the 
+thesis that the distribution and structure of these commonalities most probably point to common 
+inheritance. Therefore, in Robbeets’ view, Altaic languages do form a phylogenetic unit after all. 
+Other chapters are mostly devoted to enumerating cases of contact-induced feature distributions 
+in the languages from a given linguistic grouping.
+The third group of chapters is dedicated to describing particular regions, whose languages dis-
+play contact-induced distributions of features but do not necessarily form a sprachbund. It consists 
+of the following contributions: ‘Britain and Ireland’ (Raymond Hickey), ‘An areal view of Africa’ 
+(Bernd Heine and Anne-Maria Fehn), ‘South Africa and areal linguistics’ (Rajend Mesthrie), ‘Lan-
+guages of China in their East and Southeast Asian context’ (Hilary Chappell), ‘Languages of Aus-
+tralia’ (Luisa Miceli and Alan Dench), ‘Languages of the New Guinea region’ (Malcolm Ross), 
+‘Native North American languages’ (Marianne Mithun), and ‘The areal linguistics of Amazonia’ 
+(Patience Epps and Lev Michael). They deal mostly with smaller sprachbunds that can be identi-
+ﬁed inside these macro-areas and/or try to elucidate contact scenarios that gave rise to particular, 
+presumably non-inherited, linguistic features in certain languages.
+Taken together, the chapters from the last two groups provide a wealth of information about 
+different historical scenarios, showing how hard it is to come up with a uniﬁed theory of linguis-
+tic convergence. For example, languages of North and South America display non-trivially low 
+amounts of lexical borrowing, which accords well with linguistic attitudes of their speakers, who 
+prefer using ‘pure’ varieties to code-switching. African multilingual communities surveyed by Jeff 
+Good, on the other hand, are particularly prone to creating mixed varieties, which serve as iden-
+tity markers for certain social groups.
+Two chapters try to estimate the possibility of postulating a sprachbund based on a particular 
+complex feature, such as case marking (‘The changing proﬁle of case marking in the Northeastern 
+Siberia area’ by Gregory D. S. Anderson, who gives a positive answer) or the presence and char-
+acteristics of tone (‘Southeast Asian tone in areal perspective’ by James Kirby and Marc Brunelle, 
+who give a negative answer, not fully disqualifying SEA as a potential sprachbund nonetheless).
+The volume closes with a standalone chapter ‘Linguistic areas, linguistic convergence and river 
+systems in South America’ by Rik van Gijn, Harald Hammarström, Simon van de Kerke, Olga 
+Krasnoukhova, and Pieter Muysken, who try to estimate the role of river systems in the formation 
+of linguistic areas in South America by means of careful geographical sampling and signiﬁcance 
+testing. They come to the conclusion that this role is negligible.
+ 
+Dmitry Nikolaev 
+129
+As a whole, the volume under review provides a quite comprehensive introduction to the ﬁeld 
+of linguistic areal studies and presents different current positions taken by specialists in this ﬁeld. 
+Some chapters (such as that by Juliette Blevins) provide important theoretical or methodological 
+reference points; others (such as the one by Malcolm Ross) are both methodologically sound and 
+replete with carefully systematised and laid out information — in one way or another, all macro-
+regions of the world are covered. At the same time, however, there are several presentational 
+drawbacks, which impede perusal of the volume as a handbook.
+First, it would probably have beneﬁted from a bit more structured presentation. Chapters in the 
+second part are organised in neither a geographical, nor a thematic sequence: chapters on Africa 
+are sandwiched between Western and Eastern Eurasia, and chapters on areas are interspersed with 
+chapters on regions, families, or particular linguistic features in no particular order. Moreover, the 
+chapters on the Balkans and on European phonologies from the ﬁrst part, even though they con-
+tain some theoretical discussion, have a clear geographical focus.
+Second, chapters could have been more coherent in their presentation of data. Even though 
+vastly different features are adduced to postulate different sprachbunds, they all fall in the same 
+general categories of phonology, morphosyntax, discourse, and lexicon. A common presentational 
+sequence would have greatly facilitated comparison of different cases.
+Third, some statements made in different chapters probably need clariﬁcation and additional 
+cross-referencing. Thus, Alan Timberlake’s reference to ‘modern understanding of linguistic ar-
+eas as a force with less immediate and less visible contact than ordinary contact’ (p. 350) is rather 
+opaque and seems to be in contradiction with assumptions held by other contributors.
+Finally, and most importantly, a handbook of areal linguistics certainly needs a dedicated chap-
+ter on statistical methods. Strangely enough, several chapters refer to the contribution by Kirby 
+and Brunelle on the areal value of tone in SEA as the discussion of statistical methods, but it is 
+nothing of the kind. Several statistical techniques such as Predictive Areality Theory or Bayes-
+ian non-parametric areal linguistics are mentioned in separate chapters but are never discussed 
+in depth. Some interesting papers on statistical delineation of linguistic areas, such as [Donohue, 
+Whiting 2011], are not mentioned at all. As a result, at least one promising way of providing a solid 
+basis for the study of linguistic areas remains largely unexplored except for the valuable negative 
+result reported in the last chapter, which also contains some useful references.
+These drawbacks, however, are of relatively minor importance and cannot obscure the fact 
+that ‘The Cambridge handbook of areal linguistics’ is a valuable contribution to the study of lin-
+guistic areas, which will hopefully provide a starting point for the development of the ﬁeld in the 
+near future.

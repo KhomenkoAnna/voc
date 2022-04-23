@@ -1,0 +1,845 @@
+ Uryvskaya T.A., 2021
+114
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 1
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.1.9
+UDC 811.581’373.611 
+Submitted: 04.06.2020
+LBC 81.711-20 
+Accepted: 02.12.2020
+SPECIFIC FEATURES OF LETTERED WORDS’ INTEGRATION 
+IN THE GRAPHIC, PHONETIC AND GRAMMATICAL  ASPECTS 
+OF THE CHINESE LANGUAGE
+Tatiana A. Uryvskaya
+MGIMO University, Moscow, Russia
+Abstract. This paper is devoted to the specific features of lettered words’ integration in the graphic, phonetic 
+and grammatical aspects of the Chinese language. The author has analyzed a number of local and foreign studies, 
+covering the main patterns of the lettered words’ integration. Based on Liu Yongquan’s studies, it was concluded 
+that it’s important to strictly follow letters’ case. The case difference can distinguish semantics of different lettered 
+words. Native Chinese speakers with high linguistic competence are able to recognize various lettered words in print, 
+but they may not know how to read them out loud. Therefore, the pronunciation of lettered words is associated with 
+a number of issues: the choice of pronunciation standard, the differentiation of initialisms and acronyms, the choice 
+which syllable to stress. Based on the results of previous research, different ways of how borrowed lettered words 
+respond to the grammatical norms of the Chinese language were identified. The empirical analysis was performed 
+with lettered words extracted by the method of continuous sampling from lexicographic sources. Using the cases 
+described in the paper, the author has proved that in addition to such word-formation processes as compounding, 
+semi-affixation, syntactic and morphological transposition, lettered words can also be formed and transformed with 
+morphological contraction.
+Key words: Chinese, lettered words, abbreviations, initialisms, Chinese hybrid words, assimilations, word-
+formation.
+Citation. Uryvskaya T.A. Specific Features of Lettered Words’ Integration in the Graphic, Phonetic and 
+Grammatical Aspects of the Chinese Language. Vestnik Volgogradskogo gosudarstvennogo universiteta. Seriya 2. 
+Yazykoznanie [Science Journal of Volgograd State University. Linguistics], 2021, vol. 20, no. 1, pp. 114-122. DOI: 
+https://doi.org/10.15688/jvolsu2.2021.1.9
+УДК 811.581’373.611 
+Дата поступления статьи: 04.06.2020
+ББК 81.711-20 
+Дата принятия статьи: 02.12.2020
+ОСОБЕННОСТИ ИНТЕГРАЦИИ БУКВЕННЫХ СЛОВ 
+В ГРАФИЧЕСКУЮ, ФОНЕТИЧЕСКУЮ И ГРАММАТИЧЕСКУЮ СИСТЕМЫ 
+КИТАЙСКОГО ЯЗЫКА
+Татьяна Александровна Урывская
+Московский государственный институт международных отношений (Университет) МИД России, 
+г. Москва, Россия
+Аннотация. В статье освещаются особенности интеграции буквенных слов в графическую, фонети-
+ческую и грамматическую системы китайского языка. Проанализированы научные труды отечественных и 
+зарубежных лингвистов, исследовавших буквенные слова в китайском языке. С опорой на труды Лю Юн-
+цюаня показано, что при написании буквенных слов китайского языка значимость имеет регистр букв, раз-
+граничивающий лексические единицы. Поскольку носители китайского языка с высокой лингвистической 
+компетенцией способны распознавать различные буквенные слова в печати, но могут не знать правил их 
+чтения, в лингвистике обсуждается ряд вопросов, связанных с произношением буквенных слов: выбор 
+произносительной нормы для каждого вида буквенных лексем, дифференциация буквенных аббревиатур 
+и акронимов, постановка ударения. С учетом имеющихся по исследуемой проблематике лингвистических 
+работ определены некоторые особенности подчинения буквенных лексем грамматическим нормам совре-
+менного китайского языка. Материалом для эмпирического анализа стали буквенные слова, извлеченные 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 1
+115
+T.A. Uryvskaya. Specific Features of Lettered Words’ Integration
+методом сплошной выборки из специализированных лексикографических источников. Установлено, что для 
+создания буквенных слов в китайском языке, наряду со словосложением, полуаффиксацией, синтаксической 
+транспозицией, морфологической транспозицией, применяется и такая словообразовательная модель, как 
+морфемная контракция.
+Ключевые слова: китайский язык, буквенные слова, аббревиатура, аббревиатура инициального типа, 
+слово-метис, ассимиляция, словообразование.
+Цитирование. Урывская Т. А. Особенности интеграции буквенных слов в графическую, фонетическую 
+и грамматическую системы китайского языка // Вестник Волгоградского государственного университета. 
+Серия 2, Языкознание. – 2021. – Т. 20, № 1. – С. 114–122. – (На англ. яз.). – DOI: https://doi.org/10.15688/
+jvolsu2.2021.1.9
+Introduction
+According to the definition of the Chinese 
+linguist Liu Yongquan, one of the pioneers in this 
+field of research, the lettered words of the Chinese 
+language (汉语字母词) are “the words whose 
+structure includes Chinese characters and letters 
+of foreign alphabets (mainly Latin letters) or 
+words completely consisting of letters of foreign 
+alphabets. Examples of the first type are B 超, 
+卡拉 OK; examples of the second type are CD, 
+UFO... ” [Liu, 1994, p. 7].
+Despite the fact that the full definition of 
+these lexical items was given only in 1994, we 
+can find many facts confirming that the history of 
+their existence in the Chinese language has more 
+than a hundred years. The Chinese researcher 
+Dong Ming in the article “Justifying Chinese 
+Latin Abbreviations” (“汉语字母词存在的合
+理性”) cited the fact that X 光线 was included 
+in the “Xin Erya” (“新尔雅”) dictionary in 1903 
+[Dong, 2014].
+Li Xiaohua in her article «Review of the 
+issues related to the inclusion of lettered words in 
+dictionaries» (“浅议字母词收入辞书问题”) noted 
+an increase of lettered words’ usage during The 
+May Fourth Movement. Li Xiaohua, referring to 
+Liu Yonghan, also gives examples of the historical 
+appearance of lettered words in Chinese literature 
+of that period, in particular, 阿 Q from “The True 
+Story of Ah Q” in 1921 “阿 Q 正传” ), N 先生 
+from “The Story of Hair” 1920 (“头发的故事”) 
+[Li, 2014, p. 46].
+Research material and methods
+The material base for the study is specialized 
+dictionaries that give a definition to many 
+lettered words of the Chinese language. With the 
+appearance and wider spread of lettered words 
+in the Chinese language, it became necessary 
+to give an accurate, full definition of the most 
+commonly used lettered items in various fields. 
+In 1996, the 3rd edition of the “Contemporary 
+Chinese Dictionary” (现代汉语词典, hereinafter 
+referred as the CCD) included definitions of 
+39 lettered words. Inclusion of lettered words in 
+the corresponding section of the CCD has become 
+systematic and continues to this day. In the 
+7th edition of the CCD (2016) 235 lettered words 
+were included in the section (CCD, 1996; CCD, 
+2016). The data from the “Chinese lettered words 
+dictionary” by Liu Yongquan, which contains the 
+most complete and systematized list of lettered 
+words of the contemporary Chinese language 
+also was used as the research material. The main 
+methodology is the continuous sampling method, 
+as well as the method of structural and component 
+analysis of lettered words.
+Regular appearance of lettered words in 
+the Chinese press not only confirms the presence 
+of these lexemes in contemporary Chinese, but 
+also indicates the communicative tolerance of 
+Chinese speakers to them [Veselova, Uryvskaya, 
+2019]. In the author’s opinion, the following 
+factors contributed to this communicative 
+tolerance: the need to fill the gaps in the lexical 
+system; the speech efforts saving’s principle; 
+psychological factor [Alikberova, Uryvskaya, 
+2016]. It is worth mentioning that psychological 
+factor is often caused by the desire to give one’s 
+speech special novelty and relevance, as well as 
+emphasize the level of education and language 
+competence, which leads to the extensive use of 
+lettered words by Chinese speakers. The desire of 
+native Chinese speakers to transform their speech 
+with foreign inclusions and to impress with their 
+intelligence is common both to an average society 
+member and representatives of the political elite 
+of China. For example, H. Kissinger, an American 
+116
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 1
+politician, diplomat and expert in the field of 
+international relations, in his book “On China”, 
+published for the first time in 2011, wrote about 
+the former General Secretary of the Chinese 
+Communist Party, Jiang Zemin: “He took pride, 
+sometimes exuberantly so, in his talent for foreign 
+languages and knowledge of Western music. With 
+non-Chinese visitors, he regularly incorporated 
+English or Russian or even Romanian expressions 
+into his presentations to emphasize a point...”. 
+In the author’s opinion, thereby H. Kissinger 
+indicates loyalty of Jiang Zemin to foreign 
+borrowings [Kissinger, 2015, p. 478].
+Based on the data of a sociological survey 
+among native Chinese speakers, which was 
+outlined in the article “Chinese lettered words: 
+barbarism or assimilated borrowing?” in 2019 
+[Uryvskaya, Veselova, 2019, pp. 431-446], we 
+can draw certain conclusions about high level of 
+communicative tolerance of a part of the Chinese 
+society to these lexical items and effective 
+assimilation of the lettered words in the Chinese 
+language. However, despite the general tolerance, 
+lettered words in the language system sometimes 
+can also cause a negative response. Opponents 
+of lettered words call them an unnatural element 
+imposed by Western culture. According to 
+their opinion, among many attempts to latinize 
+Chinese writing, lettered words have inflicted the 
+most serious damage on the Chinese language 
+[Dong, 2014]. Therefore, we can see a mixed 
+attitude of native Chinese speakers towards this 
+phenomenon, which, however, does not prevent 
+assimilation of these lexical items into the Chinese 
+language system. Further we will evaluate these 
+processes in detail.
+Results and discussion
+Specific features 
+of lettered words’ integration 
+in the graphic system 
+of the Chinese language
+There are clear rules of writing Chinese 
+characters, which is not the case with the lettered 
+words of the Chinese language. Analyzing the 
+rules of writing lettered words of the Chinese 
+language, Liu Yongquan has identified four 
+categories of lettered words with different features 
+and rules of writing.
+The first category includes professional 
+vocabulary and scientific or technical language: 
+IMF – International Monetary Fund, 国际货币
+基金组织; CPU – Central Processing Unit, 中
+央处理器 [Liu, 2002]. Most of the words in this 
+category are represented by initialisms, and they 
+should be written in uppercase.
+The second category includes words that 
+indicate units of measure, for example, cl – 
+‘centiliter’, 厘升 or mm – ‘millimeter’, 毫米 
+[Liu, 2002]. These words should be written in 
+lowercase.
+The third category is represented by words, 
+which can be written both in lowercase and 
+uppercase letters. For example, Internet / internet / 
+INTERNET, 互联网 [Liu, 2002], or SOHO / 
+SoHo – Small office home office, 家庭办公室, 
+家庭企业 [Liu, 2002]. The choice of lowercase 
+or uppercase letters is insignificant, any of the 
+writing ways will be correct.
+The fourth category consists of words 
+containing both lowercase and uppercase letters, 
+for example, IPv4 – Internet Protocol version 4, 
+互联网的网络通信协议的4号版本 [Liu, 2002] 
+or dBASE – data BASE, 数据库 [Liu, 2002]. The 
+order of lowercase and uppercase letters in the 
+composition of such words is fixed, they have no 
+alternative writings.
+In some cases, the choice of uppercase 
+or lowercase letters in lettered words writing 
+determines their semantics. Therefore, when 
+using lettered words, it is necessary to clearly 
+determine which of the four categories a particular 
+lettered word belongs to and what its correct 
+writing should be. In the variety of the Chinese 
+lettered words, we can find following examples: 
+CD, Cd and cd [Liu, 2002], where CD stands for 
+Compact Disc, 光碟; Cd – (from lat.) Cadmium, 
+镉; and cd  «candela», 坎德拉 is the base unit of 
+luminous intensity.
+Specific features 
+of lettered words’ integration 
+in the phonetic system 
+of the Chinese language
+Even though lettered words have already 
+become an integral part of the lexical system 
+of the contemporary Chinese language, most 
+of them are represented by borrowings from 
+other languages. Nowadays, the lettered words 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 1
+117
+T.A. Uryvskaya. Specific Features of Lettered Words’ Integration
+of the Chinese language are increasingly used 
+not only in written, but also in oral speech by 
+native Chinese speakers, so the question of the 
+pronunciation standards for such words arises 
+quite logically. H. Riha, an American researcher 
+of Chinese lettered words, notes that “educated 
+Chinese speakers may recognize a variety of 
+lettered words in print but may not necessarily 
+need to say them aloud and may not know their 
+pronunciation” [Riha, 2010, p. 47]. Lettered 
+words in contemporary Chinese are more often 
+found in print and less often in spoken language, 
+so native Chinese speakers rarely could learn their 
+correct pronunciation by ear. H. Riha also noted 
+the fact that there are no rules for reading lettered 
+words in Chinese specialized dictionaries [Riha, 
+2010, p. 47].
+According to the conclusions made by Liu 
+Yongquan in 2002, reading and pronunciation of 
+lettered words involves the following questions:
+A. The choice of pronunciation standard in 
+relation to lettered words.
+B. Continuous or separate reading of lettered 
+words.
+C. Accentuation while reading lettered 
+words.
+With regard to the first question, Liu 
+Yongquan believes that lettered words 
+borrowed from foreign languages are read in 
+accordance with the rules for reading letters 
+of the English alphabet, and not only words 
+from the English language follow this rule 
+[Liu, 2002]. As a part of an experiment in 
+identifying the functioning of lettered words 
+in native Chinese speakers’ speech (hereinafter 
+referred to as ‘the experiment’) described in 
+the PhD thesis, K.A. Markina distinguishes 
+the following patterns:
+A) as lettered words adapt to the basic 
+typological features of the Chinese language, they 
+are read by native Chinese speakers ‘by syllables’ 
+(especially initialisms).The tendency is based on 
+the fact that the pronunciation of the letters in 
+borrowed initialisms is somewhat similar to the 
+pronunciation of Chinese syllables: C [si] = 戏 
+(xì) ‘game’, D [di] = 地 (dì) ‘earth’, I [ai ] = 爱 
+(ài) ‘love’, P [pi] = 皮 (pí) ‘skin’ etc. [Markina, 
+2008, p. 83];
+B) in pronunciation of:
+a. Borrowed words in their full spelling 
+(spelled-out words);
+b. Abbreviations consisting of letters that do 
+not have complete phonological correspondences 
+among Chinese syllables;
+c. Abbreviations that do not correspond to 
+the fixed sequence of syllabic elements in Chinese 
+language.
+Native Chinese speakers with high linguistic 
+competence tend to get as close as possible 
+to the pronunciation of word elements in 
+accordance with the rules for reading letters of 
+the English alphabet. At the same time, native 
+Chinese speakers with low linguistic competence 
+pronounce them in accordance with pinyin 
+phonetic alphabet pronunciation or with the 
+established pronunciation in Chinese language. In 
+this case “unsystematic distortions of the phonetic 
+appearance of initialisms are observed” [Markina, 
+2008, p. 84]. H. Riha believes that initialisms are 
+usually spelled by native Chinese speakers, and 
+the letters are pronounced in accordance with the 
+English reading rules. “As pronunciation of many 
+acronyms borrowed from English is based on 
+their English pronunciation, APEC is presumably 
+pronounced as [eipɛk] and IBM as [aibiɛm]. 
+When speakers do not know that a particular 
+acronym is conventionally pronounced as a word 
+in Chinese, they pronounce it as an initialism” 
+[Riha, 2010, p. 47].
+Within the framework of this issue, local 
+and foreign researches touch upon the question 
+of pronunciation of Chinese lettered items formed 
+on a basis of pinyin. Liu Yongquan pointed out 
+that there is currently no single rule for reading 
+such abbreviations. Nevertheless, the scholar 
+notices the propensity of Chinese speakers to 
+pronounce them in accordance with the rules for 
+reading English letters [Liu, 2002, pp. 85-90]. 
+However, analysis of the pronunciation variants 
+of such abbreviations provided by K.A. Markina 
+is more detailed:
+A) in accordance with Chinese reading of 
+the syllables in the corresponding full words.
+GG = 哥哥 gēge ‘elder brother’.
+B) in accordance with English names 
+of letters that constitute abbreviation. HSK 
+(汉语水平考试 (Hànyǔ shuǐpíng kǎoshì) ‘the 
+standardized test of Standard Chinese language’) 
+as [eitʃ] – [es] – [kei].
+C) multiple variants of pronunciation occur 
+due to inaccurate identification of the source of 
+abbreviation.
+118
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 1
+GB = a) 国标 guóbiāo ‘state standard’,
+ b) [d3i bi] – Great Britain.
+Regarding the second question, Liu 
+Yongquan expressed an opinion on the 
+existing variability in reading of initialisms. 
+Abbreviations that have vowels in the middle 
+can be taken for a single syllable or as a chain 
+of independent syllables and pronounced as 
+one unit (for example ‘SOHO’ – ‘SO/HO/’). At 
+the same time, abbreviations that do not have a 
+sequential alternation of consonants and vowels 
+(for example, ‘MRI’, ‘GSM’) are read letter-
+by-letter according to the patterns discussed 
+before. However, there are abbreviations that 
+have two options of reading – both as a single 
+syllable and as a chain of independent syllables 
+(for example ‘ISO’ – “ai es əʊ” and “i: so”) 
+[Liu, 2002]. According to the experiment 
+of K.A. Markina, “the overall statistics of 
+reading abbreviations that suggest such dual 
+pronunciation, is approximately at the ratio of 
+50/50” [Markina, 2008, p. 100].
+In relation to the third question on 
+accentuation of lettered words, Liu Yongquan has 
+only pointed out the need for correct accentuation 
+in lettered words to avoid the distortion of their 
+phonetic form. The questions of accentuation 
+in lettered words were out of the scope of 
+K.A. Markina’s experiment, but the problem of 
+the presence or absence of tones in the syllables 
+was raised. According to the data, in the process 
+of ascribing tones to the syllables in borrowed 
+lettered words all tones of Chinese language 
+were involved, with the neutral tone being rarely 
+ascribed to syllables in lettered words [Markina, 
+2008, p. 106]. This is explained by the perception 
+of lettered words (particularly abbreviations) by 
+native speakers as single syllables or chains of 
+independent syllables. While reading lettered 
+words, native speakers naturally ascribe a tone 
+(one of the basic parts of Chinese syllable) to 
+almost all syllables.
+The experiment revealed that despite the 
+existing differences in choosing a tone while 
+reading lettered words and abbreviations, the top 
+choice of the respondents is usually the first (flat) 
+tone. In our point of view, the first (flat) tone is 
+distinguished by the special duration and height, 
+which can technically correspond to the stress in 
+the original lettered word. In terms of acoustic 
+characteristics, the syllable with the first tone is 
+closer to the stressed syllables of the borrowed 
+lettered words from the English language, for 
+instance. This may be due to the fact that its 
+duration is similar to such a basic characteristic 
+of the stressed syllable in the English language 
+as duration.
+The process of subordination 
+of the borrowed lettered words 
+to the grammar standards 
+of the Chinese language
+As was already noticed, there are several 
+reasons for the emergence and spread of lettered 
+borrowings in the Chinese language: the need 
+to fill the gaps in the lexical system; the speech 
+efforts saving’s principle; psychological factor. 
+However, the participation of these lexical units 
+in the word-formation processes of the Chinese 
+language is a solid proof of their transition to 
+the status of ‘lettered words of the Chinese 
+language’.
+Hybrid words are the products of such word-
+formation models in the Chinese language as 
+compounding and semi-affixation. The following 
+example illustrates the participation of lettered 
+borrowings in the process of compounding 
+(definitive type):
+CIF 价 – CIF jià, CIF – terms of delivery that 
+include Cost, Insurance and Freight, where CIF – 
+from the English Cost, Insurance and Freight, and 
+价 jià – ‘price, cost’.
+Another example shows the participation of 
+lettered borrowings in semi-affixation process:
+IT 化  – IT huà, IT – ‘process of 
+implementation / transition to information 
+technology’, and 化 huà – semi-suffix. This 
+semi – suffix forms a large number of words 
+denoting the process of action, transformation, 
+and transition of an object to another state 
+[Gorelov, 1984, p. 61].
+Lettered words usually enter the Chinese 
+language with the original established semantic 
+meaning and belonging to a particular lexical and 
+grammatical category. The transition of original 
+lettered words from one lexical and grammatical 
+category to another is also possible – as a result 
+of the participation of these lexical items in 
+such word-formation processes as syntactic 
+transposition and morphological transposition. 
+According to the definition of V.I. Gorelov, 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 1
+119
+T.A. Uryvskaya. Specific Features of Lettered Words’ Integration
+syntactic transposition is not accompanied 
+by the change of lexical and morphological 
+environment – the result of this process is only 
+the change of syntactic functions of the original 
+lexical unit [Gorelov, 1984, p. 93]. For example, 
+吃完饭谁也别走，咱们卡拉 OK [Liu, 2002] – 
+‘do not leave after the meal, we will sing karaoke’. 
+卡拉 OK ‘karaoke’ is a borrowing from the 
+Japanese language, in which 卡拉 is a phonetic 
+calque from Japanese ‘カラ’ ‘empty’ and ‘OK’ 
+from English ‘orchestra’ [Liu, 2002]. Initially, 
+‘karaoke’ meant sound equipment that allows 
+performing songs to the backing track (Liu, 
+p. 288). However, in the example, the word was 
+syntactically transposed, which determined the 
+transition of the word from the category of nouns 
+to the category of verbs.
+Morphological transposition (conversion) 
+implies a change in lexical and morphological 
+environment [Gorelov, 1984, p. 95]. For 
+example, 你的企业 IT 了吗? – ‘Has your 
+company applied IT?’ [Liu, 2002, pp. 85-
+90]. The term ‘IT’ belongs to the lexical and 
+grammatical category of nouns, but in the 
+example, it was used as a processual verb. This is 
+evidenced by its position in the sentence and the 
+grammatical indicator 了 (located after verbs 
+and some adjectives according to the rules). As 
+a verb, ‘IT’ acquires the meaning ‘the process 
+of implementation and application of Internet 
+technologies’.
+In the Chinese language, in view of the 
+morphological and semantic significance of 
+hyphenation, compounding is one of the leading 
+and most effective ways of word formation 
+and word stock replenishment. However, 
+according to I.D. Klenin and V.F. Shchichko, 
+the development of polysyllabic lexical items 
+also gave rise to the opposite tendency of 
+reducing polysyllabic items to a disyllabic 
+standard more often than to a trisyllabic or 
+quadrisyllabic structures [Klenin, Shchichko, 
+2013, p. 129]. Therefore, the tendency to exceed 
+the standard of dissyllabic form within the 
+framework of the compounding is compensated 
+by such phenomenon as morphemic contraction 
+(which reverts the word to the dissyllabic form). 
+Eventually, due to its effectiveness and active 
+use of its products, this process has become 
+one of the ways of word formation in the 
+Chinese language. According to the definition 
+of V.I. Gorelov, this method is a special kind of 
+abbreviation typical of the Chinese language by 
+its morphological characteristics. It is a process 
+of exclusion of individual morphemes from the 
+composition of a polysyllabic word or phrase.
+Previously, this method of formation of 
+new words was applied only to hieroglyphic 
+words of the Chinese language and, according 
+to V.I. Gorelov, was divided into several types:
+1. Morphemic contraction of trisyllabic 
+lexical units.
+飞机场 (fly – machine – field) → 机场 
+(aerodrome) [Gorelov, 1984, p. 87].
+2. Morphemic contraction of quadrisyllabic 
+lexical units.
+北京大学 (Beijing University) → 北大 
+[Gorelov, 1984, p. 88].
+3. Morphemic contraction of pentasyllabic 
+lexical units.
+语言研究所 (speech – language – to 
+investigate – place) → 语言所 (institute of 
+linguistics) [Gorelov, 1984, p. 89].
+4. Morphemic contraction of a special type.
+a) the merging of two words which have a 
+common postpositive morpheme – the formation 
+of one trisyllabic unit. There is a copulative bond 
+between the first morphemes.
+明天 (tomorrow) + 后天 (the day after 
+tomorrow) → 明后天 (tomorrow or the day after 
+tomorrow) [Gorelov, 1984, p. 90].
+b) the merging of several words (usually 
+with an identical morpheme) – the formation of 
+an abbreviated word, including a numeral, which 
+indicates the number of words involved in the 
+contraction process.
+农业、农村、农民问题 (problems of 
+agriculture, village, and rural population) – 三农问题.
+However, with the emergence and integration 
+of lettered words into the lexical system of 
+the Chinese language, lettered words and their 
+alphabetical components began to follow the rules 
+of morphemic contraction.
+Having investigated the dictionary ‘汉语字
+母词词典’ written by Liu Yongquan in 2008, we 
+pointed out a number of lettered words, which, 
+in our opinion, are the products of morphemic 
+contraction. They demonstrate the accuracy of 
+the conclusion that there is a process of lettered 
+words’ subordination to the grammatical rules of 
+the Chinese language. The lexemes selected may 
+be divided into several groups:
+120
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 1
+Group 1:
+a) Truncation of letter component of a hybrid 
+word on a par with truncation of morphemes of 
+postpositive hieroglyphic component:
+USB 闪盘
+→
+U 盘
+USB – flash drive (Liu, 
+p. 244)
+b) Truncation of letter component of a 
+hybrid word and the use of a monomorphic 
+postpositive hieroglyphic component:
+GRE 族
+→
+G 族
+people taking GRE test to study 
+abroad (Liu, p. 105)
+Group 2:
+a) The merging of two hybrid words which 
+have a common postpositive morpheme and 
+truncation of the letter components of these words. 
+The component in an abbreviated word is spelled 
+as one letter, which is semantically significant for 
+both original abbreviations:
+MBA 族 + 
+MPA 族
+→
+М 族
+trainees or graduates of the 
+MBA and MPA programs 
+(Liu, p. 158)
+b) The merging of two or more hybrid words 
+which have a common postpositive morpheme 
+and truncation of letter components of these 
+words. The component in anabbreviated word 
+is spelled as one letter combination, which is 
+common for all words in contraction process:
+What 词 + 
+When 词 + 
+Where 词 + 
+Which 词…  
+→
+Wh-词
+Wh-question words of 
+the English language 
+(Liu, p. 255)
+Group 3:
+a) Abbreviated hybrid words, which imply 
+a hieroglyphic numeral (the number of combined 
+words), a letter component (common to all 
+words combined), and a hieroglyphic component 
+indicating the meaning of abbreviated hybrid word:
+Communication + 
+Computer +
+Control + 革命
+→
+三 C
+革命
+the implementation 
+of communication 
+computerization, 
+and management 
+a u t o m a t i o n 
+processes (Liu, 
+p. 291)
+b) Abbreviated hybrid words, which imply an 
+Arabic numeral (the number of combined words) a 
+letter component (common to all words combined), 
+and a hieroglyphic component indicating the 
+meaning of abbreviated hybrid word:
+Clean +
+Cycle +
+Control +
+原则
+→ 3С 原则
+principles of urban waste 
+management: prevention 
+of waste generation, 
+comprehensive waste 
+utilization, appropriate 
+measures in waste 
+management (Liu, 
+p. 276)
+c) Abbreviated hybrid words, which imply 
+a hieroglyphic numeral (the number of combined 
+words) and a letter component (common to all 
+combined words):
+Technology +
+Trade +
+Tribes
+→ 三T
+technology, trade and the 
+collectivist spirit (Liu, 
+p. 292)
+d) Abbreviated hybrid words, which imply 
+an Arabic numeral (the number of combined 
+words) and a letter component (common to all 
+combined words):
+Reduce +
+Reuse +
+Recycle
+→
+3R 
+modern environmental 
+requirements (waste-
+reduction, renewable energy 
+sources, and reuse) (Liu, 
+p. 278)
+e) The merging of two groups of foreign 
+words, distinguished by the principle of having 
+a common letter component. In an abbreviated 
+lettered word, the first hieroglyphic numeral (the 
+number of words combined in the first group) and 
+the letter component (common to all combined 
+words of the first group) are followed by the 
+second hieroglyphic numeral (the number of 
+combined words in the second group) and the 
+letter component (common to all combined words 
+of the second group):
+Computer +
+Communication +
+Control;
+factory
+Automation +
+office
+Automation +
+home
+Automation +
+agricultural
+Automation
+→
+三C
+四A
+computerization, 
+communication, 
+control; automation 
+o f  i n d u s t r i a l 
+enterprises, office, 
+household and 
+agriculture) (Liu, 
+p. 291)
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 1
+121
+T.A. Uryvskaya. Specific Features of Lettered Words’ Integration
+Conclusion
+Lettered words emerged in Chinese print at 
+the beginning of the 20th century. By the middle 
+of the century, they began to appear in Chinese 
+literature, and due to the new realia of China, 
+beginning with the 1978 political course, they are 
+gaining popularity nowadays.
+The article is based on a series of observations 
+on the lettered words’ integration into the Chinese 
+language made by the author in the course of 
+analysis of lettered words’ dictionaries published 
+in China in the period of 1996–2016.
+Firstly, we have analyzed a number of local 
+and foreign researches, covering main issues 
+regarding specific features of various types of 
+lettered words’ integration into the phonetic and 
+graphic systems of the Chinese language.
+Secondly, the achievements of previous 
+research made it possible to identify the 
+peculiarities of subordination of borrowed lettered 
+words to the grammatical standards of the Chinese 
+language. The cases described in this paper prove 
+that, in addition to such word-formation processes 
+as compounding, semi-affixation, syntactic and 
+morphological transposition, lettered words are 
+also subject to morphological contraction. In our 
+opinion, the expansion of the range of lettered 
+words’ grammatical functions indicates a high 
+degree of assimilation of these lexical items into 
+the Chinese language.
+The Chinese language is a communication 
+instrument of citizens of the state that occupies 
+an increasingly prominent place in political and 
+economic arenas of the world. The investigation 
+of the main vectors of intralingual changes in 
+the contemporary Chinese language and their 
+motives are relevant areas of research. Nowadays, 
+the leadership of PRC shows commitment to 
+preserving and maintaining Chinese identity and 
+traditions. The Chinese language and Chinese 
+characters are a huge layer of a unique culture. 
+The emergence, distribution and assimilation of 
+lettered words certainly have direct impact on 
+the traditions of this language, to a certain extent 
+determining the ways of its development. In this 
+regard, we believe that the status of Chinese 
+lettered words, the legitimacy of their usage, as 
+well as the rules regulating their writing, reading, 
+and grammatical functions are relevant discussion 
+topics in Chinese philology.
+REFERENCES
+Alikberova A.R., Uryvskaya T.A., 2016. Modern 
+Trends in Chinese Language: Integration 
+of Letter Words into the Language System. 
+Uchenye Zapiski Kazanskogo Universiteta. 
+Seriia «Gumanitarnye nauki», vol. 158, no. 6, 
+pp. 1592-1600.
+Gorelov V.I., 1984. Leksikologiya kitayskogo yazyka 
+[Chinese Language Lexicology]. Moscow, 
+Prosveshchenie Publ. 216 p.
+Khamatova А.А., 2012. Trends of the 
+Development of the Chinese Vocabulary 
+in the Beginning of the XXI Century. Vestnik 
+Irkutskogo gosudarstvennogo lingvisticheskogo 
+universiteta, no. 4 (21), pp. 9-13.
+Kissinger H., 2015. O Kitaye [On China]. Moscow, 
+AST Publ. 635 p.
+Klenin I.D., Shchichko V.F., 2013. Leksikologiya 
+kitayskogo yazyka [Chinese Language Lexicology]. 
+Moscow, Vostochnaya kniga Publ. 273 p.
+Markina K.A., 2008. Novye tendencii v razvitii kitajskoj 
+leksiki: bukvennye slova kitajskogo jazyka 
+kak projavlenie ego integracii s jelementami 
+inoj tipologii: diss. cand. phylol. nauk [New 
+Tendencies in the Development of Modern 
+Chinese Words: Chinese Littered Words as 
+the Manifestation of Its Integration with Its 
+Integration with the Elements of the Different 
+Typology. Cand. philol. sci. diss.]. Moscow. 
+180 p.
+Riha H., 2010. Lettered Words in Chinese: Roman 
+Letters as Morpheme-Syllables. Working Papers 
+in Linguistics, no. 59, pp. 44-51.
+Uryvskaya T.A., Veselova L.S., 2019. Chinese Lettered 
+Words: Barbarism or Assimilated Borrowing? 
+Vestnik of Saint Petersburg University. Asian 
+and African Studies, vol. 11, iss. 4, pp. 431-446. 
+DOI: 10.21638/spbu13.2019.402.
+Veselova L.S., Uryvskaya T.A., 2019. About 
+Communicative Tolerance of Chinese 
+Speakers to Lettered Words. Sbornik statey i 
+dokladov uchastnikov XII Mezhdunarodnoy 
+nauchnoprakticheskoy konferentsii «Rossiya – 
+Kitay: istoriya i kultura» [Proceedings of the 
+12th International Conference “Russia – China: 
+History and Culture”]. Kazan, «Fen» AN RT 
+Publ. pp. 103-107.
+Dong Ming, 2014. Hanyu zimuci cunzaide helixing 
+[Justifying Chinese Latin Abbreviations]. 
+Journal of Zhejiang Gongshang University, 
+vol. 125, no. 2, pp. 45-52. (In Chinese).
+Li Xiaohua, 2014. Qianyi zimuci shouru cishu wenti 
+[Review of the Issues Related to the Inclusion 
+of Lettered Words in Dictionaries]. Modern 
+Chinese, no.6, pp. 46-48. (In Chinese).
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 1
+Liu Yоngquan, 1994. Tantan zimuci [Talk About 
+Lettered Words]. Language Planning, no. 10, 
+pp. 7-9. (In Chinese).
+Liu Yоngquan, 2002. Guanyu hanyu zimucide wenti 
+[The Issue of Lettered Words in Chinese]. Applied 
+linguistics, no. 1, pp. 85-90. (In Chinese).
+Tang Jingqiong,  2013. Zimuci ru “Xiandai 
+hanyu cidian” [Lettered Words Enter the 
+Contemporary Chinese Dictionary]. Journal of 
+Suzhou University of Science and Technology 
+(Social Science), vol. 31, no. 2, pp. 104-108. 
+(In Chinese).
+DICTIONARIES
+Liu – Liu Yоngquan. Hanyu zimuci cidian [Chinese 
+Lettered Words Dictionary]. [S. l.], Foreign 
+Language Teaching and Research Press, 2008. 
+332 p. (In Chinese).
+CCD, 1996 – Contemporary Chinese Dictionary. 
+3rd ed. Beijing, The Commercial Press, 1996. 
+1832 p. (In Chinese).
+CCD, 2016 – Contemporary Chinese Dictionary. 7rd ed. 
+Beijing, The Commercial Press, 2016. 1799 p. 
+(In Chinese).
+Information About the Author
+Tatiana A. Uryvskaya, Candidate for a Degree, Lecturer, Department of Chinese, Vietnamese, 
+Thai and Laotian Languages, MGIMO University, Prosp. Vernadskogo, 76, 119454 Moscow, Russia, 
+uryvski@yahoo.com, https://orcid.org/0000-0002-0146-1365
+Информация об авторе
+Татьяна Александровна Урывская, соискатель ученой степени кандидата наук, преподава-
+тель кафедры китайского, вьетнамского, тайского и лаосского языков, Московский государственный 
+институт международных отношений (Университет) МИД России, просп. Вернадского, 76, 119454 
+г. Москва, Россия, uryvski@yahoo.com, https://orcid.org/0000-0002-0146-1365

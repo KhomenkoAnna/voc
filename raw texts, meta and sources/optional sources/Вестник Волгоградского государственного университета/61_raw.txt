@@ -1,0 +1,373 @@
+House J., Kádár D.Z., Leontyev V.V., 2021
+42
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 2
+РЕЧЕВЫЕ МЕХАНИЗМЫ И ЕДИНИЦЫ
+ТЕКСТОВОЙ КОММУНИКАЦИИ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.2.4
+UDC 81’1:004.823
+Submitted: 30.10.2020
+LBC 81.002
+Accepted: 12.01.2021
+RITUAL FRAME INDICATING EXPRESSIONS
+(AN ACADEMIC CONVERSATION) 1
+Juliane House
+University of Hamburg, Hamburg, Germany;
+Hellenic American University, Nashua, USA
+Dániel Z. Kádár
+Dalian University of Foreign Languages, Dalian, China;
+Research Centre for Linguistics, Budapest, Hungary
+Victor V. Leontyev
+Volgograd State University, Volgograd, Russia
+Abstract. The present paper is based on an interview, conducted by Victor V. Leontyev with Juliane House
+and Dániel Z. Kádár. It provides an overview of a new theory in pragmatics, namely, Ritual Frame Indicating
+Expressions (RFIEs). This theory provides a bottom-up and corpus-based approach to the study of various
+pragmatically important expressions through which the participants of an interaction indicate their awareness of
+the Ritual Frame underlying the interaction. ‘Ritual Frame’ encompasses a cluster of standard situations in which
+the rights and obligations of the participants are clearly defined. The corpus-based RFIE approach complements
+sociopragmatic approaches to various expression types, including so-called ‘politeness markers’, honorifics, forms
+of address and so on, and it also helps us to systematically capture the relationship between expressions and
+speech acts. In studying RFIEs, the analyst focuses on the ways in which RFIEs spread across various standard
+situations. The study of this issue also allows the researcher to contrastively examine the use of RFIEs across
+linguacultures. Such contrastive research helps us to unearth major linguacultural differences. For example, the
+research of J. House and D.Z. Kádár has revealed that while in East Asian linguacultures such as Chinese RFIEs
+tend to be strongly associated with a particular speech act, this relationship is casual in Western linguacultures.
+Key words: Ritual Frame Indicating Expressions, standard situations, conventionalisation, politeness,
+contrastive pragmatic analysis.
+Citation. House J., Kádár D.Z., Leontyev V.V. Ritual Frame Indicating Expressions (An Academic Conversation).
+Vestnik Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of  Volgograd
+State  University. Linguistics], 2021, vol. 20, no. 2, pp. 42-46. DOI: https://doi.org/10.15688/jvolsu2.2021.2.4
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 2
+43
+J. House, D.Z. Kádár, V.V. Leontyev. Ritual Frame Indicating Expressions
+УДК 81’1:004.823
+Дата поступления статьи: 30.10.2020
+ББК 81.002
+Дата принятия статьи: 12.01.2021
+ЯЗЫКОВЫЕ ИНДИКАТОРЫ РИТУАЛЬНЫХ ФРЕЙМОВ
+(НАУЧНАЯ БЕСЕДА) 1
+Юлиане Хоузе
+Гамбургский университет, г. Гамбург, Германия;
+Греческий Американский университет, г. Нашуа, США
+Дэниэл Золтан Кадар
+Даляньский университет иностранных языков, г. Далянь, Китай;
+Центр лингвистических исследований Венгерской академии наук, г. Будапешт, Венгрия
+Виктор Владимирович Леонтьев
+Волгоградский государственный университет, г. Волгоград, Россия
+Аннотация. В материале представлена новая теория в области прагматики, а именно теория изучения
+языковых индикаторов ритуальных фреймов (ЯИРФ). Она базируется на «нисходяще-восходящем» и корпус-
+ном подходах к изучению прагматически важных выражений, при помощи которых участники коммуника-
+тивного взаимодействия указывают на свою осведомленность о ритуальном фрейме как фундаменте обще-
+ния. Ритуальный фрейм охватывает кластер стандартных ситуаций, в которых четко определены права и
+обязанности участников коммуникативного действия. Опирающийся на анализ данных из языковых корпу-
+сов подход с применением ЯИРФ дополняет существующие социопрагматические подходы к изучению
+различных языковых единиц и выражений, включая «маркеры вежливости», гоноративы, формы обращений
+и т. д., и позволяет на методической основе установить взаимосвязь между языковыми выражениями и рече-
+выми актами. Исследуя ЯИРФ, аналитик фокусирует свое внимание на способах, при помощи которых
+ЯИРФ распространяются в различных стандартных ситуациях. Изучение процесса распространения этих
+языковых единиц открывает для лингвиста возможность сравнить применение ЯИРФ в разных лингвокульту-
+рах и выявить особенности той или иной лингвокультуры. В качестве примера приведены результаты иссле-
+дования Ю. Хоузе и Д.З. Кадара, демонстрирующие, что в восточноазиатских лингвокультурах, таких как
+китайская, ЯИРФ жестко связаны с конкретным речевым актом, а в западных лингвокультурах эта взаимо-
+связь случайна.
+Ключевые слова: языковые индикаторы ритуальных фреймов, стандартные ситуации, конвенциона-
+лизация, теория вежливости, сравнительный прагматический анализ.
+Цитирование. Хоузе Ю., Кадар Д. З., Леонтьев В. В. Языковые индикаторы ритуальных фреймов (науч-
+ная беседа) // Вестник Волгоградского государственного университета. Серия 2, Языкознание. – 2021. – Т. 20,
+№ 2. – С. 42–46. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.2.4
+Introduction
+The present essay, which is based on an
+academic conversation conducted by Victor V.
+Leontyev about the work of Juliane House and
+Dániel Z. Kádár, discusses their Ritual Frame
+Indicating Expressions (RFIE) Theory. This
+theory systematises the use of many different
+pragmatically important expressions, and among
+such expressions it devotes special attention to
+expressions which are popularly associated with
+certain speech acts. In many linguacultures, there
+are standard situations in which the use of certain
+expressions – such as “please” in English, “bitte”
+in German, “пожалуйста” in Russian and qing
+ in Chinese – is expected. Such expressions
+have been conventionally defined as “politeness
+markers”. RFIE Theory challenges the
+unquestioned association between such
+expressions and politeness, by pointing out that
+RFIEs indicate rights and obligations and a
+broader “Ritual Frame”. The relationship
+between RFIEs and politeness, as well as the
+cluster of standard situations that a particular
+RFIE expression indicates, varies greatly across
+linguacultures.
+44
+РЕЧЕВЫЕ МЕХАНИЗМЫ И ЕДИНИЦЫ ТЕКСТОВОЙ КОММУНИКАЦИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 2
+Standard Situation
+The concept of standard situation goes back
+to the pioneering work by Juliane House on
+expressions indicating the speech act of Request.
+House argues as follows:
+The notion of a standard situation involves
+participants’ rather fixed expectations and perceptions
+of social role. Role relations are transparent and
+predetermined. The requester has the right and the
+requestee an obligation, the degree of imposition
+involved in the request is low, as is the perceived
+degree of difficulty of realizing it. In a nutshell, the
+participants know where and who they are. Clearly,
+the distinction between standard and non-standard
+situations is not clear-cut [House, 1989, p. 115].
+The concept of standard situation as well
+as the broader concept of the Ritual Frame
+represent a pragmalinguistic counterpart to the
+concept of “activity type” suggested by Stephen
+Levinson [1992]. Levinson considers activity type
+to be a fuzzy category whose focal members are
+goal-defined, socially constituted bounded events
+with constraints on participants, settings and so
+on. The concept of standard situation does not
+only include what is known as “institutional
+discourse” but rather covers any situation where
+rights and obligations prevail [Kádár, House,
+2020c, p. 143]. Typical examples of standard
+situations are reprimanding a car owner by a
+policeman when the policeman asks the owner to
+move the car, and a request to clean up the kitchen
+made between people sharing a flat [Kádár,
+House, 2020c, p. 143; House, 1989, p. 108]. It is
+evident that rights and obligations prevail in such
+situations, and so interactions in such situations
+are embedded in an invisible Ritual Frame.
+Ritual Frame
+Ritual Frame refers to a cluster of standard
+situations in which rights and obligations prevail.
+Interactants are expected to follow these rights and
+obligations to maintain their face [Kádár, House,
+2020b, p. 641]. The notion of a Ritual Frame is of
+a higher order and more abstract than standard
+situation as Ritual Frame encompasses a cluster
+of standard situations. That is, a standard situation
+is something particular, while the Ritual Frame is
+more general [Kádár, House, 2020b, p. 642]. House
+and Kádár point out that their use of the expression
+“frame” differs from how it has been used in a
+body of top-down research (see: [Tannen, 1979;
+Tannen, House, 1987; Terkourafi, 2001; 2005;
+Bednarek, 2005]). Ritual Frame evokes
+communally oriented forms of behavior [Bax,
+2010]. The idea of ‘communality’ is interpreted in
+the following way: in interactions anchored in
+standard situations, in which rights and obligations
+are always lurking, there is an omnipresent sense
+of a communality even though the community itself
+might only be imaginatively present.
+A Ritual Frame of an interaction differs
+from the concept of abiding norms or ‘politic
+behavior’ [Watts, 2003]: it covers all instances
+of language use that display a decreased sense
+of individualistic interactional engagement and
+related face-work.
+Ritual Frame Indicating Expressions
+The concept of Ritual Frame Indicating
+Expressions (RFIEs) helps one to investigate the
+relationship between expressions and ritual and
+conventional norms governing the use of these
+expressions [Kádár, House, 2020a, p. 83]. When
+language users engage in an interaction in which
+it is important to linguistically showcase awareness
+of who and where they are, their language use
+and related perceptions may change. Awareness
+of the Ritual Frame tends to be indicated vis-à-
+vis linguistic expressions, including ones
+associated with speech acts such as Request,
+Apology and Thanks, as well as honorifics,
+deference markers, terms of address and so on
+[Kádár, House, 2020a, pp. 83-84]. Typical
+examples of such expressions cover terms of
+address [Braun, 1988] and  honorifics [Ide, 1989].
+A framework of RFIEs can facilitate a
+comparison of the pragmatic scope of
+expressions which are conventionally defined as
+‘politeness markers’ [House, 1989; Ide, 1989].
+Such expressions constitute a key aspect of our
+day-to-day communication, and, as such, they need
+to be kept on the agenda of pragmatic research.
+The assumption that such expressions are in some
+way interrelated with politeness clearly prevails
+as the expression ‘politeness marker’ continues
+to be used, particularly outside the scope
+mainstream politeness theory despite criticism
+voiced about the politeness-form interface.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 2
+45
+J. House, D.Z. Kádár, V.V. Leontyev. Ritual Frame Indicating Expressions
+An important concept in RFIE Theory is the
+notion of ‘speech act-anchoredness’. This concept
+implies that in certain linguacultures, such as Chinese,
+RFIEs are so intimately tied to a particular speech
+act that they can practically have no other pragmatic
+function. Although this may sound straightforward,
+for someone who is  unfamiliar with East Asian
+languages such as Chinese, this fact can be rather
+surprising. After carrying out contrastive pragmatic
+research on German and English RFIEs versus their
+Chinese counterparts, House and Kadar found that
+it is only in the Chinese linguaculture that RFIEs are
+invariably speech act-anchored, which means they
+are inseparably attached to a particular speech act.
+In English and German this is not the case, which
+means that RFIEs in these linguacultures often fulfill
+many other functions as well.
+It is worth noting that there are other
+frameworks which focus on expressions in
+particular, such as ‘situation-bound utterances’ (e.g.:
+[Kecskes, 2016]). Basically, in such theories one
+first identifies a situation and then the expressions
+that people generally use in this particular situation
+are studied. The RFIE approach is radically different:
+analysts following the RFIE Theory base their work
+on how expressions are used in two or more corpora
+and do not consider the notion of situation first. That
+is, the researcher first analyses which types of
+situations are indicated by the expressions in the
+corpora studied. As a next step, the researcher
+considers issues such as the interactional ritual use
+of the expressions under investigation, their
+relationship to speech acts, and so on.
+In sum, RFIE Theory implies that, first, one
+should identify the expressions in the corpora and
+then analyse what these expressions do in certain
+situational contexts. One does not start the other
+way around with either the situation or something
+else at the outset. The very term ‘Ritual Frame
+Indicating Expression’ indicates this quite clearly.
+One needs to start RFIE analysis with ‘innocent’
+little words and see what comes out of one’s
+corpus-based study of these expressions. This is
+basically a non-essentialist, bottom-up and data-
+based approach to the cross-cultural study of
+expressions. A key advantage of this framework
+is that it allows us to study various important
+phenomena such as the effect of globalisation on
+language use. For example, J. House and
+D.Z. Kádár [2021] recently published a study of
+RFIEs in global marketing materials.
+The reason why J. House and D.Z. Kádár
+were able to look at language use in this alternative
+way is that they ventured beyond their respective
+‘comfort zones’: they were able to bring together
+the original speech act and ‘standard situation’
+approach developed by J. House and interaction
+ritual theory developed by D.Z. Kádár.
+Conclusion
+RFIE Theory integrates pragmatically
+important expressions and speech acts, as well as
+the broader unit discourse by systematising the
+interactional use of RFIEs. This theory is part of a
+more comprehensive framework, which J. House
+and D.Z. Kádár present in a recent monograph (see:
+[House, Kádár, 2021]). When it comes to RFIEs,
+the main argument is that one cannot conduct proper
+research about speech act and discourse without
+also involving expressions, and this is particularly the
+case if cross-cultural pragmatics is at play. One also
+needs to consider how expressions relate to speech
+acts, and how speech acts are, in turn, embedded in
+larger units of discourse.
+NOTE
+1 The research of Dániel Z. Kádár and Juliane
+House was funded by the Momentum (Lendület)
+Research Grant of the Hungarian Academy of Sciences
+(LP2017/5) and the Research Grant of the National
+Research Development and Innovation Office,
+Hungary (132969), both hosted by the Hungarian
+Academy of Sciences Interactional Ritual Momentum
+Research Group, located in the Research Centre for
+Linguistics, Hungary and directed by Dániel Z. Kádár.
+REFERENCES
+Bax M., 2010. Rituals. Jucker A., Taavitsainen I., eds.
+Historical Pragmatics. Berlin, Mouton de
+Gruyter, pp. 483-519.
+Bednarek M., 2005. Frames revisited: the coherence-
+inducing function of frames. Journal of
+Pragmatics, vol. 37, pp. 685-705. DOI: 10.1016/
+j.pragma.2004.09.007.
+Braun F., 1988. Terms of Address: Problems of Patterns
+and Usage in Various Languages and Cultures.
+Berlin, Mouton de Gruyter. 372 p.
+House J., 1989. Politeness in English and German: The
+functions of please and bitte. Blum-Kulka Sh.,
+46
+РЕЧЕВЫЕ МЕХАНИЗМЫ И ЕДИНИЦЫ ТЕКСТОВОЙ КОММУНИКАЦИИ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 2
+House J., Kasper G., eds. Cross-cultural
+Pragmatics: Requests and Apologies. Norwud,
+N. J., Ablex, pp. 96-119.
+House J., Kádár D.Z., 2021. Forthcoming. Contrastive
+Pragmatics. Cambridge, CUP, 2021. (In Print).
+Ide S., 1989. Formal forms and discernment: Two
+neglected universals of linguistic politeness.
+Multilingua, vol. 8, no. 2/3, pp. 223-248.
+Kádár D.Z., House J., 2020a. Revisiting the duality of
+convention and ritual: A contrastive pragmatic
+inquiry. Poznan Studies in Contemporary
+Linguistics, vol. 56, no. 1, pp. 83-111. DOI:
+10.1515/psicl-2020-003.
+Kádár D.Z., House J., 2020b. Ritual Frames and
+politeness markers. Pragmatics and Society,
+vol. 10, no. 4, pp. 641-649. DOI: 10.1075/
+ps.18079.kad.
+Kádár D.Z., House J., 2020c. Ritual Frames:
+A Contrastive Pragmatics approach. Pragmatics,
+vol. 30, no. 1, pp. 142-168. DOI: 10.1075/prag.
+19018.kad.
+Kecskes I., 2016. “Situation-bound Utterances in
+Chinese. East Asian Pragmatics, vol. 1, no. 1,
+pp. 107-126. DOI: 10.1558/eap.v1i1.29098.
+Levinson S., 1992. Activity types and language. Drew P.,
+Heritage J., eds. Talk at work: Interaction in
+Institutional settings. Cambridge, CUP, pp. 66-100.
+Tannen D., 2009. Framing and face: The relevance of
+the presentation of Self to linguistic discourse
+analysis. Social Psychology Quaterly, vol. 72,
+no. 4, pp. 300-305.
+Tannen D., Wallat C., 1987. Interactive frames and
+knowledge schemas in interaction: Examples
+from a medical examination/interview. Social
+Psychology Quaterly, vol. 50, no. 2, pp. 205-216.
+Terkourafi M., 2001. Politeness in Cypriot Greek: A Frame-
+Based Approach. PhD Thesis. Cambridge, CUP. 232 p.
+Terkourafi M., 2005. Beyond the micro-level of
+politeness research. Journal of Politeness
+Research, vol. 1, no. 1, pp. 237-262.
+Watts R., 2003. Politeness. Cambridge, New York,
+Melbourne, Cambridge University Press. 304 p.
+Information About the Authors
+Juliane House, Professor Emerita, Department of Languages and Cultures, University of Hamburg,
+Lagerloefstrasse, 25, 22391 Hamburg, Germany; Distinguished Professor, Director of the PhD Programme
+“Language and Communication”, Hellenic American University, Amherst St, 436, 03063 Nashua, USA,
+julianehouse@fastmail.fm
+Dániel Z. Kádár, Qihang Chair Professor, Director of Research Centre, Center for Pragmatics
+Research, Dalian University of Foreign Languages, Lüsun Nanlu Xiduan, 6, 116044 Dalian, China;
+Research Professor, Chair of Research Group, Hungarian Academy of Sciences Momentum Interactional
+Ritual Research Group, Research Centre for Linguistics, Benczúr u., 33, 1068 Budapest, Hungary,
+dannier@dlufl.edu.cn, https://orcid.org/0000-0002-7238-730X
+Victor V. Leontyev, Candidate of Sciences (Philology), Associate Professor, Department of German
+and Romance Philology, Volgograd State University, Prosp. Universitetsky, 100, 400062 Volgograd, Russia,
+leontyev_vgu@mail.ru, https://orcid.org/0000-0002-9683-3255
+Информация об авторах
+Юлиане Хоузе, почетный профессор факультета языков и культур, Гамбургский универси-
+тет, Лагерлёфштрассе, 25, 22391 г. Гамбург, Германия; почетный профессор, директор Програм-
+мы по подготовке аспирантов (направление «Язык и коммуникация»), Греческий Американский
+университет, ул. Амхерст, 436, 03063 г. Нашуа, США, julianehouse@fastmail.fm
+Дэниэл Золтан Кадар, профессор кафедры лингвистики, директор Исследовательского
+центра исследований в области прагматики, Даляньский университет иностранных языков, Люсун
+Нанлу Ксидуан,  6, 116044 г. Далянь, Китай; профессор-исследователь, руководитель исследо-
+вательской группы по изучению интеракционных ритуалов, Центр лингвистических исследова-
+ний Венгерской академии наук, ул. Бунсур, 33, 1068 г. Будапешт, Венгрия, dannier@dlufl.edu.cn,
+https://orcid.org/0000-0002-7238-730X
+Виктор Владимирович Леонтьев, кандидат филологических наук, доцент кафедры герма-
+но-романской филологии, Волгоградский государственный университет, просп. Университетский,
+100, 400062 г. Волгоград, Россия, leontyev_vgu@mail.ru, https://orcid.org/0000-0002-9683-3255

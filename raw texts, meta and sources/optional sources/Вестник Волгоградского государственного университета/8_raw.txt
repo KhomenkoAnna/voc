@@ -1,0 +1,938 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 6
+89
+Sokolova N.V., 2021
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.6.8
+UDC 81’322.4
+Submitted: 11.01.2021
+LBC 81.184
+Accepted: 30.08.2021
+MACHINE VS HUMAN TRANSLATION
+IN THE SYNERGETIC TRANSLATION SPACE
+Natalia V. Sokolova
+Perm National Research Polytechnic University, Perm, Russia
+Abstract. The paper focuses on English-to-Russian translations of patent applications on the website of the
+World Intellectual Property Organization (WIPO). A comparative analysis of patent applications is performed by
+using translations made with the help of the WIPO Translate tool and human translators within the framework of
+the synergetic translation space concept encompassing the domains of the author’s intensions, text content and
+composition, energy, translator, recipient, and the translation acceptability notion. The translation erratology
+aspects were considered from the point of view of the semantic, referential, and syntactic ambiguity within the
+domains of content-composition and energy space. In the domain of the author, the intention to convey some
+technical information is revealed, while its rendering in the content-composition and energy domains depends on
+whether the translation is made by a person or a machine. Genre- and composition-related specifics have been
+rendered in both cases while machine translation errors have been proven to result from the semantic, referential,
+or syntactic ambiguity, and this is when the translated output is generally considered unacceptable by the recipient.
+The results obtained can be used for editing machine translations of patent documentation, assessing the quality
+of technical documentation translation that is referred to other specific genre conventions.
+Key words: patent application, machine translation, ambiguity, acceptability, editing, synergetic approach.
+Citation. Sokolova N.V. Machine vs Human Translation in the Synergetic Translation Space. Vestnik
+Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of  Volgograd  State
+University. Linguistics], 2021, vol. 20, no. 6, pp. 89-98. DOI: https://doi.org/10.15688/jvolsu2.2021.6.8
+УДК 81’322.4
+Дата поступления статьи: 11.01.2021
+ББК 81.184
+Дата принятия статьи: 30.08.2021
+МАШИННЫЙ ПЕРЕВОД VS ПЕРЕВОД, ВЫПОЛНЕННЫЙ ЧЕЛОВЕКОМ,
+В СИНЕРГЕТИЧЕСКОМ ПЕРЕВОДЧЕСКОМ ПРОСТРАНСТВЕ
+Наталья Владимировна Соколова
+Пермский национальный исследовательский политехнический университет, г. Пермь, Россия
+Аннотация. В статье на материале патентных заявок, представленных на веб-сайте Всемирной организации
+интеллектуальной собственности (WIPO), рассматриваются лингвистические проблемы перевода с английского
+языка на русский. Осуществлен сопоставительный анализ переводов патентных заявок, выполненных с помощью
+инструмента WIPO Translate и человека, в рамках синергетической концепции переводческого пространства,
+включающей поля автора, содержания и композиции, переводчика, реципиента, а также энергетическое поле, и
+опирающейся на понятие приемлемости перевода. Эрратологические аспекты перевода охарактеризованы с
+точки зрения смысловой, референциальной и синтаксической неоднозначности в рамках содержательного, ком-
+позиционного и энергетического полей. Установлено, что в переводах, выполненных машиной и человеком, в
+поле автора патентной заявки реализуется намерение передать техническую информацию. Показано, что в содер-
+жательном, композиционном и энергетическом полях жанрово-композиционные особенности заявки переданы в
+переводах обоих типов, а при наличии в оригинале смысловой, референциальной или синтаксической неоднознач-
+ности в машинном переводе присутствовали ошибки, а текст перевода воспринимался реципиентом как непри-
+емлемый. Результаты исследования могут быть использованы при редактировании машинных переводов патент-
+ной документации, а также при оценивании качества перевода технической документации других жанров.
+90
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 6
+Ключевые слова: патентная заявка, машинный перевод, неоднозначность, приемлемость, редактиро-
+вание, синергетический подход.
+Цитирование. Соколова Н. В. Машинный перевод vs перевод, выполненный человеком, в синергети-
+ческом переводческом пространстве // Вестник Волгоградского государственного университета. Серия 2,
+Языкознание. – 2021. – Т. 20, № 6. – С. 89–98. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.6.8
+Introduction
+The role of technical texts, or texts pertaining
+to the subject area of technology [Lotman, 2000;
+2010, p. 67] and conveying respective information,
+is becoming increasingly important.
+Currently, we are witnessing an
+unprecedented growth of technical information –
+an umbrella term describing any technology-related
+data such as technical know-how, standards and
+specifications, invention and innovation disclosures,
+patent applications and drawings, manuals, etc. For
+example, the number of patent applications
+worldwide has demonstrated a three-fold increase
+within the period of 2002–2016, according to the
+World Intellectual Property Organization (WIPO).
+Pertaining to the domain of technology [Lotman,
+2010, p. 17], technical texts play their role in
+disseminating specific technical knowledge.
+Technical information can be further
+disseminated through translation into other
+languages. The amount of technical translation
+accounts for a great proportion of the world’s
+translation output [Franco Aixelá, 2004].
+Moreover, technical translation itself often
+involves utilizing technology. One cannot but
+witness a growing tendency to have technical
+texts – such as patent applications – translated
+via a variety of machine translation tools powered
+by IT giants.
+The intricacies of technical translation have
+been approached by scholars, with lexical aspects
+[Shershukova, 2017; Trinozhenko, Goncharova,
+2016] or the translator being in focus [Fontanet,
+2016], etc. Speculations about the pros and cons
+of machine vs. human translation are also
+underway [Zhaorong Zong, 2018].
+Within the domain of linguistics, the word-
+sense, referential, and syntactic ambiguity types
+have been proven to be the reason behind machine
+translation errors [Linares, 2008] (see also:
+[Sokolova, 2019]) which can be explained by the
+fact that words may have more than one meaning,
+referent, and can be used in complicated syntactic
+structures [Linares, 2008, p. 3].
+These findings focus on the linguistic material
+and its translated output leaving the process of
+translation and its stakeholders behind, along with
+genre-related aspects. These assumptions make
+us believe that a broader approach should be
+applied to human-produced and machine
+translations of technical texts within the area of
+translation studies.
+This paper does not intend to unravel the
+misconceptions intertwined with technical
+translation and brilliantly exposed by Jody Byrne
+[Byrne, 2004; 2006] such as those of technical
+translation including economics, law, business
+etc. and being a non-creative transfer process
+[Byrne, 2006].
+Investigating the technical translation process
+within a framework embracing the stakeholders
+and the output of technical translation produced by
+humans and machines, the paper aims at comparing
+such output in terms of acceptability.
+Material and methodology
+When it comes to technical texts, patent
+documents are of particular interest as they deliver
+cutting-edge technical knowledge. The European
+Patent Office (EPO), the United States Patent
+and Trademark Office (USPTO) are among the
+institutions accumulating and disseminating patent
+data. The World Intellectual Property Organization
+(WIPO) maintains a special database –
+PATENTSCOPE (WIPO PATENSCOPE)
+providing access to over 90 million patent
+documents and 4 million published international
+patent applications regardless of country specifics.
+In addition, the WIPO provides database users
+with a custom machine translation tool – WIPO
+Translate.
+The paper draws on the English language
+patents of the WIPO PATENTSCOPE database
+as the material of the study in the amount of
+120,000 characters and their human-produced and
+machine translations into Russian. The machine
+translations coming under scrutiny are generated
+using the custom WIPO Translate tool specifically
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 6
+91
+N.V. Sokolova. Machine vs Human Translation in the Synergetic Translation Space
+trained in the subject area of patents. Human
+translations were made by professional
+translators. The English language patents under
+study pertain to the subject area of information
+technology and related embodiments in the
+linguistic field.
+According to the WIPO maintaining the
+PATENTSCOPE database, a technology patent
+“is an exclusive right to a product or a process
+that generally provides a new way of doing
+something or offers a new technical solution to a
+problem. To get a patent, technical information
+about the invention must be disclosed to the public
+in a patent application” (FAQ).
+Since the technical translation process
+involves several stakeholders, and the relevant
+information should be taken into account, the
+synergetic translation space approach elaborated
+by L.V. Kushnina [Kushnina, 2004] might have a
+potential of explaining the complex process of any
+translation type, including the technical one.
+We assume that this all-encompassing
+synergetic translation space approach could
+provide for investigating the technical translation
+process within the framework of the domains
+outlined below:
+– the author’s domain conveying the
+intention of the author to render some information
+in a particular way;
+– the composition- and content-related
+domain which contains terms while their adequate
+translation ensures the successful transposition of
+factual meanings; the word-sense, referential, and
+syntactic ambiguity will come under scrutiny in
+this respect;
+– the energy-related domain of technical
+texts containing both verbal means such as
+official clichés rendering emotive meanings and
+nonverbal means including figures, drawings, etc.
+[Ketola, 2015];
+– the translator’s domain which is
+intertwined with the translator’s understanding of
+the author’s intention to be eventually transposed
+to and embodied in the target text;
+– the recipient’s domain within which the
+target text becomes part and parcel of the
+recipient’s culture [Kushnina, 2013] (see also:
+[Larson, 1987]).
+This approach provides for transposing factual
+and emotive meanings of the source text and
+transplanting them into the target text and culture
+[Kushnina, 2004]. The target text should not be
+identical to the source one; it must sound natural
+instead [Kushnina, 2013] being acceptable to the
+target culture.
+The paper also makes use of terms such as
+word-sense ambiguity, with “words having more
+than one possible meaning or sense” [Linares, 2008,
+p. 3; Miftakhova, 2017]; referential ambiguity for
+words having more than one referent [Linares,
+2008, p. 3]; and syntactic ambiguity [Linares, 2008,
+p. 3], which may result in translation errors.
+This is when the notion of acceptability
+should be emphasized as “subscription to norms
+originating in the target culture determines...
+acceptability” [Toury, 1995, p. 57].
+J. Byrne stresses that the aim of technical
+translation is to achieve a high level of
+acceptability because technical texts are
+intended to function as a target language text
+[Byrne, 2006, p. 37] while M. Larson points out
+that “the goal of most translators is to produce
+translations which are acceptable for the
+audiences for whom the translations are
+produced” [Larson, 1987, p. 69].
+It is also of crucial importance within the
+context of this paper to focus on the notions of
+text and genre as “at a general level, text refers
+to a sequence of sentences serving an overall
+rhetorical purpose... genre refers to the
+conventional linguistic expression associated
+with speech and writing in certain contexts of
+situation (e.g. the letter to the editor)” [Baker,
+Saldanha (eds.), 2011, p. 89]. Ultimately, genres
+demonstrate definite and relatively stable
+typical forms as a whole [Bakhtin, 1986].
+Patents constitute a genre of their own
+which makes it possible for us to investigate both
+the conventional expressions of the patent genre
+and their textual realization from the perspective
+of the translation space approach both in the
+source and target texts of information technology
+patent documents translated by humans and with
+the help of the WIPO Translate tool.
+Thus, the methodology framework to be
+applied to human and machine translations of
+patent documents provides for:
+1) selecting patent documents and having
+them translated both with the help of human
+translators and the WIPO Translate tool;
+2) investigating the source and target texts –
+both machine- and human-produced ones – within
+92
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 6
+the domains of the author, content, energy,
+translator, recipient;
+3) comparing the machine- and human-
+produced translation output in terms of its
+acceptability.
+Results and discussion
+The author’s domain
+First of all, translation can be generally
+perceived as a communicative act involving the
+author, the translator, and the reader [Byrne, 2006,
+p. 11] so it is the intention [Klushina, 2012] of the
+author that is crucial in generating the source text
+and determining its function.
+The author’s intention to present technical
+information of patent documents results in their
+primarily informative function, but “there is more
+to technical translation than simply transmitting
+information. Instead, the challenge for technical
+communicators is to ensure that all the relevant
+information is indeed conveyed but also that it is
+conveyed in such a way that the readers can use
+the information easily, properly and effectively”
+[Byrne, 2006, p. 10]. “...The sole purpose is to
+communicate technical information clearly and
+efficiently” [Byrne, 2006, p. 175].
+Thus, the author’s intention determines the
+informative function of technical texts such as
+patent documents and – respectively – technical
+translation as a process of communicating relevant
+information and its resulting output.
+The composition and content domain
+The intention of the author’s domain to
+provide new technical information clearly and
+precisely manifests itself in a specific content of
+patent documents within the framework of the
+genre-specific composition.
+Typically, the genre of patents has conventional
+composition parts such as summary, related
+applications, technical field, background art
+which can be rendered into Russian as реферат,
+родственные заявки, область техники / тех-
+нического применения, уровень техники,
+respectively.
+The invention summary gives a general
+description while the brief description of the
+drawings (описание чертежей) and
+description of specific embodiments (описа-
+ние внедрений) focus on drawings and
+invention applications. Via Claims (формула
+изобретения), one can get familiarized with
+methodological guidelines. Eventually, the parts
+of patent applications work together to deliver
+all the relevant technical information both in the
+verbal and nonverbal forms such as drawings
+and figures, with the titles of the patent parts
+being conventionally translated into Russian as
+specified above.
+The custom WIPO tool trained to translate
+patent documents demonstrates that it can handle
+the challenges of choosing the proper word within
+the patent subject area when it comes to genre-
+specific titles as can be seen in the machine
+translations below since the technical field and
+background are rendered as область техни-
+ки и уровень техники in line with the genre-
+specific clichés accepted in the Russian technical
+language and culture:
+(1) TECHNICAL  FIELD
+The present disclosure is generally related to
+computer systems, and is more specifically related
+to systems and methods for automated translation
+of electronic documents from one or more source
+natural language to one or more target natural
+languages.
+Machine translation: Область техники
+Настоящее раскрытие в целом относится к
+компьютерным системам и, более конкретно, от-
+носится к системам и способам автоматического
+перевода электронных документов из одного или
+более источников естественного языка на один или
+более целевых естественных языков.
+(2) BACKGROUND
+Language translation computer programs
+perform reasonably well for formal content in well-
+studied languages (e.g., English, French, Spanish,
+German, and others). However, for other language, as
+well as informal or subject area-specific content, a user
+has often resort to human translation and hence bear
+the associated costs (US20160259760).
+Machine translation: Уровень техники
+Компьютерные программы машинного пере-
+вода достаточно хорошо работают для формально-
+го содержания на хорошо изученных языках (на-
+пример, английский, французский, испанский, не-
+мецкий и другие). Однако для другого языка, а так-
+же неформального или тематически определенно-
+го содержания, пользователь часто прибегает к
+трансляции человека и, следовательно, поддер-
+живает связанные с ними затраты.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 6
+93
+N.V. Sokolova. Machine vs Human Translation in the Synergetic Translation Space
+At the same time, the machine translation
+excerpt (2) above demonstrates the wrong and
+non-acceptable rendering of the term human
+translation as трансляция человека instead of
+перевод, выполненный человеком.
+This fact shows that polysemantic words and
+their word-sense ambiguity as well as the proper
+choice of factual meanings still pose a major challenge
+even to genre-trained machine translation tools. As
+for those conventional genre-specific clichés such as
+titles of patent sections, the machine can easily and
+errorfree replace them with their Russian equivalents
+within the context of the patent genre.
+The author’s intention to describe the
+invention in the most detailed and precise manner
+could also result in using terms in the form of
+multi-component collocations [Vlavatskaya, 2011,
+p. 135] when end words are preceded with other
+ones, for example, a Web search engine user
+interface; an enterprise cloud computing
+platform; the search engine user interface, etc.
+(WO2017151408). As a result, translators deal not
+only with rendering the meanings of terms but also
+with challenges of disentangling multi-component
+collocations and their syntactic relations.
+The patent document (WO2017034824)
+below features a variety of multi-component
+collocations such as the source language, the
+target language, web pages, a web page copy,
+the human translators translations, etc. There
+are also attributes such as participles and clauses
+identifying these nouns in detects a second request
+for the web page from a computing device
+associated with the target language and in
+response to detecting the second request outputs
+to the computing device the translated web page
+with additional content (WO2017034824). One
+can come across subordinate clauses such as
+while machine translation is typically faster
+and less expensive, manual translation can
+typically provide higher quality translations
+(WO2017034824).
+Below are the analyzed excerpts translated
+by a human translator and rendered with the help
+of the WIPO Translate tool, respectively:
+(3) In response to receiving a first request to opt
+in to the translation feature the server: detects a
+second request for the web page from a computing
+device associated with the target language and in
+response to detecting the second request outputs to
+the computing device the translated web page with
+additional content relevant to the computing device
+or a user associated with the computing device
+(WO2017034824).
+Human translation: В ответ на получение пер-
+вого запроса на выполнение перевода сервер: от-
+слеживает второй запрос веб-страницы, поступа-
+ющий от компьютерного устройства, связанного с
+работой на языке перевода, и в ответ на второй
+полученный запрос загружает на устройство пере-
+веденную веб-страницу с дополнительной инфор-
+мацией, относящейся к устройству или пользова-
+телю устройства.
+Machine translation: В ответ на прием перво-
+го запроса на выполнение перевода сервер: обна-
+руживает второй запрос web-страницы из вычис-
+лительного устройства, связанного с целевым язы-
+ком, и в ответ на обнаружение вторых запросов
+запроса на вычислительное устройство передает пе-
+реведенную web-страницу с дополнительным со-
+держанием, релевантным для вычислительного ус-
+тройства, или пользователя, ассоциативно связан-
+ного с вычислительным устройством.
+The comparison of the human and machine
+translations above makes it evident that the
+content-related domain is rendered in the
+machine translation output improperly as the
+multi-component term target language
+conventionally translated into Russian as язык
+перевода is conveyed as целевой язык. At the
+same time, it is also of particular interest that
+the term целевой язык is becoming more
+pervasive these days as compared to the
+traditional term язык перевода.
+The referential and syntactic ambiguity is also
+a challenge, with the part additional content
+relevant to the computing device or a user
+associated with the computing device rendered
+as дополнительным содержанием, релеван-
+тным для вычислительного устройства, или
+пользователя, ассоциативно связанного с
+вычислительным устройством. In comparison,
+the human translation output above demonstrates a
+variety of techniques relevant in the context which
+make the resulting output acceptable.
+The next example below demonstrates again
+that the machine translation tool fails to render
+the terms due to the word-sense and referential
+ambiguity, with manual translation being
+conveyed as ручная трансляция, while the
+human translator opted for using the antonymous
+translation немашинный перевод:
+94
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 6
+(4) While machine translation is typically faster
+and less expensive, manual translation can typically
+provide higher quality translations (WO2017034824).
+Machine translation: Хотя машинное преоб-
+разование обычно является более быстрым и ме-
+нее дорогостоящим, ручная трансляция может,
+как правило, предоставлять переводы более высо-
+кого качества.
+Human translation: Несмотря на то, что ма-
+шинный перевод чаще оказывается быстрее и де-
+шевле, немашинный, как правило, отличается бо-
+лее высоким качеством.
+One cannot but conclude that the
+acceptability is not the case when terms and
+multi-component collocations within the content-
+related domain of patent documents are
+translated using machine tools as opposed to and
+compared with translations made by humans.
+Machines are “baffled” by the word-sense
+ambiguity [Linares, 2008] of terms in the context
+such as translation – перевод – трансляция,
+machine translation – машинный перевод –
+машинная трансляция, etc., with this type of
+ambiguity being the result of using “words having
+more than one possible meaning or sense”
+[Linares, 2008, p. 3; Miftakhova, 2017].
+The author’s intention to define the notions
+as comprehensively and precisely as possible also
+results in using descriptive participles and clauses,
+for example:
+(5) Also presented are a server having one or
+more processors configured to perform operations and
+a computer-readable medium...
+Machine translation: Также представлены сер-
+вер, имеющий один или более процессоров, скон-
+фигурированных для выполнения операций, и ма-
+шиночитаемый носитель...
+And the machine translation above
+demonstrates the fact that this type of the syntactic
+ambiguity is an obstacle overcome since the linear
+syntactical structures of patent texts can be easily
+transposed to the target language.
+Thus, the conventional titles of patent parts –
+background, summary, etc. – can be rendered
+equally acceptably both by humans and the WIPO
+Translate tool trained using the patent genre
+features. This statement is also true of syntactic
+structures consisting of nouns and identified with
+participles and clauses which are typical of the
+patent genre.
+However, when it comes to the ambiguity
+of polysemantic words and the referential
+ambiguity in the patent texts, the machine
+translation tool happens to be incapable of
+choosing the proper factual meaning in the context
+while the human translator makes proper choices.
+The energy domain
+There is a stereotype that patents deliver
+information in the most impassionate way, and it
+turns out to be untrue when taking a closer look
+at the conventional composition of patent
+applications and their textual content.
+As mentioned earlier, the Background
+section of patent applications describes the
+problem associated with the current state of
+technology which might be too slow, too
+expensive, not easy to use, etc. This is when
+the proposed invention is supposed to be helpful
+in solving this problem. And this is when the
+emotive meanings may come forward in the
+Background section due to conveying the
+persuasive intention of the author and setting the
+positive tonality [Matveeva, 2006] of the section
+offering some cutting-edge solution to the
+problem specified.
+The analysis of the patent document below
+(US20120215521) shows that the Background
+section can be built around the antithesis of the
+prior, present, and the future state of things, with
+the prior or present ones being problematic and
+the invention method being effective, accurate,
+necessary, enabling users to clearly and
+easily communicate, etc. The emotive words
+can also be accompanied by intensifiers such as
+highly, etc.:
+(6) The present invention is a software
+application that is designed to allow individuals, who
+speak different languages, to clearly and easily
+communicate with each other. <...> Users may speak
+or type messages with the software application and
+then press a “translate” button to select a language in
+order to send the message in that language. <...>
+Many individuals find themselves in situations
+that require knowledge of other languages. While
+vacationing, working, or visiting areas in which the
+native language is unfamiliar, individuals may find
+themselves unable to communicate with the people
+around them. This can be highly problematic,
+especially if these individuals become lost, are sent to
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 6
+95
+N.V. Sokolova. Machine vs Human Translation in the Synergetic Translation Space
+the hospital, or find themselves in other emergency
+situations (US20120215521).
+Machine translation: Настоящее изобретение
+представляет собой приложение программного
+обеспечения, которое предназначено для того, что-
+бы дать возможность людям, которые говорят на
+разных языках, ясно и легко связываться друг с дру-
+гом. Пользователи могут говорить или тип сооб-
+щений с приложением программного обеспечения
+и затем нажать кнопку “транслировать” для того,
+чтобы выбрать язык для того, чтобы послать сооб-
+щение на этом языке.
+Многие люди находят себя в ситуациях, кото-
+рые требуют знания других языков. В то время как
+истощение, обработка или посещающие области, в
+которых родной язык неизвестны, индивидуумы
+могут найти себя неспособным связаться с людь-
+ми вокруг них. Это может быть весьма проблема-
+тичным, особенно если эти люди потеряны, отправ-
+лены в больницу или находят себя в других чрезвы-
+чайных ситуациях.
+Human translation: Настоящее изобретение
+представляет собой программное приложение,
+которое предназначено для того, чтобы предос-
+тавить возможность людям, говорящим на раз-
+ных языках, легко общаться и понимать друг
+друга. <...> Пользователи могут произнести или
+напечатать сообщение, а затем нажать кнопку
+«перевод», чтобы выбрать язык и отправить со-
+общение на этом языке. <...>
+Многие оказываются в ситуациях, когда не-
+обходимо знание языков. В отпуске, на работе
+либо при посещении территорий, где говорят на
+неизвестном языке, люди не могут вступить в
+общение с окружающими. Это может быть весь-
+ма проблематичным, особенно если человек
+заблудился, попал в больницу или оказался в чрез-
+вычайной ситуации.
+The patent excerpts above feature
+qualitative adjectives and adverbs such as
+easily and highly problematic among others,
+which may not be considered typical of ‘dry’
+technical texts. However, within this context,
+such words serve to render the persuasive
+intention of the author trying to provide some
+substantiation for the invention. To describe the
+current situation, the negatively-charged
+adjective highly problematic is used while the
+positively-charged one – easily – demonstrates
+the benefits of the solution described in the
+patent document.
+As it turns out, all the qualitative
+adjectives and adverbs of the energy domain
+are rendered properly both in the human and
+machine translations since they have the literal
+meaning easy which means легкий, etc. in this
+context.
+However, acceptability is not achieved in the
+content-related domain of the machine translation
+due to numerous errors resulting from the world-
+sense and syntactical ambiguity whereas
+vacationing, working, or visiting areas are
+translated as истощение, обработка или по-
+сещающие области, etc.
+This is also true of one more manifestation
+of the energy field in patent documentation such
+as metaphorical idioms. For example, the idiom
+word of mouth – the verbal sharing of
+information (Free Dictionary) – is used for
+describing aspects of creating patent databases
+as a result of word-of-mouth referrals. The
+machine translation (7) where this idiom is
+rendered as слов-референтов в ротовой по-
+лости is unacceptable:
+(7) Physicians typically derive their patient base from
+word-of-mouth referrals. These word of mouth referrals
+generally come from former patients (WO2001035275).
+Machine translation: Врачи, как правило, по-
+лучают свое основание пациента из слов-референ-
+тов в ротовой полости. Эти слова, относящиеся к
+рту, как правило, поступают от прежних пациен-
+тов. Таким образом, врачи зависят от пациентов
+при построении основы пациента.
+Human translation: Как правило, база паци-
+ентов врачей-терапевтов формируется на основа-
+нии устных рекомендаций, которые предоставляют
+бывшие пациенты.
+As compared to the machine translation
+above, the human-produced translation
+demonstrates a completely different picture, with
+the idiom rendered properly.
+The translator’s and the recipient’s domains
+The examples evidence the fact that it is
+the human translator who is capable of
+assembling and making sense of all the domains
+of the author’s intention, genre composition and
+terminology content, as well as the emotive
+energy in order to deliver an acceptable
+translation output.
+To assess such acceptability from the point
+of view of the recipient, a questionnaire was
+created and shown in a table below. With two
+96
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 6
+translators in the area having been questioned to
+range these translations within the acceptable –
+partly acceptable – unacceptable criteria:
+Target patent 
+application translation 
+Human 
+Machine 
+Content domain 
+Acceptable 
+Unacceptable 
+Composition domain 
+Acceptable 
+Acceptable 
+Energy domain 
+Acceptable 
+Partly acceptable / 
+Unacceptable 
+ 
+As it follows from the table, the answers
+are identical when it comes to the content and
+composition domain. As for the energy domain,
+the answers range from partly acceptable to
+unacceptable providing assessments to the
+translation of separate emotive words such as
+highly problematic and idioms.
+The machine translations under study lack
+acceptability mostly in the domains of rendering
+the author’s intention, terminology content, and
+energy since the translation is a purposeful activity
+[Nord, 1997] – being far from a mere and primitive
+word-by-word substitution.
+Undeniably, the machine translation tool
+under study shows progress in conveying the
+conventional translations of the genre-specific
+titles and linear syntactical structures along with
+single emotive words such as adjectives and
+adverbs while the idioms and culture-acceptable
+use of words leave the software tool ‘baffled’.
+Conclusion
+Patent documents account for a great
+proportion of technical translation, with machine
+translation tools often touted as providing a
+solution, which the recipient might need in terms
+of getting comprehensible information. However,
+the translations produced by the WIPO Translate
+tool demonstrate that the machine translations
+of patents contain errors resulting from the
+semantic, referential, and syntactic ambiguity as
+compared to the patent translations made by
+humans. The premises come from the
+comparative analysis of the machine and human
+patent translations that was performed within the
+framework of the synergetic translation space
+concept, spanning the domains of the author,
+content and composition, energy, translator,
+recipient, and acceptability.
+The synergetic translation space approach
+proved to be instrumental in unraveling the myth
+of coming-to-rescue machine translation since –
+despite the progress made – only purposefully
+produced human translations demonstrate a viable
+potential of delivering the target culture-acceptable
+output fitting within all the translation domains of
+the author, composition, content, energy, and
+recipient and delivering their synergy while the
+machine translation tool can handle the process only
+within the conventional aspects of the patent genre
+composition. Assessing acceptability of rendering
+pointed to certain disparity in the content-
+composition and energy domains, as the technical
+and emotive information encoded by the author is
+delivered more accurately by a human translator.
+Genre- and composition-related specifics have been
+rendered in both cases while the machine
+translation errors in the content and energy domains
+have been proven to result from the semantic,
+referential, or syntactic ambiguity, and this is when
+the translated output is generally considered
+unacceptable by the recipient.
+The outlined findings could be instrumental
+in paving the way for improving machine
+translation quality and acceptability as perceived
+by human recipients.
+REFERENCES
+Bakhtin M.M., 1986. Problema rechevykh zhanrov [The
+Problem of Speech Genres]. Estetika slovesnogo
+tvorchestva [The Aesthetics of Verbal Creativity].
+Moscow, Iskusstvo Publ., pp. 250-296.
+Baker M., Saldanha G., eds., 2011. Routledge
+Encyclopedia of Translation Studies. London
+and New York, Routledge, Taylor and Francis
+Group. 22. 674 p.
+Byrne J., 2004. Textual Cognetics and the Role of
+Iconic Linkage in Software User Guides.
+Doctoral Dissertation. Dublin, Dublin City
+University. 357 p.
+Byrne J., 2006. Technical Translation. Usability
+Strategies for Translating Technical
+Documentation. Netherlands, Springer, 13. 280 p.
+Fontanet M., 2003. The Technical Translator: The
+Sherlock Holmes of Translation? ATA Chronicle,
+2013, July, vol. 42, no. 7, pp. 18-26. URL: https://
+www.ata-chronicle.online/wp-content/uploads/
+4207_18_mathilde_fontanet.pdf (accessed
+28 November 2020).
+Franco Aixelá J., 2004. The Study of Technical and
+Scientific Translation: An Examination of Its
+Historical Development. Journal of Specialised
+Translation, no. 1, pp. 29-49.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 6
+97
+N.V. Sokolova. Machine vs Human Translation in the Synergetic Translation Space
+Ketola A., 2015. Translation Diaries of an Illustrated
+Technical Text. Connexions International
+Professional Communication Journal, no. 3 (2),
+pp. 13-40.
+Klushina N.I., 2012. Intentsionalnyi metod v
+sovremennoi lingvisticheskoi paradigm
+[Intentional Method in the Modern Linguistic
+Paradigm]. Mediastilistka [Mediastylistics],
+iss. 4. URL: http://mediascope.ru/node/1242
+(accessed 10 January 2021).
+Kushnina L.V., 2004. Vzaimodeistvie yazykov i kultur
+v perevodcheskom prostranstve: geshtalt-
+sinergeticheskii podkhod: dis. ... d-ra filol. nauk
+[The Interaction of Languages and Cultures in
+the Translation Space: The Gestalt-Synergetic
+Approach. Dr. philol. sci. diss.]. Perm. 437 p.
+Kushnina L.V., 2013. Funktsionirovanie tekhnicheskikh
+tekstov v perevodcheskom prostranstve [The
+Functioning of Technical Texts in the Translation
+Space]. Filologicheskie nauki. Voprosy teorii i
+praktiki [Philological Sciences. Issues of Theory
+and Practice], no. 11 (29), part 2, pp. 119-121.
+Larson M., 1987. Establishing Project-Specific Criteria
+for Acceptability of Translations. Rose M.G., ed.
+Translation 
+Excellence: 
+Assessment,
+Achievement, Maintenance. American
+Translators 
+Association 
+Scholarly
+Monographs. Binghamton, New York,
+University Center, State University of New York,
+pp. 69-76.
+Linares J.A.G., 2008. Empirical Machine Translation
+and Its Evaluation. Doctoral Dissertation.
+Barcelona. 247 p.
+Lotman Yu.M., 2000. Semiosfera [Semiosphere]. Saint
+Petersburg, Iskusstvo-SPB Publ. 704 p.
+Lotman Yu.M., 2010. Nepredskazuemye mekhanizmy
+kultury [Unpredictable Mechanisms of Culture].
+Tallinn, TLU Press. 232 p.
+Matveeva T.V., 2006. Tekstovaya kategoriya [Textual
+Category]. Kozhina M.N., ed. Stilisticheskii
+entsiklopedicheskii slovar russkogo yazyka
+[The Stylistic Encyclopedic Dictionary of the
+Russian Language]. Moscow, Flinta Publ.,
+Nauka Publ., pp. 549-552.
+Miftakhova R.G., 2017. Formalizatsiya estestvennogo
+yazyka v mashinnom perevode s oporoi na
+dopolnitel’nyi korpus rodstvennogo yazyka: dis. ...
+kand. filol. nauk [Formalizing the Natural Language
+Using the Additional Corpus of the Related
+Language. Cand. philol. sci. diss.]. Ufa. 187 p.
+Nord C., 1997. Translating As a Purposeful Activity.
+Manchester, St. Jerome Publishing. 154 p.
+Shershukova N.V., 2017. Spetsifika perevoda
+nauchnykh i tekhnicheskikh tekstov (patentov)
+[Specifics of Translating Scientific and
+Technical Texts (Patents)]. Filologicheskie
+nauki. Voprosy teorii i praktiki [Philological
+Sciences. Issues of Theory and Practice],
+no. 3 (69), part 2, pp. 182-184.
+Sokolova N.V., 2019. Mashinnyi perevod patentov:
+tipichnye oshibki [Machine Patent Translation:
+Typical Errors]. Mezhkulturnaya kommunikatsiya:
+lingvisticheskie aspekty: sb. materialov
+VIII Mezhdunar. nauch.-prakt. konf. (28–29 marta
+2019 g.) [Intercultural Communication: Linguistic
+Aspects. Proceedings of the 8th International
+Scientific and Practical Conference (March 28–29,
+2019)]. Novosibirsk, Novosibirskiy gosudarstvennyi
+tekhnicheskiy universitet, pp. 173-178.
+Toury G., 1995. Descriptive Translation Studies and
+Beyond. Amsterdam, Philadelphia, John
+Benjamins. 311 p.
+Trinozhenko M.D., Goncharova Yu.L., 2016. Spetsifika
+perevoda patentnoi dokumentatsii [Specifics of
+Translating Patent Documents]. Yunyi
+issledovatel Dona [Don’s Young Researcher],
+no. 1 (1), pp. 1-6.
+Vlavatskaya M.V., 2011. Teoreticheskie problemy
+kombinatornoi lingvistiki. Leksikologiya.
+Leksikografiya [Theoretical Issues of
+Combinatorial Linguistics. Lexicology.
+Lexicography]. Novosibirsk, NGTU. 508 p.
+Zhaorong Zong, 2018. Research on the Relations
+Between Machine Translation and Human
+Translation. Journal of Physics: Conferences
+Series, vol. 1087, iss. 06, pp. 1-6. DOI: 10.1088/
+1742-6596/1087/6/062046.
+SOURCES
+EPO – European Patent Office. URL: https://
+www.epo.org/ (accessed 10 January 2021).
+FAQ – Frequently Asked Questions: Patents. URL:
+https://www.wipo.int/patents/en/faq_
+patents.html (accessed 10 January 2021).
+Free Dictionary – Free Dictionary. URL: https://idioms.
+thefreedictionary.com/word-of-mouth (accessed
+10 January 2021).
+USPTO – United States Patent and Trademark Office.
+URL: https://www.uspto.gov/patents-application-
+process/search-patents (accessed 10 January
+2021).
+US20120215521 – Software Application Method to
+Translate an Incoming Message, an Outgoing
+Message, or a User Input Text // WIPO
+PATENSCOPE. URL: https://patentscope.
+wi po.i nt/ sear ch/ ru/deta il.jsf?docId=
+US74346340&tab= PCTDESCRIPTION&_cid=
+P10-K1QKXL-27077-1 (accessed 10 January 2021).
+US20160259760 – Automated Document Translation
+// WIPO PATENSCOPE. URL: https://
+98
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 6
+Information About the Author
+Natalia V. Sokolova, Candidate of Sciences (Philology), Assistant Professor, Department of Foreign
+Languages, Linguistics and Translation, Perm National Research Polytechnic University,
+Prosp. Komsomolsky, 29, 614990 Perm, Russia, ntlk0@mail.ru, https://orcid.org/0000-0003-0550-2272
+Информация об авторе
+Наталья Владимировна Соколова, кандидат филологических наук, доцент кафедры
+иностранных языков, лингвистики и перевода, Пермский национальный исследовательский по-
+литехнический университет, просп. Комсомольский, 29, 614990 г. Пермь, Россия, ntlk0@mail.ru,
+https://orcid.org/0000-0003-0550-2272
+patentscope.wipo.int/search/ru/detail.jsf?
+docId=US177603917&tab=PCTDESCRIPTION&_
+cid=P10-K3G6FH-49819-2 
+(accessed
+10 January 2021).
+WO2001035275 – Building Metaphor // WIPO
+PATENSCOPE. URL: https://patentscope.
+wipo.int/ search /en/detail.jsf?docId=
+WO2001035275&_cid=P20-KJRFXZ-74690-1
+(accessed 10 January 2021).
+WO2017034824 – Techniques for Crowd Sourcing
+Human Translations to Provide Translated
+Versions of Web Pages with Additional Content
+// WIPO PATENSCOPE. URL: https://
+patentscope.wipo.int/search/ru/detail.jsf?
+docId=WO2017034824&_cid=P10-K3D8ET-
+84783-1 (accessed 10 January 2021).
+WO2017151408 – Blending Enterprise Content and Web
+Results // WIPO PATENSCOPE. URL: https://
+patentscope.wipo.int/search/ru/detail.jsf?docId=
+WO2017151408&tab=PCTBIBLIO&_cid=P20-
+JY16IZ-51668-1 (accessed 10 January 2021).
+WIPO – World Intellectual Property Organization. URL:
+https://www.wipo.int/edocs/pubdocs/en/
+wipo_pub_941_2017-chapter2.pdf (accessed 10
+January 2021).
+WIPO PATENTSCOPE – WIPO PATENTSCOPE. URL:
+https://www.wipo. 
+int/patentscope/en/
+(accessed 10 January 2021).

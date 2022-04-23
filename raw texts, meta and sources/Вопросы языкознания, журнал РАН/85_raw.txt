@@ -1,0 +1,322 @@
+2018. № 1 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+C. / Pp. 119—125
+ 
+Voprosy Jazykoznanija
+РЕЦЕНЗИИ / REVIEWS
+R. Berwick, N. Chomsky. Why only us: Language and evolution. Cambridge (MA): MIT 
+Press, 2015. 215 p. ISBN 9780262034241.
+Yakov G. Testelets
+Institute of Linguistics, Russian Academy of Sciences, 
+Moscow, 125009, Russian Federation; Russian State 
+University for the Humanities, Moscow, 125993, 
+Russian Federation; testelets@gmail.com
+Яков Георгиевич Тестелец
+Институт языкознания РАН, Москва, 125009, Рос-
+сийская Федерация; Российский государствен-
+ный гуманитарный университет, Москва, 125993, 
+Российская Федерация; testelets@gmail.com
+Among the many widely discussed monographs and edited volumes from the last decade that 
+have addressed the evolution of human language [Bickerton 2009; 2014; Botha, Knight 2009; 
+Fitch 2010; Burlak 2011; Tallerman, Gibson (eds.) 2012; Christiansen et al. (eds.) 2013; Dor et al. 
+2015, a. o.], this small book by Robert Berwick and Noam Chomsky is of particular interest. The 
+perspective taken by the authors distances it from most work in the ﬁeld, including Chomsky’s 
+previous papers on the same topic co-authored with Marc Hauser and William Tecumseh Fitch 
+[Hauser et al. 2002; Fitch et al. 2005]. Almost all previous discussion has centered on the bio-
+logical prerequisites for the origin of human language commonly understood as a combination 
+of inward factors such as preparedness of the vocal tract, neural control of speech production, and 
+brain size and the external conditions that might have triggered the deﬁnitive steps of its evolu-
+tion. For Berwick and Chomsky (B & C), meanwhile, the main biological characteristic of human 
+language is its computational efﬁciency as a system of thought and understanding. This charac-
+teristic, in their view, must have evolved in basically the same way as other cognitive systems that 
+determine the complex behavior of animals, e. g. orientation in space or visual recognition of ob-
+jects. The monograph enables its readers to better understand Chomsky’s philosophy of language 
+and the motives that have underlain the development of generative linguistics and its grammatical 
+models since its very beginnings in the 1950s.
+The main question raised in the book, as is reﬂected in its title, is how the ability of hu-
+mans to acquire any language quickly and efﬁciently — the faculty of language — might have 
+evolved and why it is species-speciﬁc, i. e. not shared by other animals to any comparable degree. 
+As in much previous work, B & C try to connect the data obtained in different ﬁelds of knowledge 
+and to develop a coherent scenario for the origin of language. Likewise, and equally unsurprisingly, 
+B & C’s speculations derive partly from assumptions that are based on the philosophy of language 
+they adopt and as such can hardly be argued for (or against) via scientiﬁc methods in the strict 
+sense. Unlike Chomsky’s former co-authors on the evolution of language, all biologists, Berwick 
+is an expert in computational linguistics, more speciﬁcally in computational models of language 
+acquisition. In this monograph, B & C’s main goal is to identify and characterize the decisive and 
+unavoidable steps in the evolution of the computational efﬁciency, the steps without which there 
+could have been no faculty of language.
+Of the four chapters of the monograph, the ﬁrst (“Why now?”) outlines the current state of lin-
+guistics and biology, which makes it possible to hypothesize how the evolution of language might 
+have occurred. B & C claim that generative linguists have never in fact lacked interest in the evo-
+lution of language. The main reason why it has not been widely discussed until quite recently is 
+that linguistics was not prepared for the discussion. In the ﬁrst decades of its existence, genera-
+tive linguistics was forced to construct grammar models so complex that there was no imaginable 
+120 
+Voprosy Jazykoznanija 
+2018. № 1
+way to explain how they could ever have evolved. The complexity of human language as it was 
+conceived on the basis of a formally oriented and rigorous approach to phonology, grammar, and 
+semantics could not be partitioned in any convincing way into smaller elements for which plau-
+sible scenarios of evolution could be suggested.
+However, generative linguistics has always aimed to elaborate and over decades has elaborated 
+a much simpler model of grammar, which is viewed by its practitioners as the core component 
+of human language. Systems of complex rules like phrase-structure grammars and transforma-
+tions have gradually been replaced by much simpler and hence, as B & C see it, more evolution-
+ally plausible models. In the 1980s, the generative theory attempted for the ﬁrst time to reduce the 
+seemingly inﬁnite variation observed cross-linguistically to what was intended to be a small array 
+of universal principles and parameters. Later, in the Minimalist Program launched by Chomsky 
+in the 1990s, the principles and constraints proposed were reduced to those few that conformed 
+to its author’s understanding of “conceptual necessity”. This shift to radical simplicity in language 
+opened the perspective for an evolutionary explanation of its origin because the more narrowly 
+the phenotype of a species is deﬁned, the easier it is to understand how it might have evolved, and 
+the narrower the evolutionary gap becomes between humans and other species that have no lan-
+guage. Of course, a simpler theory can be more convincing than a more complex one only if it 
+can account satisfactorily for the same range of phenomena, rather than merely exclude a large 
+proportion of them from consideration.
+Narrowing the human language phenotype, B & C assume that what they call the Basic Prop-
+erty of language is that human language is a ﬁnite computational system yielding an inﬁnity of ex-
+pressions, all of which have an interpretation in the two cognitive systems adjacent to language, 
+namely the semantic-pragmatic and sensorimotor systems. In this view, the seemingly insurmount-
+able problem of language evolution can be divided into three plausibly solvable problems, viz. 
+the evolution of 1) a computational system that deﬁnes a potentially inﬁnite set of hierarchically 
+structured expressions, with no upper bound on their possible depth; 2) a sensorimotor system 
+for externalization that includes both production and parsing; this system establishes the linear 
+order, whereas the computational system deals only with the structural hierarchy of embedding; 
+3) a component that relates hierarchically structured expressions to the conceptual system for in-
+ference, interpretation, planning, etc., informally known as “thought”.
+B & C draw attention to the difference in cognitive capacities between humans and all other 
+animals sometimes called “Wallace’s Problem”, cf. especially [Bickerton 2014]. Alfred Russel 
+Wallace, who discovered the evolution by natural selection independently from Darwin, pointed 
+out the difﬁculty of a gradualistic adaptationist approach to the evolution of human cognitive ca-
+pacities in view of the tremendous gap in intellectual abilities between humans and animals. B & C 
+claim that the puzzle can now be solved, given that more sophisticated recent models of evolution 
+can countenance rapid, large-scale behavioral changes and not just the slow adaptive evolutionary 
+changes that featured in Darwin’s classical vision. As an example, they mention relatively recent 
+adaptations in humans such as the accommodation of the Tibetan population to low oxygen lev-
+els found at high altitudes or the ability to digest lactose past childhood in dairy farming cultures. 
+Large-scale behavioral changes can also be remarkably rapid, as seen, for instance, in the food 
+preferences of swallowtail butterﬂies [Thompson 2013: 65].
+B & C believe that the core property or the central mechanism of human language, the succes-
+sively applied operation called Merge, i. e. the ability to assemble a hierarchical syntactic structure 
+via a simple operation of joining two elements into one, was similarly the result of a rapid evo-
+lutionary development. The non-gradualist hypothesis is also supported by the paleoarcheologi-
+cal record of the Homo lineage, given that striking technological or cultural innovations are not 
+simultaneous with the appearance of a new, morphologically distinct Homo species. As there is 
+no evidence of gradualistic development of new tool technologies or innovations like ﬁre, shelters, 
+or ﬁgurative art, B & C remain skeptical as to whether anatomically modern humans had language 
+eighty thousand years ago or earlier, although there are clear material signs of symbolic behaviour, 
+which may or may not indicate its existence. The most serious problem is that we understand 
+ 
+Yakov G. Testelets 
+121
+very little about how even the simplest computational operations are carried out, or might have 
+evolved, in the neural system.
+In the second chapter (“Biolinguistics evolving”), B & C address the puzzle of why human 
+language as a particular object in the biological world, exists at all, unique as it is to one single 
+species, and why there are so many languages displaying so much obvious diversity. The prob-
+lem of simultaneous linguistic unity and diversity is viewed on a par with the analogous prob-
+lem in evolutionary biology, and the factors that underlie both are, as B & C believe, of a similar 
+nature. Both biologists and linguists have come to understand that the diversity observed is far 
+from being inﬁnite and unpredictable; in biology, the factors that contribute to the basic unifor-
+mity of all organisms are common ancestry, the physiochemical constraints of the world (such 
+as those that exclude the evolution of wheels for animal locomotion), and the predictably similar 
+effects of natural selection.
+The uniformity of language faculty across the entire human species strongly suggests that the 
+evolution of language must have occurred fully before the exodus from Africa about sixty thou-
+sand years ago followed by humanity’s spread across the entire world. Since then, the fundamen-
+tal properties of human language must have remained ﬁxed. B & C mention some of them: human 
+languages do not use counting of elements, meaning that they lack rules employing categories 
+of the type “third word from the beginning of a sentence”; quite unlike computer languages, they 
+employ displacement, where elements are interpreted at one place in the grammatical structure 
+but pronounced at another, as seen in wh-movement in English and typologically similar lan-
+guages; all human languages draw from a ﬁxed inventory of articulatory gestures called phono-
+logical features, and so on.
+B & C claim that language is a central component of the complex they call “human capacity”, 
+which also includes creative imagination, recording and interpretation of natural phenomena, in-
+tricate social practices and the like, and they believe that this complex must have evolved among 
+a small group of human ancestors in East Africa not long before the last exodus, distinguishing 
+contemporary humans sharply from other animals and giving rise to their exceptional adaptive 
+success. For Chomsky, it has always been a matter of principle that language possesses structural 
+integrity and forms a separate module within the array of human cognitive capacities. Therefore, 
+it has its own basic principles, different from those of other cognitive systems. B & C adopt what 
+they believe to be the simplest assumption, viz. that the generative recursive procedure that is 
+taken to combine two elements into one, the Merge operation, appeared suddenly as the result 
+of a minor mutation. This was accompanied with the evolution of conceptual atoms of the lexicon 
+and the linkage of the linguistic computational system to the conceptual systems and the mode 
+of externalization. With this very simple understanding of the core of human language, there is 
+no place for any simpler precursors any more, since the recursive mechanism of Merge is equally 
+different from all non-recursive languages that allow for e. g. sentences no more than two words 
+or seven words in length.
+In spite of the fact that the fundamental properties of human language are uniform, the second 
+of the two basic questions posed in this chapter (“Why are there so many languages?”) addresses 
+the linguistic diversity that we in fact observe. The answer given by B & C is that, since external-
+ization is a difﬁcult task, it can be solved in many different and independent ways; externaliza-
+tion as such may not have evolved at all because the problem could be solved by recourse to the 
+cognitive capacities shared with other animals. Turning to the conceptual structures seemingly 
+held in common with other primates, B & C emphasize the crucial difference that symbols of hu-
+man language and thought do not pick out mind-independent objects or events in the external 
+world. Contrary to what has been claimed in the most inﬂuential theories of reference since Frege 
+[1892], they only correspond to mental constructs shared by the addressee and the speaker; how 
+our ancestors developed human concepts, B & C admit, is at present “completely unknown” (p. 87).
+The third chapter, “Language architecture and its import for evolution” contains B & C’s view 
+on what it is that has evolved — not the language itself but rather the capacity for language, 
+which is modeled by generative linguistics as UG (Universal Grammar), and is quite simple 
+122 
+Voprosy Jazykoznanija 
+2018. № 1
+at its core; on this view, the apparent complexity and variety of languages we observe must 
+have derived from changes in the peripheral components of the system, which may not have 
+evolved at all. B & C claim that language is well designed for computational efﬁciency because 
+the computational mechanism involves only the simplest possible operation Merge, which ap-
+plies to two already available objects X and Y and constructs from them a new object Z. Merge 
+amounts to set formation: it does not modify X or Y and leaves them unordered. It can be seen 
+that the computational rules of language thus ignore the property of linear distance and keep 
+to the property of structural distance. The case in which X is part of Y is called Internal Merge; 
+therefore, displacement understood in this way must not be viewed as an imperfection of hu-
+man language but merely as an automatic property of the computational process. The apparent 
+variety of languages and the complexity of their attested structures derives from the process 
+of externalization into one or another modality (sound, writing, or gestures). Human language 
+is therefore well designed for computational efﬁciency and expression of thought but is un-
+wieldy for use in communication. B & C note that they use the term “designed” as a metaphor, 
+and “design” means here the simplest evolutionary process consistent with the Basic Property: 
+a “small rewiring” of the brain.
+In the concluding chapter, “Triangles in the brain” (the title reﬂects the graphic form given 
+by B & C for some crucial examples in it), B & C point out that, in spite of the tremendous prog-
+ress that has been made in our understanding of natural selection since the time of its discovery 
+in the mid-19th century, “Wallace’s Problem” still requires a solution: Darwinism assumes grad-
+ual continuity effected by numerous successive slight modiﬁcations, whereas language, in B & C’s 
+view, represents a yawning chasm between what is possible for humans and what is possible for all 
+other animals. In order to address this mystery, B & C successively ask and answer six questions, 
+and the corresponding subsections of the fourth chapter are entitled with the English wh-pronouns: 
+What? Who? Where? When? How? and Why?
+“What?” is the Basic Property of the human language, i. e. the ability to construct an inﬁnite 
+array of hierarchically structured expressions that can undergo interpretation at the two interface 
+levels, one of realization and the other of cognition. While it has been shown that chimpanzees 
+are able to string together and process items sequentially, there is no evidence that they can build 
+hierarchically structured representations comparable to those that a child can manage at age three 
+or four. To demonstrate the fundamental difference between linear order and hierarchy of embed-
+ding, B & C employ the simple English examples (1) Birds that ﬂy instinctively swim and (2) In-
+stinctively birds that ﬂy swim. (1) is ambiguous: the adverb instinctively can be associated either 
+with the preceding verb (1a) [Birds [that ﬂy instinctively] swim] or the following one (1b) [Birds 
+[that ﬂy] instinctively swim]. However, if the adverb is extracted leftward as in (2), there is no am-
+biguity. In terms of linear sequencing, in (2) the adverb instinctively is closer to ﬂy than it is 
+to swim. However, (2) is unambiguous in that instinctively can only be associated with the more 
+distant word swim and not with the closer word ﬂy. The reason for this lack of ambiguity is that 
+only structural distance, not linear order, matters in human language syntax. In (2), ﬂy is embed-
+ded one level deeper than swim, [Instinctively birds [that ﬂy] swim], and is therefore inaccessible 
+for the adverb instinctively. B & C show that any language processor that is compelled to link in-
+stinctively and swim, rather than instinctively and ﬂy, must have access to hierarchical information.
+Another syntactic paradigm adduced by B & C illustrates the well-known “precede-and-com-
+mand” asymmetry (ﬁrst explored in [Langacker 1969], cf. the classic analysis of the phenome-
+non in [Reinhart 1983]). Suppose that in the sentences (3) a. He said that Max ordered sushi and 
+b. Max said that he ordered sushi a pronoun can be linked with a potential antecedent only if the 
+latter precedes it as in (3b) but cannot if the latter follows it as in (3a). However, the observation 
+based on linear order fails if other examples are involved. Contrary to this generalization, in (4) he 
+can corefer with Max, although it precedes Max: (4) While he was holding the pasta, Max ordered 
+sushi. The real constraint is of hierarchical nature: the subordinate clause and the main clause 
+in (4) form a single complex sentence with the subordinator while, but neither of the two is a con-
+stituent of the other. On the contrary, both subordinate argument clauses in (3a, b) are constituents 
+ 
+Yakov G. Testelets 
+123
+of the main clause they are embedded in. The constituent containing the subject pronoun must not 
+contain a subordinate clause with the proper name or the noun that is the pronoun’s antecedent.
+For B & C, it is a fact of crucial importance that human language syntax employs hierarchi-
+cal rather than left-to-right sequential structures. The two types of structure are believed to have 
+evolved separately. Linear sequencing is an externalization mechanism and as such does not be-
+long to the Basic Property; it is shared with songbirds and other nonhuman animals.
+“Who?” are anatomically modern humans, a species that must have emerged long before it ac-
+quired a language capacity in its modern form. So “Where?” and “When?” point to Africa as the 
+most probable place and to the time period between roughly 200 000 and 60 000 years ago, prior 
+to the last African exodus, when fully modern humans expanded into Eurasia and Australia.
+The authors’ answer to the “Why?” question elaborates on Chomsky’s well-known idea that 
+communication is not a basic function of human language and consequently could not have been 
+the driver of its evolution. The evolutionary beneﬁt of language lay in the fact that it could be 
+used as a “cognitive glue” binding together the perceptual and information-processing cognitive 
+systems. To support this view, B & C point to some experimental evidence that seems to show 
+that children are not able to integrate geometric and nongeometric information before they have 
+acquired language by the age of four or ﬁve [Hermer-Vazquez et al. 1999]. An explanation sug-
+gested by B & C for this data is that language is the mental tool that binds together different rep-
+resentations emanating from geometric and nongeomentric modules of thought.
+I cannot but agree with B & C’s decisive rejection of the idea — which has been taken for 
+granted by too many linguists, including most authors that have contributed to the ﬁeld of lan-
+guage origins — that the basic function of human language and the adaptive motor of its evolution 
+is communication. Although B & C are unable to provide conclusive evidence in support of their 
+own view that thought is the central function, one may notice that, of all the possible functions 
+of language, communication (understood as the mere transmission of messages) is the only one 
+which can be directly observed and whose goals are evident, unlike, for instance, language play, 
+which is also observable but whose goals are not as evident as those of communication. The only 
+function that is visible on the surface is not necessarily the most important of all for the evolution 
+of language, and B & C are probably right to attempt to dismiss it from consideration.
+Although it is not stated in the book, the reader may conclude that one of the main reasons for 
+Chomsky’s stepwise simpliﬁcation of the model of grammar — from his revolutionary “Remarks 
+on Nominalization” [Chomsky 1970] through to the radical simplicity of the minimalist frame-
+work he has adopted since the 1990s — might have been his intention to ﬁnd an evolvable and, 
+ideally, a single Basic Property of human language. As a result of this theoretical development, 
+what remains at this point is solely the syntactic hierarchy formed by Merge, with the consis-
+tent binary structure throughout and with linear ordering relocated to a different and presumably 
+non-language-speciﬁc module, i. e. externalization.
+However, most accounts known to the reviewer that aim to reinterpret the phenomena of lin-
+ear ordering in terms of hierarchy of embedding are not based on any compelling evidence that 
+would show that strings (5) … X … Y … and (6) … Y … X … are different in their grammatical 
+structure but rather amount to purely theoretical prerequisites. In effect, the reinterpretation ‘linear 
+order → structural hierarchy’ has become so easily available that one cannot imagine any possible 
+counterexample to the claim that linear order has no fundamental importance at all, and that it has 
+nothing to do with the syntax-semantics interface, for instance. To provide (5) and (6) with differ-
+ent structures, it is enough to postulate for (6) a highly placed covert functional head, call it h, and 
+the movement of Y into a position created by this head. As a result, the different hierarchical struc-
+tures easily emerge in the form of (5) [… X … [Y …]] and (6) hP [Y … h … [… X … [t …]]], 
+where t denotes the trace or the lower copy of Y that has moved upward.
+The present view on linear order adopted by Chomsky is a development of Richard Kayne’s 
+[1994] idea of the “Antisymmetry of Syntax”, which assumes that the linear order is fully de-
+termined by the hierarchy of embedding, and that if two phrases differ in linear order they 
+must also differ in hierarchical structure. Maybe the best-known instance of order-to-structure 
+124 
+Voprosy Jazykoznanija 
+2018. № 1
+reinterpretation is Richard Larson’s [1988] analysis of the structural asymmetries between direct 
+and indirect objects in English, which can be seen, for example, in the behavior of pronouns that 
+denote variables bound by quantiﬁers: (7) I gave every workeri hisi paycheck vs. *I gave itsi owner 
+every paychecki; (8) I gave every paychecki to itsi owner vs. *I gave hisi paycheck to every workeri. 
+To account for this sort of left-right asymmetry, Larson proposed to split the verb phrase into two, 
+whereby in the lowest VP the ﬁrst object is seen as the speciﬁer and the second as the complement.
+Contrary to the claim made by B & C, the factor of linear order in the interpretation of pronouns 
+contained in embedded argument clauses cannot be dismissed, as can be shown by Russian (9) [Čto 
+Maša bol’na,] ona otricaet ‘That Mashai is ill, shei denies’ vs. (10) Ona otricaet, [čto Maša bol’na] 
+‘Shei denies that Mashaj/*i is ill’. The subject pronoun in the matrix clause in (9), but not in (10), can 
+refer to the same person as the proper name in the subordinate clause. However, there is no evidence 
+to suggest that in (9) the subordinate clause is not a constituent of the main clause, just as it is in (10).
+On the contrary, there is evidence that preposed subordinate clauses like (9) are embedded. 
+For example, argument clauses can contain indeﬁnite pronouns of the by to ni bylo series if the 
+matrix predicate is lexically negative [Paducheva 2011]: (11) Maša otricaet, čto ona kak by to ni 
+bylo zamešana ‘Masha denies that she is somehow involved’. The preposed argument clause be-
+haves likewise: (12) Čto ona kak by to ni bylo zamešana, Maša otricaet ‘That she is somehow 
+involved, Masha denies’. The pronoun kak by to ni bylo ‘somehow’, when preposed, remains un-
+der the scope of the matrix lexical negation, which strongly suggests embedding, and therefore 
+the difference in interpretation seen in (9)—(10) cannot be accounted for by recourse to hierar-
+chical structure. Cf. also the evidence produced in [Bruening 2014] that linear precedence cannot 
+be dismissed from grammar.
+The other method of simpliﬁcation of the model of grammar since [Chomsky 1970] has been 
+the relocation of complex rules into a non-grammatical part of language, i. e. the lexicon or pho-
+nology. However, the lexicon of any given human language abounds with abstract and produc-
+tive phenomena that do not amount to a list of items that could plausibly be acquired by a child 
+or merely held in memory. First, most lexical items, as can be seen in the most advanced modern 
+interpretive dictionaries [Apresjan 2004], are associated with various and rich semantic, gram-
+matical, and distributional characteristics that still defy being subsumed into the form of abstract 
+principles comparable to those found in Chomsky’s “computational system” for syntax, cf. above 
+on B & C’s view of the complex “mental constructs” corresponding to words. Second, many 
+grammatical constructions fail to be analyzed via a simple “computational system” that succes-
+sively constructs their binary structure from atomic elements and provides a regular non-idiom-
+atic interpretation for them. Evidence along these lines was provided by Charles Fillmore and his 
+colleagues ([Fillmore et al. 1988] and much subsequent work) in their attempt to elaborate the 
+competing non-atomistic approach that they call Construction Grammar. For example, the fam-
+ily of resultative constructions in English, as was shown in [Goldberg, Jackendoff 2004], reveals, 
+along with some general principles of argument linking or event structure, a wealth of idiosyn-
+cratic phenomena that must be learned and stored in memory individually.
+To sum up, B & C’s scenario of human language evolution, convincing as it seems in itself and 
+in many points, especially as regards the “Wallace’s Problem”, justiﬁably critical of previous ap-
+proaches to the question, is wholly based on the assumption of the simplicity of human language 
+as regards what they call its Basic Property. B & C believe that this simplicity has become evident af-
+ter several decades of intensive research within the theoretical program of the generative linguistics. 
+I believe, however, that this kind of simplicity has largely been attained by theory-internal methods 
+and is hardly likely to meet with more empirically based and veriﬁable support in the near future.

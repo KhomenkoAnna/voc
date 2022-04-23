@@ -1,0 +1,899 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 5
+87
+ Leontovich O.A., Kotelnikova N.N., 2021
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.5.7
+UDC 81’42:003.074 
+Submitted: 22.03.2020
+LBC 81.055.51.3 
+Accepted: 07.06.2021
+THE NATURE OF CHINESE AND RUSSIAN SUBCULTURES 
+IN URBAN DISCOURSE 1
+Olga A. Leontovich 
+Volgograd State Socio-Pedagogical University, Volgograd, Russia; 
+Tianjin Foreign Studies University, Tianjin, China
+Nadezhda N. Kotelnikova
+Volgograd State Socio-Pedagogical University, Volgograd, Russia
+Abstract. The paper seeks to examine the communicative aspect of modern Chinese and Russian urban 
+subcultures. The nominations of urban social groups representing young people in Russia and China and their 
+connection to modern communication practices are viewed from the perspective of urban communication studies, 
+which provides an opportunity for a new comprehension of issues connected with verbal and nonverbal constituents 
+of urban discourse. The indicates that the subcultures in the Russian urban landscape are reflected in such nominations 
+as фрики (freaki), мажоры (majory), хипстеры (hipstery), брейк-дансеры (break-dancery), байкеры (bikery), etc. 
+The Chinese subcultures are known under such names as shamate, xiaoqingxin, tuyayawenhua, erciyuanyawenhua, 
+egaoyawenhua and many others. We argue that in both countries the unity of social subgroups is based not so much 
+on ideological preferences, but rather on lifestyles, hobbies and interests, many of them formed under the Western 
+influence. The subcultures discussed in the research represent a broad panorama of Chinese and Russian social life. 
+They reflect the sociocultural dynamics of attitudes, values and lifestyles influenced by globalization but acquiring 
+nationally specific features, which transform them into unique sociocultural phenomena.
+Key words: subcultures, nominations, China, Russia, urban communication studies.
+Citation. Leontovich O.A., Kotelnikova N.N. The Nature of Chinese and Russian Subcultures in Urban 
+Discourse. Vestnik Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal 
+of  Volgograd  State  University. Linguistics], 2021, vol. 20, no. 5, pp. 87-96. DOI: https://doi.org/10.15688/
+jvolsu2.2021.5.7
+УДК 81’42:003.074 
+Дата поступления статьи: 22.03.2020
+ББК 81.055.51.3 
+Дата принятия статьи: 07.06.2021
+КИТАЙСКИЕ И РОССИЙСКИЕ СУБКУЛЬТУРЫ 
+В КОНТЕКСТЕ МЕДИАУРБАНИСТИЧЕСКОГО ДИСКУРСА 1
+Ольга Аркадьевна Леонтович
+Волгоградский государственный социально-педагогический университет, г. Волгоград, Россия; 
+Тяньцзиньский университет иностранных языков, г. Тяньцзинь, Китай
+Надежда Николаевна Котельникова
+Волгоградский государственный социально-педагогический университет, г. Волгоград, Россия
+Аннотация. Статья посвящена изучению современных китайских и российских субкультур в ком-
+муникативном аспекте. Номинации молодежных социальных групп в китайских и российских городах, а 
+также связанные с ними коммуникативные тактики рассмотрены с позиций медиаурбанистики, что дает 
+возможность по-новому осмыслить проблемы структуры городского дискурса – соотношение его вербаль-
+ной и невербальной составляющих. Выявлено, что российские субкультуры отражены в таких номинациях, 
+как фрики, мажоры, хипстеры, брейк-дансеры, байкеры и т. д.; китайские, в свою очередь, известны под 
+такими названиями, как 杀马特 shamate, 小清新 xiaoqingxin, 涂鸦亚文化 tuyayawenhua, 二次元亚文化 
+erciyuanyawenhua, 恶搞亚文化 egaoyawenhua и др. Установлено, что в обеих странах единство социальных 
+88
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 5
+групп определяется не столько идеологическими факторами, сколько стилем жизни, увлечениями и инте-
+ресами, многие из которых сформированы под влиянием Запада. Обсуждаемые субкультуры представляют 
+широкую панораму жизни большого города в России и КНР. В них отражается динамика менталитетов, цен-
+ностей и образа жизни, складывающихся в условиях глобализации, но обретающих национально-специфические 
+черты, трансформирующие их в уникальные социокультурные сообщества. 
+Ключевые слова: субкультуры, номинации, Китай, Россия, медиаурбанистика.
+Цитирование. Леонтович О. А., Котельникова Н. Н. Китайские и российские субкультуры в контек-
+сте медиаурбанистического дискурса // Вестник Волгоградского государственного университета. Серия 2, 
+Языкознание. – 2021. – Т. 20, № 5. – С. 87–96. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.5.7
+Introduction
+The pulsating rhythm of urban life, its 
+polyphony and diversity which are nowadays 
+experienced by over half of humankind, define 
+the key principles and strategies of human 
+interaction, power relations and tendencies of 
+social development. This enhances the significance 
+of urban studies carried out in different fields 
+of knowledge, such as architecture, sociology, 
+political science, economics, communication 
+studies, linguistics, etc. There is a great increase 
+of the volume of publications, conferences 
+and symposiums tackling the nature and 
+contextualization of urban discourse.
+The purpose of this paper, which constitutes 
+part of a broader investigation entitled “Language 
+of a Big City: Media Urban Discourse in Russia 
+and China” and supported by the Russian 
+Foundation for Basic Research, is to examine the 
+communicative aspect of modern Chinese and 
+Russian urban subcultures.
+Theoretical background 
+and research methods
+The study draws from a number of theories 
+dealing with urban life and represented in 
+the works by Simmel [1903/1950], Weber 
+[1922/1978; 1923/1966], Mellor [1977], etc. (see 
+a detailed review in: [Encyclopedia of Urban 
+Studies, 2010; Kvyat, 2014; Parker, 2015]). 
+The founders of Russian urban studies termed 
+as gorodovedeniye or gradovedeniye are the 
+historians Grevs and Antsiferov (as cited in: 
+[Yunakovskaya, 2011]).
+Modern authors are trying to give new 
+interpretations of the concepts city and the urban 
+taking into account the realities and rhythms 
+of contemporary life. Aiello and Tosoni [2016, 
+p. 1253] differentiate between city as context, city 
+as medium and city as content, the combination of 
+which constitutes a city as a source and product 
+of interactions, practices and narratives. Scholars 
+believe that the term the urban embodies social 
+practices, networks and patterns of interpersonal 
+and intergroup communication. The new times 
+are marked by the emergence of such notions 
+as creative cities and smart cities [Aurigi, 2005, 
+2012; Pratt, 2011]. The proponents of the so called 
+new urbanism promote the ideas of the creation 
+of open urban space, context architecture, green 
+zones, reasonable balance between office and 
+residential buildings, reduction of transportation 
+flows, preservation of historical buildings, etc. 
+(for example see: [The Charter of the New 
+Urbanism]). 
+The urban landscape is traditionally understood 
+as a physical environment – houses, streets, squares, 
+engineering constructions, etc. A different approach 
+is suggested by Lefebvre [1991] who interprets a 
+city as a live organism and indicates that space is 
+not anything given by nature and permanent but 
+constantly developing and reproduced on the basis 
+of social change. He delineates physical, mental and 
+social space and writes about multiple definitions 
+of space – geographical, economic, demographic, 
+sociological, political, etc. Contemplating the role 
+of language in an urban landscape, Lefebvre poses 
+the following questions: does language logically, 
+epistemologically and genetically precede the 
+construction of social space or is it its product? How 
+is space read and decoded? The author comes to the 
+conclusion that space is a sort of surcodage, code des 
+codes (code of codes) [Lefebvre, 1991, pp. 20-27].
+Lefebvre’s definitions applied to urban 
+communicative space can act as a foundation 
+for investigating it from different perspectives, 
+such as the territorial organization of space, its 
+configuration, road networks, correlation between 
+the city centre and peripheries, built and unbuilt 
+urban space, division into communities as a result of 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 5
+89
+O.A. Leontovich, N.N. Kotelnikova. The Nature of Chinese and Russian Subcultures in Urban Discourse
+social segregation, special distribution of languages 
+and sociolects, philosophy of environmental 
+conservation, etc. [Leontovich, 2020].
+The application of the notion border to urban 
+society allows scholars to research the boundaries 
+between communities, languages, dialects, 
+cultures and subcultures, (im)possibility of 
+crossing them and the connection between space 
+and identity. The notion of space is also related 
+to the problems of (in)equality, existence of poor 
+and rich housing, prestigious and unprestigious 
+areas, as well as the controversial character of 
+urban space [Leontovich, 2020; Tarantino, Tosoni, 
+2013]. The investigation of a big city from the 
+perspective of media urban studies provides an 
+opportunity of a new comprehension of issues 
+connected with verbal and nonverbal constituents 
+of urban discourse.
+Our research is based on the principles 
+of critical discourse analysis, narratology, 
+semiotics and urban communication studies 
+which have been fruitfully applied to the study of 
+different aspects of urban discourse [Bakumova, 
+Kotelnikova, 2019; Chen, Leontovich, 2020; 
+Kotelnikova, 2019; Leontovich, 2018; 2020], 
+such as historical memories and their reflection 
+in the urban landscape, the correlation between 
+public discourse and the citizen’s private life, 
+social advertising as a reflection of universal and 
+culturally specific values, ethnic, cultural and 
+linguistic diversity of urban communication, new 
+urban communicative practices, the reflection of 
+the COVID-19 pandemic in Russian and Chinese 
+media urban discourse, etc.
+The present paper discusses the new 
+nominations of urban social groups representing 
+young people in Russia and China and 
+their connection to modern communication 
+practices. The research employs the methods 
+of definition analysis, discourse analysis, 
+semiotic analysis and contextual analysis. We 
+argue that in both countries, the unity of social 
+subgroups is based not so much on ideological 
+preferences, but rather on lifestyles, hobbies 
+and interests, many of them formed under the 
+Western influence.
+Discussion
+A high degree of diversification typical 
+of a big city accounts for the emergence of 
+new social groups and is reflected in language 
+in the form of a broad semantic class of words 
+nominating social groups. It is developed on the 
+basis of numerous differential elements such as 
+age, gender, profession, ethnicity, etc. The city 
+is interpreted as a real and abstract (imagined) 
+community (e.g. citizens, city authorities, 
+creative elite). The interaction in an urban context 
+happens on the level of interpersonal and group 
+communication, as well as between an individual 
+and urban community, city administration, mass 
+media and so on.
+On the one hand, the image of a city is formed 
+on the basis of its citizens’ collective identity; 
+on the other hand, the city influences peoples’ 
+individual identity defining them as inhabitants 
+of Moscow, Volgograd, Beijing, Tianjin, etc. 
+Social advertising can act as a significant visual 
+factor affecting the citizens’ mind and expressing 
+universal and culturally specific values. Every 
+city is characterized by the existence of certain 
+communication patterns and networks typical 
+of local urban communities (districts, yards 
+and youth groups); fluctuation between various 
+language codes and repertoires; different forms 
+of urban activism and the contribution of urban 
+practices to the formation of different subcultures. 
+Subcultures have been analysed from different 
+perspectives [Fine, Kleinman, 1979; Hall, Jefferson, 
+2006; etc.]. The common approach among Russian 
+scholars [Gurevich, 1998; Levikova, 2007; 
+Omelchenko, 2000; Sikevich, 1990] is to view 
+them as part of national culture, with their own 
+systems of values, norms, customs, traditions, 
+behavior and lifestyle. Chinese researchers give 
+similar definitions to the notion of ‘subculture’ 
+(亚文化) but emphasise that it is an alternative 
+to dominant culture displaying some deviations 
+from it without denying its essence [高丙中, 1997, 
+p. 113; 许苏民, 1990, p. 145].
+In contemporary society, there is a tendency 
+to view subcultures not as integral ways of living 
+and mindsets, but rather recreational practices and 
+virtual communities [Galushina, 2016, c. 134]. 
+If a while ago it was common to belong to one 
+subculture, nowadays it is normal to be part of 
+several subcultures at a time, which means that 
+the notion of subculture has been replaced by 
+a ‘cultural mix’. The ‘post-subcultural theory’ 
+accommodates the “increasing fragmentation 
+of youth style since the 1980s” [Bennett, Kahn-
+90
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 5
+Harris, 2004, p. 2] and the specifics of the 
+postmodern state of society and culture. According 
+to this approach, the hard and fast lines between 
+subcultural divisions have dissolved and identity 
+has become less outwardly apparent [Bennett, 
+Kahn-Harris, 2004, p. 2]. The elements of 
+different styles are mixed and modern subcultural 
+identity does not replace but rather supplements 
+mainstream social existence. 
+Bakumova and Kotelnikova [2019] have 
+described a number of new nominations of Chinese 
+subcultures reflecting modern trends in society. 
+They are predominantly formed with the help of a 
+highly productive suffix morpheme 族 of Japanese 
+origin, which denotes a group of people united by a 
+general characteristic or activity [王晓静, 2010; 
+肖遥遥, 2009]. The neologisms based on the 
+«Х 族» pattern often include borrowed elements, 
+which testifies to the influence of globalization 
+processes in Chinese society. A good example is 
+the word 辣奢族, the initial component of which 
+is 辣奢 lashe – a phonetic calque from the English 
+word ‘luxury’. The lexeme 辣奢族 is used to 
+denote young people born in the 1980s – 90s, 
+mostly with a good income, who strive to live a 
+life of luxury and are trying to emphasise their 
+social status by means of different accessories. 
+Their consumerism is based on the obsession 
+with fashionable brands, even if it contradicts 
+common sense. Other examples in this group 
+of nominations are: 乐活族 lashezu (people 
+leading a healthy lifestyle) stemming from the 
+English abbreviation LOHAS (lifestyle of health 
+and sustainability); 尼特族 nitezu (a ‘no-no 
+generation’ – young people who don’t work or 
+study) derived from the English acronym NEET 
+(Not in Employment, Education or Training); 
+飞特族 feitezu (so called ‘free workers’ – young 
+people who do not have a permanent job and live 
+on occasional earnings) based on the combination 
+of the English word free and German arbeiter 
+[Bakumova, Kotelnikova, 2019; 肖遥遥, 2009; 
+王思妮, 2010; 流响, 2014].
+A very different social group is 蚁族 yizu 
+(‘ant tribe’) applied to young people in their 
+twenties, recent university graduates, mostly 
+from agricultural areas or smaller cities who 
+come to Chinese megacities in order to climb the 
+social ladder [赵声馗, 2014]. Because of their 
+low income, they have to live in apartments with 
+numerous lodgers or in old barracks divided into 
+tiny rooms at the outskirts. From every point 
+of view, they remind ants: they are intelligent, 
+hard-working and live in colonies [Bakumova, 
+Kotelnikova, 2019; Wu Yao, 2017].
+The name of another social group that has 
+been rapidly growing is 月光族 yueguangzu 
+(from 月 – month; 光 – completely, to the last 
+bit) – a collective nomination for those who 
+spend their monthly income to the last mao. Their 
+characteristic feature is not so much the their low 
+income but rather inability to spend their money 
+wisely. This social group is mostly composed of 
+people who grew up without brothers or sisters 
+under the one-child policy, representative of the 
+generation of ‘little emperors’, consumers living 
+under the slogan: “赚多少花多少” (Spend as 
+much as you have earned) and differ a lot from 
+the older generation of the Chinese who are very 
+frugal and tend to save money. Another neologism 
+that is acquiring popularity is 月欠族 (月 – month; 
+欠 – lack, owe), used to denote people who 
+cannot control their spendings, and use online 
+banking to borrow more money that they can earn 
+[Bakumova, Kotelnikova, 2019; 张洪涛, 2019; 
+“月光族”..., 2019].
+The high cost of living in megacities has 
+produced a social group called 钟摆族 zhongbaizu 
+(‘pendulums’). These are commuters who work 
+in central parts of the city but choose to buy 
+apartments in the outskirts of the city or beyond. 
+The use of the metaphorical image of a pendulum 
+reflects the peculiarities of their life [曾丹, 2010]. 
+China possesses a well developed transportation 
+system, including high-speed railway lines, which 
+contributes to the growth of this social group. All 
+those terms which originated in the internet have 
+become widely used due to mass media. 
+Both Russian and Chinese megacities 
+are huge sites which provide young people 
+with broad opportunities of self-realization 
+and an endless potential for the formation and 
+development of youth subcultures. As was 
+mentioned above, the consolidating factors are 
+lifestyles, hobbies, interests, etc, rather than 
+ideological preferences. What we could observe 
+during our study was that this landscape is 
+extremely dynamic and rapidly changes: what 
+used to be seen as fashionable yesterday, is no 
+longer perceived as such. The study also shows 
+the fluidity of new subcultures and a lack of 
+distinct boundaries between them.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 5
+91
+O.A. Leontovich, N.N. Kotelnikova. The Nature of Chinese and Russian Subcultures in Urban Discourse
+The subcultures in the Russian urban 
+landscape are reflected in such nominations as 
+фрики (freaki), мажоры (majory), рейверы 
+(ravery), хипстеры (hipstery), хип-хоперы (hip-
+hoppery), брейк-дансеры (break-dancery), бай-
+керы (bikery), панки (punki), рэперы (rappery), 
+футбольные фанаты (football fanaty), экологи-
+сты (ecologisty), ролевики (roleviki), толкиени-
+сты (tolkienisty), ЭМО (EMO), аниме (anime), 
+готы (gothy), сатанисты (satanisty), etc., most 
+of them evidently stemming from corresponding 
+English words and Western communication 
+practices connected with street art, graffiti and role 
+quests. In many instances they acquire culturally 
+specific features induced by the Russian urban 
+environment. For example, in the 1950s hipster 
+subculture associated with alternative fashion, 
+art, music and films, was adopted in Russia in the 
+form of stilyagi and revived after the release of 
+the 2008 cult film with this title. 
+Specifically Russian communication 
+practices are reconstructions of historical events, 
+‘posidelki’, ‘kvartirniki’ and ‘anti-cafés’ (see also: 
+[Kvyat, 2013; Leontovich, 2019]). 
+Some of the subcultures mentioned above, 
+such as hip-hoppers and break-dancers, are to a 
+certain extent represented in the Chinese urban 
+landscape. In most cases they are, however, 
+transformed under the influence of the Chinese 
+social context. For example, the Chinese 
+counterpart of hipster subculture is 文艺青年
+wenyiqingnian (lit. ‘cultured young people’, or 
+‘art-loving young people’). 
+A subculture similar to freaks is 杀马特
+shamate, which emerged in China at the dawn of 
+the 21st century. The nomination stems from the 
+English word smart and denotes young people 
+aged from 16 to 25 years old with basic secondary 
+general or technical school education, coming 
+from rural areas to big cities in order to earn 
+money. Unlike earlier migrants, they are not ready 
+for hard physical labour on construction sites 
+and are happy to find low-paid jobs at factories, 
+hairdressers, grocery stores and delivery services. 
+They are conspicuous because of their flamboyant 
+style, bleached or brightly dyed and teased hair, 
+with lots of hairspray, bright make-up, nails and 
+piercing, unusual loud clothes and plenty of 
+accessories. The shamate subculture has been 
+largely influenced by western informal trends, 
+but, unlike them, is devoid of the rebellious spirit 
+and denial; their only wish is to attract attention 
+by their unconventionality and extravagance. 
+They are eager to capture their bright appearance 
+by taking selfies and posting them on closed 
+chats of the Chinese QQ messenger where they 
+communicate with other subculture members. 
+This is the most disliked and scorned subculture 
+in China ridiculed in real life and on the Internet. 
+They do not want to go back to their villages but 
+cannot find their place in the city. Shamate are 
+young provincials without any financial or social 
+support who, on the one hand, strive for self-
+realization and want to attract attention by their 
+appearance and, on the other, want to be accepted 
+by the urban community [王福帅, 杨阳, 2014; 
+Kotelnikova, 2019].
+Shamate subculture is usually juxtaposed to 
+小清新亚文化 xiaoqingxin subculture. The term 
+小清新 is composed of the words 小 (small) and 
+清新 (fresh). It has been influenced by the indi-
+pop music and the works by the female Chinese 
+novelist Li Jie, who publishes on the Internet 
+under the pen-name 安妮宝贝 Anni Baobei and 
+is extremely popular among young people. The 
+representatives of the xiaoqingxin subculture are 
+predominantly young educated women from well-
+to-do families with versatile interests, exquisite 
+tastes and positive world perception. They enjoy 
+artwork, travelling alone, certain tastes in music 
+and cinema. They like a certain style in clothes 
+(long linen skirts, checkered shirts, canvas shoes 
+and absence of bright make-up). An important 
+accessory is a LOMO camera – photography is 
+an important form of self-expression which gives 
+them an opportunity to capture the beauty of the 
+world, find magic in mundane existence and share 
+their thoughts and feelings. They usually have 
+their personal pages and blogs in social networks 
+where they publish their photographs and literary 
+essays. Xiaoqingxin are romantic dreamers 
+who oppose themselves to mainstream culture. 
+However, due to the attention of mass media and 
+public approval, this subculture has become so 
+popular and has acquired so many imitators 
+that it runs the risk of becoming mainstream 
+itself [刘黎黎, 2013, pp. 72-73].
+二 次 元 亚 文 化  erciyuan yawenhua 
+(2D subculture) unites the admirers of two-
+dimensional animation and computer games in 
+the Japanese style anime comics. In Russia this 
+subculture is often called by the Japanese word 
+92
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 5
+otaku. The word 御宅族 yuzhaizu is actively 
+used in Chinese, however, it is applied to young 
+people who live a lonely life, avoid real contacts 
+and spend all their free time on the internet [谯燕, 
+2012, p. 5]. The literal translation of the word 
+otaku is ‘your home’, so its etymology explains 
+this usage. Undoubtedly, the representatives of 
+the 2D subculture include people who can be 
+called otaku, but the 2D subculture itself does not 
+presuppose confinement and a secluded life style. 
+It has plenty of followers in China – 153 million 
+fans (二次元迷), each of them spending around 
+1700 yuans a year on goods connected with anime, 
+which gives a strong impulse to the development 
+of 2D industry. According to the statistical 
+information published by the Chinese biggest media 
+platform “Sina Weibo” (新浪微博), the age of the 
+2D fans is very diverse. The representatives of 
+this subculture have no common ideology – they 
+are just interested in certain media products. They 
+are also characterized by the use of a common 
+slang – mostly words borrowed from Japanese and 
+usually emotionally coloured. The representatives 
+of the 2D subculture hold numerous events 
+which provide broad opportunities for offline 
+communication: anime-festivals, exhibitions, 
+thematic parties, etc. Some of them are held 
+on an amazingly huge scale. For example, 
+in 2017 “The Chinese International Anime 
+Festival” annually held in Hangzhou city, united 
+participants from 82 countries of the world. 
+During six days the festival was attended by over 
+1.39 million people [139 万..., 2017]. One of 
+the new communication practices associated 
+with 2D subculture is 动漫角色扮演 – cosplay 
+(abbreviated from ‘costume play’) – a game in 
+which anime and computer game characters are 
+personified not only through their appearance but 
+also their behaviour, manner of speech, phrases 
+and gestures. Some of the representatives of 2D 
+subculture copy their favourite characters not only 
+in cosplay, but also in everyday life. 
+Graffiti subculture is popular both in Russia 
+and China. It is formed by graffiti writers whose 
+solidarity is based on their interest for wall art 
+and the desire to express an idea or produce an 
+emotional response in the spectators with the help 
+of compositions painted on urban constructions. 
+The Russian graffiti movement which originated 
+in the USSR in the 1980s, acquired mass character 
+by the late 1990s and is still on the rise. It is 
+interesting to note that the annually held street art 
+festival bears the name “SNICKERS URБАNиЯ”; 
+its unusual spelling being an example of creative 
+language use.
+In China the representatives of graffiti 
+subculture (涂鸦亚文化 tuya yawenhua) are 
+not so numerous as some others, however, their 
+artistic activities have a great influence on the 
+image of Chinese cities. The Chinese version of 
+subculture emerged in Beijing in 1996 after the 
+penetration of hip-hop to China and at first was 
+disapproved of by city dwellers. It is not without 
+reason that originally this type of street art was 
+called 涂鸦 tuya, which literally means ‘to smudge 
+crows’ or ‘scribble’. This word stems from an old 
+poem by Lu Tong (VIII–IX century) devoted to 
+his little son who often smudged his books with 
+ink. At present the art of graffiti has acquired 
+popularity, and in big cities there are special walls 
+assigned for graffiti writers. For example, the 
+authorities of Chongqing city have dedicated 
+a whole street Huangjueping (黄桷坪涂鸦街) 
+for graffiti. Thirty-seven buildings with a total 
+space of 50 thousand square meters in that street 
+are covered with colourful art. This street is one 
+of the biggest graffiti projects not only in China 
+but in the whole world. However, in big Chinese 
+cities the artistic self-expression of graffiti writers 
+outside special zones in not welcomed and is seen 
+as damage to the urban landscape [庞彦, 2011, 
+p. 183]. That is why the modern tendency is the 
+relocation of street art to the internet. Many graffiti 
+writers create their works primarily in order to 
+photograph them and post them on the internet so 
+that a short-lived piece of art could continue its 
+life online [Kotelnikova, 2019, p. 29].
+In modern information society, online 
+communication, including social networks and 
+internet forums, has become an urgent need 
+for people both in Russia and China. As a 
+consequence, we can observe the emergence of 
+internet subcultures which have acquired their 
+own systems of values, language, manner of 
+behaviour and other representations. At present 
+the global network houses numerous internet 
+subcultures, the most popular of which in both 
+countries are gamers, bloggers, huckers, trolls, etc. 
+One of the most widely spread Chinese 
+internet subcultures is egao (恶搞亚文化) formed 
+by means of morpheme contraction from the 
+word combination 恶意搞笑 (to joke viciously). 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 5
+93
+O.A. Leontovich, N.N. Kotelnikova. The Nature of Chinese and Russian Subcultures in Urban Discourse
+Chinese sociologists apply the term egao to the 
+practice of changing famous literary works, films, 
+songs, videoclips, advertisements or imitating a 
+celebrity by means of parody, collage, hyperbole, 
+etc. in order to achieve a comic effect [胡疆锋, 
+2008, p. 5; 张林, 2014, p. 338]. The result can be 
+represented in the form of text, audio- or video 
+material, photography or comics presented on 
+the internet. The proliferation of this subculture 
+was facilitated by such programs as Photoshop 
+and Premiere, available for wide masses of 
+internet users. Egao became so popular in China 
+that it spread from the internet to television, 
+newspapers and magazines. The egao subculture 
+is predominantly represented by young people 
+displaying critical, ironic or sarcastic perception 
+of reality. Egao personifies the Chinese version of 
+freedom of speech; however, its representatives 
+produce contradictory impressions on the public. 
+According to the results of a sociological survey 
+carried out by “The Chinese Youth Newspaper”, 
+89,9% of respondents believe that there should 
+be certain limits – tabooed topics which cannot 
+be ridiculed, such as national heroes [蔡骐, 谢莹, 
+2008, p. 50].
+The discourse analysis of Russian and 
+Chinese subcultures also yields information 
+about attitudes towards particular social groups. 
+For example the Russian term majory (young 
+people whose influential parents provide them 
+with money and social benefits) has a negative 
+connotation, as well as the Chinese nomination 
+土豪 tuhao denoting the uncouth new rich who 
+are fond of golden iPhones and expensive cars 
+decorated with Swarovski crystals. The latter is 
+juxtaposed to the positively marked terms 高富帅 
+gaofushuai (lit. tall, rich, hansome, ‘prince on 
+a white horse’) denoting an educated rich man 
+with high social standing, and 白富美 baifumei 
+(lit. white, rich, beautiful) – an attractive young 
+woman with good manners and lots of money.
+Subcultures form networks in which 
+people are connected with each through different 
+communication channels. The internet provides 
+practically unlimited opportunities for such 
+communication. The sign of our time is the 
+transfer from interpersonal to technologically 
+mediated communication. However, it is possible 
+to notice a reverse process – from internet-based 
+to offline forms of interaction. The changes in 
+discourse patterns are associated with the growth 
+of a new generation, with its own aspirations, 
+perception of the environment and desire for 
+social changes – all the factors that have a 
+profound effect on contemporary urban life and 
+its semiotic representation.
+Final considerations
+The subcultures discussed in our research are 
+only a fraction of the urban mosaic representing 
+a broad panorama of Chinese and Russian social 
+life. They reflect the sociocultural dynamics 
+of attitudes, values and lifestyles. Modern big 
+cities as a complex medium of socialization are 
+becoming more tolerant of differences in multiple 
+forms of people’s behaviour. Globalization 
+processes, mostly under the western influence, 
+and the integration of cities into the world cultural 
+space account for their universal character; 
+however, they acquire nationally specific features 
+transforming them into unique sociocultural 
+phenomena.
+NOTE
+ 
+1 The reported study was funded by the Russian 
+Foundation for Basic Research according to the 
+research project № 17-29-09114.
+ 
+ Исследование выполнено при финансовой 
+поддержке РФФИ в рамках научного проекта 
+№ 17-29-09114.
+REFERENCES
+Aiello G., Tosoni S., 2016. Going About the City: Methods 
+and Methodologies for Urban Communication 
+Research – Introduction. International Journal of 
+Communication, vol. 10, pp. 1252-1262.
+Aurigi A., 2005. Making the Digital City. Aldershot, 
+Ashgate Publ. 236 p.
+Aurigi A., 2012. Reflections Towards an Agenda for 
+Urban-Designing the Digital City. Urban Design 
+International, vol. 18, iss. 2, pp. 131-144.
+Bakumova E., Kotelnikova N., 2019. Linguistic 
+Expression of the Social Stratification of 
+Chinese Urban Society. SHS Web of Conferences 
+(The International Scientific and Practical 
+Conference “Current Issues of Linguistics and 
+Didactics: The Interdisciplinary Approach in 
+Humanities and Social Sciences” (Volgograd, 
+April 23–28, 2019)). Volgograd, s. n. Vol. 69. 
+DOI: 10.1051/shsconf/20196900011.
+Bennett A., Kahn-Harris K., 2004. After Subculture: 
+Critical Studies in Contemporary Youth Culture. 
+94
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 5
+Basingstoke, Hants., New York, Palgrave 
+Macmillan. 195 p.
+Chen Fachun, Leontovich O., 2020. A Tale of Two Cities: 
+Historical Narratives in the Russian and Chinese 
+Urban Landscapes. Vestnik Volgogradskogo 
+gosudarstvennogo universiteta. Seriya 2. 
+Yazykoznanie [Science Journal of Volgograd State 
+University. Linguistics], vol. 19, no. 2, pp. 78-85. 
+DOI: https://doi.org/10.15688/jvolsu2.2020.2.7.
+Encyclopedia of Urban Studies, 2010. Green Bay, 
+University of Wisconsin. 1080 p.
+Fine G.A., Kleinman S., 1979. Rethinking Subculture: 
+An Interactionist Analysis. American Journal of 
+Sociology, vol. 85, no. 1, pp. 1-20. 
+Galushina N.S., 2016. Subkultury: yazyki opisaniya v 
+menyayushchihsya sociokulturnyh kontekstah 
+[Subcultures: Description Languages in the 
+Changing Sociocultural Contexts]. RSUH/
+RGGU Bulletin: Literary Theory. Linguistics. 
+Cultural Studies, vol. 11, no. 2, pp. 120-135. DOI: 
+10.28995/2686-7249-2016-2-120-135.
+Gurevich P.S., 1998. Subkultura [Subculture]. 
+Kul’turologiya. XX vek. V 2 t. T. 2 : enciklopediya 
+[Cultural Studies. 20th Century. In 2 Vols. Vol. 2. 
+Encyclopedia]. Saint Petersburg, Universitetskaya 
+kniga Publ., pp. 450-453. 
+Hall S., Jefferson T., eds., 2006. Resistance Through 
+Rituals: Youth Subcultures in Post-War Britain. 
+London, Routledge. 292 p.
+Kotelnikova N.N., 2019. Molodezhnye subkul’tury 
+v mediaurbanisticheskom prostranstve 
+sovremennogo kitayskogo goroda [Youth 
+Subcultures of a Modern Chinese City in the 
+Context of Urban Communication Studies]. 
+Gumanitarnye issledovaniya v Vostochnoy Sibiri 
+i na Dal’nem Vostoke [Humanities Research in 
+the Russian Far East], vol. 1, pp. 25-32. DOI: 
+10.24866/1997-2857/2019-1/25-32. 
+Kvyat A.G., 2013. Novye kommunikativnye praktiki 
+v rossiyskih gorodakh [New Communication 
+Practices in Russian Cities]. Dzyaloshinskiy I.M., 
+Pil’gun M.A., eds. Razvitiye russkoyazychnogo 
+mediaprostranstva: kommunikatsionnye i 
+eticheskie problemy: materialy nauch.-prakt. konf. 
+[Development of the Russian-Language Media 
+Space: Communication and Ethical Problems. 
+Conference Materials]. Moscow, Izd-vo APK i 
+PPRO, pp. 351-360.
+Kvyat A.G., 2014. Istoriya zarubezhnykh gorodskikh 
+kommunikativnykh issledovaniy [The History 
+of Foreign Urban Communication Studies]. 
+Mediaskop [Mediascope], vol. 4. URL: http://
+www.mediascope.ru/1598.
+Lefebvre H., 1991. The Production of Space. Malden, 
+Blackwell. 464 p. (Original work published in 
+1974).
+Leontovich O.A., 2018. The All-Seeing Eye of the City 
+from the Perspective of Urban Communication 
+Studies. Vestnik Volgogradskogo gosudarstvennogo 
+universiteta. Seriya 2. Yazykoznanie [Science 
+Journal of Volgograd State University. Linguistics], 
+vol. 17, no. 4, pp. 206-213. DOI: https://doi.
+org/10.15688/ jvolsu2.2018.4.20.
+Leontovich O.A., 2019. New Forms of Urban Discourse 
+As a Reflection of Social Сhange. Communication 
+Studies, vol. 6, no. 3, pp. 645-654. DOI: 
+10.25513/2413-6182.2019.6(3).645-654.
+Leontovich O.A., 2020. Yazyk bolshogo goroda: klyuchevye 
+problemy mediaurbanistiki [Language of a Big City: 
+Key Issues of Urban Communication Studies]. 
+Etnopsikholingvistika [Ethnopsycholinguistics], 
+vol. 3, pp. 19-34. DOI: 10.31249/epl/2020.03.02.
+Levikova S.I., 2007. Molodezhnaya kul’tura [Youth 
+Culture]. Moscow, Vuzovskaya kniga. 360 p. 
+Mellor J.R., 1977. Urban Sociology in an Urbanized 
+Society. London, Routledge & Kegan Paul. 328 p.
+Omelchenko E.L., 2000. Molodezhnye kul’tury i 
+subkul’tury [Youth Cultures and Subcultures]. 
+Moscow, Institut sotsiologii RAN Publ. 262 p. 
+Parker S., 2015. Urban Theory and the Urban 
+Experience. Encountering the City. London, 
+New York, Routledge. 290 p.
+Pratt A.C., 2011. The Cultural Contradictions of the 
+Creative City. City, Culture and Society, vol. 2, 
+iss. 3, pp. 123-130.
+Sikevich Z.V., 1990. Molodezhnaya kul’tura: «za» i 
+«protiv»: Zametki sotsiologa [Youth Culture: 
+“For” and “Against”: Notes of a Sociologist]. 
+Leningrad, Lenizdat Publ. 206 p. 
+Simmel G., 1950. Metropolis and Mental Life. 
+Sociology of Georg Simmel. Chicago, Free Press. 
+523 p. (Original work published in 1903).
+Tarantino M., Tosoni S., 2013. Media and the Social 
+Production of Urban Space: Towards an 
+Integrated Approach Towards the Controversial 
+Nature of Urban Space. Media & The City: 
+Urbanism, Technology, Communication. S. l., 
+Cambridge Scholar Publishing, Newcastle 
+Upon Tyne, pp. 2-31. URL: http://hdl.handle.
+net/10807/46851.
+The Charter of the New Urbanism. URL: https.www.
+cnu.org/who-we-are/charter-new-urbanism.
+Weber M., 1966. General Economic History. New 
+York, Collier Books. 288 p. (Original work 
+published in 1923).
+Weber M., 1978. The City (Non-Legitimate 
+Domination). Economy and Society: An Outline 
+of Interpretive Sociology. Berkeley, University 
+of California Press, vol. 2, part 16, pp. 1212-1372 
+(Original work published in 1922).
+Wu Yao, 2017. Sravnitelnyi analiz sotsialnykh struktur 
+Rossii i Kitaya [Comparative Analysis of Russian 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 5
+95
+O.A. Leontovich, N.N. Kotelnikova. The Nature of Chinese and Russian Subcultures in Urban Discourse
+and Chinese Social Structures]. Obshchestvo: 
+sociologiya, psihologiya, pedagogika [Society: 
+Sociology, Psychology, Ppedagogics], vol. 5, 
+pp. 57-60.
+Yunakovskaya A.A., 2011. “Jazyk goroda” kak 
+lingvisticheskaja problema [“City Language” 
+As Linguistic Problem]. Vestnik Omskogo 
+universiteta [Herald of Omsk University], vol. 3, 
+pp. 193-197.
+蔡骐 (Cai Qi), 谢莹 (Xie Ying), 2008. 从“恶搞福
+娃”现象反思网络恶搞风潮 [Rethinking the 
+Internet Spoof “egao” from the Phenomenon of 
+“Pranking Fuwa”]. 信息网络安全 [Information 
+Network Security], vol. 6, pp. 50-52. 
+高丙中 (Gao Bingzhong), 1997. 主文化、亚文
+化、反文化与中国文化的变迁 [Changes in 
+Mainstream Culture, Subcultures, Countercultures 
+and Chinese Culture]. 社会学研究 [Social 
+Science Research], vol. 1, pp. 113-117. 
+胡疆锋 (Hu Jiangfeng), 2008. 恶搞与青年亚文化 
+[Egao and Youth Subculture]. 中国青年研究 
+[China Youth Study], vol. 6, pp. 5-10.
+刘黎黎 (Liu Lili), 2013. “小清新”风格的亚文化解
+读 [Sub-Cultural Understanding of Fresh and 
+Aestheticism Style]. 艺术百家 [A Hundred 
+Schools in Art], vol. 1, pp. 71-73. 
+流响 (Liu Xiang), 2014. “飞特族”的光与影 [The 
+Light and Shadow of the “Feitezu”]. 高中生：
+职教与就业 [High School Students: Vocational 
+Education and Employment], vol. 7, pp. 16-17. 
+庞彦 (Pang Yan), 2011. 浅谈城市涂鸦在中国的
+合法性 [Talking About the Legality of Urban 
+Graffiti in China]. 文艺生活 [Literature Life], 
+vol. 3, pp. 181-183. 
+社会科学大词典 [Social Science Dictionary], 1989. 
+彭克宏主编. 北京: 中国国际广播出版社 
+[Beijing, China International Radio Press]. 
+S. l., s. n. 1279 p. 
+谯燕 (Qiao Yan), 2012. 传媒新词 “御宅族”分析 [The 
+Analysis of the New Media Word “otaku”]. 新闻
+与传播研究 [Mass Communication Research], 
+vol. 3, pp. 5-6. 
+王福帅 (Wang Fushuai), 杨阳 (Yang Yang), 2014. 
+对“杀马特”现象的理解与反思 [Understanding 
+of the Phenomenon of “Shamate”]. 青年与社会 
+[Youth and Society], vol. 5, pp. 336-337. 
+王思妮 (Wang Sini), 2010. 对网络新词语“X族”的
+替换分析 [The Analysis of the New Network 
+Word “X Zu”]. 北方文学 [Northern Literature], 
+vol. 9, pp. 87-88. 
+王晓静 (Wang Xiaojing), 2010. “族”与“族”类词浅析 
+[“Family” and “Family” Category Words]. 传奇•
+传记文学选刊 [Legend. Biography Literary 
+Selection], vol. 7, pp. 35-37. 
+肖遥遥 (Xiao Yaoyao), 2009. “族”类汉语新词语
+法化浅析 [Grammatical Analysis of Chinese 
+Neologisms with the Morpheme “Family”]. 中
+州大学学报 [Journal of Zhongzhou University], 
+vol. 2, pp. 75-77. 
+许苏民 (Xu Sumin), 1990. 文化哲学 [Philosophy 
+of Culture]. 上海人民出版社 [Shanghai, 
+Shanghairen Chubanshe]. 317 p. 
+“月光族”变“月欠族” 不少年轻人靠借贷消费度日 
+[“Yueguangzu” Becoming “Yueqianzu”. A Lot of 
+Young People Use Loans for Living Expenses], 
+2019. 新浪财经 [Sina Finance]. URL: http://
+finance.sina.com.cn/roll/2019-02-19/doc-
+ihqfskcp6484532.shtml. 
+曾丹 (Zeng Dan), 2010. 试析新词语“钟摆族” [The 
+Analysis of the Neologism “Pendulum Clan”]. 
+现代语文(语言研究版) [Modern Language 
+(Language Research Edition)], vol. 11, 
+pp. 147-148. 
+张洪涛 (Zhang Hongtao). 30 名昆明年轻人中就
+有 9 个“月欠族” [Nine of 30 Kunming 
+Young People Are “Yueqianzu”]. 都市时
+报数字报 [The Metropolitan Times Digital 
+Newspaper], 02.03.2019. URL: http://times.
+clzg.cn/html/2019-03/02/content_106180.htm. 
+张林 (Zhang Lin), 2014. 网络恶搞现象分析 [The 
+Analysis of the Egao Phenomenon in the 
+Network]. 青年与社会 [Youth and Society], 
+vol. 13, pp. 338-339. 
+赵声馗 (Zhao Shengkui), 2014. “蚁族”社会资本的缺
+失与建构 [The Construction of Social Capital 
+of “Ant Tribe”]. 河北青年管理干部学院学报 
+[Journal of Hebei Youth Administrative Cadres 
+College], vol. 6, pp. 7-11.
+139 万人次参加中国国际动漫节 [1.39 Million 
+People Took Part in the China International Anime 
+Festival], 2017. URL: http://www.xinhuanet.com/
+politics/2017-05/03/c_129585203.htm.
+96
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 5
+Information About the Authors
+Olga A. Leontovich, Doctor of Sciences (Philology), Professor, Head of the Department 
+of Intercultural Communication and Translation, Volgograd State Socio-Pedagogical University, 
+Prosp. Leninа, 27, 400005 Volgograd, Russia; Professor, Tianjin Foreign Studies University, Machang 
+Road, 117, Tianjin, China, olgaleo@list.ru, https://orcid.org/0000-0002-0972-4609
+Nadezhda N. Kotelnikova, Candidate of Sciences (Pedagogy), Associate Professor, Department 
+of Intercultural Communication and Translation, Director of Confucius Institute, Volgograd State Socio-
+Pedagogical University, Prosp. Leninа, 27, 400005 Volgograd, Russia, kotelnikova_n_n@yahoo.com, 
+https://orcid.org/0000-0001-9900-1983
+Информация об авторах
+Ольга Аркадьевна Леонтович, доктор филологических наук, профессор, заведующая 
+кафедрой межкультурной коммуникации и перевода, Волгоградский государственный социально-
+педагогический университет, просп. Ленина, 27, 400005 г. Волгоград, Россия; профессор, Тянь-
+цзиньский университет иностранных языков, ул. Мачандао, 117, г. Тяньцзинь, Китай, olgaleo@
+list.ru, https://orcid.org/0000-0002-0972-4609
+Надежда Николаевна Котельникова, кандидат педагогических наук, доцент кафедры 
+межкультурной коммуникации и перевода, директор Института Конфуция, Волгоградский го-
+сударственный социально-педагогический университет, просп. Ленина, 27, 400005 г. Волгоград, 
+Россия, kotelnikova_n_n@yahoo.com, https://orcid.org/0000-0001-9900-1983

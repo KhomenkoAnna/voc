@@ -1,0 +1,658 @@
+© St. Petersburg State University, 2021
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+https://doi.org/10.21638/spbu09.2021.415 
+875
+UDC 81-119
+Elizaveta V. Ivanova
+St. Petersburg State University,  
+7–9, Universitetskaya nab., St. Petersburg, 199034, Russia 
+e.v.ivanova@spbu.ru
+On the basic lines of proverbial studies in Russian 
+paremiology*
+For citation: Ivanova E. V. On the basic lines of proverbial studies in Russian paremiology. Vestnik of 
+Saint Petersburg University. Language and Literature. 2021, 18 (4): 875–892. 
+https://doi.org/10.21638/spbu09.2021.415
+The article summarises the principal achievements of domestic scholars in the area of prover-
+bial studies, important both for the research on Russian proverbs and the analysis of proverbs 
+in other languages. An important contribution was made by the introduction of the concept 
+of the paremiological level of language and the detailed description of structural and semantic 
+proverbial characteristics of a typological and specific nature, as well as the analysis of the 
+similarities and differences between proverbs and phraseological word-combinations. Great 
+significance can be attributed to the studies of the proverbial fund as a system and the in-
+troduction of the concept of the proverbial space, which permitted researchers to consider 
+proverbs within a multi-dimensional continuum. An important line of research was the study 
+of the pragmatic functions of proverbs and the proverbial variations, manifested in discourse 
+and text, along with the experimental research into the knowledge and usage of proverbs by 
+native speakers. Extensive theoretical and practical skills in the lexicographic presentation of 
+proverbs, resulting in the compilation of numerous dictionaries, deserve special attention. 
+The tradition of examining proverbs in the context of culture, and the results of studies on 
+proverbial semantics in general, laid the foundation for cognitive and cultural-and-linguistic 
+approaches to proverbial research, which have been developing significantly during the past 
+twenty years, giving new dimensions to cross-linguistic proverbial studies. 
+Keywords: proverb, paremiology, proverbial semantics, proverbial fund.
+Introduction 
+The article is aimed at a survey of the most significant lines of research pursued by 
+Soviet and Russian scholars, engaged in the study of proverbs, as well as important contri-
+butions made both to the analysis of Russian proverbs and the development of theoretical 
+foundations of this area of paremiology in general.
+The Soviet and Russian tradition of proverbial studies was based on the works of their 
+predecessors dating back to the 19th — beginning of the 20th century. The research done 
+by F. I. Buslaev, V. I. Dal’, A. F. Potebnia, I. M. Snegirev and other scholars, focusing on the 
+practice and theory of proverbial description and systematisation, laid the foundation for 
+* The reported study was funded by Russian Foundation for Basic Research (RFBR), project number 
+20-112-50028.
+876 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+many lines of proverbial studies, which have been and still are successfully and fruitfully 
+developing. 
+In the years before World War II only some studies stand out, among which it is pos-
+sible to mention the works by I. E. Anichkov [Anichkov 1992] and M. A. Rybnikova [Ryb-
+nikova 1961]. However, the second half of the 20th century, especially its last thirty years, 
+witnessed a real heyday of Russian paremiology, connected with the works of V. P. Anikin 
+[Anikin 1996], V. A. Arkhangel’skii [Arkhangel’skii 1964], V. P. Zhukov [Zhukov 1991], 
+Yu. I. Levin [Levin 1984], V. M. Mokienko [Mokienko 1975; 1986], G. L. Permiakov [Per-
+miakov 1970; 1975], Z. K. Tarlanov [Tarlanov 1982], V. N. Teliia [Teliia 1996] and their fol-
+lowers. The range of the problems, fundamental for the study of proverbs in any language, 
+included the issue of the linguistic status of the proverb, its double nature as a language 
+sign or text, the distinct features of its analysis within the framework of linguistics and 
+folklore, the structure of the proverbial fund and many others. Russian paremiology has 
+been always targeted at both the typological characteristic features of proverbs and their 
+specific features, typical of a certain language. This makes the results of domestic studies 
+valuable for proverbial research in any language. 
+In the 20th century according to the domineering areas of linguistic research, prov-
+erbs were analysed from the aspect of structural linguistics, semiotics, onomasiology, se-
+mantics and pragmatics. At the turn of the 21st century, the shift of the research paradigm 
+resulted in the studies based on cognitive and cultural linguistics. 
+The diversified and multifaceted exploration of proverbs, based on new paradigms 
+and simultaneously taking into account the achievements of the preceding generations 
+of scholars, has continued in the 21st century and is represented by the works of V. I. Zi-
+min [Zimin 2017], D. O. Dobrovol’skij [Dobrovol’skij 2017], E. V. Ivanova [Ivanova 2002], 
+M. Yu. Kotova [Kotova 2004], O. V. Lomakina [Lomakina 2016], L. B. Savenkova [Saven-
+kova 2002], E. I. Seliverstova [Seliverstova 2017], N. N. Semenenko [Semenenko 2011] and 
+many others. 
+In the current article it is not possible to name all Russian paremiologists and list all 
+the worthy results of their work. The survey is focused only on the most important theo-
+retical statements, which had a lasting impact on the development of paremiology, and the 
+most promising lines of proverbial analysis, systematisation and description. 
+Definition of a proverb, its linguistic status and basic characteristics 
+An important trait of Russian proverbial studies consists in identifying a proverb as 
+a language unit on the basis of its comparison with other similar units along a number of 
+parameters. This allowed the scholars to outline categorical and differentiating proverbial 
+features and to streamline the material included into the proverbial fund.
+In their definition of the linguistic status of the proverb, Russian scholars considered 
+its basic structural and semantic characteristics, allowing for a certain range of their va-
+riety, stipulated by the continuity of the language system and the gradual shift from one 
+language characteristic to another. Despite the inevitability of this variety, their efforts 
+were aimed at the delineation of valid and convincing criteria for differentiating a proverb 
+from other language structures that had similar characteristics in many aspects. 
+The basic structural characteristic of the proverb by which it differs from many set, 
+reproduced and idiomatic language units is its linguistic status as a complete sentence. 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+877
+Proverbial sentences were considered clichéd predicative structures, unsusceptible to any 
+arbitrary change in their components, but nevertheless allowing for a certain lexical and 
+grammatical variation [Zhukov 1991; Levin 1984; Permiakov 1970; Tarlanov 1982]. Nu-
+merous dictionaries of proverbs of Russian or other languages traditionally include lan-
+guage units that do not have the structure of a complete sentence. As a result this differ-
+entiating structural characteristic of the proverb proved to have theoretical and practical 
+value.
+Inherent semantic proverbial features embraced a generalized meaning [Levin 1984; 
+Permiakov 1970; Tarlanov 1993], its aphoristic and instructive character [Kotova 2004; 
+Kunin 1996; Tarlanov 1993; Shadrin 1991] and imagery, normally dependent on meta-
+phor [Permiakov 1970: Tarlanov 1993]. 
+The question of the proverb belonging to linguistic signs or texts inevitably arose in 
+connection with defining its linguistic nature. Back in the 1920s, Anichkov stated that the 
+proverb was the shortest genre of literature, immediately preceding the fable, but belong-
+ing both to the sphere of literature and to the sphere of language [Anichkov 1992: 141]. 
+Permiakov believed the proverb had a triple nature, considering it first as a language phe-
+nomenon, second — as a logical unit, third — as an artistic miniature [Permiakov 1970: 
+8]. The scholar assumed that as a linguistic sign the proverb was the object of linguistics 
+and as a text — the object of folklore. 
+The text has semiotic functions, so the issue in question did not concern the viability 
+of the semiotic status of the proverb, but the viability of its status as a linguistic sign, and 
+hence the plausibility of the application of the research apparatus for linguistic signs to-
+wards it. V. V. Gvozdev considered the proverb the most complicated structure that could 
+be granted the status of a linguistic sign [Gvozdev 1983: 13]. Kotova regarded only fre-
+quently used proverbs as linguistic signs, denying this status to those not in common 
+usage. [Kotova 2004: 176]. N. N. Amosova totally excluded proverbs from the language 
+system, seeing them as self-sufficient units of communication [Amosova 1963: 145].
+Considering the controversial nature of the proverb, Permiakov placed it on a spe-
+cial language level — paremiological [Permiakov 1975: 250–251]. The introduction of 
+this level meant an innovative approach because it outlined a considerable group of units 
+(according to Permiakov, more than 24), characterized by certain common structural, 
+semantic and functional properties, and at the same time different from each other by 
+a number of other structural, semantic and functional parameters. The concept of the 
+paremiological level had a significant impact on Russian proverbial studies, but it did not 
+solve the problem of including or excluding proverbs from phraseology. 
+Proverbs as units of paremiology and phraseology 
+The problem of the borders of phraseology was not considered in foreign linguistics 
+because the latter addressed phraseological issues in general quite late. In Russian linguis-
+tics this problem, concerning a wide or narrow concept of phraseology, was solved in two 
+ways. Thus, Arkhangel’skii [Arkhangel’skii 1964], A. V. Kunin [Kunin 1996], T. Z. Cher-
+dantseva [Cherdantseva 1977] and N. M. Shanskii [Shanskii 1985] regarded proverbs 
+as part of phraseology, while Amosova [Amosova 1963], Zhukov [Zhukov 1991] and 
+A. I. Molotkov [Molotkov 1977] excluded them from phraseological units. Such prover-
+bial characteristics as idiomaticity, imagery, figurative meaning and stability of the gram-
+878 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+matical form during a substantial period of time justified their inclusion into phraseology 
+[Gaevaia 1990:6]. Proverbial characteristics preventing their unification with phraseologi-
+cal word-combinations encompassed the underlying statement and the ability of a proverb 
+to be an independent unit of communication, as well as the possibility of using a proverb 
+in its literal sense, which is totally unacceptable for any phraseological word-combinations 
+[Amosova 1963: 143–145; Zhukov 1991: 9–10; Molotkov 1977: 22]. 
+At present, this problem does not have a clear-cut solution and remains open. In 
+consequence, D. O. Dobrovol’skii assumes that, in theory, proverbs could be ranked as part 
+of phraseology and considered as phraseological units with a sentence structure; in prac-
+tice, paremiology is an independent area of humanities [Dobrovol’skii 2017: 196, 199]. 
+Lomakina considers paremiology as a section of phraseology [Lomakina 2016: 8–9] and 
+A. I. Gaevaia writes about the paremiological level of phraseology [Gaevaia 1990: 12]. 
+Kotova regards paremiology as an independent area of linguistic research, the object of 
+which is paremias in current usage (proverbs, folk aphorisms, tongue twisters etc.) [Ko-
+tova 2004: 176]. 
+The arguments of Russian scholars supporting or denying the relevancy of including 
+proverbs into phraseology have demonstrated the multifaceted and controversial nature 
+of proverbial characteristics, their difference from those of phraseological units and si-
+multaneously the close connection of proverbs and phraseological word-combinations. 
+Proverbs and sayings 
+In separating proverbs from the other constituents of the paremiological level, the 
+basic difficulty lies in the differentiation of proverbs and sayings, which are frequently in-
+tegrated both by researchers and dictionary compilers in view of the number of common 
+features. Drawing a border between the proverb and the riddle, the proverb and the apho-
+rism, or any other paremiological unit is regulated by structural, semantic, functional and 
+genetic characteristics of these units. The saying has the most uncertain and vague status 
+among the paremias due to the scholarly differences in its definition, which inevitably 
+results in the broadening or narrowing of the proverbial fund.1
+Permiakov drew the line between the proverb and the saying according to the for-
+mal, structural criterion. From his standpoint, the proverb is a complete, clichéd structure 
+(Мал золотник, да дорог / lit. “A ten-rouble coin is small, but valuable”). On the other 
+hand, the saying is an incomplete structure, which undergoes contextual change or ad-
+dition of components (Стреляет из пушки по воробьям — Он/Она/Петр стреляет 
+из пушки по воробьям / “…shoots sparrows with a cannon”2 — He/she/Peter shoots spar-
+rows with a cannon) [Permiakov 1970: 9]. Furthermore, Permiakov considered metaphor 
+to be an integral proverbial characteristic, while ranking clichéd sentences with a literal 
+meaning as folk aphorisms: Щи да каша — пища наша / “Cabbage soup and porridge 
+are our food” [Permiakov 1975: 266]. Likewise, Levin based the differentiation between 
+proverbs and sayings on the structural criterion, defining sayings as incomplete predica-
+tive structures with a contextual variety of components [Levin 1984].
+1 The term “proverbial fund”, denoting the whole collection of proverbs in a language, is widely used 
+in Russian proverbial studies.
+2 In Russian, unlike English, grammatical structures with the verb-predicate in a finite form, but with-
+out a subject, are feasible.
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+879
+Zhukov chose the semantic parameter as differentiating. The scholar defined prov-
+erbs as fixed folk statements with a figurative or figurative and literal meaning (Горбатого 
+могила исправит / “A hunchback will be fixed by his grave”; Чем бы дитя ни тешилось, 
+лишь бы не плакало / “It does not matter what the child plays with, what matters is that 
+the child does not cry”), and sayings — as fixed folk statements with a literal meaning 
+(Коса — девичья краса / “A plait beautifies a maiden”). The scholar also described prov-
+erb-and-saying sentences, combining the characteristics of proverbs and sayings and hav-
+ing some components in the figurative meaning, and some — in the literal (На сердитых 
+воду возят / “The angry carry the water”) [Zhukov 1991: 11–12]. Incomplete structures 
+like глаза на лоб лезут (у кого-либо) / “sb’s eyes are going onto his forehead” were classi-
+fied as phraseological units by Zhukov [Zhukov 1991:10].
+In this way, in Zhukov’s classification the structural criterion of a complete sentence 
+lies at the base of differentiating proverbs and phraseological units, but not proverbs and 
+sayings. Molotkov also classifies structures of the type вожжа под хвост попала (кому-
+то) / “the rein got under the tail of sb”, as verbal-propositional phraseological units [Mo-
+lotkov1977: 143]. Following Zhukov, Gaevaia differentiates proverbs and sayings as imag-
+ery and non-imagery predicative structures [Gaevaia 1990: 7].
+Tarlanov describes the proverb as a brief instructive sentence with a figurative mean-
+ing and a generalizing function [Tarlanov 1993: 167, 174]. The saying in his view can also 
+be a sentence, but it is identifiable with a synonym, can include components of concrete, 
+demonstrative semantics, and allows for the usage of verbs in the past indefinite [Tarlanov 
+1993: 174]. Mokienko regards the saying as a linguistic term synonymous with the term 
+“phraseological unit” [Mokienko 2010: 10].
+An important parameter for defining the proverb and differentiating it from the say-
+ing is the general or non-general meaning of the language structure under investigation. 
+For Permiakov, the opposition “general/non-general” does not constitute the basis for dif-
+ferentiation, however it does supply an additional characteristic to the units, differentiated 
+according to the structural criterion. Thus, all sayings and some proverbs belong to non-
+general sentences, but general sentences are represented only by proverbs, and never by 
+sayings (Permiakov 1970: 10).
+Levin’s approach to describing general and non-general proverbs is in tune with that 
+of Permiakov’s. As the scholar states, the proverbs Нашла коса на камень / “The scythe 
+has run against a stone” could be applied only to individual, particular situations and do 
+not fulfil the function of generalizing. In this respect, they differ from the sayings (Из-за 
+деревьев леса не видит / “… does not see the forest for the trees”) only as far as syntax is 
+concerned [Levin 1984: 119]. 
+E. M. Vereshchagin and V. G. Kostomarov affirmed that sayings, though referring to 
+typical situations, had a concrete or particular meaning, and formed a “bridge” between 
+phraseological units and proverbs [Vereshchagin, Kostomarov 1990: 7]. 
+N. L. Shadrin considered the aphoristic quality — the expression of a general com-
+plete thought in a brief form — as a differentiating feature of proverbs [Shadrin 1991: 
+62–64]. Zhukov asserted that all the three types of units in his classification (proverbs, 
+sayings and proverb-and-saying sentences) could relate either to particular or generalized 
+statements [Zhukov 1991: 11–12]. Tarlanov, on the contrary, regarded the generalizing 
+function as the differentiating proverbial feature [Tarlanov 1993: 174]. 
+880 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+In some later research works, clichéd sentences with a literal meaning were ranked as 
+proverbs [Zimin 2017; Ivanova 2002; Kotova 2004; Mokienko 2010]. 
+Russian scholars working with foreign languages built their classifications based 
+on the principal provisions of paremiology and the specific features of a language. Thus, 
+L I. Shvydkaia used the semantic differentiating criterion for English proverbs, the border 
+between proverbs and sayings being determined by the opposition “general — non-gen-
+eral” [Shvydkaia 1973: 6]. 
+In the studies of English proverbs, the differentiating structural criterion of Permia-
+kov and Levin could be applicable with some reservations due to the analytic nature of the 
+English language. The obligatory presence of the subject in the sentence a priori excludes 
+the existence of incomplete predicative structures, classified as sayings in Russian. By ad-
+hering to structural criterion it is possible to delineate sentences with a varying subject 
+or an attribute to the subject as sayings: His (her, your, Peter’s) geese are all swans. He (she, 
+Nick) has two stomachs to eat and one to work [Ivanova 2002: 31]. 
+As follows from the above, Russian scholars have applied three types of parameters 
+(completeness/incompleteness of the predicative structure; figurative/literal meaning; 
+generalizing/non-generalizing meaning) to classify fixed and reproducible sentences, 
+similar with regard to their structural and semantic properties. The primary importance 
+of the research along these lines was not determining a strict border between proverbs and 
+sayings, as this depends on the scholars’ views and can vary. The most important outcome 
+was the detailed outline of similarities and differences between large groups of language 
+units, which resulted in complex classifications and descriptions of these groups. It also 
+made it possible to apply with a certain degree of adaptation the same principles of analy-
+sis to paremiological units of other languages. 
+Proverbial semantics 
+Russian researchers determined largely the same components in the semantics of the 
+proverb, designated at times with different terms according to the views and concepts of 
+the researcher. The three basic components comprise: the meaning of the proverb (sig-
+nification/invariant meaning), inner form (image/imagery component/literary meaning/
+denotative meaning/etymology) and contextual meaning (referential meaning/concrete 
+situational meaning). Levin defined the meaning of the proverb as the contents that could 
+be expressed with the help of metalanguage, excluding the language and imagery charac-
+teristics. The contextual meaning was termed by the scholar as the referential meaning of 
+the proverb, which in his opinion depended on the situation much more than the meaning 
+of the word [Levin 1984: 109–110]. 
+An important concept for the analysis of the proverbial meaning is the generality or 
+normality quantifier, used by Levin and T. M. Nikolaeva to identify the generalizing mean-
+ing of the structure under consideration [Levin 1984: 120–125; Nikolaeva 1995: 314]. As 
+a rule, proverbs state some common law, so the components всякий (ая)/обычно/every/
+normally can be added to their structure: Новая метла чисто метет → Всякая/Обыч-
+но новая метла чисто метет / “A new broom sweeps clean” → “Every/Normally a new 
+broom sweeps clean”.
+Gvozdev singled out two types of proverbial meaning: invariant and concrete situ-
+ational. The invariant type is formed on the basis of a number of concrete situational 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+881
+meanings, which are the realization of the invariant meaning in the act of communication 
+and correspond to Levin’s understanding of the contextual meaning [Gvozdev 1983: 4, 7].
+The concept of the proverbial inner form was used by Zimin [Zimin 2017: 55, 64], 
+Ivanova [Ivanova 2002: 34–39], Kunin [Kunin 1996: 87], Mokienko [Mokienko 2010] and 
+other researchers. The studies of the inner form as a semantic category are closely con-
+nected with the examination of the components constituting the proverb, its syntax, and 
+logical and semiotic structure. Zimin and Kotova noted the possibility of the idiom in-
+clusion into the proverb [Zimin 2017; Kotova 2004]. This is evident with the example of 
+the proverb Чужую беду руками разведу, а к своей ума не приложу / “I can deal with 
+another’s trouble with both hands, but I can’t use my mind to cope with my own” which 
+includes the idiom ума не приложить / “use one’s mind” [Zimin 2017: 58]. The complex 
+manner of interaction between the phraseological unit and the proverb, and the possibil-
+ity of the former to precede the latter, was highlighted by Mokienko [Mokienko 2010: 
+12–13]. Describing the componential composition of the proverb, Seliverstova introduced 
+the concept of the binome to designate a set combination of two words, typical of a num-
+ber of proverbs and reflecting the patterns of lexical combinations in proverbial structures 
+[Seliverstova 2017: 259, 262].
+Proverbial fund as a system 
+The efforts of Russian scholars were directed not only at the study of the properties of 
+the proverb as such, but at the analysis of the whole collection of proverbs in a language, 
+called the proverbial fund. The important contribution of Russian scholars lies in the es-
+tablishment and description of the systematic character of the proverbial fund. 
+Permiakov considered the paremiological fund as a balanced and consecutive system, 
+stating that the list of its constituents was open to new ones, but as far as typology was 
+concerned it had to be acknowledged as closed, for there was no way to find a constituent 
+whose structure would not conform with the system [Permiakov 1975: 266]. The scholar 
+distinguished four logical-semiotic variants of proverbs based on the situations relating 
+to them, ultimately subdividing these variants into types, then — subtypes. [Permiakov 
+1970: 20]. Apart from the logical-semiotic taxonomy, Permiakov put forward a classifica-
+tion according to the proverbial features, grouped around a limited number of invariant 
+oppositions, such as “far — near”, “kind — evil”, “big — small”, etc. [Permiakov 1970: 
+30]. Such principles of systematisation of proverbs are relevant for the vast majority of 
+languages. 
+The concept of proverbial space introduced by Levin was of vital importance for sys-
+tematising the proverbial fund [Levin 1984: 108–109]. The scholar approached the con-
+cept of space from the aspect of mathematics, selecting two of its types for the analysis of 
+proverbs — topological and metrical. This approach allowed him to establish the property 
+of many dimensions, inherent to the proverbial space and explained by the fact that prov-
+erbs relate to each other in various respects (dimensions) according to various parameters. 
+The property of many dimensions resulted not only from the categorical differences of the 
+types of proverbial proximity (meaning, linguistic form, components, etc.), but also from 
+the fact that the very proximity of meanings is manifested along different semantic lines 
+[Levin 1984: 114]. Thus, the proverbial space was defined as a multi-dimensional con-
+tinuum with a varying density [Levin 1984: 115], the multi-dimensional property differ-
+882 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+entiating the proverbial space from the semantic field, which stipulates the consideration 
+of its constituents only in one plane. 
+The concept of the proverbial space was later elaborated on by many researchers, e. g., 
+by Yu. V. Nikolaeva [Nikolaeva 2000] and Seliverstova [Seliverstova 2017]. Seliverstova 
+described the proverbial space as a system with a complex structure, characterized by sta-
+bility and variety, and based not only on the paradigmatic relations between proverbs, but 
+on the codes, motives, and patterned fragments [Seliverstova 2017]. 
+Levin’s concept of the proverbial space was also in many ways the predecessor of the 
+cognitive approach to proverbs, which emerged at the turn of this century [cf. Ivanova 
+2002; Semenenko 2011] 
+Paradigmatic relations in the proverbial fund 
+Paradigmatic relations in the proverbial fund are reduced primarily to polysemantic, 
+homonymic, synonymic and antonymic relations, as well as to those between the vari-
+ants of one proverb. The description of these relations depended to a great extent on the 
+prevailing understanding of linguistic categories underlying them. Thus, the absence 
+of reliable criteria to draw the line between polysemy and homonymy, which allowed 
+Yu. D. Apresian to state the relativity of these linguistic notions and put forward the idea 
+of different degrees of polysemy and homonymy [Apresian 1974: 184–185], inevitably 
+had its impact on the definition of those phenomena in proverbial studies. Researchers 
+divided proverbs into polysemantic and homonymic on the strength of their own view 
+of the principles of that differentiation. Permiakov, for example, assumed that polysemy 
+was relevant only diachronically, while synchronous research was not expected to make 
+any difference between the two phenomena as they both were opposed to synonymy: one 
+sign with several meanings manifests homonymy, several signs with one meaning — syn-
+onymy [Permyakov 1974: 942]. Permiakov also described homonymy between different 
+types of paremias, e. g. between a proverb and a legal saying (Лежачего не бьют / “He 
+who lies on the ground should not be beaten” — a legal saying in the literal meaning and a 
+proverb in its metaphorical meaning) [Permiakov 1975: 264]. Contemporary researchers 
+Kotova and O. V. Raina tend to consider the semantic connection between meanings as 
+the criterion for polysemy [Kotova, Raina 2020]. 
+Levin regarded the absence of an obvious semantic connection as the manifestation 
+of homonymy [Levin 1984: 115]. Gvozdev defined polysemy on the basis of the dichoto-
+my “language — speech”: the invariant meaning belongs to a virtual proverbial sign and 
+the concrete situational meaning is realized in speech [Gvozdev 1983: 7–8]. Hence in his 
+opinion, polysemy is a phenomenon of speech, not language.
+The variety of the approach to the proverbial polysemy and homonymy for the rea-
+sons explained by Apresian does not diminish the significance of the thorough exploration 
+of the dynamic interaction between proverbial meanings and the specifics of their types.
+Other types and subtypes of systematic relations in the proverbial fund were also re-
+vealed by Russian scholars. Levin, e. g., analysed various cases of synonymous, quasi-syn-
+onymous, antonymous and quasi-antonymous relations [Levin 1984: 111–114]. Though 
+not being able to cover all the subtleties of these relations, discovered by the author, we 
+would like nevertheless to draw attention to one of his conclusions concerning the pos-
+sibility of coordination between the components and the logical or/and language structure 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+883
+without any similarity of meanings [Levin 1984: 114]. The illustrating examples (Всяк 
+кулик свое болото хвалит / “Every sandpiper praises his swamp”; Всяк кулик в своем 
+болоте велик / “Every sandpiper is great in his swamp”), in our opinion, demonstrate 
+another paradigmatic relation in the multi-dimensional proverbial fund. This relation 
+shows the importance of set images in the formation of a proverb, hence their belonging 
+to certain imagery patterns of the proverbial vision of the world, which deserves a detailed 
+investigation. 
+Levin also elaborated a thorough systematisation of the potential variability of Rus-
+sian proverbs [Levin 1984: 110–111], applicable to the proverbs of other languages. Mok-
+ienko pointed out that the current formation of anti-proverbs in Russian and other lan-
+guages enlarges the dynamic variability of traditional proverbs [Mokienko 2010: 13].
+The antonyms and synonyms of Russian proverbs of the paremiological minimum 
+and their Slavic parallels were scrupulously described by Kotova and Raina [Kotova, Raina 
+2020]. 
+Hence, it is possible to conclude that Russian scholars have laid the foundations and 
+outlined the directions of the research on the systematic organization of the proverbial 
+fund in any language. 
+Proverbial fund in sociohistorical, psychological and cultural context 
+Considerable significance can be attributed to the Russian studies of sociohistorical, 
+psychological, cultural and cognitive conditions involved in the formation and usage of 
+proverbs. 
+S. E. Nikitina notes that profound dependence on the community’s opinion was typi-
+cal of peasantry, because due to the traditional way of life in the peasant commune, the 
+personality was not separated from the society in the peasant culture. Folk texts (proverbs, 
+in particular) strengthened that dependence, providing a communal assessment to every 
+event [Nikitina 1989: 35]. 
+Not only social and historical conditions, but psychological factors have their due 
+impact on the formation and functioning of proverbs. T. M. Nikolaeva emphasised the fear 
+of a person of being left out of society and the important illusion of having a homogenous 
+social space behind oneself, creating the belief that one’s opinion coincides with the opin-
+ion of the crowd [Nikolaeva 1995: 311]. Proverbs offer a person the experience checked 
+by many generations, helping him to find directions in the social space and choose prop-
+er solutions to the encountered problems [Zimin 2017: 54; Ivanova 2006: 91; Nikolaeva 
+1995: 311]. Defined by Nikolaeva as a pragmatic tool, proverbs allow people to delete the 
+individual features of an event, incorporating it into the long row of analogies [Nikolaeva 
+1995: 311] and thus easing the interpretation of the situation. These properties, inherent 
+to proverbs in any language, exist within the framework of certain cultures, which has its 
+effect on proverbial semantics. 
+Russian paremiologists thoroughly explored the connection between proverbs and 
+culture, based on the cumulative function of language, i. e., the function of storing the 
+results of cognition and knowledge of the material and spiritual culture in linguistic signs 
+[Vereshchagin, Kostomarov 1990: 15; Teliia 1996: 226]. This largely laid the foundations 
+for cognitive and linguistic-and-cultural proverbial studies in the 21st century.
+884 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+V. N. Teliia described proverbs as the language of everyday culture, transferred from 
+one generation to another and reflecting the life philosophy of the people [Teliia 1996: 
+241]. The scholar defined proverbs as one of the most important cultural codes, owing 
+to their prescriptive nature [Teliia 1996: 218–219]. Researchers indicated that the na-
+tion’s world vision and interpretation in the context of cultural traditions was fixed in the 
+language, including proverbs [Teliia 1996: 231], the usage of proverbs implying not only 
+the exchange of information, but also the exchange of cultural landmarks and viewpoints 
+[Kovshova 1999: 170]. These statements about the relationship between proverbs and cul-
+ture are relevant for the proverbial analysis in any language. 
+There are numerous studies of Russian proverbs in the context of culture [Savenkova 
+2002; Seliverstova 2017; Tarlanov 1982, and others]. An impressive contribution in this re-
+spect was made by Mokienko, who explored the imagery and motives of Russian proverbs 
+based on Russian culture and lifestyle [Mokienko 1986]. 
+Cross-linguistic analysis of proverbs 
+Russian scholars also defined the principles of the cross-linguistic analysis of prov-
+erbs and carried out diverse proverbial studies along these lines.
+Permiakov observed that proverbs of different nations, modelling the same or much 
+similar situations, were very close to each other despite their specific ethnic, geographical, 
+historical or linguistic features [Permiakov 1970: 20]. The difference between proverbs of 
+different languages, in his opinion, primarily concerns the imagery and the cultural com-
+ponents [Permiakov 1970: 29]. It is interesting that in this connection Permiakov men-
+tions differences in the language “model of the world” [Permiakov 1970: 20], foreseeing 
+in a way the descriptions of the proverbial picture of the world and its separate fragments 
+thirty-forty years later. 
+Levin described the paremiological paradox, the essence of which lies in the fact that, 
+on the one hand, proverbs express the national character, the “soul of the nation”, but on 
+the other, the meaning of the majority of proverbs can be referred to as universal, resulting 
+in the existence of proverbial synonymy among languages [Levin 1984: 123]. 
+Anikin divided the cases of coincidence among proverbs of different languages into 
+those resulting from borrowing and those resulting from typological similarity [Anikin 
+1996]. The scholar emphasised that the similarity stipulated by borrowing was closely con-
+nected with the numerous cases of colloquial change, as happened, e. g., when folk prov-
+erbs were formed on the basis of Greek proverbial aphorisms [Anikin 1996: 368–370]. 
+Typological similarity in its own right is independent coincidence, based on the resem-
+blance of the mode of life and traditions [Anikin 1996: 370, 378; Mokienko 1975: 83]. At 
+the same time, scholars emphasized that similar proverbs of different nations tend to have 
+their own shades of meaning [Anikin 1996: 371], and every nation has its own endemic 
+proverbs [Levin 1984: 122]. 
+On the whole, these scholars invariably accentuated that in the cross-linguistic analy-
+sis of proverbs it is necessary to take into account the interconnection and interaction of 
+different cultures. With reference to this, Mokienko rightfully indicates that it is difficult 
+to find the exact boundary between your own and foreign culture [Mokienko 1986: 18]. 
+These fundamental principles of cross-linguistic analysis, taking into consideration 
+the mutual permeation of proverbial funds of various languages and their specific cul-
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+885
+tural and linguistic characteristics, laid the foundations for many cross-linguistic studies 
+of proverbs. Among illustrating examples of such case studies dating from different years 
+and based on different research paradigms, it is possible to mention those undertaken by 
+Gvozdev on Russian and French proverbs [Gvozdev 1983], E. F. Arsent’eva, Ivanova — on 
+English and Russian [Arsent’eva 1989; Ivanova 2002], Kotova — on Russian and Slavic 
+[Kotova 2004], and Yu. V. Nikolaeva — on Italian and Spanish [Nikolaeva 2000].
+Functioning in text and discourse
+Proverbial usage studies were focused on the pragmatic functions of proverbs in the 
+text and discourse, the dependence of those functions on the genre, the analysis of the 
+contextual transformations of proverbs and the interaction of the semantic components 
+of the proverb in the context. 
+Permiakov outlined seven pragmatic functions of paremias: modelling, instructing, 
+predicting, magic, negative-communicative, entertaining and ornamental [Permiakov 
+1975: 255–259]. The scholar pointed out that each type of paremias had its own domi-
+neering and optional functions. Hence proverbs tend to realize modelling and instructing 
+functions, but sometimes they may fulfil others, e. g., prediction (Нет дыма без огня / 
+“There is no smoke without fire”) [Permiakov 1975: 255–259]. The modelling function 
+consists in the ability of the proverb to be not only the sign of various life situations, but 
+also the tool for modelling various stereotypical situations [Permiakov 1975: 251]. This 
+definition was important for the subsequent determination and description of cognitive, 
+psychological and sociohistorical reasons for resorting to a proverb. 
+Dobrovol’skij pointed out the proverbial functions of generalization, recommenda-
+tion and explanation [Dobrovol’skij 2017: 196–198]. 
+Levin focused on the mechanism of proverbial nomination. While building a model 
+of the contextual usage of the proverb, the scholar presumed the interaction of three se-
+mantic layers: 
+• the literal meaning of the proverb; 
+• its basic meaning, related to the pattern of the situation; 
+• the contextual concrete meaning, belonging to the sphere of speech, while the 
+other two belong to the sphere of language [Levin 1984: 119]. 
+Apart from general descriptions of the regularities in the usage of proverbs, there are 
+works on their functions in texts of various genres. 
+Gaevaia and Gvosdev explored diverse forms of the interaction between proverbs and 
+fiction texts, and the stylistic devices for transforming proverbs [Gaevaia 1990; Gvozdev 
+1983]. Both researchers stated the disruption of the “external” semantic coordination be-
+tween the proverb and the text [Gaevaia 1990: 4; Gvozdev 1983: 5]. Lomakina described 
+the wide range of proverbs, employed by L. N. Tolstoy, and demonstrated the formal, 
+judgmental and conceptual devices of explicating the communicative intention in their 
+contextual usage [Lomakina 2016]. E. S. Syshchikova studied the perlocutionary effect of 
+proverbs and sayings in newspaper texts [Syshchikova 2007]. S. V. Sidorkov analysed the 
+role played by proverbs in everyday discourse and literary texts [Sidorkov 2003].
+The corpus research of proverbs, gaining a wider scope nowadays [Nikolaeva; Po-
+tapova 2018], enables researchers to acquire new data about the functioning of proverbs 
+886 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+in various contexts. N. A. Potapova, for example, studied Russian paremias, proverbs in 
+particular, with the lexeme камень / “stone” in literary, journalistic, science fiction and 
+colloquial texts of the 19th — beginning of the 20th century. The scholar based her re-
+search on the Russian Language National Corpus and analysed the proverbial functions 
+and transformations in the corpus-aggregated texts [Potapova 2018].
+Paremiography 
+Lexicographic or paremiographic principles of presenting proverbs in dictionaries 
+and reference books did not escape the attention of Russian scholars either. It is quite justi-
+fied to say that the basic ways, employed by the compilers to arrange proverbs in a diction-
+ary, are listing them in the alphabetic order, by thematic and lexical classification, or by 
+their logical pattern [Gaevaia 1990: 8]. The main difficulty consists in giving an adequate 
+definition of the proverbial meaning, this difficulty being explicable by the complex nature 
+of the proverbial semantics in general, its imagery, the implicit shades of meaning, and a 
+wide range of potential situations for the usage of the proverb. For this reason dictionary 
+compilers often replace the definition by the description of situations, in which a proverb 
+can be used. 
+Levin suggested interpreting the meaning of the proverb with a special metalanguage, 
+which could be based on the natural language, or could be symbolic as well as mixed 
+[Levin 1984: 110]. 
+Zhukov stated the principles for interpreting the meaning of proverbs, sayings and 
+proverb-and-saying sentences, asserting that proverbs required different approaches de-
+pending on whether they had figurative or figurative and literal meanings [Zhukov 1991: 
+12–14].
+Lomakina worked out the methodology of displaying in a dictionary paremias and 
+phraseological units used by Tolstoy [Lomakina 2016].
+From Kotova’s standpoint, common proverbs must primarily be the object of pare-
+miography, their frequency being determined by the compilation of the paremiological 
+minimum, based on the sociolinguistic experiment [Kotova 2004: 9, 33]. In the Russian-
+Slavic dictionary of proverbs with English parallels, Kotova gave the degree of proverbial 
+frequency in modern Slavic languages for the first time in multilingual paremiography 
+[Kotova 2000]. 
+Yu. V. Nikolaeva highlighted the importance of corpus research for tracking frequent-
+ly used proverbs to be included into bilingual dictionaries and multilingual dictionaries 
+of proverbial parallels [Nikolaeva 2000]. The researcher provided convincing arguments 
+concerning the usefulness of the corpus method for avoiding the contradiction between 
+the dictionary as a reflection of the language system and the dictionary as a text-produc-
+ing tool, obsolete proverbs being easily eliminated from the dictionary with this approach. 
+In our opinion, modern paremiography can greatly benefit from the postulate of 
+A. N. Baranov and Dobrovol’skij which explains the necessity of reflecting the inner form 
+of phraseological units in their definitions [Baranov, Dobrovol’skij 2008: 190–193]. The 
+extrapolation of this approach to the display of proverbs in dictionaries will make it pos-
+sible to envelop the total semantics of the proverb and delineate all implications, created 
+by the imagery. 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+887
+The elaborated principles of proverbial lexicography were implemented in practice 
+and resulted in the production of sizable dictionaries of Russian proverbs, which were 
+compiled during different periods and numbered among others, those by Zhukov [Zhu-
+kov 1991], Zimin and A. S. Spirin [Zimin, Spirin 1996], Kotova [Kotova 2000], Mokienko 
+et al. [Mokienko et al. 2010]. 
+Experimental research
+Experimental research, undertaken by a number of domestic scholars, was aimed to 
+establish the frequency of usage and the degree of comprehension of selected proverbs, 
+which informants displayed. Levin was quite justified in saying that the existence of a 
+proverb in the proverbial fund did not reflect its frequency and required special studies 
+[Levin 1984: 122]. At the same time, the scholar noted that field research was obstructed 
+by the low frequency of proverbs in speech, the inevitably limited selection, which pro-
+duced statistical errors, and the social stratification of population [Levin 1984: 126].
+In the 1970s, an experimental survey was carried out under the supervision of Per-
+miakov, resulting in the compilation of the paremiological minimum, which numbered 
+1500 Russian proverbs, riddles, omens and other paremias in frequent usage at the time. 
+[Permiakov 1971]. The materials of the experiment and its methodology were subse-
+quently used in research conducted by other scholars.
+Kotova, for example, relied on the abovementioned materials and methodology in 
+the development and implementation of the sociolinguistic experiment revealing com-
+mon Slavic proverbs by means of surveying informants — native speakers of Belorussian, 
+Bulgarian, Polish and several other languages [Kotova 2004]. The impact of Permiakov’s 
+experimental work on international paremiology and concurrently the vulnerability of 
+some parameters and results of his experiment were analysed by Mokienko [Mokienko 
+2010: 14–15].
+Experimental research into the understanding of proverbs was conducted by 
+V. G. Didkovskaia and L. A. Petrova [Didkovskaia, Petrova 2014], and some other scholars. 
+The indirect confirmation of the frequent usage of proverbs is supplied by the research, 
+based on modern texts, in particular, media texts, because their authors principally resort 
+to well-known proverbs to realize their purposes of manipulation and influence. 
+Corpus research [Potapova 2018] can also provide new data about the frequency of 
+proverbs, both diachronically and at the relatively modern period of time. 
+New approaches
+New approaches to the analysis of proverbs include cognitive and linguistic-and-cul-
+tural studies, which have been characterized by intensive development in Russian paremi-
+ology during the last twenty years. These approaches were partly prepared by the preced-
+ing tradition to analyse proverbs in the context of culture [Kovshova 1999; Teliia 1996, and 
+others] in addition to teaching a foreign language through studies of a country’s customs 
+[Vereshchagin, Kostomarov 1990], and partly by the emergence of the new research ap-
+paratus, which underwent further development and improvement in the process of its 
+application towards proverbs. The abovementioned remark of Permiakov about the model 
+of the world reflected in proverbs [Permiakov 1970: 20] was further elaborated upon in 
+888 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+works on the proverbial picture of the world and conceptual/cognitive structures underly-
+ing various proverbial groups (cf. [Ivanova 2002], and many others). 
+Ivanova developed several principles for modelling proverbial concepts and proto-
+types as well as analyzing the proverb’s cognitive structure [Ivanova 2002]. Semenenko 
+explored the cognitive-pragmatic nature of the proverb and elaborated the methodology 
+of the cognitive-pragmatic modelling of paremiological semantics [Semenenko 2011]. 
+The numerous linguistic-and-cultural studies, aimed at delineating the connection be-
+tween the conceptualization and interpretation of the world in proverbs and the culture of 
+the nation, include works by O. E. Nosova, L. B. Savenkova, A. A. Svitsova and many others 
+[Nosova 2008; Savenkova 2002; Svitsova 2005].
+Conclusion 
+In view of the above, it is possible to come to the following conclusions: 
+1. The diversity of approaches to the analysis of proverbs and the multifaceted char-
+acter of the research are especially apparent when the focus is on works written during the 
+past fifty years. Proverbs were studied in different research paradigms and from different 
+aspects, the views of the leading domestic scholars varied, revealing both common and 
+different features. The differentiation of views on many problems resulted in a deeper and 
+more sophisticated tackling of the controversial points in the theory and practice of pro-
+verbial studies. 
+2. Domestic scholars gave a comprehensive description of structural, semantic and 
+pragmatic properties of proverbs, and elaborated their universal logical-semiotic patterns. 
+Consideration of the proverb in comparison with the other constituents of the paremio-
+logical level and the phraseological fund, made it possible to determine the categorical 
+and differentiating proverbial characteristics. An important aspect of proverbial classifica-
+tions consisted in taking into account the gradual shift from one group of linguistic signs 
+to another, incorporating the variety of features and their similarity in adjacent groups. 
+Important concepts for the typological characteristics of proverbs comprise those of the 
+complete predicative structure, logical-semiotic pattern, “multilayered” semantics, inner 
+form and the quantifier of generality. 
+3. It is possible to give credit to Russian scholars for not only describing various 
+aspects of the nature of the proverb, but for the thorough studies of the general system of 
+the proverbial fund, the analysis of the paradigmatic relations within it and the implemen-
+tation of the concept of multi-dimensional proverbial space for modelling the dynamics 
+of these relations. The undertaken studies truly surpass anything done elsewhere in the 
+world and provide useful guidelines for further investigations, based on other languages.
+4. The formation and usage of proverbs were analysed in the context of sociohis-
+torical, psychological, cultural conditions and the interaction of various cultures and 
+languages of various nations. Domestic scholars gave both the general description of the 
+pragmatic functions of proverbs and the specific features of their implementation in vari-
+ous genres. Experimental studies launched the research direction that was aimed at iden-
+tifying the factual usage of proverbs during a certain time period. This helped to bridge 
+the gap between the proverbial fund as a collection of proverbs in potential usage and the 
+actual inclusion of proverbial signs in text and discourse at a very early stage of prolific 
+proverbial studies.
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+889
+5. The characteristic features of domestic proverbial studies are that, on the one hand, 
+these studies are based on the achievements of the predecessors and targeted at the im-
+plementation of the existing theoretical postulates to the new material, on the other hand, 
+they are in the state of constant intensive development and elaboration, which particularly 
+found its manifestation in the numerous cognitive and cultural-and-linguistic works of 
+the 21st century.
+6. Research into the semantic structure of the proverb and the system of the pro-
+verbial fund laid the foundations for developing paremiographic principles, resulting in 
+practice in the compilation of diverse dictionaries of Russian proverbs and bi- and multi-
+lingual proverbial dictionaries.
+Dictionaries
+Zhukov 1991 — Zhukov V. P. Dictionary of Russian proverbs and sayings. Moscow: Russkii iazyk Publ., 1991. 
+537 p. (In Russian)
+Zimin, Spirin 1996 — Zimin V. I., Spirin A. S. Proverbs and sayings of Russian people. Moscow: Siuita Publ., 
+1996. 544 p. (In Russian)
+Kotova 2000 — Kotova M. Iu. Russian-Slavic dictionary of proverbs with English parallels. Dmitriev P. A. 
+(ed.). St. Petersburg: St. Petersburg University Press, 2000. 360 p. (In Russian)
+Mokienko et al. 2010 — Mokienko V. M., Nikitina T. G., Nikolaeva E. K. Complete dictionary of Russian 
+proverbs. Moscow: Olma media grupp Publ., 2010. 1024 p. (In Russian) 

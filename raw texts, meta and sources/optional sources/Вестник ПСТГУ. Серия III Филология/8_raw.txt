@@ -1,0 +1,831 @@
+104
+Вестник ПСТГУ.
+Серия III: Филология.
+2021. Вып. 68. С. 104–124
+DOI: 10.15382/sturIII202168.104-124
+Жуковская Надежда Петровна,
+канд. филол. наук,
+МГИМО(У) МИД РФ,
+Российская Федерация, 119454, 
+г. Москва, пр. Вернадского, д. 76
+nadjou@mail.ru
+ORCID: 0000-0002-2668-3191
+ЦЕРКОВНОЕ БЛАГОЧЕСТИЕ. ВОЦЕРКОВЛЕННОСТЬ. 
+ФРАГМЕНТ СИСТЕМАТИЧЕСКОГО ФРАНЦУЗСКО-
+РУССКОГО СЛОВАРЯ РЕЛИГИОЗНОЙ ЛЕКСИКИ
+Н. П. ЖУКОВСКАЯ
+Аннотация: Настоящая работа продолжает публикации отдельных частей «Си-
+стематического французско-русского словаря религиозной лексики» и пред-
+ставляет собой статью словаря, посвященную лексике, необходимой для опи-
+сания практической деятельности и проявлений благочестия верующих право-
+славных и французских католиков. Речь идет именно о действиях (напр., мо-
+литься, преклонять колени, брать благословение, возжигать свечку) — термины, 
+описывающие душевные движения и состояния, составляют предмет отдельной 
+статьи. Целью было представить основной вокабуляр, используемый в обеих 
+конфессиях. В добавление к данной главе лексику практических действий на-
+божности можно будет найти в темах «Пост», «Паломничество», «Благотвори-
+тельность», «Церковные Таинства», «Церковь», «Молитва» и пр.
+Ключевые слова: лексикография, систематические словари, французско-рус-
+ский словарь, религиозная лексика, церковное благочестие.
+Manifestations de la piété
+Activités des ﬁ dèles
+План статьи
+1. Généralités: Оrthopraxie
+2. Devoirs religieux envers Dieu
+3. Expérience orante:
+ 
+3.1. Prière
+ 
+3.2. Façons de prier
+ 
+3.3. Intentions de prière
+4. Gestes d`humilité et attitudes (postures) corporelles
+5. Participation des laïcs aux responsabilités d’Eglise
+6. Autres actions des ﬁ deles
+7. Travail intellectuel des croyants
+8. Rapports avec le directeur de conscience
+© Жуковская Н. П., 2021.
+Вестник ПСТГУ. Серия III: Филология. 2021. Вып. 68. С. 104–124.
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+105
+1. ОRTHOPRAXIE
+Оrthopraxief — правильное делание (обряды, религиозные предписания, поведение, 
+обычаи)
+(orthodoxief — правильное учение; православие)
+Venir à Dieu — прийти к Богу
+Traditionsf, pl divines — божественные традиции (заложенные Христом и относящиеся 
+к вере и нравам)катол (Le Petit Robert)
+Traditions f, pl ecclésiastiques — благочестивые обычаи (нередко быстропроходящие)
+Ecclésialisationf orth — воцерковление (процесс)
+vief ecclésiale — церковная жизнь
+Еnracinementm dans l’Eglise — укоренение в Церкви
+Vivre (selon) l’Evangile — вести жизнь по Евангелию
+Mener une vie évangélique (sacramentelle) — вести жизнь по Евангелию (тáинствен-
+ную жизнь)
+Vivre religieusement, mener une vie religieuse — вести благочестивую жизнь
+Faire son Salut — спасаться (активно участвовать в деле собственного спасения, ис-
+правления)
+Un agir juste  —  нравственное, праведное жизнеустроение
+Avoir un extérieur modeste (la tenue vestimentaire qui honore le Seigneur) — выглядеть 
+скромно (носить одежду, свидетельствующую об уважении к Господу)
+Avoir une conduite régulière, édiﬁ ante — вести себя в соответствии с правилами, 
+примерно (так, как полагается)
+Les ﬁ dèles doivent (extrait de la Charte des ﬁ dèles catholiques d`après le Droit Canon):
+– Vivre en communion avec l’Esprit Saint (can. 209)
+– Mener une vie sainte (can. 210)
+– S’eﬀ orcer de faire connaître le Christ (can. 211)
+– Adhérer à ce que les pasteurs ... enseignent de la foi (can. 212)
+– Subvenir aux besoins de l`Eglise (exercice du culte, entretien du clergé, soutien 
+à l’apostolat, aide aux pauvres (can. 222)
+      —
+Верующие должны (выдержки из Хартии верующих католиков согласно Каноническо-
+му Праву):
+– Жить в общении с Духом Святым (прав. 209)
+– Вести святую жизнь (прав. 210)
+– Стараться распространять учение Христа (прав. 211)
+– Принимать и исполнять все, чему пастыри учат о вере (прав. 212)
+– Поддерживать Церковь в ее потребностях (отправление культа, содержание 
+клира, помощь в апостольском служении, помощь неимущим) (прав. 222)
+Accomplir les devoirs de son état — исполнять обязанности по званию (делать добро-
+совестно то, что входит в обязанности, напр., начальника, подчиненного, матери, воина 
+и пр.)
+Публикации
+106
+2. DEVOIRS RELIGIEUX ENVERS DIEU
+Pratiquef religieuse —
+1) (la) «религиозная практика», соблюдение (отправление) обязанностей, на-
+лагаемых Церковью
+2) (une) конкретное проявление благочестия в виде соблюдения отд. установ-
+ления, обряда (= actem de piété)
+~ des commandements — cледование заповедям
+«La pratique religieuse étant l`observance des rites de sa religion, celle de l`Eglise catholique de 
+France consiste à prier Dieu, à assister à la messe, à se confesser, à se marier à l`église, à faire 
+baptiser l`enfant et lui donner une éducation religieuse, l`élever dans la foi chrétienne, à avoir 
+des funérailles religieuses» — «Так как религиозная жизнь подразумевает исполнение об-
+рядов, то религиозная жизнь в лоне Католической Церкви Франции состоит в том, 
+чтобы молиться Богу, присутствовать на мессе, исповедоваться, заключать церковный 
+брак, крестить ребенка, обеспечивать ему религиозное воспитание — воспитать в хри-
+стианской вере, хоронить в соответствии с религиозным обрядом»
+Pratiquer (sa religion) — отправлять религиозные обязанности, жить церковной 
+жизнью (внутренне и внешне жить в соответствии со своей религией)
+«Dernièrement il y a peu de gens qui pratiquent» — «Последнее время мало воцерковленных 
+людей»
+Devotionsf, pl, exercicesm, pl de dévotion (de piété, spirituels), pratiquesf, pl dévotes (pieuses), 
+pratiquesf, pl des dévotions (de piété) — благочестивые практики (= pratiques 
+religieuses)
+consacrer tout son temps aux dévotions — посвящать все время благочестию
+faire ses dévotions, observer les devoirs du culte, accomplir ses devoirs religieux — 
+исполнять религиозные обряды
+pratiquer la piété, faire des exercices de piete, remplir ses pieux exercices, se livrer à des 
+exercices pieux — упражняться в благочестии
+Pratiquant/-e — воцерковленный, практикующий христианин (≠ non-pratiquant)
+~ régulier — лицо, постоянно и аккуратно исполняющее все религиозные пред-
+писания, исправный прихожанин
+~ occasionnel — человек, от случая к случаю заходящий в церковь, «случайный» 
+прихожанин («захожанин»ирон.)
+* * *
+Commandementm — заповедь
+incommensurable grandeurf des ~s — неизмеримое величие заповедей
+«Les commandements surpassent (dépassent) la mesure humaine» — «Заповеди превосходят 
+человеческую меру»
+~ de l’amour — заповедь любви
+êtrе attaché (ﬁ dèle) aux ~s — быть верным заповедям, хранить заповеди
+fonctionf purifcatrice des ~s à l`égard des péchés et des passions — очищающее дей-
+ствие заповедей в отношении грехов и страстей
+«Dieu a donné ses commandements pour redresser l`âme» — «Господь преподал заповеди, 
+чтобы восстановить изначальное состояние души»
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+107
+Оbservationf (gardef, pratiquef, accomplissementm) des commandements — хранение 
+(соблюдениe) заповедeй, следование заповедям (≠ transgression — нарушение)
+observancef des préceptеs des commandements — соблюдение предписаний Священ-
+ного Писания
+«La pratique (observation) des commandements guérit les facultés de l`homme: désirante, 
+irascible, rationnelle — de la perversion dont les passions sont nées» — «Соблюдение запо-
+ведей исцеляет способности человека: вожделевательную, раздражительную и мысли-
+тельную — от извращения, из которого происходят страсти»
+observer (pratiquer, suivre, respecter, garder, accomplir) les commandements (ce que 
+Dieu a commandé) — соблюдать (хранить) заповеди, следовать заповедям, хо-
+дить в заповедях Божиих (≠ violer, transgresser — нарушать)
+accomplir (exécuter) ce que Dieu a commandé (la volonté de Dieu) — исполнять за-
+поведанное Господом (волю Божию), совершать то, что Бог повелел
+persévérer dans les commandements — стойко держаться заповедей
+observer les enseignements des Saints Pères — следовать учению святых отцов
+observer les préceptes moraux — блюсти моральные предписания
+Acquérir des mérites — приобретать заслуги катол
+аccumuler des mérites — умножать заслуги катол
+аctionf méritoire — достойный поступок, заслуживающий похвалы
+* * *
+Aller à la paroisse — ходить в приходскую церковь
+аller (venir) se recueillir à l`église (sur la tombe de qn) — прийти помолиться в цер-
+ковь (на могилу)
+aller à confesse (venir de confesse) — идти на исповедь (с исповеди)
+Aller à la messe — 1) ходить в церковь
+                                 2) идти на мессу
+Entendre la messe; assister à la messe (a l’oﬃ  ce) — присутствовать на мессе (на
+службе, богослужении)
+assister (assistancef ) aux oﬃ  ces (religieux) — присутствовать (присутствие) на 
+службax
+Se sanctiﬁ er — освящаться (молитвой, благочестивой жизнью)
+«Les mystères sanctiﬁ ent ceux qui y participеnt» — «Таинства освящают участвующих в них»
+«La prière sanctiﬁ e tout homme» — «Молитва освящает каждого человека»
+Suivre la messe dans son missel — следить за мессой по служебнику
+Devoirm pascal — обязанность причащения в пасхальную неделю катол
+Fréquentationf des sacrements (de la messe) — присутствие на (участие в) таинствах 
+(на мессе, обедне правосл, литургии правосл)
+se recueillir, jeûner avant la confession en vue de recevoir la communion — говеть (гото-
+виться к причастию: поститься, размышлять о своих грехах) перед причастием правосл
+préparation f pour la communion (jeune, prière, fréquentation de l`église, méditation, 
+recueillement) — говение перед причастием (пост, молитва, посещение служб, раз-
+мышления перед исповедью и причастием) правосл
+Публикации
+108
+Faire son jubilé — предпринять предписываемые действия, имеющие целью по-
+лучить полное отпущение грехов катол
+Sanctiﬁ er le dimanche — святить день воскресный, чтить святость воскресенья
+pratique dominicale — посещение церкви и причащение по воскресеньям
+* * *
+3. EXPÉRIENCE ORANTE
+Expériencef orante — молитвенный опыт
+Pratiquef orante — молитвенная практика
+vief de prière — молитвенная жизнь
+Se réfugier vers Dieu — прибегать к Богу, искать защиты у Бога
+Recourir à Dieu (la Sainte Vierge) — прибегать за помощью к Богу (Святой Деве)
+Se placer sous la protection d`un saint — заручиться покровительством (искать за-
+щиты) какого-л. святого
+Se recommander
+~ à Dieu — молить Бога о помощи
+~ à Notre-Dame — поручить себя Деве Марии (Богородице), ввериться заступ-
+ничеству Девы Марии (Богородицы)
+~ aux prières de qn — просить молитв кого-л.
+Chercher à obtenir miséricorde — просить (испрашивать) милости Божией
+3.1. Prière (см. также Prières)
+Prièref — молитвa
+faire ~, dire (réciter) la (ses) ~(s), etre en ~ (en devotion) — читать, творить 
+молитву(-ы)
+«La prière contribue à la paciﬁ cation de l`être: elle préserve du sentiment d`angoisse insinué 
+par les démons.
+Elle opère l`uniﬁ cation de l`esprit et de l`âme tout entière, c’est un moyen de sanctiﬁ cation» — 
+«Молитва способствует умиротворению человека: она защищает от тревоги, наве-
+денной бесами. Она творит собирание духа и всей души — это способ освящения»
+recitationf de la ~ — чтение молитвы, молитвословие
+se mettre en ~ — стать на молитву
+vaquer à la ~ — заниматься молитвословием, молиться
+se livrer à l`exercice de la ~ — предаться молитвам
+se plonger (s`abîmer) dans la ~ — погрузиться в молитву
+s`appliquer à la ~ — трудиться в молитве (≠ abandonner la prière — оставить мо-
+литву)
+garder (рersévérer dans) la ~ — держать молитву (не оставлять)
+être assidu à la ~ , persévérer dans la ~ — быть в постоянной молитве
+être fervents et recueillis dans la ~ — молиться горячо и неотвлеченно (нера(з)ссе-
+янно)
+«L`antique ennemi cherche à éloigner de la prière» — «Древний враг ищет отвратить от 
+молитвы»
+invoquer qn dans les ~s — призывать кого-л. в молитвах
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+109
+pratiquer la ~ (oraisonf) mentale (vocale) — практиковать мысленную (устную) 
+молитву
+garder la révérence dans les ~s — быть благоговейным в молитвах
+élever son ame à Dieu par la ~ — возносить молитвой душу к Господу
+joindre sa ~ à celle de Х... — присоединиться к молитве Х….
+perturber, troubler la ~ — помешать молитве
+murmurer des ~ s — шептать молитвы
+marmonner des ~ s; des oremus, des patnotres iron — бормотать молитвы
+faire (dire) des conﬁ teors — повторять покаянные молитвы
+sceller une ~ d`amen — закончить (заключить) молитву словом аминь
+bourdonm (bourdonnementm des ~s) — жужжание молитв (молящихся в церкви)
+canonm de prière, règlef de ~ s orth — молитвенное (келейное) правило
+Аudacef dans la prière — дерзновение в молитве
+Réchauﬀ ementm de notre coeur orth — возгревание сердца
+«La prière enﬂ amme (réchauﬀ e)» — «Молитва воспламеняет (согревает) душу (возгревает 
+молитвенный дух)»
+Ranimer le don de la foi — возгревать дар веры
+Distractionf dans les prières — рассеяние (отвлечение) в молитве
+~ légère, tenace — легкое (случайное) отвлечение; стойкое рассеяние
+chasser les ~ s — изгнать (отогнать) рассеяние
+«La distraction traverse l`esprit» — «В голове мелькают посторонние мысли»
+être distrait dans la prière — быть рассеянным на молитве
+«La prière souﬀ re de distraction ou d`inattentions» — «Молитва страдает от отвлечения 
+или невнимательности»
+Actem — 1) духовный (религиозный) порыв, душевное движение; поступок во 
+ 
+       имя веры
+ 
+  2) ~ dе foi, d`espérance, de charité, de contrition — молитвы, свидетель-
+ 
+        ствующие об этом состоянии катол
+réciter (faire) son acte de foi — прочитать особую (установленную) молитву о 
+преданности католической вере
+* * *
+3.2. Façons de prier
+Se mettre en présence de Dieu — вставать (предстать) на молитву, cтать пред Богом
+Se tenir devant Dieu — предстоять Богу
+Epancher l`âme devant le Seigneur — изливать душу пред Господом
+Prier par le Saint Esprit — молиться Духом Святым
+Prier — молиться; читать, творить молитву, совершать молитвословие
+~ (Dieu, la Vierge, les saints de …) — молиться (Богу, Деве Марии, святым…)
+~ sans relâche jusqu`à ce que Dieu ait pitié de lui — молиться неотступно, чтобы 
+помиловал (сжалился) Господь
+Публикации
+110
+~ la Vierge d`intercéder pour qn — молиться Деве Марии о заступничестве за…
+~ dévotement, avec piété, ferveur — благоговейно (пылко) молиться
+~ sans distraction — молиться нера(з)ссеянно
+~ avec recueillement et compunction — молиться сосредоточенно и с умилением 
+(умилительно устар)
+~ sans cesse — молиться непрестанно
+~ avec crainte et tremblement — молиться со страхом и трепетом
+~ à haute voix (à voix basse) — молиться вслух (тихо)
+~ vocalement — молиться устно, словесно
+~ mentalement — молиться мысленно, внутренней (умной) молитвой
+~ pour les malades — молиться за (о) недугующих (болящих)
+~ pour les vivants et les ﬁ dèles trépassés (pour les défunts) — молиться за (о) ныне 
+живущих и усопших (прежде почивших)
+~ pour les âmes du purgatoire — молиться за (о) души(ах) чистилища катол
+~ pour (a l’intention) de qn (des morts) — молиться за (о) кого-л. (ком-л.)
+~ pour ceux qui vous persécutent — молиться за (о) творящих напасть, гоните-
+лях (-ей)
+~ pour les gouvernants — молиться за (о) власти (-ях) предержащие (-их)
+~ pour les agonisants, pour la recommandation de l’âme — читать молитвы на отход 
+души, при исходе души от тела, читать отходную молитву
+~ pour pour les pécheurs (la conversion des âmes pécheresses) — молиться о грешни-
+ках (об обращении грешных душ)
+~ pour être preservé de toute tribulation — молиться о сохранении в скорбях (на-
+пастях)
+~ sur les tombes des martyrs — молиться на могилах мучеников
+Recommander qn à Dieu — поминать кого-л. перед Богом
+«Nous vous recommandons, Seigneur, ceux pour qui nous prions» — «Спаси, Господи, и по-
+милуй тех, о ком мы молимся»
+Faire mention de ceux qui sont dans l`aﬄ  iction (en diﬃ  culté) ou le péril — поминать в 
+молитвах, страждущих или в опасностях сущих (находящихся)
+Solliciter la prière de qn — просить молитв у кого-л.
+Demander l`intercession de qn auprès de Dieu — просить ближних о заступлении 
+перед Богом
+recommander son âme à la prière des siens — просить молитв у близких
+se recommander à qn — попросить помолиться о себе
+Invoquer
+~ (le nom de) Dieu, l`Eternel en quelque lieu que ce soit — призывать имя Божие 
+(приносить моления, воззвать/взывать к Богу, Всевышнему) во всяком месте 
+(призывать Его помощь при помощи молитв)
+~ l`aide d`un saint pour un malade — призывать помощь святого больному
+«J`invoquerai le Nom du Seigneur…» — «Имя Господне призову…»
+~ le don de la grâce — испрашивать благодать
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+111
+~ la Vierge pour la délivrance des prisonniers, pour les marins soumis aux périls de 
+la mer — обращаться к Деве Марии об освобождении в заключении сущих 
+(плененных), о моряках, опасностям на море подвергающихся
+invocationf — молитвенное призывание (короткая и истовая молитва)
+~ au saint — призывание святого
+Implorer (qn, qch) — молиться, взывать кому-л. о чем-л., вымаливать (обращаться 
+с просьбой)
+~ Dieu (le Ciel) — молить (умолять) Бога, взывать к Богу (к Небесам)
+~ le secours (l`aide et la protection) de Dieu — молить Бога о помощи, испраши-
+вать защиту
+~ la grâce de Dieu — молиться о благодати Божией
+~ le ciel — взывать к небесам
+~ l`inﬁ nie miséricorde de Dieu (la divine miséricorde) — взывать о бесконечном ми-
+лосердии Божием
+~ l`intercession clémente de la Très Ste Marie — взывать о милостивом заступни-
+честве Пресвятой Богородицы
+~ (humblement) le suﬀ rage des saints — (смиренно) взывать о святом заступни-
+честве
+solliciter l`intercession d`un saint — просить о заступничестве (предстательстве) 
+святого
+Livrer à Dieu la détresse de ceux qui souﬀ rent — пpосить Бога о страждущих 
+Clamer (сrier) vers Dieu — взывать (вопиять) к Богу
+lancer un cri vers — воззвать к Богу
+Supplier le Seigneur (tout en pleurs) — (слезно) умолять Господа
+demander la grâce d`une bonne mort — испрашивать (просить) мирной кончины
+Adorer Dieu — поклоняться Богу (глагол употребляется исключительно в отношении 
+Бога)
+1) отправлять культ: славить Бога, жить по Его предписаниям, следовать опр. 
+pитуалам Его почитания (демонстрировать внешние признаки культа Богу: осе-
+нение крестом, коленопреклонения и пр.) (= rendre honneur (rendre un culte) à)
+adorer en esprit et en verite — поклоняться в духе и истине
+2) испытывать благоговейные чувства к Господу
+Adorationf du Seigneur, culte de latrie — поклонение Богу
+«Le culte de latrie comme la forme la plus élevée d’adoration qui ne peut être accordée qu’à 
+Dieu» — «Поклонение может быть оказываемо исключительно Богу»
+аller faire son adoration — идти на службу поклонения (Святым Дарам) катол
+аdorationf de la Croix — поклонение Кресту; крестное целование
+être en adoration (devant Dieu) — поклоняться (Богу)
+devant le St Sacrement — поклоняться Святому Причастию катол
+Honorer Dieu, rendre hommage à Dieu — чтить Бога (следуя опр. ритуалам)
+Публикации
+112
+Louer
+~ Dieu — приносить славословие (воздавать, возносить хвалу) Богу, восхва-
+лять Бога
+~ la bonté de Dieu — восхвалять благость Божию
+рrodiguer des louanges — расточать хвалы
+Chanter
+~ des louanges à Dieu — петь хвалу Богу, славить Бога
+~ le Nom de Dieu — воспевать имя Господа
+~ la gloire au milieu des épreuves — славить Господа посреди испытаний
+~ une louange incessante — возносить неустанную хвалу
+«Louange et gloire à son Nom!» — «Хвала и слава имени Его!»
+Magniﬁ er le Seigneur — величать (возвеличивать, превозносить, восхвалять) Го-
+спода
+Exalter Dieu (la Mère de Dieu, un saint) — вели чить/величать (превозносить) Бога 
+(Богородицу, святого)
+«Mon âme exalte le Seigneur» (Cantique de Marie Luc 1. 46–55) — «Вели чит душа моя 
+Господа»
+Gloriﬁ er Dieu, rendre (donner|) gloire a Dieu — славить (прославлять, славословить) 
+Господа, во(з)ссылать славу (приносить славословие) Господу
+Exaltationf , gloriﬁ cationf du Seigneur — славословие, прославление Гoспода (сле-
+дуя опр. pитуалам)
+exaltationf du nom et de la grandeur de Dieu — прославление имени и величия 
+Господа
+Bénir (le Nom de) Dieu (de, pour) — благословлять (имя) Бога (за), (воз)благодарить 
+Господа, славить Его (за благодеяния) (= louer, gloriﬁ er)
+pour ses bienfaits — благословлять Господа за Его благодеяния
+de la grâce qu`il a faite — благословлять Господа за полученную благодать (ми-
+лость)
+Rendre grâce(s) à Dieu, remercier — (воз)благодарить Господа, возносить (возда-
+вать/воздать) благодарение Богу
+rendre la gloire et l`action de grâce à Dieu — славить и благодарить Господа
+«Il est juste et bon de te rendre la gloire à Dieu» — «Достойно и праведно есть поклоняться 
+Господy»
+rendre des actions de grâce à Dieu — восхвалять и благодарить Господа (в мо-
+литве)
+être vigilant dans l`action de grâce — бодрствовать с благодарением
+remercier le Créateur de ses bienfaits, des grâces qu`il a faites — благодарить Созда-
+теля за Его благодеяния, за оказанные милости
+demander une action de grâce, un Te Deum, un molében orth — заказать благодар-
+ственный молебен
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+113
+Eulogie(s)f — благодарения, благословения
+рrononcer des ~s — благодарить
+Vénérer (honorer, révérer) la Vierge (les saints, une image sainte, une icône) — покло-
+няться, почитать
+1) совершать установленные обрядом действия (= vouer (rendre) un culte à la 
+Vierge Marie, à un saint)
+vénérer la croix et l`Evangile présentées par le prêtre — приложиться к кресту
+и Евангелию
+venir vénérer l`Epitaphionorth — прийти приложиться к Плащанице
+venerer des reliques (une icôneorth) — приложиться к мощам (к иконе)
+2) испытывать благоговейные чувства, глубоко почитать (см. Qualités des 
+croyants)
+Vénérationf — 1) почитание (культ) Девы Марии (= cultem d`hyperduliе, marial),  
+ 
+           святых и ангелов (= cultem de dulie) (совершать определенные действия,
+ 
+            связанные с культом)
+ 
+           2) чувство благоговения, глубокого почитания (= piété, dévotion) 
+ 
+           (см. Qualités des croyants)
+avoir de la ~ pour un saint (la Vierge) — глубоко почитать какого-л святого (Бо-
+городицу)
+Acclamer le Seigneur — бурно приветствовать Господа (бурно выражать восторг, 
+радость)
+acclamation f — возглас приветствия
+Exulter — ликовать
+Chanter, reciter des psaumes (des litanies) — читать псалмы, петь литании катол
+psalmodier — читать псалмы нараспев, монотонно, без выражения
+chant psalmodique — псалмодия
+Mettre qn dans ses litanies — молиться за кого-л. катол
+Entonner un hymne — запеть хвалебную песнь
+* * *
+Prier le chapelet — молиться по четкам
+Dire, reciter son chapelet (le rosaire) — читать молитву, перебирая четки, молиться 
+по четкам
+récitationf du chapelet — молитва по четкам
+Egrener (dévider) son chapelet (son rosaire) — молиться по четкам (по розарию)
+Faire passer (courir) les grain(e)s du chapelet entre ses doigts — перебирать (протяги-
+вать) четки (при молитве)
+Dire une dizaine de chapelet — прочитать (протянуть) десять молитв по четкам
+* * *
+3.3. Intentions de prière
+Intention f — прошение в молитве о ком-л. или чем-л.катол (оформленное в виде 
+записки)
+Публикации
+114
+écrire une ~ de prière (pour) — написать в записке, о ком или о чем верующий 
+просит священника помолиться катол
+~ pour rendre grâce pour qn ou qch — чтобы поблагодарить за кого-л. или что-л.
+~ pour aider son prochain — чтобы помочь ближнему
+~ pour le salut de l`âme de qn — о спасении души кого-л.
+prier à l`~ de — молиться специально о ком-л., о чем-л.
+prier pour les intentions — молиться по прошениям (устным или по запискам):
+déposer une ~ de prière — оставить (подать) священнику прошение о мо-
+литве катол (≈ записку правосл)
+conﬁ er à un prêtre une ~ particulière — подать священнику особое прошение 
+(об отд. человеке или событии) катол
+joindre à l`intention générale une ~ particulière — просить священника молиться 
+об определенном человеке (вписать имя в записку правосл) в добавление к общим 
+прошениям мессы
+compléter les prières par les ~s locales — в добавление к общим прошениям мессы 
+просить помолиться о местных проблемах катол
+envoyer ses ~s de prières — подать прошения о молитвах катол
+«Priez pour Marie — «Помолитесь за Марию»; «Je prie pour que… — молюсь за то, что-
+бы…»;
+«Je demande… (que…) — я прошу о… (чтобы)»; «Ste Vierge, intercède pour ma soeur/prie 
+pour ma soeur/ je te conﬁ e mon ﬁ ls/ restaure notre mariage — Дева Мария, помоги моей 
+сестре/молись за мою сестру/вручаю тебе моего сына/ восстанови наш брак)
+Inscrire (écrire) un nom sur un feuillet orth — подать записку о...
+Dyptiquem orth — 1) записка верующего с именами для поминания на службе свя-
+щенником
+ 
+ 
+2) помянник, диптих, заздравник (список лиц, о которых читаются 
+ 
+ 
+молитвы постоянно); cинодик (список усопших)
+inscrire (écrire) un nom sur un ~ — подать записку на двойном листке (правосл во Фран-
+ции)
+«Pour le repos de l`âme des serviteurs de Dieu…» orth — «О упокоении рабов Божиих…..»
+«Pour la santé et le salut de l`âme des serviteurs de Dieu…»orth — «О здравии и спасении душ 
+рабов Божиих...»
+* * *
+Commander (faire dire) une messe, faire célébrer une messe (pour un défunt, un vivant), 
+demander de dire une messe à l`intention de qn, demander une intention de messe (une 
+célébration privée de l`Eucharistie) — заказать частную мессу (просить молитв за опре-
+деленного человека, усопшего или ныне живущего) катол
+Fonder une messe — внести деньги для регулярного служения мессы катол
+* * *
+4. GESTES ET ATTITUDES (POSTURES) CORPORELLES D`HUMILITÉ
+Gestesf et attitudesf, pl (postures f, pl) corporelles d`humilité — жесты и положения тела, 
+выражающие смирение
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+115
+Associer le corps à la prière, prier avec son corps — вовлекать тело в молитву, молить-
+ся телом
+humble posturef du corps (à la prière) — смиренное положение тела (при молитве)
+Signem de (la) croix — крестное знамение, осенение крестом
+faire le signe de la croix, se signer — перекреститься, осенить себя (знаменовать-
+ся) крестом, совершить (положить на себя) крестное знамение
+Joindre les mains — молитвенно сложить (соединить) руки
+Croiser les mains — скрестить руки
+Se dresser les bras tendus vers le ciel — выпрямиться (встать), воздев руки к небесам
+Lever les mains (les bras) au ciel — воздевать руки к небесам
+Lever les yeux au ciel pour prier — возносить очи горé (к небесам) на молитве
+Prier la tête dans les mains — молиться, обхватив руками голову
+* * *
+Se tenir debout pendant les oﬃ  ces — стоять во время богослужений
+stationf debout pendant les oﬃ  ces — стояние во время богослужений
+Prier debout les bras ouverts — молиться в позе оранты (стоя, разведя руки)
+Genuﬂ exionf, ﬂ échissementm du genou — преклонение коленa катол
+Flechir le genou (droit), faire (esquisser) une genuﬂ exion devant l’autel, mettre un genou
+à terre — слегка склони(-я)ться (присесть), преклони(-я)ть правое колено (пе-
+ред алтарем) катол
+saluer le Saint-Esprit d`une génuﬂ exion — преклонить колено, чтобы почтить Духа 
+Святого
+Agenouillementm — коленопреклонение, преклонение колен
+se mettre à genoux, s’agenouiller (devant, au pied de) l`autel (les icônes) — преклон(я)ить 
+колени перед алтарем (иконами)
+se tenir à genoux — стоять на коленях
+ﬂ echir (plier, ployer) les genoux — преклони(я)ть колени
+se relever — встать с колен
+Inclinationf , inclinaisonf, enclinm, metanief orth — поклон
+petit enclinm — преклонение (склонение) головы или верхней части тела
+s’incliner (devant) — кланяться/поклониться, класть/положить поклоны
+~ devant Dieu — склоняться (класть поклоны) перед Богом
+~ devant les icônes — поклониться иконам, класть поклоны перед иконами
+incliner la tête — преклонить голову
+Métanief orth — глубокий поклон (метание)
+petite ~ orth grand enclinm — поясной поклон (с прикосновением руки к полу — 
+profonde inclination du buste)
+grande ~ orth , рrosternationf —
+1) земной поклон (стоя на коленях, прикасаться лбом к полу) правосл
+2) падение ниц (поза — лежа на животе, распластав руки в форме креста) катол
+Публикации
+116
+Se prosterner (devant, au pied de) —
+1) простереться, пасть ниц перед…катол
+2) полагать (класть, бить) земные поклоны правосл
+faire des prosternations devant les icônes — класть поклоны перед иконами
+S`allonger sur le sol — распластаться на земле (на полу церкви)
+* * *
+Baiser (embrasser) — les pieds du Christ (l’Evangile, le cruciﬁ x, la croix) — прикла-
+дываться/приложиться к ногам Христа (к Евангелию, ко кресту, к распятию, 
+к иконе правосл)
+Baisementm
+de la croix — целование крестa
+des pieds, de la mule du Pape — целование туфли папы катол
+baiser l’anneau de l`évêque (la main du prêtre) — целовать (прикладываться к) 
+eпископский/-ому перстень/нюкатол (руку/к руке священника)
+* * *
+Faire bénir une icône (par un prêtre) — освятить икону у священника правосл
+Placer l`icône dans le «beau coin» de la pièce de séjour — поместить икону в «красном 
+углу» комнаты правосл
+5. PARTICIPATION DES LAÏCS AUX RESPONSABILITÉS D`EGLISE
+Prisef de conscience du laïcat des responsabilités qui lui incombent dans mission de 
+l`Eglise — осознание (понимание) мирянами своей миссии в Церкви
+Ministèrem des laïques (laïcs) — особое служение мирян
+S`accomplir dans les activités extérieurs — состояться во внешней деятельности
+Partager ses expériences — делиться опытом (знаниями, умениями)
+Mettre au service local le don qu`on a reçu de Dieu — поставить на службу местной 
+Церкви дар, полученный от Бога
+Recevoir le mandat de l’évêque pour une mission determinée (ministère “institué”: lecteur, 
+acolyte) — получить благословение епископа на выполнение определенного слу-
+жения («церковное» служение: чтец, аколит) катол
+Participer à la vie сommunautaire — участвовать в жизни общины:
+– assurer la tâche de la catéchèse — вести (обеспечивать преподавание) группы ка-
+техизации
+– amener (conduire, gagner) les âmes au Christ — приводить души ко Христу
+– animer les groupes de prièrеs — вести группы молитвословия
+– сommuniquer la Parole de Dieu aux autres — передавать слово Божие другим
+– аvoir des conversations édiﬁ antes — нести пользу своими беседами (высказы-
+вать душеполезные мысли, иметь душеполезное для других общение)
+– témoigner du Christ (см. ниже)
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+117
+– contribuer à l`animation liturgique avec le clergé: choix du thème de prédication, 
+conduite des chants, lecture, distribution de la communion — помогать в органи-
+зации служб: выбор темы проповеди, руководство хором, участие в чтении 
+отрывков Священного Писания, в причащении верующих
+– distribuer les livres de prières — раздавать молитвенники на службе  
+– servir la messe — прислуживать на мессе катол , литургии правосл, служить обедню 
+(помогать священнику)
+servantm de messe, acolytem — алтарник (лицо, духовное или мирское, прислу-
+живающее при богослужении)
+– répondre la messe — прислуживать на мессе (читать ответы на возгласы священ-
+ника)
+répondantm — мирянин, во время службы отвечающий на возгласы свя-
+щенника катол
+– encenser — кадить, совершать каждение
+– psalmodier — петь псалмы
+renouveler les cierges — заменять погасшие свечи новыми
+mettre (placer, allumer, (faire) brûler) un cierge (à) — поставить свечку,
+затеплить свечу
+allumer des cierges à la gloire du Seigneur — зажечь (возжигать) свечи во славу
+Божию
+brûler un cierge à un saint — поставить свечку святому в благодарность
+(с просьбой)
+placer les cierges devant (à côté) des icônes — ставить свечи перед иконами правосл
+allumer une lampe d’icône, lampade orth — зажечь (затеплить, возжечь) лампаду
+allumer la lampe rouge du St. Sacrement — возжечь красную лампаду Святого 
+Причастия (стоит перед табернаклем в знак того, что в нем находятся освященные 
+гостии) катол
+allumer une veilleuse  — 1) зажечь (затеплить) лампаду правосл
+ 
+ 
+ 
+    2) зажечь низкую свечу катол
+ﬂ eurir (orner) l`autel — украшать цветами престол (трапезу)
+ﬂ eurissementm de l`autel — украшение престола цветами
+déposer l`Evangéliaire sur l`autel — поставить (положить) Евангелие на трапезу
+dépoussiérer les statues — стирать пыль со статуй
+оrganiser les agapes — организовать совместные трапезы
+agapef — 1) дружеская трапеза в раннем христианстве, сопровождающая 
+ 
+             таинство Евхаристии, вечеря любви
+ 
+             2) (pl.) совместная трапеза прихожан (обычно после службы) правосл
+* * *
+Communauté animée par l`amour fraternel — община, воодушевляемая братской лю-
+бовью
+S’entraider, aider les uns les autres — вспомоществовать друг другу
+Нonorer tout le monde — почитать всех, оказывать уважение ко всем (см. также 
+Bienfaisance-Charité, Vie des frères)
+Публикации
+118
+* * *
+Témoigner (de sa foi) — (за)свидетельствовать свою веру (о своей вере) (рассказать 
+(принести свидетельство) о том, как живут верой) (= аttester de sa foi)
+~ du Christ — свидетельствовать о Христе (утверждать истинность христианства)
+Témoignagem — свидетельство о вере
+~ de vie — жизнь и поведение, соответствующие заявлениям о вере (убежде-
+ниям)
+donner son ~ (personnel) — рассказать о личном опыте веры во Христа
+rendre ~ à (pour) — свидетельствовать о ком-л.
+аnnoncer le ~ de Dieu — возвещать свидетельство Божие
+porter lе ~ de sa foi — свидетельствовать о вере (правильно жить)
+«Le témoignage passe à travers des comportements» — «Свидетельство о Христе являет 
+себя через дела»
+porter lе ~ de la Рarole — принимать участие в катехизации, рассказывать о сво-
+ем пути
+recueillir les ~s — собирать свидетельства о личном опыте веры во Христа
+Témoinsm,pl du Christ — 
+1) aпостолы 
+2) верующие во Христа, живущие в соответствии со своей верой
+* * *
+(Faire) sonner les cloches — бить в колокола
+«Les cloches scandent (rythment) la vie paroissiale» — «Колокола отмеряют (сопрово-
+ждают) приходскую жизнь»
+sonner le tocsin — бить в набат
+sonner les matines, les vêpres, la messe — звонить к заутрене (к вечерне, к обедне)
+sonner pour l`oﬃ  ce — благовестить, совершать благовест (звонить к началу бого-
+служения)
+sonner l’Angelus (du soir) — звонить к (вечерней) молитве катол
+sonner le glas, tinter pour le glas — звонить по усопшему, звонить в колокол, из-
+вещая об агонии, смерти или похоронах кого-л. (медленный, мерный звук от пе-
+риодического удара по одной стороне колокола)
+«Le glas annonce la mort d`une personne ou accompagne l`enterrement» — «Похоронный 
+звон сообщает о чьей-л. смерти или сопровождает похороны».
+sonner pour les trépassés (en Bretagne) — звонить по усопшим (в Бретани)
+Мettre une cloche (les cloches) en branle, donner le branle, brimbaler, sonner en branle 
+(à la volée, à toute volée) — раскачивать (приводить в движение) колокол, звонить 
+с максимальным размахом, «во все колокола»
+Carillonner, sonner à toute voléе, en branle — трезвонить, звонить во все колокола
+«En basculant la cloche on la sonne à voléе» — «Праздничного звона достигают, сильно 
+раскачивая колокол»
+сarillonner une fête — сопровождать праздник трезвоном
+Bourdonner — бить в большой колокол (ударяя языком в обе стороны)
+(Faire) tinter la cloche, sonner en tintement — прозвонить, ударить в колокол один 
+раз (часто, созывая на службу) катол
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+119
+Frapper une cloche, piquer la cloche (l`heure) — прозвонить, ударить в колокол один 
+раз (с одной стороны, указывая время)
+(см. также Objets du culte)
+* * *
+Donationf, oﬀ randef — пожертвование, приношение, вклад в церковь
+«Oﬀ randes pour les cierges» — «Пожертвования на (за) свечи»
+faire donation d`une icône — делать вклад в виде иконы (в монастырь)
+apporter son oﬀ rande — делать пожертвования
+oﬀ rande anathèmatique — пожертвование во искупление последствий анафемы
+apporter son obole — внести лепту
+«L`amour de Dieu implique l`oﬀ rande eﬀ ective de soi-même» — «Любовь к Богу выражает-
+ся в деятельной самоотверженности»
+donateurm — донатор (даритель, жертвователь)
+Oﬀ rande votive, ex-voto m — приношение по обету, вотив (экс-вото)
+appendre (suspendre) des ex-voto (coeur, béquilles, jambe, bateau etc) — прикрепить 
+к изображению Бога или святого вотив (сердечко, костыли, ногу, кораблик) в 
+качестве благодарности за выздоровление или спасение
+«Le ﬁ dèle suspend un ex-voto pour remercier d`une grâce obtenue» — «Верующий прикре-
+пляет (подвешивает) вотив, чтобы поблагодарить за полученную милость»
+anathème m — подношение Богу, вотив (в раннехристианской Церкви)
+Oblationf — 1) дар, поднесенный Богу, Церкви, ее служителям
+ 
+       2) вклад в монастырь (церковь) истор
+ 
+       3) лицо, предмет, пожертвованный Богу
+Faire des libéralités au prêtre — делать пожертвования (добровольные выплаты)
+священнику
+Contribuer au casuel du prêtre — платить священнику за совершение треб
+Oﬀ rande (honorairesm, pl ) de messe — пожертвование в приход (на расходы по содержа-
+нию церкви и священников, отправлению культа) катол
+payer (verser) les honoraires de messe (l`obit, la rétribution d`un oﬃ  ce particulier) — 
+оплатить частную мессу (заупокойную службу, требу)
+Faire la quête, la collecte, quêter — собирать пожертвования в церкви или на бого-
+угодные дела
+quêteurm — сборщик пожертвований
+tendre la sébile (le plateau) au moment de la quête — протягивать деревянную круж-
+ку (поднос) для пожертвований
+mettre l`argent dans le tronc — опустить деньги в ящичек для сбора пожертво-
+ваний
+Публикации
+120
+6. AUTRES ACTIONS DES FIDELES
+Faire un (le) chemin de (la) Croix — участвовать в обходе стаций (изображений пути 
+Христа на Голгофу)
+рrier (méditer) à chacune des étapes du сhemin de Croix — молиться на каждой 
+cтации (station)
+«Le Vendredi saint les ﬁ dèles empruntent le chemin de Croix» — «В Страстную Пятницу ве-
+рующие участвуют в обходе стаций и общей молитве»
+Déﬁ ler dans lа procession — участвовать в крестном ходе (в церковном шествии)
+«Les ﬁ fdèles se rassemblent pour une marche derrière une croix» — «Верующие собираются 
+на крестный ход»
+* * *
+Décorer le sapin (l`arbre de Noël) — поставить и украсить елку
+Installer la crèche — поставить вертеп
+Peindre (colorier) les oeufs — красить яйца правосл
+Cuire la brioche de Pâques — печь пасхальный кулич правосл
+manger la pâque (gâteau de fromage blanc) — вкушать пасху правосл
+7. TRAVAIL
+M INTELLECTUEL DES CROYANTS
+Nourrituref de l`âme, de l`esprit, spirituelle — духовная пища
+Etudier l`Evangile — изучать Евангелие
+«Dans l`Evangile sont consignés la vie et l`enseignement du Christ» — «В Евангелии запечат-
+лены жизнь и учение Христа»
+«La lecture de l`Evangile nourrit (alimente) la vie chrétienne» — «Чтение Евангелия питает 
+жизнь христианина»
+Penser à Dieu — размышлять (мыслить, разуметь) о Боге
+Méditer
+~ qch (une pensée) — обдумывать какую-л. мысль
+~ sur qch — размышлять о (духовное упражнение) катол
+~ en gardant le silence — предаваться богомыслию в безмолвии
+Méditer une parole d`Evangile — обдумывать определенное место из Евангелия
+méditationf des Evangiles — размышление над Евангелием
+livretm de la méditation quotidienne de la Parole (versets, phrases pour la réﬂ exion) — 
+сборник стихов, отрывков для ежедневного размышления над словом Бо-
+жиим катол
+méditer sur les souﬀ rances du Christ — размышлять над муками Христа катол
+Parolef de Dieu — слово Божие
+la рarole eﬃ  cace — действенное слово (Божие)
+adhésionf à la Parole de Dieu — преданность слову Божиему
+apprentissage actif de la Parole de Dieu — активное изучение слова Божия
+accueillir la Parole de Dieu — принять слово Божие
+se rendre perméable à la Parole de Dieu — расположить себя к усвоению слова 
+Божия
+méditer la Parole de Dieu — обдумывать, размышлять о слове Божием
+Н. П. Жуковская. Церковное благочестие. Воцерковленность...
+121
+garder la Рarole de Dieu — хранить слово Божие
+assimiler la Рarole par l`âme — усваивать слово душой 
+se nourrir de la Parole de Dieu — питаться (окормляться) словом Божиим
+сonsolider sa foi par l`écoute, l`accueil, la proclamation, la vénération de la Parole de 
+Dieu — укреплять (усиливать) веру слушанием, принятием, возвещением, по-
+читанием слова Божия
+Lecturesf, pl édiﬁ antes qui portent à la piété — душеполезные книги, располагающие 
+к набожности (благоговению)
+lecturef des maîtres spirituels — чтение духовных учителей
+se pénétrer de la pensée des apôtres — проникнуться мыслью апостолов
+8. RAPPORTS AVEC LE DIRECTEUR DE CONSCIENCE
+Avoir besoin d`une direction spirituelle — нуждаться в духовном окормлении
+Demander conseil à des hommes expérimentés — испрашивать совета опытных мужей
+Prendre un directeur de conscience, se placer sous la direction spirituelle de… — выбрать 
+кого-л. духовником, вручить себя духовному руководству кого-л.
+être dirigé par un père spirituel — жить под руководством духовного отца
+se laisser conduire par un directeur de conscience — отдаться под руководство ду-
+ховного отца
+être parrainé par son maître spirituel — быть окормляемым духовным учителем
+être porté par les prières de son père spirituel — жить под защитой молитв своего 
+духовного отца
+Cheminementm spirituel sous la conduite du père X — духовное возрастание под руко-
+водством отца Х
+Avoir (être dans) de bonnes dispositions à l`égard du père spirituel — доверять (хорошо
+относиться к) духовному отцу
+Se conﬁ er au starets — предаться старцу
+se conﬁ er à son père spirituel — довериться духовному отцу
+Entretienm de vive voix avec un starets — устная беседа со старцем
+Avoir des pensées malignes (troublantes) — иметь смущающие помыслы
+Soumettre (découvrir) sa pensée au père spirituel — открыть свой помысел духовному 
+отцу
+Manifester les pensées — исповедовать помыслы (духовному отцу)
+manifestationf des pensées — исповедание (откровение) помыслов
+manifestationf fréquente et suivie — частое и постоянное исповедание помыслов
+dépollutionf des pensées — очищение помыслов
+Ecouter les enseignements… — слушать поучения (назидания), внимать поучениям
+Interroger son père spirituel — вопрошать духовного отца
+demander conseil à son père spirituеl — просить совета у духовного отца
+(≠ résister aux conseils — противиться советам)
+Accueillir (recevoir) avec foi les conseils du père — принимать с верой советы (духов-
+ного) отца
+Avoir le coeur disponible pour recevoir les conseils du père spirituel — иметь сердечное 
+расположение принимать советы (внимать советам) духовного отца
+Публикации
+122
+Se soumettre (obéir) aux jugements du père spirituel — подчиняться (слушаться) 
+суждениям(-ий) духовного отца
+Se plier aux ordres du confesseur — подчиниться приказаниям исповедника
+Obéissancef à son père spirituel — послушание духовному отцу
+se livrer à l`obéissance à son starets — предать себя в послушание старцу
+faire qch par obéissance (envers son рère spirituel) — сделать что-л. из послушания 
+(за послушание) (духовному отцу)
+Fils m/Fillef spirituel/lle de … — духовное чадо…
+Disciple m qui résiste à son directeur — прекословный ученик
+désobéissancef au père spirituel — непослушание духовному отцу
+résistancef (insoumissionf) aux ordres des supérieurs — непокорство духовным вла-
+стям
+Recevoir de grandes consolations de son prêtre — получить утешение от своего свя-
+щенника
+Demander la bénédiction aux porteurs de la dignité sacerdotale — взять благословение 
+у духовенства
+demander la bénédiction du père spirituel — испрашивать (попросить) благослове-
+ние у духовного отца
+recevoir (accueillir) la bénédiction au prêtre — взять (принимать, получить) благо-
+словение (благословляться) у священника
+* * *
+Elever l`enfant dans la crainte de Dieu — воспитывать ребенка в страхе Божием
+Bénir ses enfants — благословлять(-ить) детей (при вступлении их в брак, перед своей 
+смертью), поручая их благоволению Господа
+Vouer (consacrer) l`enfant à la Vierge — посвятить ребенка Деве Марии (благочести-
+вая практика) катол
+Vouer au blanc et au bleu — дать обет, что первый год жизни ребенок будет носить
+цвета Богородицы (благочестивая практика) катол

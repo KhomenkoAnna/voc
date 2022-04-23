@@ -1,0 +1,1525 @@
+2020. № 2 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+С. / Pp. 7–30
+ 
+Voprosy Jazykoznanija
+Resolving scope ambiguity: 
+Lexicon, pragmatics, information structure
+Valentina Yu. Apresjan
+National Research University Higher School of Economics, Moscow, Russia; 
+Vinogradov Russian Language Institute, Moscow, Russia; vapresyan@hse.ru
+Abstract: This paper presents a corpus study of factors involved in disambiguating potentially ambigu-
+ous sentences with negation and universal quantiﬁ er all in written English, such as I haven’t heard all 
+these details. Ambiguity in such sentences results from potential diﬀ erences in scope assignment. If 
+negation scopes over the quantiﬁ er, we get the interpreta tion of partial negation: ‘I have heard some 
+of these details’. If negation scopes over the verb, we get the interpretation of total negation: ‘I hav-
+en’t heard any of these details’.
+While there is abundant research on the phenomenon of scope ambiguity and its disambiguation 
+via prosody, syntax and semantics, less is known about the pragmatic mechanisms that allow speak-
+ers to infer intended scope readings from the lexical environment in actual texts. In order to study the 
+correlation between the lexical set-up of not + Verb + all sentences, their pragmatically plausible inter-
+pretations, their information structure, and their scope readings in actual usage, we analyze about 1500 
+sentences extracted from EnTenTen15 Corpus and the Corpus of Contemporary American. Our study 
+demonstrates that diﬀ erent lexical instantiations of this construction are associated with diﬀ erent prag-
+matic scenarios and, hence, with diﬀ erent information structures and scope readings.
+The interpretations of partial negation (quantiﬁ er negation) and total negation (verb negation) dif-
+fer with respect to semantics, pragmatics and information structure. Namely, a focused quantiﬁ er pro-
+duces partial negation, while a focused verb produces total negation. Quantiﬁ er negation entails literal 
+interpretation of the quantiﬁ er all in its direct quantiﬁ cational meaning (I haven’t talked to [all] my stu-
+dents); verb negation mostly entails emphatic interpretation of all in its meaning of negative emphasis 
+(I don’t [want] to talk to all these idiots).
+Quantiﬁ er negation is considerably more frequent than verb negation due to its pragmatic neutrality. 
+In the absence of verb negation markers, it is the default interpretation of V not all structures. Because 
+of its association with quantiﬁ cation, quantiﬁ er negation frequently occurs in the context of predicates 
+that take a quantiﬁ cational argument as a direct object (to include, to list, to ﬁ nish), or easily allow quan-
+tiﬁ able or multiple objects (to know, to meet requirements, to answer criteria). Such predicates are con-
+ducive both to placing the quantiﬁ er in the focus and interpreting it in its literal quantiﬁ cational mean-
+ing: He didn’t list [all] the requirements; The candidate doesn’t answer [all] the criteria. Verb negation 
+usually occurs with temporal modiﬁ ers containing all (such as all night) because they are conducive 
+to placing the verb in the focus: I haven’t [slept] all night. Verb negation also occurs with emphatic de-
+monstratives and negatively connoted lexical items because they consolidate the emphatic interpreta-
+tion of the quantiﬁ er all: I don’t [want] to hear all these disgusting details.
+Keywords: information structure, negation, pragmatics, quantiﬁ ers, scope, semantics
+Acknowledgements: The publication was prepared within the framework of the Academic Fund Program 
+at the National Research University Higher School of Economics (HSE) in 2018–2019 (grant No. 18-
+01-0007 “Factors in resolving scope ambiguity”) and by the Russian Academic Excellence Project “5-
+100”. I would also like to thank my anonymous reviewers for their suggestions.
+For citation: Apresjan V. Yu. Resolving scope ambiguity: Lexicon, pragmatics, information structure. Vo-
+prosy Jazykoznanija, 2020, 2: 7–30.
+DOI: 10.31857/S0373658X0008774-0
+© 2020
+8 
+Voprosy Jazykoznanija 
+2020. № 2
+Разрешение неоднозначных сфер действия: 
+лексика, прагматика, коммуникативная структура
+Валентина Юрьевна Апресян
+Национальный исследовательский университет «Высшая 
+школа экономики», Москва, Россия; Институт русского языка 
+им. В. В. Виноградова РАН, Москва, Россия; vapresyan@hse.ru
+Аннотация: В статье представлено корпусное исследование факторов, связанных с разрешением не-
+однозначности потенциально двусмысленных предложений с отрицанием и квантором всеобщно-
+сти в письменном английском языке, таких как I haven’t heard all these details. Неопределенность 
+в таких предложениях проистекает из потенциальных различий в сфере действия. Если отрица-
+ние включает в свою сферу действия квантор, мы получаем интерпретацию частичного отрица-
+ния: ‘Я слышал некоторые из этих деталей’. Если отрицание включает в свою сферу действия 
+глагол, мы получаем интерпретацию полного отрицания: ‘Я не слышал ни одной из этих деталей’.
+Хотя неоднозначность сфер действия в предложениях с отрицанием и квантором всеобщно-
+сти, а также механизмы ее разрешения с помощью просодии, синтаксиса и семантики достаточно 
+хорошо изучены, о прагматических механизмах, позволяющих говорящим интерпретировать по-
+тенциально двусмысленные предложения, известно намного меньше. Чтобы изучить корреляцию 
+между лексической реализацией предложений вида not + Verb + all, их прагматически правдо-
+подобными интерпретациями и их коммуникативной структурой, мы анализируем около 1500 
+предложений, извлеченных из корпуса EnTenTen15 и Корпуса современного американского языка. 
+Наше исследование демонстрирует, что различные лексические реализации этой конструкции 
+связаны с различными прагматическими сценариями и, следовательно, с различными коммуни-
+кативными структурами и различными интерпретациями сфер действия.
+Отрицание квантора встречается значительно чаще, чем отрицание глагола, из-за его праг-
+матической нейтральности. В отсутствие маркеров отрицания, по умолчанию структуры вида 
+not V all X интерпретируются с частичным отрицанием. Поскольку при отрицании квантора он 
+имеет количественную (а не эмфатическую) интерпретацию, контексты частичного отрицания 
+тяготеют к особому семантическому классу предикатов — а именно, к глаголам, которые при-
+нимают количественный аргумент в качестве прямого объекта (to include, to list, to ﬁ nish). Такие 
+предикаты способствуют как помещению квантора в фокус, так и его интерпретации в букваль-
+ном количественном значении: He didn’t list [all] the requirements; The candidate doesn’t answer 
+[all] the criteria. Глагол обычно попадает под отрицание в контексте временны́ х модификаторов, 
+содержащих квантор all (например, all night), потому что они способствуют помещению глагола 
+в фокус: I haven’t [slept] all night. Отрицание глагола также встречается с указательными место-
+имениями в эмфатической функции, поскольку они консолидируют эмфатическую (а не коли-
+чественную) интерпретацию всей именной группы с квантором: I don’t [want] to hear all these 
+disgusting details.
+Ключевые слова: кванторные местоимения, коммуникативная структура, отрицание, прагматика, 
+семантика, сфера действия
+Благодарности: Публикация подготовлена в ходе проведения исследования № 18-01-0007 в рамках 
+Программы «Научный фонд Национального исследовательского университета «Высшая школа 
+экономики» (НИУ ВШЭ)» в 2018–2019 гг. и в рамках государственной поддержки ведущих уни-
+верситетов Российской Федерации “5-100”. Я также хотела бы поблагодарить своих анонимных 
+рецензентов за замечания.
+Для цитирования: Apresjan V. Yu. Resolving scope ambiguity: Lexicon, pragmatics, information struc-
+ture. Вопросы языкознания, 2020, 2: 7–30.
+DOI: 10.31857/S0373658X0008774-0
+ 
+ Valentina Yu. Apresjan 
+9
+1. Introduction
+This paper considers the correlation between lexicon, pragmatics and information structure 
+in the interpretation of scope ambiguities in English sentences with predicate negation1 and uni-
+versal quantiﬁ er, such as
+(1) 
+I haven’t talked to all these students.
+Negation can scope either over the universal quantiﬁ er, producing the interpretation of par-
+tial negation ‘I have talked only to part of these students’, or over the verb, producing the inter-
+pretation of total negation ‘I haven’t talked to any of these students’. The scope of negation is 
+decided on the basis of information structure, as demonstrated by [Jackendoﬀ  1972: 248–273]; 
+namely, the operator (in this case, negation) scopes over the ����� of the utterance. Scope am-
+biguities are a well-studied area of linguistics; consider [Jespersen 1924; Klima 1964; Hintikka 
+1973; Cooper 1979; Gil 1982; Aoun, Li 1989; Horn 1989; Partee 1993; Reinhart 1997; Kiss 2006], 
+to mention just a few seminal works. There is also plentiful research on the role of information 
+structure in determining scope [Jackendoﬀ  1972; Sgall et al. 1973; Partee 1991; Hajičova 1998]. 
+Many recent experimental studies on scope disambiguation examine the role of prosody in the 
+detection of the intended scope reading and its ties with information structure [Kadmon, Rob-
+erts 1986; Koizumi 2009; Ionin 2010; Syrett et al. 2014]. Other research on disambiguation fo-
+cuses on syntactic clues [Kurtzman, MacDonald 1993]; on respective probabilities of possible 
+readings [Hurum 1988]; on general structural and semantic principles of scope disambiguation, 
+such as “economic stance” [Tunstall 1998].
+While the role of information structure in scope disambiguation is paramount, we suggest that 
+in written text, where prosodic information is unavailable, information structure is ultimately 
+inferred via pragmatic reasoning. Pragmatically diﬀ erent situations are associated with diﬀ er-
+ent lexical environment. Thus, the objective of this research is to ﬁ nd correlations between the 
+lexical ﬁ lling of not + Verb + all strings and standard pragmatic scenarios associated with each 
+lexicalization pattern, on the one hand, and typical information structures and scope readings, 
+on the other.
+2. Hypothesis and approach
+Our approach in this paper is based on some of the claims and results presented in [V. Apres-
+jan 2019], mainly relative to the Russian data.
+Namely, we assume that diﬀ erent information structures of not + Verb + all sentences, which 
+result in diﬀ erent scope readings of negation, are associated with diﬀ erent kinds of pragmatic 
+scenarios and, therefore, with diﬀ erent lexical expression. Thus, lexical environment can be 
+used as a clue to infer the intended scope readings. We expect to demonstrate that the two ma-
+jor scope readings of negation in not + Verb + all sentences, namely, negated quantiﬁ er read-
+ing and negated verb reading, possess their own distinct lexical markers. Certain pragmatically 
+plausible readings are to a large extent lexicalized.
+We aspire to study the typical collocational patterns of not + Verb + all sentences and demon-
+strate that they are associated with particular pragmatic scenarios and, hence, with speciﬁ c in-
+formation structures and scope readings.
+ 
+1 Following [Paducheva 1974], we use this term in its syntactic sense, namely, to describe negation that 
+is syntactically attached to the predicate (but semantically can have scope over other constituents in the 
+sentence).
+10 
+Voprosy Jazykoznanija 
+2020. № 2
+3. Methods and materials
+The study is based on samples extracted from Corpus of Contemporary American [COCA], 
+which is a balanced 560-million-token corpus spanning 1990–2015, and [EnTenTen15] Corpus 
+on Sketch Engine, which is a 19-billion-token Web-based corpus, crawled and processed during 
+the last ten years. Our main samples used to analyze the distribution of readings and identify 
+their contextual markers include 200 examples from each corpus.2 They have been randomly 
+selected from the results of the search query not + Verb + all, after manually excluding all irrel-
+evant contexts. Irrelevant contexts included:
+ 
+— idiomatic constructions, such as He isn’t all that smart;
+ 
+— clauses with factive predicates which allow only verb-negated readings because the em-
+bedded proposition is presupposed, such as I didn’t know all the students were late;
+ 
+— clauses with non-factive predicates which allow only quantiﬁ er-negated readings, because 
+the embedded proposition is asserted, such as I didn’t think all the students were late;
+ 
+— rhetoric questions and unreal conditionals which presuppose the truthfulness of the ne-
+gated proposition, such as Haven’t I said all this before?, If he hadn’t spent all the money 
+gambling, he’d have bought himself a new suit.
+Our search query does not include sentences of all + Noun + Verb + not structure, with the 
+quantiﬁ er all in the subject.3 In principle, this string allows both quantiﬁ er-negated (Q-negated) 
+and verb-negated (V-negated) interpretations:
+(2) 
+[All] men are not created equal.
+‘Not all men are created equal.’
+(3) 
+At examination, all monkeys had not [undergone] any intervention and had not been in-
+volved in any study.
+‘None of the monkeys had undergone any intervention.’
+However, both for verb negation and for quantiﬁ er negation, this construction is considerably 
+less frequent than alternative ways of expression. Partial negation of subjects with all is more 
+frequently expressed by strings not + all + Noun + Verb (a rare case when constituent nega-
+tion is preferred over sentential negation in English). The frequency of not + all + Noun + Verb 
+strings is almost 5 times as high the frequency of all + Noun + Verb + not strings (3.88 ipm 
+vs. 0.82 ipm in EnTenTen15). Total negation in English is normally expressed by negative pro-
+nouns: None of the students came, but not All students didn’t come.
+First, we annotate our two samples for scope. Next, we formulate contextual markers for 
+verb-negated and quantiﬁ er-negated readings. Then we verify the validity of our contexts 
+as markers of speciﬁ c readings by extracting samples with these markers from COCA and from 
+EnTenTen15 and analyzing them for scope. We also rely on frequency data from both corpora 
+to verify our claims.
+ 
+2 We extracted a diﬀ erent sample from COCA than the one used in [V. Apresjan 2019], using an enhanced 
+manual extraction procedure that excluded irrelevant contexts; although the distribution of readings is 
+similar, the actual numbers are slightly diﬀ erent. We have also included a sample from the EnTenTen15 
+corpus, which we did not consider in earlier work.
+ 
+3 Tottie and Neukom-Hermann [2010] present a corpus analysis of all N not V sentences and suggest that 
+their interpretation is decided mostly by syntactic factors.
+ 
+ Valentina Yu. Apresjan 
+11
+4. Results and discussion
+4.1. Interpretations of sentences with predicate negation
+In our samples, we encounter four types of scope readings: Q-negated readings, or sentences 
+where the negation scopes over the quantiﬁ er; V-negated readings, or sentences where negation 
+scopes over the verb; C-negated readings, or sentences where negation scopes over a diﬀ erent 
+constituent; A-readings, or ambiguous readings.
+In Q-negated readings, the negation scopes over the quantiﬁ er, which is in the focus:
+(4) 
+I haven’t read [all] the instructions. [EnTenTen15]
+The quantiﬁ er is interpreted in its direct quantiﬁ cational meaning. The resulting interpreta-
+tion is that of partial negation: ‘not all X Y’. Thus, Q-negated reading of the structure not Y [all] 
+X-s is normally interpreted as ‘Some X-s Y and some X-s not Y’. If the quantiﬁ er is stressed and 
+thus forms a single focus, the aﬃ  rmative component ‘some X-s Y’ has the status of a presup-
+position and cannot be denied:
+(5) 
+a. I haven’t read [���] the instructions, I have read only part.
+ 
+b. *I haven’t read [���] the instructions; in fact, I haven’t read any.
+In this respect, Q-negated readings of sentences with sentential negation are the same as sen-
+tences with constituent negation of the universal quantiﬁ er:
+(6) 
+*Not all guests came; in fact, none did.
+If the quantiﬁ er is unstressed and thus is part of the focus, the component ‘some X-s Y’ has 
+the status of a scalar implicature and can be denied:
+(7) 
+a. The students don’t realize [all] the opportunities they have to go out and do things. [En-
+TenTen15]
+ 
+b. The students don’t realize [all] the opportunities they have to go out and do things; 
+in fact, they realize nothing.
+In V-negated readings, the negation scopes over the verb, which is in the focus:
+(8) 
+People just get along with their business, work hard, and they’re not [causing] all sorts 
+of trouble. [COCA]
+(9) 
+We can do the same, not [accepting] all the religious ideas that swirl around but not con-
+demning them either. [EnTenTen15]
+The resulting interpretation is that of total negation: ‘all X not Y’. In V-negated readings, the 
+quantiﬁ er is frequently interpreted not in its direct quantiﬁ cational meaning, but as a marker 
+of negative emphasis:
+(10) We will not have all these little houses, we must all get big houses, man. [COCA]
+When all is interpreted emphatically, it can be dropped without signiﬁ cant changes in seman-
+tics: We will not have (these) little houses, we must all get big houses.
+Ambiguous readings are contextually underspeciﬁ ed sentences, which are felicitous either 
+with partial or total negation, as in (11) 4:
+(11) Thank you for not counting all of my sins against me. [EnTenTen15]
+ 
+4 As demonstrated below, they are fairly rare.
+12 
+Voprosy Jazykoznanija 
+2020. № 2
+(11) can mean either ‘Thank you for counting only part of my sins against me and overlook-
+ing others’ (Q-negation) or ‘Thank you for not counting any of my great many sins against me’ 
+(V-negation). With Q-negation, all is neutral and refers only to the quantity of sins (which can be 
+modest). With V-negation, all is emphatic and expresses quantitative and qualitative assessment 
+of the sins — they are both numerous and great. In case of (11), the utterance does not contain 
+the necessary clues, and a wider context is required for interpretation. Possible interpretations 
+are built based on reconstructing the potential intention of the speaker.
+However, in the majority of cases this intention is clear from the utterance; consider (12) vs. (13):
+(12) Social Security does not count all your resources when deciding SSI [supplemental secu-
+rity income] eligibility. ([EnTenTen15]; Q-negation)
+(13) This doesn’t count all the people who never showed up for meetings. ([EnTenTen15]; V-ne-
+gation)
+In (12), it is plausible that deciding social beneﬁ ts eligibility includes at least some assess-
+ment of a person’s resources, so Q-negation is the preferred option. Sentence (13) makes more 
+sense with V-negation: it is more logical to exclude the non-attendees from general count alto-
+gether, rather than exclude only part of them on some obscure grounds.
+In C-negated readings, the negation scopes over some other focused component in the sentence:
+(14) Young people cannot do all those things [at 16].
+‘Young people can do all those things but not at 16.’
+4.2. Distribution of readings and contexts
+Our 200-sentence EnTenTen15 and COCA samples demonstrate a similar distribution of read-
+ings (Tables 1 and 2) and their lexical environments. As one can easily observe, the overwhelm-
+ing majority of sentences in our sample is interpreted with Q-negation; a much smaller number 
+of sentences receives V-negated readings; ambiguity and especially C-negation are rare. The 
+types of lexical contexts and their motivation by diﬀ erent scope readings are explained below.
+On the whole, lexical markers of Q-negation and V-negation are determined by the semantic 
+and pragmatic peculiarities of these readings, namely (i) partial or total negation and (ii) quan-
+tiﬁ cational or emphatic interpretation of the quantiﬁ er. The interpretation of partial or total ne-
+gation is triggered by the information structure of the sentence: quantiﬁ er in the focus for par-
+tial negation, verb in the focus for total negation.
+Table 1
+EnTenTen15 sample: distribution of readings and contexts
+Reading
+Total number
+Percentage
+Marker
+Quantiﬁ er-negated reading
+167
+83.5
+quantiﬁ cation
+59
+needs
+38
+possession
+30
+mental
+27
+idiom
+ 5
+perception
+ 4
+numeral
+ 1
+no marker
+36
+ 
+ Valentina Yu. Apresjan 
+13
+Reading
+Total number
+Percentage
+Marker
+Verb-negated reading
+ 25
+12.5
+demonstrative
+ 9
+deﬁ nite description
+ 8
+negative
+ 4
+negative+demonstrative
+ 3
+temporal
+ 1
+Constituent
+  2
+  1
+Ambiguous reading
+  6
+  3
+demonstrative
+ 3
+deﬁ nite description
+ 2
+negative
+ 1
+Total
+200
+100
+Table 2
+COCA sample: distribution of readings and contexts
+Reading
+Total number
+Percentage
+Marker
+Quantiﬁ er-negated reading
+173
+86.5
+needs
+42
+quantiﬁ cation
+20
+mental
+19
+perception
+12
+possession
+12
+numeral
+ 7
+no marker
+61
+Verb-negated reading
+ 17
+8.5
+temporal
+ 4
+deﬁ nite description
+ 4
+demonstrative
+ 4
+negative
+ 3
+negative+temporal
+ 1
+negative+deﬁ nite description
+ 1
+Constituent
+  2
+  1
+Ambiguous reading
+  8
+  4
+demonstrative
+ 3
+negative
+ 3
+deﬁ nite description
+ 1
+demonstrative+negative
+ 1
+Total
+200
+100
+Table 1 (continued)
+14 
+Voprosy Jazykoznanija 
+2020. № 2
+4.3. Quantiﬁ er-negated readings: contextual markers
+Lexical markers of Q-negation are triggered by the following two factors: in Q-negated read-
+ings, (i) the quantiﬁ er is in the focus; (ii) the quantiﬁ er is interpreted in its quantiﬁ cational meaning.
+As concerns (i), we observe correlation between the scope interpretation of predicate nega-
+tion and the status of the quantiﬁ cational group with all in the argument structure of the ma-
+trix predicate. Namely, the interpretation of partial negation is normally available for predicates 
+where the quantiﬁ cational group ﬁ lls a verbal argument, rather than an adjunct. Indeed, in the 
+absolute majority of Q-negated sentences, the quantiﬁ er phrase ﬁ lls a verbal argument: We ha-
+ven’t watched all Tarantino movies, He hasn’t answered all the questions, I don’t need all the 
+money, The candidate doesn’t meet all the requirements.
+As for semantic classes of predicates that occur with Q-negation, they are determined by the 
+quantitative, non-emphatic interpretation of all. Q-negation frequently occurs with predicates 
+that contain an indication or implication of quantity, such as to include, to ﬁ nish, to cover (for 
+details, see below). Yet another class of words that mark Q-negation are numerals, which also 
+consolidate the quantitative interpretation of all.
+4.3.1. Num erals as markers of quantiﬁ er-negated readings
+In our combined sample, there are 8 numerals, which all occur with Q-negation, consider:
+(15) XM will not broadcast [all] 64 matches in English and Spanish. [COCA]
+(16) The animal cannot synthesize [all] 20 amino acids. [COCA]
+(17) The images did not reveal [all] four chambers. [COCA]
+To verify the validity of numerals as markers of Q-negation, we further analyze a sam-
+ple of 100 randomly selected sentences from EnTenTen15 Corpus that contain the string 
+not + Verb + all + Numeral, such as She can’t help all 20 million children in Africa; The med-
+ical insurance does not cover all three components.
+Out of 100 sentences with a numeral in the quantiﬁ er phrase, 89 sentences are interpreted 
+with Q-negation. They demonstrate certain repeated lexical patterns that reﬂ ect typical real-life 
+situations, mainly the situations of possession, need, being part of a certain group, meeting re-
+quirements and demands: You cannot have all four options at the same time; The applicant does 
+not meet all ﬁ ve requirements; The insurance does not cover all eight tests; The agreement does 
+not include all three parties; I do not need all ten participants on each project; He didn’t an-
+swer all ten questions.
+Eight sentences in our sample are “noise”, where the numeral does not function as a numeral, 
+such as They can’t be all one-sided; One cannot practice all one knows. Only three sentences 
+have alternative, not Q-negated, interpretations:
+(18) If we don’t [receive all three requirements], we cannot guarantee your slot.
+‘If we receive less than three requirements, we cannot guarantee your slot.’
+(19) Why not [use all three]?
+‘I suggest to use all three.’
+(20) There is tons to do and see throughout the county, so don’t [miss] all three regions.
+‘Miss none of the three regions.’
+In (18), negation scopes over the entire proposition. Namely, the proposition in the main 
+clause (We cannot guarantee your slot) is true in either case, whether we do not receive any 
+of the three requirements (verb-negated reading, total negation) or we receive only some of the 
+ 
+ Valentina Yu. Apresjan 
+15
+three requirements (quantiﬁ er-negated reading, partial negation). The diﬀ erence between total 
+negation and partial negation in this case is immaterial.
+In (19), the negative particle not is part of the syntactic phraseme why not. This idiomatic 
+construction is an indirect speech act: it introduces a recommendation in the form of a question, 
+namely, the speaker suggests that the addressee carries out the action expressed by the proposi-
+tion. Why not construction scopes over the entire proposition.
+Finally, (20) is naturally interpreted with a verb-negated reading: the speaker recommends 
+not to miss ��� of the three regions. Thus, out of 92 relevant sentences, 89 are interpreted with 
+quantiﬁ er negation. Therefore, numerals can indeed be considered a strong marker of quantiﬁ er- 
+negated readings in English.
+4.3.2. Predicates that refer to quantity as markers of quantiﬁ er-negated reading
+Another marker of quantiﬁ er-negated readings are predicates with a quantitative argument, 
+such as to include, to contain; to complete, to ﬁ nish; to exhaust; to cover, to absorb; to share; 
+to itemize, to list and some others. When used with negation and a quantiﬁ er phrase to ﬁ ll their 
+object argument slot, they naturally produce quantiﬁ er-negated readings. Consider the follow-
+ing examples:
+(21) The Archives Hub does not include [all] UK archives. [COCA]
+‘The Archives Hub includes only part of the UK archives.’
+(22) Five students did not complete [all] EPQ items. [COCA]
+‘Five students completed only part of EPQ items.’
+(23) We cannot [list] all the tracks now. [EnTenTen15]
+‘We can list only some of the tracks now.’
+(24) This information is of a general character and does not [contain] all the conditions under 
+which passenger transport is implemented by Slovak airline companies. [EnTenTen15]
+‘This information contains only part of the conditions.’
+All these verbs contain a semantic indication of quantiﬁ cation, at least on some level of se-
+mantic decomposition. Consider the deﬁ nition of to include in the Online Macmillan Dictio-
+nary: ‘to contain someone or something as a part’. The sense ‘part’ is quantitative, as attested 
+by the deﬁ nition of this word in the same dictionary: ‘some but not all of something’. Thus, the 
+verb to include contains the meaning of quantiﬁ cation on the second level of semantic decom-
+position. The same is true of to contain which is deﬁ ned, somewhat circularly, as ‘to include 
+something, or to have it as a part’. Likewise, the verb to complete means ‘to ﬁ nish something’, 
+to ﬁ nish means ‘to do the last part of something’, and part means, as said before, ‘some but not 
+all of something’. Therefore, the verb to complete contains the meaning of quantiﬁ cation on the 
+third level of semantic decomposition. The verb to list means ‘to mention or write a list of things, 
+one after another’, whereas the noun list refers to ‘a set of names, numbers etc. that are written 
+or printed one below another’. The word set refers to a certain ������ of elements that form 
+a group together. Again, to list contains the meaning of quantiﬁ cation on the third level of se-
+mantic decomposition. The verb to share contains quantiﬁ cation on the ﬁ rst level of semantic 
+decomposition: it means ‘to give a part of what one has to another person’.
+All verbs with a quantiﬁ cational argument in our sample belong to the following semantic 
+classes: (i) ‘to have as a part’ (to contain, to include); (ii) ‘to put elements of a set in order’ (to list, 
+to itemize); (iii) ‘to do something gradually with all elements of a set or all parts of an object’ 
+(to ﬁ nish, to complete, to cover, to absorb); (iv) ‘to do something with some elements of a set 
+or some parts of an object’ (to share). They form a considerable chunk of our sample (59 hits 
+in EnTenTen15 and 20 hits in COCA), and they are strong predictors of Q-negated readings.
+16 
+Voprosy Jazykoznanija 
+2020. № 2
+4.3.3. Predicates that frequently involve quantity 
+as markers of quantiﬁ er-negated readings
+More frequently, quantity is a plausible extention of the meaning, rather than a semantic com-
+ponent. Consider the example in (25):
+(25) Current contraceptive technology does not meet [all] of the National Park Service’s cri-
+teria. [COCA]
+‘Current technology meets part of the criteria.’
+Indeed, meeting criteria usually implies more than one criterion, and the criteria are consid-
+ered separately, one by one. Meeting criteria belongs to the semantic class of predicates that we 
+labeled ‘needs’. This class includes verbs that refer to situations of requirements, expectations, 
+needs, and is represented by the verbs to answer (expectations, needs, requirements), to fulﬁ ll 
+(needs), to provide, to address (needs), to meet (expectations, criteria, requirements), to sat-
+isfy (requirements), to solve (all problems) and some others. The argument ﬁ lling the object 
+slot in these verbs is usually quantiﬁ ed (all needs, some requirements, ﬁ ve criteria) because the 
+situations described by these verbs normally involve sets consisting of more than one element. 
+This semantic class is fairly frequent in our sample (42 hits in EnTenTen15, 38 hits in COCA) 
+and is a strong predictor of Q-negated readings.
+Other semantic classes of predicates that imply quantity while not referring to it directly, and 
+that frequently occur in sentences with partial negation in our COCA sample are as follows:
+ 
+— verbs of possession and acquisition, especially to have, to possess, to get;
+ 
+— mental verbs, especially to know, to understand;
+ 
+— verbs of perception, especially to see, to hear.
+While verbs belonging to these semantic classes do not refer to quantity directly, they easily 
+take quantiﬁ able arguments because they frequently involve quantiﬁ cation: He has three houses; 
+He knows many languages; I saw four paintings; He told me several interesting stories. There-
+fore, when used with the universal quantiﬁ er and negation, they are likely to be interpreted in the 
+sense of partial negation, rather than total negation. Consider the following examples from our 
+COCA sample, which are interpreted with quantiﬁ er negation:
+(26) They do not know [all] the information. [COCA]
+(27) I have not seen [all] these ﬁ gures. [COCA]
+Other mental verbs, e.g. understand and realize, have an even closer association with quan-
+tiﬁ cation. Understanding, unlike knowing, is not necessarily a state: it can refer to a process 
+that is happening in increments: I don’t yet understand everything; There is little I understand 
+so far; I am trying to understand; He has so far realized only some of the implications of this 
+conﬂ ict. This multi-stage nature of understanding carries an indirect reference to quantity: un-
+derstanding is achieved in multiple instalments, and complete understanding is the sum of all 
+the pieces of a puzzle. Thus, verbs of understanding also present a natural context for Q-ne-
+gated readings, consider:
+(28) I still don’t [understand] all the details. [EnTenTen15]
+Verbs of perception are yet another semantic class of verbs with quantitative implicatures. 
+While the states of seeing or hearing do not, in themselves, involve any quantiﬁ cation, quantity 
+is their frequent pragmatic extention. It can be triggered either by the fact that there may be mul-
+tiple objects or sounds to be perceived (I haven’t seen all the paintings; I haven’t heard every-
+thing she was saying), or else by the fact that complete perception, even of a single object, might 
+be hindered (I can’t see the entire tree through this dirty window; I can’t hear everything you are 
+ 
+ Valentina Yu. Apresjan 
+17
+saying in this noise). In the latter case, the verbs of perception usually occur with modals: I can’t 
+see all the icons on this small screen; I was far from the stage, so I couldn’t hear all the questions.
+The last frequent context for Q-negation in our sample is the idiom not put all one’s eggs 
+in one basket.
+4.3.4. The most frequent corpus instantiations
+of not + Verb + all construction
+Quantiﬁ er-negated readings in the context of predicates that indicate or imply quantity are 
+the most frequent instantiations of the not + Verb + all construction, as attested both by COCA 
+and EnTenTen15 collocational data. In terms of collostructional approach [Gries, Stefanowitsch 
+2004], predicates with quantiﬁ cational meaning or implicatures can be considered collexemes 
+of the not + Verb + all construction, or its most frequent lexical ﬁ llers. Table 3 shows the fre-
+quency hierarchy of predicates in order of their occurrence in construction with negation and 
+universal quantiﬁ er in the EnTenTen corpus, while Table 4 provides the same information for 
+COCA. Both charts give the top twenty predicates.
+Table 3
+EnTenTen15 collocational data
+Lemma
+Frequency
+ipm
+have
+12,899
+0.70
+be
+ 6,761
+0.37
+know
+ 4,418
+0.24
+ﬁ t
+ 4,285
+0.23
+get
+ 4,065
+0.22
+cover
+ 3,823
+0.21
+include
+ 3,796
+0.21
+do
+ 3,226
+0.18
+see
+ 2,371
+0.13
+use
+ 2,348
+0.13
+solve
+ 2,341
+0.13
+need
+ 2,237
+0.12
+meet
+ 2,006
+0.11
+go
+ 1,894
+0.10
+take
+ 1,842
+0.10
+put
+ 1,579
+0.09
+understand
+ 1,531
+0.08
+spend
+ 1,385
+0.08
+provide
+ 1,299
+0.07
+contain
+ 1,243
+0.07
+Table 4
+COCA collocational data
+Lemma
+Frequency
+not ﬁ t all
+56
+not answer all
+52
+not know all
+47
+not solve all
+46
+not cover all
+44
+not get all
+39
+not saying all
+37
+not go all
+36
+not include all
+32
+not see all
+29
+not understand all
+29
+not represent all
+28
+not getting all
+25
+not meet all
+25
+not address all
+24
+not take all
+24
+not need all
+23
+not use all
+23
+not provide all
+22
+not put all
+19
+More than half of the predicates in both samples coincide: to know, to include, to ﬁ t, to get, 
+to cover, to see, to solve, to need, to meet, to go, to take, to understand, to provide. Also, many 
+of the top predicates in both samples belong to the same semantic classes as the ones featuring 
+18 
+Voprosy Jazykoznanija 
+2020. № 2
+in the Q-negated readings from our original EnTenTen15 and COCA samples. They include 
+verbs with the semantic component of quantiﬁ cation (to include, to spend), as well as verbs with 
+quantiﬁ cational implicatures, such as verbs of perception (to see), mental predicates (to know, 
+to understand), modal verbs (to need), verbs of possession (to have).
+Moreover, nearly all examples with the top frequency predicates are indeed interpreted with 
+Q-negation. We analyzed all the examples in the presented frequency table from COCA, namely 
+660 sentences with 19 predicates (since the table presents the results for two diﬀ erent forms, get-
+ting and get, as two diﬀ erent verbs). Out of 660 sentences, 582 (or 88 percent) have Q-negated 
+interpretations. Furthermore, out of the 78 sentences that do not have quantiﬁ er negation, only 
+four are more likely to be interpreted with V-negation, and one with C-negation:
+(29) I did not [see] all the poison ivy and multiﬂ ora roses. I just saw possibilities. ([COCA]; 
+V-negation)
+(30) I did not see [all] this back then. ([COCA]; V-negation)
+(31) I sure did not [see] all of this terrorism coming. ([COCA]; V-negation)
+(32) USAir oﬃ  cials say privately that the public does not [see] all the pressure tactics that the 
+airline is applying. ([COCA]; V-negation)
+(33) I am not saying all this [because I have the president’s seat]. ([COCA]; C-negation)
+The remaining 73 sentences that do not yield quantiﬁ er-negated interpretations, are “noise”. 
+There are quite numerous why not constructions (22 hits), as well as some other syntactic and 
+lexical idioms, such as to get all that X, as in Don’t get all that excited (10 hits), go all that X, 
+as in Don’t go all that defensive (3 hits), all that much (2 hits). Instantiations with the verb to say 
+are almost entirely “noise” (36 hits) because in the sample, this verb is only used with depen-
+dent that-clauses, which preclude potential ambiguity. Sentences like I am not saying all this is 
+true cannot in principle be interpreted with verb negation.
+For the majority of predicates, the use in the construction with negation and universal quan-
+tiﬁ er is limited to a few speciﬁ c contexts, which conﬁ rms our hypothesis about certain proto-
+typical scenarios which incorporate the idea of partial quantity. For some predicates, there are 
+no lexical restrictions on the use in this construction.
+Table 5 (p. 19) summarizes the interpretations and typical contexts, if there are any, for each 
+of the top predicates in this construction.
+Table 5 demonstrates that verbs with the semantic component of quantiﬁ cation, as well 
+as verbs with quantiﬁ cational implicatures can indeed be considered a reliable contextual 
+marker of quantiﬁ er-negated readings, as the overwhelming majority of their instantiations 
+in the not + Verb + all construction is interpreted with quantiﬁ er negation. It further shows that 
+in many cases, quantiﬁ er-negated readings are lexicalized not only with respect to the predicates, 
+but also to their argument expression.
+The process of lexicalization is not arbitrary: it is to a certain extent aligned with the meaning 
+inherent in quantiﬁ er negation, namely the meaning of partial quantity. Predicates that contain 
+an indication of quantity (such as include) or a strong quantiﬁ cational implicature (such as take, 
+get, see, understand) in their ﬁ rst or only meaning do not, as a rule, pose lexical restrictions on the 
+realization of verbal arguments. Predicates that have one major meaning, such as answer, use, 
+need, display lexical restrictions consistent with that meaning (answer questions, use or need var-
+ious kinds of resources). However, predicates that have multiple meanings demonstrate lexical 
+restrictions speciﬁ c to the usage in which they have quantiﬁ cational semantics or implicatures: 
+provide answers / information / services, but not provide new insights; address issues / questions / 
+problems / needs, but not address the audience, address the envelope; meet criteria / requirements / 
+demands / needs, but not meet friends. Some predicates have a single frequent instantiation in this 
+construction: One size does not ﬁ ll all; Do not put all your eggs in one basket. These phrases re-
+ﬂ ect the ultimate degree of lexicalization associated with quantiﬁ er-negated readings.
+ 
+ Valentina Yu. Apresjan 
+19
+Table 5
+Not + Verb + all construction in the COCA sample
+Predicate
+Hits
+Q-negation
+V/C-negation
+Noise
+Typical realization
+get
+64
+54
+0
+10
+no typical realization
+ﬁ t
+56
+56
+0
+ 0
+One size does not ﬁ t all
+answer
+52
+52
+0
+ 0
+X can’t answer all questions/queries
+know
+47
+44
+0
+ 3
+X doesn’t know all answers/details
+solve
+46
+46
+0
+ 0
+X can’t solve all problems/issues
+cover
+44
+44
+0
+ 0
+not cover all expenses
+say
+37
+0
+1
+(C-negation)
+36
+ no typical realization
+go
+36
+23
+0
+13
+not all go all the way
+include
+32
+31
+0
+ 1
+no typical realization
+understand
+29
+29
+0
+ 0
+no typical realization
+see
+29
+24
+4
+(V-negation)
+ 1
+no typical realization
+represent
+28
+28
+0
+ 0
+not represent all + ‘people’
+meet
+25
+25
+0
+ 0
+not meet criteria / requirements / demands / needs
+address
+24
+24
+0
+ 0
+not address issues / questions / problems / needs
+take
+24
+19
+0
+ 5
+no typical realization
+need
+23
+23
+0
+ 0
+not need + ‘resources’
+use
+23
+23
+0
+ 0
+not use + ‘resources’
+provide
+22
+22
+0
+ 0
+not provide answers / information / services
+put
+19
+15
+0
+ 4
+not put all eggs in one basket
+Thus, numerals and predicates with quantiﬁ cational meaning or implicatures can generally 
+be considered markers of quantiﬁ er negation, while some of the non-quantiﬁ cational predicates 
+are lexicalized as markers of quantiﬁ er negation only in speciﬁ c contexts.
+4.3.5. The status of Q-negation markers
+As Tables 1 and 2 demonstrate, Q-negation is by far the most frequent interpretation 
+of not + Verb + all construction. It occurs even in situations when there are no markers facil-
+itating its contextual recognition. In fact, it is the default interpretation of the not + Verb + all 
+construction. Thus, unless the context contains markers of verb negation, the construction co-
+erces interpretation of partial negation even onto such predicates that have no quantiﬁ cational 
+components or implicatures. Consider the following EnTenTen examples with the verbs to hate, 
+to reduce, to collapse, which do not have any quantiﬁ cational semantic components or impli-
+catures outside of the construction not + Verb + all, but which develop them once placed in it:
+(34) I don’t hate [all] kinds of self-portraits. [EnTenTen15]
+(35) Cultural sociology does not reduce [all] human matters to a problem of cultural encoding 
+and decoding. [EnTenTen15]
+(36) Nietzsche does not collapse [all] of asceticism into its especially malignant form. 
+[EnTenTen15]
+20 
+Voprosy Jazykoznanija 
+2020. № 2
+Thus, although the major part of Q-negated readings occurs in the context of predicates be-
+longing to speciﬁ c semantic classes, quantiﬁ er negation does not in fact require any special mark-
+ers for its identiﬁ cation in a given sentence. As mentioned above, numerals and predicates with 
+quantiﬁ cational meaning or implicatures can be considered collexemes of the not + Verb + all 
+construction, or its most frequent lexical ﬁ llers. According to [Tomasello 2003], lexical items 
+that are more entrenched (frequent) in a given construction, or are, in [Gries, Stefanowitsch 
+2004] parlance, its collexemes, are easier to acquire and use in that construction than the ones 
+that are less entrenched. We can therefore expect speakers to make scope decisions in sentences 
+with quantiﬁ cational predicates faster than in sentences with other kinds of predicates. However, 
+that remains a hypothesis for further research.
+4.4. Verb-negated readings
+Lexical markers of V-negation are triggered by the following two factors: in V-negated read-
+ings, (i) the verb is in the focus; (ii) the quantiﬁ er is interpreted in its emphatic meaning.
+As concerns (i), we observe that the interpretation of total negation is normally available when 
+the quantiﬁ cational group does not ﬁ ll a verbal argument, but has the status of an adjunct. This hap-
+pens because in order to be negated, the verb has to be focused, while the quantiﬁ er should not be 
+in the focus. If the quantiﬁ er phrase is an adjunct, especially a temporal modiﬁ er denoting a time 
+period, it easily assumes the role of the topic: We didn’t move all night vs. All night, we didn’t move. 
+Thus, temporal modiﬁ ers with all create contexts that are naturally interpreted with V-negation.
+If the quantiﬁ er phrase ﬁ lls a verbal argument, V-negation is still available, yet it requires em-
+phatic interpretation of the quantiﬁ er. Contexts that consolidate this interpretation are demon-
+strative pronouns in their meaning of negative emphasis, frequently complemented by nega-
+tively connoted lexical items.
+(37) I didn’t [have time to read] all these pamphlets. [EnTenTen15]
+(38) I don’t [want to get involved] in all this disgusting mess. [EnTenTen15]
+4.4.1. Temporal modiﬁ ers in the quantiﬁ er phrase as markers of V-negation
+Temporal modiﬁ ers with all facilitate V-negated readings. On the whole, they form the only 
+type of a context where V-negated readings are pragmatically more neutral than Q-negated read-
+ings, consider the following neutral statement:
+(39) The baby didn’t [wake up] all night.
+‘The baby did not wake once during the whole night.’
+Q-negated readings of sentences with temporal modiﬁ ers are possible, but rare and pragmat-
+ically non-neutral:
+(40) I didn’t spend [all] day in front of the TV.
+Sentences like (40) imply an opponent who claims the opposite (in this case, that the subject 
+had spent an ������ day in front of the TV) and the quantiﬁ er phrase forms a contrastive focus.
+It must be noted that V-negated and Q-negated readings of sentences with temporal modiﬁ -
+ers are associated with diﬀ erent aspectual interpretations of the predicate. With V-negated read-
+ings, the predicates are interpreted as achievements:
+(41) He hadn’t [thought] of her all evening.
+‘He hadn’t thought of her once during the entire evening.’
+ 
+ Valentina Yu. Apresjan 
+21
+With Q-negated readings, the predicates are interpreted as states or activities:
+(42) I hadn’t thought of him [all] evening, but only for the ﬁ rst hour or so.
+‘I had thought of him for only part of the evening.’
+Thus, V-negated and Q-negated readings of sentences with a temporal modiﬁ er in the quan-
+tiﬁ er phrase are used in diﬀ erent types of speech acts. V-negated readings are usually state-
+ments of noteworthy occurrences or, rather, non-occurrences. They state that a situation that 
+would naturally be expected to occur at least once or more during a certain time period T, 
+had not occurred at all during that time period. Q-negated readings are objections disprov-
+ing someone’s statement that a certain situation was taking time during the entire time pe-
+riod T, and claiming that the aforementioned situation was taking time only during a certain 
+part of that period T.
+As it turns out, the former situation is more frequent, as well as less context-dependent 
+and more rooted in conventionalized human practices or universal background knowledge. 
+Each of these situations has its typical instantiations. Diﬀ erent situation types are lexical-
+ized in the combination of a predicate with the name of a time period. While certain combina-
+tions can be interpreted either with V-negation or Q-negation, the most frequent combinations 
+not + Verb + all + Time Period are ﬁ xed collocations reﬂ ecting lexicalizations of pragmatically 
+plausible interpretations.
+We have extracted and examined an additional sample of potentially ambiguous sentences 
+to study the distribution of V-negated and Q-negated readings in this particular subgroup of sen-
+tences with predicate negation and universal quantiﬁ er. We have considered collocations with 
+two time periods — day and night. On the whole, we examined 100 sentences from EnTenTen15 
+of not + Verb + all + night and 100 sentences of not + Verb + all + day structure from the same 
+source. We considered their lexical set-up (namely, verbal collocates); typical real-life situations 
+they refer to; scope readings of negation; the type of knowledge needed to infer the intended 
+scope readings. The results are presented in Table 6.
+Table 6
+Verbal collocates and scope readings
+with temporal modiﬁ ers
+All night
+Hits
+All day
+Hits
+V-negation
+Surprising total absence of expected 
+situation during the time period (based 
+on general extralinguistic knowledge): 
+sleep (47).
+47
+Surprising total absence of expected 
+situation during the time period (based 
+on general extralinguistic knowledge): eat 
+(22), suckle (1), poop (1), go (2), move (2).
+28
+Surprising total absence of expected 
+interruption in a long state or process (based 
+on general extralinguistic knowledge and 
+linguistic pragmatics): stop (2), quiet all 
+night (1), dance ﬂ oor didn’t empty (1).
+ 4
+Surprising total absence of expected 
+interruption in a long state or process (based 
+on general extralinguistic knowledge and 
+linguistic pragmatics): stop (4), cloud did 
+not pass (1), ﬂ uid level hadn’t dropped (1).
+ 5
+Unsurprising total absence of unexpected 
+situation (based on general extralinguistic 
+knowledge): eat (2), Sun doesn’t shine (1).
+ 3
+—
+Surprising total absence of expected 
+situation (based on contextual extralinguistic 
+knowledge): move (5), bark (2), cry (1), 
+check (1), dance (1).
+10
+Surprising total absence of expected 
+situation (based on contextual extralinguistic 
+knowledge): exercise (1), walk (1), stink (1), 
+sleep (2), equipment didn’t work (1).
+ 7
+V-negation subtotal
+64
+40
+22 
+Voprosy Jazykoznanija 
+2020. № 2
+All night
+Hits
+All day
+Hits
+Q-negation
+Situation does not or should not last all 
+the time period, contrary to someone’s 
+wishes or expectations (based on contextual 
+extralinguistic knowledge and linguistic 
+pragmatics): wait all night (4), remain (4), 
+stay (2), don’t be all night (2).
+ 12
+Situation does not or should not last all 
+the time period, contrary to someone’s 
+wishes or expectations (based on contextual 
+extralinguistic knowledge and linguistic 
+pragmatics): work (1), be all day about it (1), 
+Cats don’t sleep all day (2), Makeup doesn’t 
+last all day (3), sit staring at the computer 
+(1), play (1).
+  9
+Time period is a resource for an activity 
+(based on general extralinguistic knowledge 
+and linguistic pragmatics): spend (4), have 
+(4), got (3), take (1).
+ 12
+Time period is a resource for an activity 
+(based on general extralinguistic knowledge 
+and linguistic pragmatics): have (23), 
+spend (13), take (7), last (4).
+ 47
+Situation does not last all the time 
+period, contrary to someone’s wishes 
+or expectations (based on contextual 
+extralinguistic knowledge): drink (2), chant 
+(1), play (1).
+  4
+Situation does not last all the time 
+period, contrary to someone’s wishes 
+or expectations (based on contextual 
+extralinguistic knowledge): rain (2), 
+serve (1).
+  3
+Q-negation subtotal
+ 28
+ 60
+Ambiguous
+Insuﬃ  cient contextual knowledge in the 
+absence of relevant general knowledge 
+or linguistic pragmatics: Some restaurants 
+keep late hours, others may not serve all 
+night (2); Many employees rely on subway 
+which doesn’t run all night (2); Put your 
+lights on a timer to make sure they don’t 
+burn all night (1); She still doesn’t like to be 
+left alone, but she doesn’t moan all night (1); 
+I’ve got no problem with that as long as he 
+doesn’t snore all night (1).
+  7
+Insuﬃ  cient contextual knowledge in the 
+absence of relevant general knowledge 
+or linguistic pragmatics: Many stations 
+in rural areas are not staﬀ ed all day (1).
+  1
+Constituent: I didn’t spend all night doing 
+this for you to ruin it.
+  1
+Total
+100
+100
+Interpretations of sentences where all is part of a temporal modiﬁ er are inﬂ uenced by a vari-
+ety of factors, both linguistic and extralinguistic. A purely linguistic factor that aﬀ ects readings 
+of sentences with negation and temporal modiﬁ er with all, is the aspectual class of the predi-
+cate. If the predicate can only be understood as an achievement (such as to stop, to interrupt, 
+etc.), the sentence is uniformly interpreted with V-negation, even in the absence of any pre-
+vious knowledge of the situation and irrespectively of the time period: He didn’t stop talking 
+all day / all night ‘He didn’t stop talking at all during the entire day / night’. Likewise, if the 
+predicate can only be interpreted as a state or activity (such as to last), it is invariably inter-
+preted with Q-negation: The meeting didn’t last all day / all night ‘The meeting lasted for part 
+of the day / night’.
+However, since the majority of predicates in English can be interpreted both as activities 
+(states) and accomplishments, most of the time the choice of a pragmatically plausible interpre-
+tation requires extralinguistic knowledge. This extralinguistic knowledge is of two kinds: gen-
+eral and contextual.
+Table 6 (continued)
+ 
+ Valentina Yu. Apresjan 
+23
+By general extralinguistic knowledge we mean knowledge that reﬂ ects universal human prac-
+tices. A prime example is the tendency to sleep during the night. Because the majority of peo-
+ple tend to sleep at least for part of the night, a total lack of sleep constitutes a gross violation 
+of usual practices, and as such is worthy of a special mention. Thus, V-negated interpretation 
+of strings X didn’t sleep all night ‘X didn’t sleep at all during the night’ represents an informa-
+tive and, therefore, pragmatically plausible reading.
+On the contrary, a Q-negated reading of such sentences would be a stretch from the pragmatic 
+point of view. The interpretation of partial negation ‘X didn’t sleep the whole night, but only part’ 
+requires someone’s claim in the preceding context that X slept all night, which the speaker as-
+pires to disprove. While a V-negated reading of the string X didn’t sleep all night is a regularly 
+made and easily understood statement about nocturnal insomnia, a Q-negated reading requires 
+constructing a fairly complicated (and highly improbable) context. For example, somebody ac-
+cuses a night security guard of unprofessional behavior, namely, sleeping the whole night; the 
+speaker defends the guard by claiming that the guard slept for only part of the night. Unsurpris-
+ingly, all 267 occurrences of not sleep all night in EnTenTen are interpreted with V-negation. 
+Thus, this expression can be considered a lexicalized instance of V-negation, triggered by gen-
+eral extralinguistic knowledge.
+The two most frequent lexicalized instances of V-negation reﬂ ecting universal extralinguistic 
+knowledge are not [sleep] all night ‘not sleep at all during the night’ and not [eat] all day ‘not 
+eat at all during the day’ which reﬂ ect the most frequent violations of general human practices 
+to sleep at least part of the night and eat at least once every day.
+The most frequent lexicalized instance of Q-negation is not [have] all day ‘to have only part 
+of the day available’, which reﬂ ects a universal approach to the daytime as a resource for dif-
+ferent activities. In addition, the interpretation of partial negation is also more plausible from 
+the linguistic point of view: in English, to report a total lack of resource, speakers would nor-
+mally use negative construction: I have no bread, I don’t have any bread, but not *I don’t have 
+all bread (also, see Discussion).
+By contextual extralinguistic knowledge we mean the knowledge of particular circumstances 
+that allows the reader to reach a pragmatically plausible decision. E.g., phrases like Restaurants 
+don’t serve all night; Buses don’t run all night; The dog didn’t bark all day; The baby didn’t cry 
+all day cannot be interpreted without a larger context because there are no universal tendencies 
+or rules concerning these situations. Restaurants can be closed for part of the night or for the 
+whole night; likewise, buses can run for part of the night or not at all, depending on the practices 
+of a speciﬁ c place. Babies can cry for part of the day or can totally abstain from crying, as well 
+as dogs can make some noise or not at all, depending on speciﬁ c circumstances. While state-
+ments about the total lack of activity during a speciﬁ c time period are more informative from 
+the point of view of Gricean maxims of communication, speciﬁ c practices might prevent inter-
+pretations based on cooperation principles. Sometimes, the choice of one interpretation is im-
+possible; consider the following ambiguous sentences from our EnTenTen15 sample:
+(43) Some restaurants keep late hours, others may not serve all night. [EnTenTen15]
+either ‘not serve at all during the night’ or ‘serve for only part of the night’
+(44) Many employees rely on subway which doesn’t run all night. [EnTenTen15]
+either ‘does not run at all during the night’ or ‘runs for only part of the night’
+On the whole, we can observe that night triggers clearer expectations as to the choice of con-
+ventionalized occupations: it is the time for sleep. As a result, almost half of the negative sen-
+tences with all night contain sleep and are lexicalized with V-negation.
+Day, naturally, presents a greater choice of activities and, hence, possible interpretations of ne-
+gation scope. The most frequent violation of diurnal conventions is not eating. Hence, over one 
+ﬁ fth of our not + Verb + all day sample (22 hits) is comprised by a lexicalized V-negated collo-
+cation not eat all day. Q-negation also has a frequent lexicalized expression, such as not have 
+24 
+Voprosy Jazykoznanija 
+2020. № 2
+all day (23 hits in our day sample). However, its collocation strength and, hence, recognizabil-
+ity, is considerably lower (see Tables 7 and 8). In both night and day samples, lexicalized V-ne-
+gated readings, reﬂ ecting universal extralinguistic knowledge, form the top of the frequency. 
+Therefore, it is reasonable to assume that temporal modiﬁ ers with all, especially all night, are 
+markers of V-negation.
+Table 7
+Frequency of predicates 
+in the string not V all night
+Lemma
+Frequency
+ipm
+sleep
+265
+0.01
+have
+ 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 0.01
+spend
+ 20
+get
+ 17
+stop
+ 16
+stay
+ 16
+run
+ 15
+move
+ 14
+last
+ 13
+remain
+ 12
+work
+ 10
+wait
+  9
+take
+  6
+got
+  6
+play
+  5
+eat
+  5
+snore
+  3
+pop
+  3
+open
+  3
+go
+  3
+Table 8
+Frequency of predicates 
+in the string not V all day
+Lemma
+Frequency
+ipm
+eat
+229
+0.01
+have
+176
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 0.01
+spend
+152
+last
+ 73
+get
+ 61
+take
+ 44
+bore
+ 30
+work
+ 29
+stop
+ 25
+sleep
+ 25
+stay
+ 25
+stay
+ 24
+move
+ 23
+sit
+ 21
+got
+ 21
+go
+ 21
+4.4.2. Pragmaticalized demonstratives
+as markers of verb-negated readings
+As mentioned above, demonstratives this and that in their pragmaticalized usage of express-
+ing negative attitude serve as markers of those V-negated readings that involve an emphatic in-
+terpretation of the quantiﬁ er. Introducing them into the quantiﬁ er phrase increases the likelihood 
+of a V-negated interpretation. Consider the following sentences:
+(45) I did not eat all the vegetables.
+(46) I did not eat all these vegetables.
+(47) I do not trust all doctors.
+(48) I do not trust all those doctors.
+ 
+ Valentina Yu. Apresjan 
+25
+Sentences (45) and (47), without the demonstratives, are likely to be interpreted with Q-nega-
+tion: ‘I ate part of the vegetables’, ‘I trust part of the doctors’. However, sentences (46) and (48), 
+with demonstratives, are likely to receive V-negated interpretations: ‘I did not eat any of these 
+(disgusting) vegetables’, ‘I do not trust any of those (incompetent) doctors’.
+Consider also the following sentences from COCA, where (49) without a demonstrative is 
+interpreted quantitatively with partial negation, and (50) with a demonstrative is interpreted em-
+phatically with total negation:
+(49) Some transsexuals cannot aﬀ ord [all] the surgeries necessary to full sex assignment. [En-
+TenTen15]
+‘Some transsexuals can aﬀ ord part of the necessary surgeries.’
+(50) The residents of Leavenworth cannot [aﬀ ord] all these extra expenses that tourism has 
+brought. [EnTenTen15]
+‘The residents cannot aﬀ ord any of the considerable tourism-associated extra expenses.’
+To verify the validity of demonstratives this and that as markers of V-negated readings, we 
+analyzed all strings not + Verb + all + this, not + Verb + all + these, not + Verb + all + those 
+found in COCA. The string not + Verb + all + that was excluded from the analysis because all 
+examples with it turned out to contain the syntactic phraseme all that X (He doesn’t seem all 
+that happy), which renders them useless for our purposes. Minus “noise”, we analyzed the total 
+of 83 examples: 27 sentences with not Verb all this, 34 sentences with not Verb all these, and 
+22 sentences with not Verb all those. The results are summarized in Table 9.
+Table 9
+Demonstratives as markers of V-negated readings:
+the data from COCA
+String
+Total relevant hits
+V-negation
+Q-negation
+C-negation
+Ambiguous reading
+not Verb all this
+27
+22
+1
+4
+0
+not Verb all these
+34
+29
+3
+1
+1
+not Verb all those
+22
+19
+0
+3
+0
+Total
+83
+70
+4
+8
+1
+We can see that verb negation is indeed by far the predominant interpretation of the construc-
+tion with negation, universal quantiﬁ er and demonstratives, so demonstratives can be consid-
+ered a reliable marker of V-negation.
+A closer analysis of the examples shows that in the majority of the sentences, the demonstra-
+tives are indeed not used in their primary function, but as markers of negative emphasis. In many 
+cases, their interpretation as markers of negative attitude is triggered by the predicate. Namely, 
+predicates that carry positive messages, in combination with negation express negative attitude, 
+and, thus, entail emphatic interpretation of the demonstratives. Consider the following examples 
+from COCA, where the use of the emphatic quantiﬁ er with the emphatic demonstrative creates 
+additional implicit negative assessment:
+(51) She did not [like] all this attention for Christina when she, Dolly, was there. [COCA]
+‘She did not like any of this (redundant) attention for Christina.’
+(52) This is unacceptable. I cannot [allow] all these intrusions. [COCA]
+‘I cannot allow any of these (bothersome) intrusions.’
+(53) I’m not [enjoying] all this talk about George W. Bush’s past life. [COCA]
+‘I don’t enjoy any of this (evil) talk about George Bush’s past life.’
+26 
+Voprosy Jazykoznanija 
+2020. № 2
+(54) Our satisfaction is in God. We do not [need] all these extra things. [COCA]
+‘We do not need any of these extra (mundane, vain) things.’
+(55) But when it comes to our own, we [should] not make all those excuses. [COCA]
+‘We should not make any of those (self-justifying) excuses.’
+Interpreting these sentences with Q-negation is a pragmatically implausible decision: it is 
+indeed bizarre to suppose that one’s negative attitude to a situation or an object only applies 
+to some aspects / instances of that situation or some aspects / amounts of that object. This might 
+be a manifestation of a certain cognitive tendency: people tend to generalize negative impres-
+sions more often than positive ones. This intuition is somewhat conﬁ rmed by the frequencies 
+of like vs. don’t like statements in EnTenTen15. We have formulated four queries: I like all + 
+Noun, I like some + Noun, I don’t like any + Noun, I don’t like some + Noun. The results are 
+in Table 10:
+Table 10
+Frequencies of general vs. selective statements of positive 
+and negative attitude in EnTen Ten15
+I like all + N
+I like some + N
+I don’t like any + N
+I don’t like some + N
+675
+0.04 ipm
+300
+0.02 ipm
+100
+0.01 ipm
+30
+less than 0.01 ipm
+Though this data is insuﬃ  cient for making any strong claims, it appears that in making neg-
+ative statements, people generalize comparatively more often than in making positive state-
+ments, and that selective positive statements occur comparatively more frequently than selec-
+tive negative statements. This cognitive tendency has a clear experiential basis: a small defect 
+can entirely spoil something valuable, while the opposite is not true; cf. folk sayings ﬂ y in the 
+ointment, Russian ložka dëgtja v bočke mëda ‘a spoon of tar in the barrel of honey’, German ein 
+Haar in der Suppe ‘a hair in the soup’.
+When the predicate does not support negative emphatic interpretation of the quantiﬁ er and 
+the demonstrative, Q-negation becomes possible. Consider the following ambiguous sentence 
+from COCA:
+(55) U.S. policy cannot ﬁ x all these gaps, but it can help.
+With emphatic interpretation of the quantiﬁ er, it means ‘US policy cannot ﬁ x any of the un-
+pleasant and/or numerous gaps in question, but it can still help’. With quantiﬁ cational interpre-
+tation of all, it means ‘US policy can ﬁ x only some of the gaps in question but it can help’. Thus, 
+demonstratives produce a number of ambiguous readings (three in the EnTenTen15 sample, four 
+in the COCA sample), where both emphatic and non-emphatic interpretations of the quantiﬁ er 
+and the demonstrative are pragmatically plausible.
+However, on the whole, demonstratives this and that are fairly reliable markers of V-negation, 
+especially when their negative emphatic interpretation is supported by other negative elements 
+of the context. Those are usually of two types: mental predicates with the meaning of good at-
+titude (love, like, approve, enjoy, want, believe), which in combination with negation express 
+negative attitude, or else negatively connoted nouns or adjectives in the quantiﬁ er phrase (all 
+these disgusting details, all these idiots).
+4.4.2. Negative assessment as a marker of V-negation
+In principle, markers of Q-negation and V-negation can compete in a sentence. E.g., verbs 
+like know in the absence of other clues entail Q-negation:
+ 
+ Valentina Yu. Apresjan 
+27
+(56) I didn’t know [all] the details. = ‘I knew some of the details, but not all.’
+ Introducing these or those into the utterance creates the possibility of emphatic interpretation 
+and, thus, of V-negation: I didn’t know all these details can mean either ‘I knew some of the de-
+tails, but not all’ (Q-negation) or ‘I didn’t know any of the details’ (V-negation). Adding another 
+marker of V-negation, namely, a lexical item expressing negative assessment, consolidates the 
+emphatic interpretation, and, hence, a V-negated reading:
+(57) I don’t want to know all these details. = ‘I don’t want to know any of the details.’
+(58) Don’t tell me all these disgusting details. = ‘Don’t tell me any of these disgusting details.’
+Markers of the second type, namely, negatively connoted lexical items (idiots, disgusting) 
+are stronger markers of V-negation than those that express negative attitude only in combi-
+nation with negation (want, like). On their own, predicates like want and like are insuﬃ  cient 
+to render a phrase V-negated. Sentences I don’t want to know [all the details]; I don’t trust 
+[all] healers are likely to be interpreted with Q-negation ‘I want to know only some of the 
+details’, ‘I trust only some healers’. Adding a demonstrative creates negative emphasis and 
+results in V-negation:
+(59) I don’t [want to know] all these details. = ‘I don’t want to know any of these (sordid) de-
+tails.’
+(60) I don’t [like] all these healers. = ‘I don’t like all these (untrustworthy) healers.’
+Strong markers of V-negation, or items that incorporate negative assessment in their lexical 
+meaning, are infelicitous in the absence of emphatic demonstratives: ?? Don’t tell me all the dis-
+gusting details; ?? I won’t talk to all the idiots; ?? I don’t believe all the bullshit. This is a mani-
+festation of general referential properties of qualitative nouns, or nouns that carry strong eval-
+uation, such as shit, rubbish, junk, scoundrel, etc. They are normally used non-referentially, 
+as predicates: This is rubbish, but not *We discussed the rubbish for an hour. In order to be 
+used with speciﬁ c reference, they require “pronoun determiners that take on the indexing role” 
+[Arutyunova 1976: 348–349; Shmelyov 1996: 206–207].
+4.5. Q-negation as the default reading 
+of not + Verb + all sentences: Discussion
+One of the main questions posed by our results is the motivation behind the statistical prom-
+inence of Q-negated readings. Why is Q-negation the default scope reading of sentences with 
+predicate negation and universal quantiﬁ er? We have demonstrated that in the majority of con-
+texts it is semantically and pragmatically neutral, unlike V-negation, which can explain its sig-
+niﬁ cantly higher frequency. The question remains, why is V-negation of not + Verb + all sen-
+tences semantically and pragmatically marked?
+We suggest that Q-negated reading is the default option of interpreting not + Verb + all sen-
+tences for pragmatic reasons. Logically, the expressions ¬∃x (x = y) and ∀x (x ≠ y) are equiv-
+alent, as are the expressions ¬∀x (x = y) and ∃x (x ≠ y). However, pragmatically these expres-
+sions may be very diﬀ erent. We will demonstrate that V-negated interpretation of sentences with 
+universal quantiﬁ er (∀x (x ≠ y)) is not a pragmatically neutral way of expressing the meaning 
+of total negation in English. V-negated strings of not + Verb + all structure express a range of ad-
+ditional pragmatic shades, are pragmatically marked, and are, therefore, only used in a fraction 
+of contexts with total negation. To express total negation in the majority of contexts, English 
+normally uses negative pronouns, such as nobody, nothing, etc.; total negation can also be ex-
+pressed by the NPI pronouns anybody, anything, etc., combined with a negated verb.
+28 
+Voprosy Jazykoznanija 
+2020. № 2
+However, what is the diﬀ erence between total negation expressed by negative pronouns and 
+total negation which we ﬁ nd in V-negated readings of not + Verb + all construction? Consider 
+the following pairs of sentences with negative pronouns and not + Verb + all construction, re-
+spectively:
+(61) I have no time.
+(62) *I don’t have all time.
+The sentence with a negative pronoun is felicitous, whereas the sentence with all and pred-
+icate negation is not. On the contrary, in the next pair of sentences, the sentence with all and 
+predicate negation is felicitous and the sentence with the negative pronoun is not:
+(63) She didn’t sleep all night.
+(64) *She slept no night.
+To explain this diﬀ erence, we have to formulate the diﬀ erence between the meaning expressed 
+by negative pronouns and the meaning expressed by a combination of a negated verb and uni-
+versal quantiﬁ er when both are possible:
+(65) I don’t read any newspapers.
+(66) I don’t read all these newspapers.
+We suggest that utterances with negative pronouns deny the existence of ��� objects that sat-
+isfy the conditions speciﬁ ed by the predicate and thus do not deﬁ ne sets or domains of discourse. 
+They can be used without any speciﬁ cation of the potential members that could satisfy the prop-
+ositional function. On the other hand, the universal quantiﬁ er all necessarily points to a certain 
+set, or domain, whose members satisfy the propositional function without exception. Even when 
+the propositional function is negative, as is the case with not [V ] all X construction, the domain 
+is predeﬁ ned: we are talking about a certain set in question whose elements do not, without ex-
+ception, satisfy the propositional function. Therefore, if we have not speciﬁ ed the domain in any 
+way in the previous discourse, the phrase is infelicitous or else impossible to interpret with V-ne-
+gation. Thus, phrases like (61), where it is impossible to introduce the idea of a deﬁ nite set, are 
+not felicitous with not + Verb + all structure. Likewise, sentences like (63), where the domain 
+of discourse is necessarily deﬁ ned by context (we are talking about a speciﬁ c night), are im-
+possible with negative pronouns. Sentences where both constructions are possible, have diﬀ er-
+ent meanings: in (65), the speaker denies reading any newspapers that potentially exist in the 
+world, while in (66), the speaker denies reading any of the newspapers that have been mentioned 
+previously (the use of a demonstrative pronoun is obligatory for a V-negated reading in (66)).
+Thus, the meaning of total negation expressed by the strings not + Verb + all is pragmatically 
+non-neutral relative to other means of expressing total negation, and only occurs in very spe-
+ciﬁ c pragmatic circumstances. Therefore, such strings can only be interpreted with V-negation 
+in the presence of special markers, and Q-negated interpretations become the default reading.
+5. Conclusion
+We have conducted a corpus study of scope readings of negation in sentences with predicate 
+negation and universal quantiﬁ er all, such as Bars don’t serve all night; I don’t know all the de-
+tails. On the whole, we have analyzed about 1500 sentences with this structure, extracted from 
+EnTenTen15 and COCA corpora. We have demonstrated that the lexical set-up of these sen-
+tences can serve as a predictor of their pragmatically plausible interpretations and, hence, their 
+probable information structures and scope readings.
+ 
+ Valentina Yu. Apresjan 
+29
+The two main scope readings of not + Verb + all sentences are Q-negation (partial negation) 
+and V-negation (total negation): I haven’t talked to [all] my students (Q-negation, ‘I have talked 
+to only part of my students’); I don’t [want] to talk to all these stuﬀ y bureaucrats (V-negation, 
+‘I don’t want to talk to any of these stuﬀ y bureaucrats’). While Q-negation is a pragmatically 
+neutral reading in most contexts, V-negation is pragmatically charged. Q-negation entails literal 
+interpretation of the quantiﬁ er all in its direct quantiﬁ cational meaning; V-negation mostly en-
+tails emphatic interpretation of all in its meaning of negative emphasis.
+Lexical markers of Q-negation and V-negation are determined by their semantic and prag-
+matic peculiarities, namely (i) partially or totally negated interpretation of the sentence and (ii) 
+quantiﬁ cational or emphatic interpretation of the quantiﬁ er. The interpretation of partial or total 
+negation is triggered by the information structure of the sentence: for partial negation, quanti-
+ﬁ er is in the focus, for total negation, verb is in the focus.
+Therefore, Q-negation mostly occurs with predicates that take a quantiﬁ cational argument 
+as a direct object (to include, to list, to ﬁ nish), or else easily take a quantiﬁ able argument (to know, 
+to meet requirements, to answer criteria) because such predicates are conducive both to plac-
+ing the quantiﬁ er in the focus and interpreting it in its literal quantiﬁ cational meaning. V-nega-
+tion occurs with temporal modiﬁ ers containing all (such as all night) because they are condu-
+cive to placing the verb in the focus. It also occurs with emphatic demonstratives and negatively 
+connoted lexical items because they consolidate the emphatic interpretation of the quantiﬁ er all.
+Q-negation occurs considerably more frequently than V-negation due to its pragmatic neutral-
+ity. Generally, in the absence of markers of V-negation, not + Verb + all strings are interpreted 
+with Q-negation. The construction coerces Q-negated readings even onto predicates that do not 
+have quantiﬁ cational meaning or implicatures.

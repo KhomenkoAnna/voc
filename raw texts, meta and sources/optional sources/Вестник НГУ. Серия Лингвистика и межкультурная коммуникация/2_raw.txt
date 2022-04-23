@@ -1,0 +1,389 @@
+À»Õ√¬Œ ”À‹“”—Õ¿ﬂ  Œ√Õ»“»¬»–“» ¿ » œ–»’ŒÀ»Õ√¬»–“» ¿ 
+ 
+ 
+© Bert Peeters, 2019 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+УДК 801.8 
+DOI 10.25205/1818-7935-2019-17-4-6-11 
+ 
+On Linguoculturology and Cultural Linguistics 
+ 
+Bert Peeters 
+ 
+Australian National University 
+Canberra, Australia 
+Universiteit Antwerpen 
+Antwerpen, Belgium 
+ 
+Abstract 
+Few Western scholars are likely to be aware that behind the noun linguoculturology and the adjective linguocultur-
+ological lie realities they may not be entirely familiar with. Most will no doubt unhesitatingly assume that the labels in 
+question are no more than a different way of referring to what, in Western Europe, the Americas, and Australia / New 
+Zealand, is called cultural linguistics. Yet, what we are witnessing here is anything but terminological variation. It is 
+terminological indifference of a kind that is common in most areas of scholarly activity, not in the least among lin-
+guists, many of whom use identical terms for different purposes, and different terms for identical purposes, thereby 
+stifling progress instead of inviting dialogue, and promoting indifference rather than engaging in collaborative efforts. 
+Mizin and Korostenski (2019) take the translators of two recent papers to task for the kind of terminological indiffer-
+ence referred to above. Both Sharifian (2015) and Peeters (2017) were originally written in English and then translated 
+into Russian to draw the attention of post-Soviet scientists to developments in cultural linguistics in the Western 
+world. I revisit each of these texts, before reaching the conclusion that we need to increase awareness in both direc-
+tions. The ongoing translation of important programmatic texts from English into Russian and vice versa is crucial, 
+and so is the publication of introductory materials, critical assessments, and terminological dictionaries. They will al-
+low Western linguists to further familiarize themselves with the theoretical underpinnings and empirical findings of 
+linguoculturology, and help post-Soviet science transcend the geographic and ideological area to which it is still 
+largely confined. The publication, in different issues of the 2020 volume of this journal, of revised versions of the four 
+introductory lectures on the Natural Semantic Metalanguage approach I had the pleasure of delivering at Novosibirsk 
+State University in June 2019 will hopefully help achieve some of the cross-fertilization contemporary cultural lin-
+guistics so badly needs. 
+Keywords 
+Linguoculturology, Cultural Linguistics, Natural Semantic Metalanguage, terminological variation, terminological in-
+difference, scientific synergies 
+For citation 
+Peeters, Bert. On Linguoculturology and Cultural Linguistics. Vestnik NSU. Series: Linguistics and Intercultural 
+Communication, 2019, vol. 17, no. 4, p. 6–11. DOI 10.25205/1818-7935-2019-17-4-6-11 
+ 
+ 
+О лингвокультурологии и культурологической лингвистике 
+ 
+Берт Петерс 
+ 
+Австралийский национальный университет 
+Канберра, Австралия 
+Антверпенский университет 
+Антверпен, Бельгия 
+Аннотация 
+Мало кто из западных исследователей осознает, что за существительным лингвокультурология и прилагатель-
+ным лингвокультурологичекий лежит область исследований, с которой они, возможно, не совсем знакомы. 
+Peeters, Bert. On Linguoculturology and Cultural Linguistics                     7 
+ 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+Большинство из них безо всяких колебаний сочтут, что русский термин – лишь другой способ называть ту об-
+ласть лингвистики, которую в Западной Европе, в Северной и Южной Америке, Австралии и Новой Зеландии 
+называют cultural linguistics (букв. культуральной лингвистикой, но обычно культурологической  лингвисти-
+кой). Тем не менее, наблюдаемое расхождение совершенно нельзя трактовать как вариативность терминоло-
+гии, как оговорку. Это есть в некотором роде свидетельство терминологической «глухоты», которая присуща 
+многим гуманитариям, и далеко не в последнюю очередь лингвистам, и это несмотря на то, что сам предмет 
+их исследования – язык и слово – требует от них более, чем от кого-либо другого, осознавать важность точной 
+терминологии. Используя идентичные термины для обозначения разных явлений и разные термины для ука-
+зания на одно и то же, лингвисты приносят больше вреда, чем пользы, не способствуют диалогу и взаимодей-
+ствию между научными сообществами, усложняют их. Именно за такую терминологическую глухоту Мизин  
+и Коростенский (2019) критикуют переводчиков двух недавних работ – Sharifian (2015) и Peeters (2017) – пе-
+реведенных с английского языка на русский, чтобы привлечь внимание ученых на постсоветском пространст-
+ве к достижениям западной культурологической лингвистики. В данной статье автор возвращается к этим тек-
+стам и приходит к выводу, что мы действительно остро нуждаемся в приведении терминологии к общему 
+знаменателю. Перевод в обоих направлениях важнейших текстов играет в этом ключевую роль, так же как  
+и публикация разного рода критических материалов и терминологических словарей. Они позволят западным 
+лингвистам составить более четкое представление о теоретических основаниях и эмпирических исследовани-
+ях в области лингвокультурологии, а лингвистика постсоветского пространства сможет преодолеть географи-
+ческие и идеологические барьеры, которые до сих пор ограничивают ее. Хочется верить, что поочередная 
+публикация в «Вестнике» на протяжении 2020 г. четырех статей на основе базовых лекций о естественном се-
+мантическом метаязыке (NSM), с которыми автор выступил в Новосибирском государственном университете 
+в июне 2019 в качестве приглашенного профессора, будет способствовать научному взаимооплодотворению 
+современных национальных школ культуро-ориентированной лингвистики и лингвокультурологии. 
+Ключевые слова 
+лингвокультурология, культурологическая лингвистика, естественный семантический метаязык (ЕСТ), терми-
+нологическая вариативность, терминологическая глухота, научная синергия 
+Для цитирования 
+Peeters, Bert. On Linguoculturology and Cultural Linguistics // Вестник НГУ. Серия: Лингвистика и межкультур-
+ная коммуникация. 2019. Т. 17, № 4. С. 6–11. DOI 10.25205/1818-7935-2019-17-4-6-11 
+ 
+ 
+*     *     * 
+ 
+In “Western Cultural Linguistics” [Mizin & Korostenski, 2019], labels such as linguoculturology 
+and linguoculturological are unlikely to be singled out for closer scrutiny. Built on transparent 
+Greek and Latin roots, they are generally thought to be beyond the need for definition. Even when 
+no further clarification is provided, readers will believe they have a sound understanding of the kind 
+of scientific endeavour the two terms seek to convey. Indeed, how could one not see that they refer 
+to the linguistically informed study of the intricate links between languages, cultures, and thought? 
+A good example of this “superficial” approach, which takes formal transparency for granted, can be 
+found in a recent paper by Maia Kikvadze [Kikvadze, 2018] on “Linguoculturological aspects of the 
+study of Samkhruli (Southern) floronymic phrasal units”. The noun linguoculturology does not ap-
+pear once; the adjective is part of the title and of the concluding sentence, in which the author defi-
+antly states that there are good prospects for further research on Samkhruli floronymic phraseologi-
+cal units, from a linguoculturological, psycholinguistic and sociolinguistic perspective. Kikvadze’s 
+paper is fairly short, and not even one of the references in the final bibliography refers to linguocul-
+turology as it is understood in recent Russian scholarship. The fact that the author is a specialist of 
+Georgian philology affiliated with a Georgian State University is probably not totally irrelevant 
+here.  
+Regrettably, few Western scholars appreciate that behind the terms linguoculturology and lin-
+guoculturological lie realities they may not be entirely familiar with. Most will no doubt unhesitat-
+ingly assume that the labels in question are quite simply another way of referring to what, in West-
+ern Europe, the Americas, and Australia / New Zealand, is called cultural linguistics. Yet, what we 
+are witnessing here is anything but a case of terminological variation. It is terminological indiffer-
+ence of a kind that is widespread in most areas of scholarly activity, but especially among contem-
+porary linguists, who, because of their preoccupation with language and languages, ought to be 
+8  
+ÀËÌ„‚ÓÍÛÎ¸ÚÛрÌ‡ˇ ÍÓ„ÌËÚË‚ËÒÚËÍ‡ Ë ÔÒËıÓÎËÌ„‚ËÒÚËÍ‡ 
+ 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+aware more than any others of the importance of getting their terminology right. Unfortunately, 
+terminological awareness is something linguists are generally not very good at. Their use of differ-
+ent terms for identical purposes, and of identical terms for different purposes, creates Babylonian 
+confusion. Rather than inviting dialogue, it stifles progress. It cultivates indifference rather than mu-
+tual collaboration. Mizin and Korostenski [2019], whose paper is itself a (drastically shortened) 
+English version of a Ukrainian original [Мізін, 2019], take the translators of two recent papers to 
+task for the kind of terminological indifference referred to above. Both Sharifian [2015] and Peeters 
+[2017] were originally written in English and subsequently translated into Russian to draw the at-
+tention of post-Soviet scientists to developments in cultural linguistics in the Western world. 
+Sharifian [2015] is the translation, by I. Lebedeva, of a book chapter titled “Cultural Linguistics 
+and Intercultural Communication” [Sharifian, 2013]. It provides a first-hand description of “Cul-
+tural Linguistics”, as understood by Farzad Sharifian, and an account of the development of what 
+the author refers to as an “emerging field”, then examines how it can be applied to studies of prob-
+lems in intercultural communication. For a short time, “Cultural Linguistics” was known as “cul-
+tural linguistics” (with lower case initials), but this practice has now been abandoned. The use of 
+upper rather than lower case may look like a purely cosmetic change, but it is not: it is now possible 
+to see “cultural linguistics” (with lower case initials) as a common denominator for a variety of ap-
+proaches linked by a shared interest in the complex relations between language and culture, one of 
+which is “Cultural Linguistics” à la Sharifian. 
+In his latest book, Sharifian [2017. P. 2] explains that he uses the term Cultural Linguistics “to 
+refer to a recently developed discipline with multidisciplinary origins that explores the relationship 
+between language and cultural conceptualisations”. What Sharifian refers to as Cultural Linguistics, 
+and what I prefer to identify as CULTURAL LINGUISTICS [Peeters, 2016, 2017], recognizes that many 
+features of human languages are “entrenched or embedded” [ibid.] in such cultural conceptualiza-
+tions. The latter are the tools CULTURAL LINGUISTICS uses to study aspects of cultural cognition and 
+its instantiation in language; they include at least cultural categories, cultural metaphors, and cul-
+tural schemas – although I suspect this to be an open-ended list [for definitions, see Mizin & Koros-
+tenki, 2019. P. 9–10; for more details and further references, see Sharifian, 2017a, 2017b].  
+From an epistemological point of view, the main feature of CULTURAL LINGUISTICS is its multi-
+disciplinarity, i.e. its keenness to present new, interdisciplinary perspectives on the intersection be-
+tween culture, cognition, and language. CULTURAL LINGUISTICS promotes research that seeks to ad-
+vance our understanding of cultural conceptualizations of experience in various features of human 
+languages from diverse, yet at the same time complementary, disciplines as wide-ranging as cross-
+cultural pragmatics, anthropological linguistics and cognitive psychology. CULTURAL LINGUISTICS 
+therefore appears to be a lot more ambitious in its undertakings than most if not all Russian forms of 
+cultural linguistics, including linguoculturology. Mizin and Korostenski [2019. P. 7] argue that  
+I. Lebedeva’s translation of Sharifian’s article is inaccurate because it refers to the latter’s approach 
+as Culturological Linguistics. Culturology, they argue, is mainly a “Soviet ‘product’ that has noth-
+ing in common with Cultural Linguistics”. This is arguably an overstatement. Nonetheless, Mizin 
+and Korostenski [2019. Ibid.] are right in expressing their amazement at the fact that, even under 
+current globalization processes, “the two powerful scientific disciplines, [which] emerged almost 
+simultaneously in different parts of the world and have a common goal of research, can be develop-
+ing in isolation from one another”, and they observe that “this isolation has played a cruel joke with 
+Cultural Linguistics which remains practically unknown to post-soviet linguists” [Ibid. P. 8]. The 
+opposite is of course equally true: for most CULTURAL LINGUISTS (i.e. disciples and associates of 
+Sharifian), linguoculturology is terra incognita: in the two books and two edited collections pub-
+lished by Sharifian [2011, 2015, 2017a, 2017b] on cultural linguistics at large and CULTURAL LIN-
+GUISTICS in particular, the terms linguoculturology and linguoculturological do not appear. 
+One of the papers in Sharifian [2017a] is a reprint of Peeters [2016]; translated into Russian by 
+O. Dubrovska and published as Peeters [2017], it is the second of the two translations singled out 
+for comment by Mizin and Korostenski [2019. P. 7]. They highlight the “rather professional level” 
+Peeters, Bert. On Linguoculturology and Cultural Linguistics                     9 
+ 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+of the Russian translation of Peeters [2016], but then accuse the translator of methodological inac-
+curacy and linguistic incompetence: “O. Dubrovska translated the term Cultural Linguistics as Lin-
+guo-culturology – they are two different subjects”. Peeters [2016] was meant as an attempt to an-
+swer the question whether the author’s own approach, known as applied ethnolinguistics, can be 
+thought of as a form of CULTURAL LINGUISTICS (à la Sharifian) or whether, like the latter, it is a dif-
+ferent approach within the broader field of (all forms of) cultural linguistics. A recent by-product of 
+the Natural Semantic Metalanguage (NSM) approach, associated with the work of the most formi-
+dable linguistic tandem of all times, Cliff Goddard and Anna Wierzbicka, applied ethnolinguistics 
+was developed without reference to Sharifian’s CULTURAL LINGUISTICS and makes prolific use of 
+the term cultural value, which it sees as absolutely fundamental to its endeavours. Oddly enough, in 
+CULTURAL LINGUISTICS, the term cultural value appears to be used rather sparingly, and not at all  
+in a technical sense. Even though CULTURAL LINGUISTICS does acknowledge the importance of cul-
+tural values (to the extent that detailed study of culturally specific categories, metaphors, schemas, 
+etc. may lead to a more precise understanding of the cultural values upheld in particular language 
+communities), there seems to be little prospect for an eventual amalgamation. Rather, it is argued 
+that applied ethnolinguistics is part of a broader field of (different approaches to) cultural linguis-
+tics, where, together with CULTURAL LINGUISTICS à la Sharifian, it is able to provide a useful meth-
+odology for the study of language and cultural values.  
+The hypothesis on which much of my own work in applied ethnolinguistics is built is that judi-
+cious exploitation of selected resources of the foreign language in the (advanced) foreign language 
+classroom is likely to facilitate and clear the path for subsequent immersion in a foreign culture. 
+These selected resources include “certain language-specific ‘key’ words, recurrent colloquial 
+phrases, phraseological units, conversational routines, and other culture-revealing lingual units and 
+forms which together build what in Russian linguistic writings is referred to as either ‘linguaculture’ 
+or the ‘lingual picture of the world’”, which is how Rivlina [2010. P. 9] describes the linguistic evi-
+dence linguoculturologists also take a special interest in. It could be argued that linguoculturology, 
+too, is a form of cultural linguistics (in the broadest meaning of the term), like Sharifian’s CUL-
+TURAL LINGUISTICS and my own applied ethnolinguistics. 
+About the terms linguaculture and lingual picture of the world, both of which are used in Rus-
+sian scholarship, Rivlina (ibid.) writes that they are “regrettably absent in the international global-
+ization of English research”. Rivlina is obviously unfamiliar with studies such as Friedrich [1986] 
+and Agar [1994]; the term linguaculture is used by the former, the almost identical term languacul-
+ture has been popularized by the latter. In my own work, I use Agar’s term (languaculture) rather 
+than Friedrich’s (linguaculture), as it is closer to the one which, following in the footsteps of Galis-
+son [1991], I adopt in my writings in French, viz. langue-culture. I acknowledge, though, with Ga-
+maroff [1997], that linguaculture may be “easier to pronounce”. However, languaculture remains 
+closer to its component parts: “whenever you hear the word language or the word culture, you 
+might wonder about the missing half. […] ‘Languaculture’ is a reminder” [Agar, 1994. P. 60]. 
+The message coming out of this position paper should be clear: we badly need to create more 
+synergies between Western and post-Soviet approaches to cultural linguistics. The two sides need to 
+work harder to acknowledge one another, learn from one another, enrich one another. Whether this 
+can eventually lead to a common metalanguage and common definitions of basic terms remains  
+to be seen. For the time being, the ongoing translation of important programmatic texts in both di-
+rections is crucial, and so is the publication of introductory materials, critical assessments, and ter-
+minological dictionaries (e.g. an English / Russian dictionary of Cultural Linguistics and Linguocul-
+turology). These are the resources we need to allow Western linguists to further familiarize 
+themselves with the theoretical underpinnings and empirical findings of linguoculturology, and to 
+help post-Soviet science transcend the geographic and ideological area to which it is still largely 
+confined.  
+The publication, in different issues of the 2020 volume of this journal, of revised versions of the 
+four introductory lectures on the Natural Semantic Metalanguage approach I had the pleasure of 
+10  
+ÀËÌ„‚ÓÍÛÎ¸ÚÛрÌ‡ˇ ÍÓ„ÌËÚË‚ËÒÚËÍ‡ Ë ÔÒËıÓÎËÌ„‚ËÒÚËÍ‡ 
+ 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+delivering at Novosibirsk State University during a three-month visit completed in June 2019 at the 
+invitation of Michèle Debrenne, whose administrative portfolio at NSU includes the promotion of 
+academic exchanges of staff and students, will hopefully help achieve some of the cross-fertilization 
+contemporary cultural linguistics (in the broadest sense) so badly needs. The titles of the papers that 
+will be published are as follows: 
+1. Natural Semantic Metalanguage: What is it and what is it good for? 
+2. Breaking through the shame barrier with simple cross-translatable words 
+3. Minimal Language: NSM “taken out of the lab” 
+4. Iskrennost’ for foreigners: The benefit of “pedagogical scripts” 
+The second of the original four lectures was based on a presentation that has in the meantime 
+been published elsewhere [Peeters, 2019] and that could therefore not be included by virtue of the 
+journal’s editorial policy. It has been replaced with a comparable presentation that does not decon-
+struct the ethnopsychological personhood construct mind, but that demonstrates how much can be 
+gained from a comparable deconstruction of the equally reified and falsely universal concept of 
+shame. There is nothing universal about shame, except the way in which it can be linguistically de-
+scribed, for the joint benefit of cultural insiders and outsiders alike. In my view, there is only one 
+way in which this can be achieved: we need a proper tool, and that tool is NSM. 
+It is my understanding that the work of Anna Wierzbicka, Cliff Goddard, and their collaborators 
+is highly appreciated in Russian academic circles. Informal conversations at NSU suggest that the 
+original English version of Wierzbicka’s book on cultural key words [1997] appears to be particu-
+larly valued. NSM has come a long way in the meantime. The primary aim of the publication of the 
+lecture series will be to make Russian students and scholars aware of some of the more recent de-
+velopments that have occurred in the NSM approach, and to encourage them to actively engage 
+with it in their own work. NSM is by no means a substitute for linguoculturology, but it can become 
+an additional tool. It is hoped that increased familiarity with the ins and outs of the NSM approach 
+will act as an incentive for further empirically based research into the languages and cultures of the 
+world, and perhaps for joint ventures between different approaches to cultural linguistics. If it does, 
+cultural linguistics in general and linguoculturology in particular have a lot to look forward to. 
+ 
+References 
+ 
+Agar, M. Language Shock: Understanding the Culture of Conversation. New York, William Mor-
+row, 1994, 284 p. 
+Friedrich, P. The Language Parallax: Linguistic Relativism and Poetic Indeterminacy. Austin, 
+University of Texas Press, 1986, xii + 192 p. 
+Galisson, R. De la langue à la culture par les mots [From language to culture through words]. Paris, 
+Clé international, 1991, 191 p. 
+Gamaroff, R. African spaces in culture and communication: Implications for education. Confer-
+ence paper, Africa in a Changing World, Institute of Africa, Moscow, 1–3 October 1997. URL: 
+http://grammargraph.wordpress.com/2010/06/09/african-spaces-in-culture-and-communica- 
+tion-implications-for-education/ (accessed 15.07.2013). 
+Kikvadze, M. Linguoculturological aspects of the study of Samkhruli (Southern) floronymic 
+phrasal units. In : O. Soutet, S. Mejri and I. Sfar (eds.). La phraséologie: théorie et applications. 
+Paris, Champion, 2018, p. 183–193. 
+Mizin, K., Korostenski, J. “Western” Cultural Linguistics and “Post-Soviet” Linguoculturology: 
+Causes of parallel development. Лінгвістичні студії, 2019, № 37, p. 7–13. DOI 10.31558/ 
+1815-3070.2019.37.1.  
+Мізін, К. І. Точки дотику культурної лінгвістики і лінгвокультурології: теоретичні підвалини 
+та методологічний інструментарій. In: Людино- й культурознавчі пріоритети сучасного 
+мовознавства: напрями, тенденції та міждисциплінарна методологія. Гол. ред. К. І. Мі- 
+зін. Переяслав-Хмельницький; Кременчук, ПП Щербатих О. В., 2019, p. 71–84. (in Ukr.) 
+Peeters, Bert. On Linguoculturology and Cultural Linguistics                     11 
+ 
+ 
+ 
+ISSN 1818-7935 
+¬ÂÒÚÌËÍ Õ√”. –ÂрËˇ: ÀËÌ„‚ËÒÚËÍ‡ Ë ÏÂÊÍÛÎ¸ÚÛрÌ‡ˇ ÍÓÏÏÛÌËÍ‡ˆËˇ. 2019. “. 17, № 4 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2019, vol. 17, no. 4 
+ 
+ 
+ 
+ 
+ 
+Peeters, B. APPLIED ETHNOLINGUISTICS is cultural linguistics, but is it CULTURAL LINGUISTICS? 
+International Journal of Language and Culture, 2016, № 3 (2), p. 137–160. DOI 10.1075/ 
+ijolc.3.2.01pee. Translated into Russian as Peeters (2017). 
+Peeters, 
+B. 
+ПРИКЛАДНАЯ 
+ЭТНОЛИНГВИСТИКА 
+– 
+это 
+лингвокультурология, 
+но 
+ЛИНГВОКУЛЬТУРОЛОГИЯ ли? Жанры речи, 2017, № 15, p. 37–50. Russian translation of 
+Peeters (2016). DOI 10.18500/2311-0740-2017-1-15-37-50 
+Peeters, B. The English ethnopsychological personhood construct mind “deconstructed” in univer-
+sally intelligible words. Critical Studies in Languages and Literature, 2019, № 1 (1), p. 61–77. 
+URL: https://www.ejmanager.com/fulltextpdf.php?mno=19899 (accessed 01.09.2019). 
+Rivlina, A. English-Russian interaction: Refashioning cultural values and assumptions. In: Building 
+Bridges with Languages and Cultures: 14th NATE / 7th FEELTA International Conference on 
+Language Teaching. Vladivostok, 2010, vol. 2, p. 8–18. URL: https://www.hse.ru/data/2012/ 
+02/29/1224397649/Rivlina%20English-Russian%20Interaction.pdf (accessed 01.09.2019). 
+Sharifian, F. Cultural Conceptualizations and Language: Theoretical Framework and Applications. 
+Amsterdam, John Benjamins, 2011, 255 p. DOI 10.1075/clscc.1 
+Sharifian, F. Cultural linguistics and intercultural communication. In: Language and Intercultural 
+Communication in the New Era. Ed. by F. Sharifian, M. Jamarani. New York, Routledge, 
+2013, p. 60–79. Translated into Russian as Sharifian (2015b). 
+Sharifian, F. (ed.). The Routledge Handbook of Language and Culture. New York, Routledge, 
+2015a, xvi + 522 p. 
+Sharifian, F. Культурная лингвистика и межкультурная коммуникация. Филологические нау-
+ки, 2015b, № 3, p. 80–97. Russian translation of Sharifian (2013). 
+Sharifian, F. (ed.). Advances in Cultural Linguistics. Cham, Springer, 2017a, xii + 745 p.  
+DOI 10.1007/978-981-10-4056-6 
+Sharifian, F. Cultural Linguistics. Amsterdam, John Benjamins, 2017b, xvii + 171 p.  
+DOI 10.1075/clscc.8. 
+Wierzbicka, A. Understanding Cultures Through their Key Words: English, Russian, Polish, Ger-
+man, Japanese. New York, Oxford University Press, 1997, 328 p. 
+ 
+Date of submission 
+Материал поступил в редколлегию 
+02.09.2019 
+ 
+ 
+ 
+Information about the Author / Сведения об авторе 
+ 
+Bert Peeters, PhD, Associate Professor, Australian National University (Canberra, Australia) and 
+Universiteit Antwerpen (Antwerpen, Belgium) 
+Петерс Берт, PhD, доцент, Австралийский национальный университет (Канберра, Австра-
+лия), Антверпенский университет (Антверпен, Бельгия) 
+Bert.Peeters60@gmail.com 
+ORCID 0000-0001-8422-4156 

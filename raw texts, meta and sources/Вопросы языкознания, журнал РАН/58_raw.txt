@@ -1,0 +1,445 @@
+2019. № 2 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+C. / Pp. 151–159
+ 
+Voprosy Jazykoznanija
+[Рец. на: / Review of:] J. Coon, D. Massam, L. deMena Travis (eds.). The Oxford 
+Handbook of Ergativity. Oxford: Oxford University Press, 2017. 1296 p. ISBN 978-0-19-
+873937-1.
+Marcel den Dikken
+Research Institute for Linguistics, Hungarian 
+Academy of Sciences, Budapest, Hungary; Eötvös 
+Loránd University, Budapest, Hungary;
+marcel.den.dikken@nytud.mta.hu
+Марсель ден Диккен
+Институт лингвистики Венгерской Академии 
+наук, Будапешт, Венгрия; Университет имени Ло-
+ранда Этвёша, Будапешт, Венгрия;
+marcel.den.dikken@nytud.mta.hu
+DOI: 10.31857/S0373658X0004306-5.
+The 35 chapters of this volume, to which 53 scholars (including the three editors) contributed 
+their expertise, in conjunction with the extensive bibliography (covering fully 100 pages), offer 
+outstanding coverage of the problems presented by ergative alignment, in synchronic morphosyn-
+tax (across an impressive range of languages from all of the world’s populated continents), in dia-
+chrony, and also in acquisition and sentence processing. The last section of the volume (Part IV) 
+contains sixteen chapters presenting a treasure trove of case studies of individual languages or lan-
+guage families, written by seasoned experts; 1 but the thirty chapters that precede Part IV also fea-
+ture a wealth of data from a smorgasbord of languages with ergative traits. Reading the whole vol-
+ume cover to cover is a tour de force that probably very few users of the handbook (apart from its 
+reviewers) will subject themselves to, and which is not in every way entirely satisfying (for reasons 
+mentioned towards the end of this review). But for all linguists and other interested parties who 
+want or need to familiarise themselves with or remind themselves of the hallmarks, explananda, 
+explanations, open questions, and controversies associated with ergativity, this volume will from 
+now on be their ﬁrst port of call. The handbook is doing linguistics a tremendous service — and it 
+also shows how far linguistics has come as a ﬁeld, in its analytical depth and sophistication as well 
+as the precision of the debates about matters on which consensus remains elusive.
+One thing that emerges perhaps most saliently from a perusal of the handbook is that it is 
+highly unlikely that ergativity is a parameter that distinguishes between languages. It is a rare 
+thing indeed for a �������� to have consistent ergative alignment in every aspect of its mor-
+phosyntax and information structure. Ergativity manifests itself in the case system (with the 
+subject of transitive clauses getting a different case, the ‘ergative’, from the subject of intran-
+sitive clauses and the object of transitive clauses), in the agreement system (the head-marking 
+counterpart to dependent marking in terms of case), in the syntax (accessibility hierarchy ef-
+fects in the realm of Ā-dependencies; control; perhaps even word order), and in discourse — but 
+rarely if ever in ��� these ways in one and the same language. Therefore, the locution ‘ergative 
+language’ is probably best avoided in linguistic parlance.2 Yet, stating (as Léa Nash does in the 
+opening paragraphs of her chapter 8, which presents a study of split ergativity in Georgian) that 
+‘ergative languages are never fully ergative’ (p. 175) may be too categorical — for instance, Laz 
+(Kartvelian) is featured in the handbook as a language that is fully ergative (see p. 7 of the in-
+troduction, and section 9.6.3.2 of Woolford’s chapter).
+ 
+1 A very laudable ingredient of Part IV is the chapter (written by Christa König) on ergativity in the lan-
+guages of Africa — a continent that does not usually ﬁgure prominently (if at all) in the context of er-
+gativity studies. (In truth, this is not without reason: König herself identiﬁes only one ‘full-ﬂedged er-
+gative language’ on the continent (Shilluk), and mentions a handful of split-ergative languages.)
+ 
+2 Geoffrey Haig’s chapter (p. 468) quotes Bickel [2011: 442] saying that ‘once popular expressions like 
+“ergative language” are simply senseless’.
+152 
+Voprosy Jazykoznanija 
+2019. № 2
+Be that as it may, the discussion of ergativity splits at many points throughout the handbook 
+certainly indicates that there are lots of split personalities in the ergative universe. Ellen Wool-
+ford’s chapter gives a very handy overview of the range of deﬁnitions given for ‘split ergativity’ 
+in the literature (pp. 206–207), and answers the question of ‘whether the various types of er-
+gative splits are present in syntax or are purely morphological’ by saying that ‘with the nota-
+ble exception of person / animacy / NP splits’, most ergative splits are syntactic (p. 224).3 This 
+dampens the prospects of the ‘TotalErg’ hypothesis (advanced in Itziar Laka’s chapter), which 
+has it that ergativity does not split. It may very well be, however, that split ergativity is epi-
+phenomenal, derivable from syntactic factors that are not just the privilege of ergative systems, 
+as Jessica Coon and Omer Preminger argue in their chapter. Differential case marking is the key 
+phrase here: so-called split ergativity is just a different name for ‘differential subject marking’, 
+the companion to the ‘differential object marking’ patterns familiar from many languages that 
+do not have ergative alignment patterns. Andrej Malchukov conﬁrms in his chapter that the dif-
+ferential case-marking patterns exhibited by languages show a correlation with the role-indexing 
+pattern that sets ergative–absolutive and nominative–accusative systems apart. But differential 
+subject marking is not impossible in languages that usually mark all subjects (of ﬁnite clauses) 
+as nominative, nor is differential object marking absent from languages with ergative align-
+ment: the passive and antipassive diathesis alternations, respectively, instantiate these patterns.
+While passive and antipassive give each alignment system (nominative–accusative and erga-
+tive–absolutive) the differential marking pattern which is more typical of the other system, what 
+makes the differential marking differential even more complicated is the fact that these voice 
+alternations are both found across alignment types: as Maria Polinsky points out in her chapter 
+on antipassive (see pp. 328–329), there are ergative systems with a passive; and there may be 
+a basis for thinking that the antipassive is compatible with nominative–accusative alignment. 
+I used more caution in my formulation of the second conjunct of the previous sentence than in the 
+ﬁrst, because I remain less than convinced, at least for the more familiar languages that Polinsky 
+includes in her list (German, Romance, Slavic), that the case for them having a genuine anti-
+passive is airtight. For instance, Postal’s [1977] argument for antipassivisation in French, based 
+on unspeciﬁed object deletion in ‘faire-inﬁnitive’ causative constructions, is far from conclu-
+sive: much depends on one’s outlook on the syntax of the case pattern of the Romance causative.
+Now that the Romance causative construction has entered the discussion, this may be a good 
+moment to draw attention to the occurrence of ‘ergative’ case patterns in otherwise nomina-
+tive–accusative languages. The fact that in the French equivalent of I will make him eat his soup 
+we see oblique (here, dative) case on the causee (Je lui ferai manger sa soupe ‘I him.��� will.
+make eat his soup’) whereas in faire-causatives with an intransitive inﬁnitive (whether it be un-
+ergative or unaccusative) the full-nominal causee bears accusative case (Je le ferai rire / tomber 
+‘I him.��� will.make laugh / fall’) is a differential case-marking pattern very much like what we 
+ﬁnd in so-called ergative languages.4 Remarkably, the ‘faire-inﬁnitive’ causative of the Romance 
+languages is not mentioned anywhere in the handbook, even though Woolford, in particular, is 
+describing a pattern directly from the playbook of the Romance causative. On p. 215, Woolford 
+lays her ﬁnger on the role of control in the split-ergative case system of Folopa, where ‘[i]f a per-
+son uses the ergative [he] thus states his control’ over the situation (in the words of Anderson 
+ 
+3 Especially interesting in connection with syntactic ergativity splits is Woolford’s discussion of predi-
+cate-type-based split ergativity in Nepali (based on [Butt, Poudel 2007]), where individual-level (IL) 
+transitive predicates have an ergative-marked subject whereas the subject of stage-level (SL) transi-
+tives is nominative (p. 213). (On p. 214 Woolford notes that Nepali also has two different copulas for 
+the IL and SL predicates — without drawing attention in this context to Spanish and Portuguese, which 
+famously do, too.)
+ 
+4 It may be relevant to note in this context that the 19th century missionary George Taplin, in his analysis 
+of Ngarrindjeri, used the term ‘causative’ for what we would now call ‘ergative’ (see William McGre-
+gor’s chapter, p. 453).
+ 
+Marcel den Dikken 
+153
+& Wade [1988: 11]). The role of control in split ergativity rears its head again on pp. 259 (Sa-
+moan) and 267 (Lezgian), in Malchukov’s chapter. The parallel with the French ‘faire-inﬁni-
+tive’ causative is hard to miss here: both in the functional literature (see especially [Huffmann 
+1997]) and in generative work [Authier, Reed 1991], it has been pointed out that there is an ex-
+plicit connection, particularly when the causee is a clitic, between the case of the causee and the 
+degree of control exerted by it over the causativised event. We are plainly looking at the same 
+phenomenon in both French and Folopa, Samoan and Lezgian.
+This leads me to a more general point. In their introduction to the handbook (p. 3), the ed-
+itors point out correctly that ‘not only do we ﬁnd non-ergative patterns throughout languages 
+traditionally labeled “ergative,” we also ﬁnd ergative patterns in a number of language [sic 5] 
+and domains normally considered “nominative–accusative.”’ But although at various points 
+throughout the handbook there is discussion of the occurrence of ergative-like patterns in lan-
+guages that do not generally show ergative–absolutive alignment, it seems to me that more 
+could have been made of potentially profound parallels between familiar nominative–accusa-
+tive patterns and things we ﬁnd in systems with ergative alignment. The classic hypothesis that 
+the source of ergative alignment is the passive construction is brought up in several chapters — 
+and it is roundly debunked by all authors who mention it. But the fact that the passive of, say, 
+English singles out the notional subject of transitive clauses and marks it with a special case 
+or preposition is not the only thing reminding one of ergativity in nominative–accusative sys-
+tems. There are quite a few alternations in so-called nominative–accusative languages (in ad-
+dition to the passive or the faire-causative already mentioned) in which a particular argument 
+can be marked either with structural case or in some oblique way. The conative alternation (He 
+ate (at) the meat), which conﬁnes itself to the object of transitive clauses, is mentioned explic-
+itly by Polinsky in the context of a discussion of the antipassive (see pp. 325, 329) and is also 
+brought up in passing by Coon & Preminger (p. 234) and in Mary Laughren’s chapter on War-
+lpiri (the Warlpiri conative strikingly has an ergative-marked agent and a dative-marked object: 
+p. 953). But Warlpiri’s rendition of The man shot the kangaroo with a riﬂe (Laughren, p. 953), 
+which has two ergatives, one on ‘man’ and the other on ‘riﬂe’, seems to me much more inter-
+esting. Laughren’s observation that ‘[i]n Warlpiri, the ergative-marking of instrument DPs 
+is only grammatical if the subject is also marked ergative’ (p. 957), hence not in intransitive 
+clauses, reminds one of the case alternation on the instrument argument in English He opened 
+the door with the key and The key opened the door. Perhaps even more to the point is the case 
+alternation on the cause argument seen in English alternations such as The door closed from 
+the wind and The wind closed the door, which ﬁnds an exact match in two Samoan examples 
+mentioned in Malchukov’s chapter (p. 259) — though unfortunately the parallel is missed due 
+to the fact that Malchukov translates the locative case variant in the same way as the ergative 
+ 
+5 This typo will serve as my cue for a few small remarks about some presentational imperfections of the 
+handbook. In several places, names of linguists are misspelled (often with dogged persistence) — thus, 
+Sheehan’s name is consistently misreproduced as ‘Sheenan’ in Laka’s chapter (which suffers from 
+a variety of other typos as well), Altshuler’s name appears as ‘Artshuler’ and Depraetere’s as ‘Depreat-
+ere’ in Nash’s chapter (the former but not the latter also shows up with the wrong spelling in the gen-
+eral bibliography), and Pylkkänen’s name lacks its umlaut (‘Pylkkanen’) every time Kaufman’s chap-
+ter makes mention of it. Another recurrent problem is the variable spelling of certain language names 
+throughout the handbook (e. g., Ch’ol / Chol, Yup’ik / Yupik). On p. 249, in (39a), the gloss is mixed 
+up (so’ should have been glossed as ‘am’ and magnate as ‘eaten’, rather than the other way round); but 
+thankfully this is an example from Italian, a relatively familiar language, so probably most readers will 
+be able to recover from this error. The occasional missing word hampers parsing of some sentences 
+in the handbook (see e. g. the last sentence of the ﬁrst paragraph of the conclusion of Legate’s chap-
+ter). Missing italicisation on some in-text citations of linguistic material (e. g. on p. 65) and omission 
+of ﬁrst-line indentation at the start of several new paragraphs in chapter 22 will not affect readability 
+but should also have been ﬁxed at the typesetting stage. Overall, however, considering the sheer size 
+of this volume and the large number of contributors, the handbook looks excellent.
+154 
+Voprosy Jazykoznanija 
+2019. № 2
+one. A translation with from would have been a useful segue to the relationship between erga-
+tive case and directional P-elements such as English from, which is addressed elsewhere in the 
+handbook — prominently in William McGregor’s chapter on the grammaticalisation of ergative 
+case marking (see p. 449), in passing in Michelle Sheehan’s contribution (see p. 61), and also 
+in an interesting way in Eva Schultze-Berndt’s discussion of the ablative in Jaminjung, which 
+can mark the A-argument of a transitive clause with either the ergative or the ablative, depend-
+ing on animacy and information structure (more on the latter below). The fact that English has 
+a case alternation involving precisely the preposition from and ﬁnding a close parallel in some 
+ergative case systems is surely indicative of the fact that there is no deep distinction between 
+ergative and non-ergative languages.
+Also worth exploring is the possible connection between Malchukov’s Lezgian example 
+(p. 267) in which the ‘involuntary agent’ of the event is marked with adelative case (as opposed 
+to the ergative case that the deliberate agent of the same event would bear) and English expe-
+riential constructions such as The pot broke on Zamira. These English cases are striking not 
+only for introducing with a preposition an argument higher on the Silverstein hierarchy than 
+the nominative argument, but also for the fact that they alternate with have-sentences in which 
+the theme is the accusative object and the ‘involuntary agent’ is the nominative subject, obliga-
+torily ‘doubled’ by a pronoun inside a PP headed by on, as in Zamira had the pot break on her 
+(see [Belvin 1996] for detailed discussion). Highly relevant in this context is the intriguing dif-
+ference between the Shipibo rendition of My monkey died on me (where ‘monkey’ is marked 
+ergative; p. 117) and the Yup’ik version of A bearded seal sank on that guy (with ‘guy’ marked 
+ergative; p. 119), both taken from Mark Baker and Jonathan Bobaljik’s chapter. Though much 
+will depend on how the language does ‘have’, what comes to mind is that the Yup’ik example 
+is in fact the equivalent of the English have-sentence That guy had a bearded seal sink on him. 
+The more closely one looks, the more parallels between English and ‘exotic’ ergative languages 
+one is likely to ﬁnd.
+If the suggestion made in the previous paragraph is on target, we are dealing in this Yup’ik 
+example with the ergative–absolutive case pattern familiar from transitive sentences — but the 
+noun phrase in the subject position of the have-sentence is probably a ������� subject (see al-
+ready [Benveniste 1966], and more recently [Freeze 1992] and [Kayne 1993], on the syntax 
+of have-constructions; Itziar Laka’s discussion of the Basque equivalent of need is also rele-
+vant here). This is an important point because it bears directly on what is perhaps ��� major 
+bone of contention in the literature on ergativity: the status of ergative case as an inherent case 
+(most extensively defended in the handbook by Julie Legate) or as a dependent case in the sense 
+of [Marantz 1991] (elucidated and advocated by Baker & Bobaljik, and seconded in Léa Nash’s 
+chapter on Georgian). Tarald Taraldsen mentions (p. 341) a few languages that allow ergative 
+derived subjects, singling out Hawrami [Holmberg, Odden 2004] as an interesting case in point: 
+Hawrami has ergative–absolutive alignment in passivised double-object constructions, though 
+not in passivised monotransitives. This is perfectly in line with Baker & Bobaljik’s dependent 
+case approach: in passive double-object constructions there is case competition, forcing the de-
+ployment of dependent (ergative) case, whereas in the passive of a monotransitive verb a single 
+absolutive is sufﬁcient. Baker & Bobaljik devote careful attention, in connection with the in-
+herent vs. dependent case distinction, to the occurrence of ergative on internal arguments, pre-
+senting Shipibo as the primary case in point (but mentioning Kalaallisut, Chukchi and Yup’ik 
+as well). Laughren observes that ‘[a]s in many other Australian languages, the ergative sufﬁx 
+marks DPs in several non-subject roles in Warlpiri’ (p. 957) — indeed, Baker & Bobaljik assert 
+that cross-linguistically ‘there is no type of theta-role that is totally immune to ergative case’ 
+(p. 121). This all points squarely in the direction of the dependent case approach.
+Yet, at the other end of the spectrum, Legate’s chapter draws attention to the important fact 
+that ‘an absolutive object is not required for ergative case assignment’ (p. 143), although ‘[t]he 
+presence of a complement �� relevant’ (p. 148, my emphasis). The availability of ergative case for 
+the subject in the absence of an absolutive object is of course naturally expected on an inherent 
+ 
+Marcel den Dikken 
+155
+approach to ergative case. The dependent case approach can accommodate this, for example, 
+by postulating a silent object ‘taking’ absolutive case, but this raises non-trivial questions. How-
+ever, the inherent case approach to the ergative faces an even larger question (to which [Polin-
+sky 2016] offers a possible answer from an acquisition point of view): if ergative is an inherent 
+case assigned by v to its speciﬁer, why don’t all languages have inherently case-marked external 
+arguments of verbal predicates? Perhaps subscribers to an analysis of faire-causatives in which 
+the dative causee has an inherent case assigned by v, or followers of Collins’ [2005] approach 
+to the external argument of passives, would counter that in fact they do. But that would be a mis-
+take, in part for the same reasons as the ones brought up by Baker & Bobaljik in connection with 
+ergative case assignment: the dative causee of a faire-causative and the by-phrase of a passive 
+can have a wide range of θ-roles.
+As I see it, what ought to settle the debate between proponents of the inherent case approach 
+to the ergative and the adherents of the dependent case perspective is that there is arguably 
+no sense in which ergative could truly be an inherent case assigned by v and tied to a thematic 
+role (or a cluster of θ-roles) assigned by v. At the heart of the matter is the fact that the source 
+of the external argument’s θ-role is not v but the VP in its complement. We have known since 
+Marantz’s [1984] cogent arguments to this effect that the nature of the θ-role borne by the subject 
+of predication is determined compositionally by the verb and its complement together: in throw 
+a ball and throw a ﬁt we are dealing with different θ-roles because the predicates are different 
+(even though the verbs are the same). A major step forward in the v–VP approach to the struc-
+ture of transitive sentences was precisely the ease with which the compositionality of external 
+θ-role assignment is structurally encoded: v is the mediator of a predication relationship between 
+VP (the predicate) and its external argument (in SpecvP), not a θ-role assigner. But if v is not 
+a θ-role assigner, it cannot be an inherent case assigner either. This strikes me as a happy out-
+come because I know of no convincing cases elsewhere in the grammar in which an �������� 
+argument (i. e., a subject of predication) is assigned inherent case.
+Particularly pertinent here is a brief examination of the genitive possessor of noun phrases. 
+Though the literature on genitive case has erred frequently on this point (see e. g. [Chomsky 
+1986]), it cannot be that the genitive is an inherent case — cross-linguistically it can be as-
+signed to a wide variety of argument types, including internal arguments (Mary’s portrait); it 
+can even be assigned to non-arguments (yesterday’s newspaper). There are frequent parallels 
+across ergative languages between ergative and genitive case (a case in point is the so-called 
+‘relative case’ of the Eskimo languages, which covers both). Besides the ergative case, the gen-
+itive is really the only ��������� candidate for being an inherent case assigned to an external 
+argument (of n in this case; see Artemis Alexiadou’s chapter for discussion of the nP structure 
+of complex noun phrases, and also Edith Aldridge’s and Daniel Kaufman’s chapters for dis-
+cussion of the relationship between nominality / nominalisation and ergativity). So the fact that 
+the genitive case is ��� an ������ candidate for such a treatment casts a dark shadow on the 
+prospect of an analysis of ergative case as inherent. It seems to me likely that the only assign-
+ers of inherent case are prepositions — which may leave an opening for ergative case if there 
+are languages for which the ergative is plausibly analysed as a P-assigned case. Judging from 
+Nash’s assessment (see p. 190), such an approach is not viable for Georgian; but it may be right 
+for other languages (see [Polinsky 2016]).
+One last remark that I would like to make in the context of case assignment in languages 
+with ergative–absolutive alignment concerns the structural height of the case assigners.6 There 
+ 
+6 A question which I have no space to discuss at any length here is whether default case might play a role 
+in ergative systems, as it does in nomative–accusative ones. In Longenbaugh & Polinsky’s chapter 
+the possibility of there being two different ways of dealing with the absolutive case (as a default case 
+or as the equivalent of nominative case) is brought up explicitly (p. 732). See also Taraldsen’s chapter 
+for a brief and highly relevant remark (p. 350), and Austin’s chapter on the role of defaults in the ac-
+quisition of Basque ergative and dative morphology.
+156 
+Voprosy Jazykoznanija 
+2019. № 2
+is debate on this point in the literature for both ergative and absolutive case. Legate’s chapter 
+addresses ergative case and structural height, arguing that the ergative argument is typically 
+low in the structure (SpecvP). She leaves open the question of ‘whether true “high ergative” 
+languages may be found’ (p. 157) — a tantalising question because, as Legate is right to stress 
+on p. 135, there is a nomenclatural issue here: how is a “high ergative” language in which er-
+gative is assigned by T and absolutive by v different from a nominative–accusative language? 
+A language in which ergative and absolutive are ���� assigned by T would certainly be differ-
+ent from a nominative–accusative one, for which v is indubitably the source of accusative case. 
+In Michelle Sheehan’s chapter, the question of whether the source of absolutive case is parame-
+trised (i. e., whether there are ‘low’ as well as ‘high’ absolutive languages) is reviewed brieﬂy, 
+with reference to the relevant literature.
+Related to the question of the structural height of the ergative and absolutive arguments is 
+the relationship between ergativity and word order (especially the claim that ergative alignment 
+does not go together with a basic SVO word order — ‘Mahajan’s generalisation’), as well as the 
+important question of the information-structural proﬁle of sentences with ergative–absolutive 
+alignment. On the former point, the reader will ﬁnd important discussion in Tarald Taraldsen’s 
+contribution, and also in Ritsuko Kikusawa’s chapter, which argues (among other things) that one 
+of the key factors resulting in a diachronic change in the case-alignment system is word-order 
+change. In her chapter on ergativity in the languages of Africa, Christa König observes (p. 922) 
+not only that in these languages ergativity is associated with ‘an unusual constituent order’ (viz., 
+‘the odd OVA / SV order’), but also that its occurrence is conﬁned to ‘pragmatically marked con-
+structions’ — in particular, ‘the pragmatic marking of topicalized or focused objects’, or, perhaps 
+more accurately, the marking of contrastiveness, which topics and foci can both be associated 
+with (see also the discussion in Schultze-Berndt’s chapter of the role of contrastiveness or un-
+expectedness in the case-marking of agents in Jaminjung; pp. 1106–1109).
+The connection between ergativity and information structure plays a signiﬁcant role in Alana 
+Johns and Ivona Kučerová’s chapter, and especially in John Du Bois’s contribution, which takes 
+a functionalist and highly comparative approach that I found a real eye-opener to a very complex 
+and timely topic. Starting off with a close reading of a story fragment from Sakapultek (Mayan), 
+Du Bois observes that ‘the discourse distribution of lexical [as opposed to pro-dropped — MdD] 
+arguments (and of new information) corresponds to the absolutive category in the grammar 
+of ergative languages, while topically continuous elements are found in what would be the sub-
+ject in accusative languages’ (p. 29) — a conclusion that he subsequently conﬁrms on the ba-
+sis of an examination of a wide range of other languages from several families. The picture that 
+emerges is that, whereas in nominative–accusative alignment patterns the bearer of the unmarked 
+case (nominative) is usually topical, in ergative systems new information is paired with un-
+marked case (absolutive). Malchukov’s observations on p. 265 conﬁrm this for some languages 
+not mentioned by Du Bois; but the generalisation that ergative-marked transitive subjects are 
+overwhelmingly deﬁnite and given appears to be counterexempliﬁed by Ika, Gooniyandi and 
+Newari (pp. 263–264). The complete picture is no doubt more complex than broad brushstrokes 
+can paint — just as it is with nominative–accusative alignment. The message here is that discus-
+sions of the information-structural proﬁle of ergative alignment systems are strongly encouraged, 
+and should invite an integrated investigation that also encompasses differential object marking 
+(see Coon & Preminger’s, Malchukov’s and Butt & Deo’s chapters), object shift (see especially 
+Woolford’s pp. 221–222), and ‘scrambling’ phenomena more generally (including extraposition). 
+All of these are known to have a cocktail of morphological, word-order and information-struc-
+tural effects. For a small subset of the world’s languages, the interactions between these effects 
+are beginning to be understood to quite an advanced degree. It is a very welcome development 
+that they are garnering more and more careful attention in studies of ergative systems as well.
+In a short review of a book totalling well over a thousand pages of densely packed text and 
+a huge wealth of information, I obviously cannot do justice to everything that is being discussed. 
+In the present paragraph and the next, I will merely highlight, by way of invitations for further 
+ 
+Marcel den Dikken 
+157
+research, two other themes that stand out in the handbook. The ﬁrst is diachronic development 
+and its directionality. There is ongoing debate in the literature on Oceanic languages (dating back 
+to the 1970s; see [Chung 1978]) about the direction of alignment change. According to Kiku-
+sawa, in Austronesian and Oceanic languages there is a ‘general ﬂow of ergative to accusative 
+change’ (p. 587), although ����� the completion of such change some Oceanic languages un-
+derwent a more recent change from accusative back to ergative. In the Austronesian context, the 
+developmental relationship between ergativity and the complex voice systems that many of these 
+languages are known for is also an important matter. Mitcho Erlewine, Ted Levin & Coppe van 
+Urk’s chapter concludes on this point that ‘ergativity cannot be the only route to a voice system’ 
+(p. 395). More work on this is called for.
+A second invitation for research emerges from Martina Wiltschko’s contribution, which is 
+so programmatic (in the author’s own words) that it rather stands out in this handbook. Wiltsch-
+ko’s chapter argues that ‘ergative constellations are detectable in the syntax of speech acts’ 
+(p. 441), helping to mark relations between speaker and hearer and their commitment to the 
+proposition. The interesting Nez Perce data that William McGregor presents on pp. 457–458 
+of his chapter ﬁt into Wiltschko’s programme like a hand in a glove. I mention this connection 
+here because readers who look in isolation at either Wiltschko’s or McGregor’s chapter (which 
+are consecutive but separated by the split between Parts II and III of the handbook) may not re-
+alise that the other chapter contains highly relevant information: unfortunately these chapters 
+contain no cross-references to one another.
+The relative dearth of cross-references between chapters is one of the minor ﬂaws of the 
+handbook as a whole. Perhaps a little bit more editing could have been done to enhance the co-
+hesion of the volume. One also notices that there is quite a bit of overlap between individual 
+chapters, which becomes mildly annoying after a while to readers (such as your reviewer) go-
+ing through the handbook linearly.7 But few readers are likely to consume the handbook linearly 
+from cover to cover, so this redundancy may be a blessing rather than a curse. On a related note, 
+a welcome exercise in cross-chapter editing would have placed the various individual disprov-
+als of the passive as the source of ergative alignment (ﬁguring prominently in three successive 
+contributions to Part III (chapters 20–22) but at other points in the volume as well) in one sin-
+gle location in the handbook.8
+As the editors point out in their introduction, ‘the approaches of the authors and the scope 
+of the studies vary considerably’ (p. 14). There is some variability in the quality of the hand-
+book’s individual contributions as well. Most are superb, but a few chapters strike me as sub-par, 
+and some contributions seem to me out of place, being more like research papers than handbook 
+pieces.9 And although it is a very good thing that there are sections dedicated to language acqui-
+sition and experimental approaches in the handbook, the three chapters in the acquisition section 
+are, unfortunately, not particularly robust. On the other hand, Adam Zawiszewski’s short digest 
+of sentence-processing studies of ergative systems is a useful prelude to Nicholas Longenbaugh 
+ 
+7 For instance, in chapter 23, halfway into the handbook, we are suddenly presented again with a text-
+book-style, paragraph-long exposé of what ergativity is (p. 553), complete with a footnote deﬁning the 
+by now very familiar labels ‘A’ (for ‘agent of transitive verbs’), ‘P’ (‘patient of transitive verbs’), and 
+‘S’ (‘subject of intransitive verbs’).
+ 
+8 Another small point of criticism is that neither the editors, in their introduction, nor any of the other 
+contributors discusses the origin of the term ‘ergative’. We encounter the term ‘ergator’ (not included 
+in the index) once, as an alternate name for the ‘A’ argument in a quote from England [1991:484] pre-
+sented in Du Bois’s chapter (p. 40).
+ 
+9 Chapter 3 is a somewhat superﬁcial exercise in parameter hierarchies, not very helpful in a broader con-
+text. Chapter 4 makes a simple (though very valid) point, but is really more like a research paper than 
+a handbook chapter (and it could perhaps have been an appendix to the other chapter on Hindi/Urdu). 
+Chapter 7 is extremely narrow in scope. Chapter 12 is rather too technical and idiosyncratic for a hand-
+book piece. Chapter 15 is a recital of (mostly the author’s own) work on nominalisation, which chap-
+ters 21 and 24 do a much better job at relating directly to ergativity.
+158 
+Voprosy Jazykoznanija 
+2019. № 2
+and Maria Polinsky’s chapter on the processing of subject-gap and object-gap relative clauses 
+in split-ergative systems, showing how the two central hypotheses regarding the processing 
+of relative clauses (the subject processing advantage hypothesis, and the case-cueing hypothe-
+sis), while aligned in nominative–accusative patterns, make different predictions in split-erga-
+tive systems. These two chapters should serve as a helpful guide to anyone interested in adding 
+to the (modestly) burgeoning volume of experimental studies performed on languages with er-
+gative alignment.10
+The editors ‘have done [their] best to include chapters representing a range of different the-
+oretical and methodological traditions, though, as with any volume, imbalances reﬂecting the 
+orientation of the editors nonetheless exist’ (p. 2). These imbalances did not strike me as serious. 
+The handbook presents a veritable who’s who of the ﬁeld of ergativity studies enlivened with 
+occasional contributions from relative outsiders whose out-of-the-box thinking about ergativity 
+places the central questions in this realm in a broader perspective (as John Du Bois aptly puts 
+it, ‘[e]rgativity is too important to be left to the specialists of ergative languages’; p. 57). Here 
+I am thinking, for instance, of Tarald Taraldsen’s exercise in questions of the general type ‘if x 
+is true of ergative systems, what are x’s implications and roots?’. As an illustration of Tarald-
+sen’s dialectic approach, let me point to p. 340, where we ﬁnd the following passage (somewhat 
+condensed here): ‘If the generalization does hold for tripartite languages, we conclude that the 
+generalization really is to be understood as *SErgVO, but if it doesn’t, the generalization must be 
+*SVOAbs. If the generalization is valid for neutral languages with Erg / Abs agreement patterns, 
+we conclude that the generalization is really about syntactic case … If the active agreement 
+pattern reﬂects underlying Active / Inactive … case alignment …, one may conjecture that 
+*SErgVOAbs doesn’t hold for active languages … If a suitably precise version of the *SErgVOAbs 
+generalization holds, one will ask why … If SVO order is merely incompatible with assign-
+ment of syntactic absolutive case to the object …, there should be tripartite SVO languages 
+… But if SVO order is incompatible with the subject surfacing with ergative case, there should 
+be no tripartite SVO languages … At present, however, no conclusion can be drawn from this, 
+since the data available to me seems insufﬁcient.’ 11
+All things considered, The Oxford Handbook of Ergativity is a splendid resource and a proud 
+testament to the achievements of the many linguists who have made empirical and analytical 
+contributions to ergativity in all its many hues. Logically organised and jam-packed with data 
+and analyses, this is the place to go for specialists, ‘accidental tourists’ (in the words of Lon-
+genbaugh and Polinsky; p. 710), and anyone who has ever had a burning question about erga-
+tivity but was afraid to ask it: here are the answers, and plenty of food for thought and avenues 
+for future research into the bargain.
+Acknowledgement
+I would like to express my deep gratitude to Masha Polinsky for offering me a copy of the 
+handbook, suggesting my name to the review editor of this journal (whom I thank for the in-
+vitation), and providing excellent comments on a ﬁrst draft of this piece. The pointed remarks 
+of an anonymous reviewer also led to improvements. The responsibility for any misrepresenta-
+tions of the facts presented and views expressed in the handbook is entirely mine.
+ 10 Longenbaugh & Polinsky’s chapter is also noteworthy for containing new studies of Niuean and Avar. 
+In this context, I would also like to highlight the novel discussion of Dinka Bor in Erlewine et al.’s 
+chapter, and the fact that Kaufman’s contribution features original material on Mamuju, a language not 
+previously described at any length.
+ 11 Readers interested in tripartite (or three-way) systems may ﬁnd it useful to know that Gereon Müller 
+and Daniela Thomas argue in their chapter that tripartite systems do not exist.
+ 
+Marcel den Dikken 
+159

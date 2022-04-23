@@ -1,0 +1,548 @@
+© St. Petersburg State University, 2021
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+https://doi.org/10.21638/spbu09.2021.416 
+893
+UDC 81’37
+Milica Radulović
+University of Niš, 
+2, Univerzitetski trg, Niš, 18106, Serbia 
+milica.radulovic@filfak.ni.ac.rs 
+Positive discourse analysis and latent euphemisation*
+For citation: Radulović M. Positive discourse analysis and latent euphemissation. Vestnik of Saint 
+Petersburg University. Language and Literature. 2021, 18 (4): 893–909. 
+https://doi.org/10.21638/spbu09.2021.416
+The article examines some epistemic aspects of latent euphemisation in argumentative dis-
+course. The purpose of the work is to show that, by focusing on the notion of voice which links 
+talk and context, positive discourse analysis (PDA) can serve as a meta-orientation in analys-
+ing alternative discourses. The theoretical framework for the analysis is the pragma-dialectical 
+approach to argumentation, which discusses methods and tools for improving discussion and 
+reconciling dissensual opinions. According to M. Gerber, some of the potential problems of 
+the pragma-dialectical approach are “ethical deficiencies”, “the risk of amorality” and limita-
+tions regarding the method for evaluating arguments in accordance with goals, purposes and 
+consequences. This article argues that the pragma-dialectical approach to argumentation can 
+be implemented to identify latent euphemisation as fallacious reasoning. However, the evalua-
+tion of language use as latently euphemistic, and consequently, fallacious, is an epistemic judg-
+ment that needs to take into account discussants’ epistemic and epistemological boundaries 
+and commitments, including ethical considerations. As communication can lead to miscom-
+munication unless a common epistemological background is shared, latent euphemisation 
+can be seen as a result of inconsistent epistemological positions whose potential motives and 
+consequences need to be addressed. 
+Keywords: positive discourse analysis (PDA), pragma-dialectical approach, latent euphemisa-
+tion, ambiguity, unclearness.
+Introduction
+The purpose of this work is to investigate some epistemic aspects of latent euphemisa-
+tion in argumentative discourse from the pragma-dialectical perspective [van Eemeren 
+2018; van Eemeren, Grootendorst 2004] pursuant to Gerber’s [Gerber 2011] insights into 
+the potential problems of the pragma-dialectical methodology, and his suggestions for en-
+hancements. Generally speaking, euphemisation is realised in two ways: euphemisation 
+can be regarded as socially accepted polite verbal behavior, and it can be used to conceal/
+reduce the negative evaluative prosody of the topic discussed. The latter type, latent euphe-
+misation, can, in the Barthian sense [Bart 2015], be viewed as a tool for concealing denota-
+* This is a modified version of “Positive discourse analysis and latent euphemisation” presented at 
+the 16th International Pragmatics Conference organized by the International Pragmatics Association at the 
+Hong Kong Polytechnic University from 8 June to 14 June 2019. The work is a part of the project Modern 
+Trends in Researching English Linguistics and Anglophone Literature and Culture, conducted at the University 
+of Niš — Faculty of Philosophy (No. 183/1-16-1-01).
+894 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+tion under the plane of connotation, by means of which encodings are made to be ambigu-
+ous or even contradictory (later discussed with regard to de dicto and de re ambiguities). 
+A. M. Abrantes [Abrantes 2005: 93] suggests that a single euphemism can perform both 
+the function of veiling and the function of concealing. In other words, identifying latent 
+euphemisation is equivalent to making it manifest that the speaker’s point of view is a more 
+optimistic encoding with a potential to hide negative realities of life. Words have their own 
+semiotic potential, and, therefore, it is not only relevant to study what is, but what could 
+be as well [van Leeuwen 2005: 3–5; 26–27], depending on the speaker’s and the listener’s 
+commitments. When the listener interprets the speaker’s choice of words as a euphemism 
+for…, this suggests two things: firstly, the presence of referential/semantic ambiguity and 
+ambivalence that requires an explanation, and secondly, a symptom of the speaker’s and the 
+listener’s inconsistent epistemic positions as the (interested, epistemically cautious) listener 
+doubts and rejects the speaker’s “epistemic authority” [Kutrovátz 2012: 198]. The rejection 
+of the speaker’s “epistemic authority” and the euphemistic tone of discourse presuppose 
+that linguistic production often comes from a subjective position (frequently a position of 
+authority) and is by no means a part of natural order. This is related to the issue of epistemic 
+evaluations in regard to metaepistemological backgrounds/commitments. 
+Linguistic structures are not inherently deceptive, but they can be deceptive if that is 
+the speaker’s goal-directed intention [Chilton 2011: 176–189]. This is a topic that that has 
+been widely examined within critical discourse analysis (hereinafter CDA). The core char-
+acteristic of CDA as an approach that developed from critical linguistics and critical se-
+miotics is that it is an issue-, rather than a paradigm-oriented type of studies, which makes 
+it open to any appropriate theoretical and methodological approach [van Dijk 1995: 17] 
+in the operationalisation of the conceptual framework for a critical analysis. CDA has 
+been systematically criticized and as a result, its potential and main problems have taken 
+shape (e. g., [Blommaert 2005: 31–37; Breeze 2011; Jones 2007]). The core criticism of the 
+methodology of CDA is that instead of proceeding from a description via explanation 
+to positioning, with interpretation underlying all stages of investigation, positioning is 
+placed first and interpretation is marginal [Verschueren 2001: 69]. Similarly, P. E. Jones’s 
+[Jones 2007] critique is that “the attempts by Critical Discourse Analysis to build a method 
+of political and ideological critique out of such entities “the abstract entities of conven-
+tional linguistics and pragmatics” is misguided and inevitably leads to a distorted view of 
+the role of communication in society and of the workings of social processes more gener-
+ally”. Jones [Jones 2007: 31] suggests a more personalised approach to communication. 
+Namely, instead of seeing communication as a process in which individuals are only the 
+embodiment of forms and meanings established in advance, we should try to see com-
+munication as a form of conscious conduct of particular individuals and real personali-
+ties. As for methodology, the search should be guided by rigorous linguistic methodology 
+[Verschueren 2001: 69]. 
+The current research has the following objectives. Firstly, the research aims to show 
+that positive discourse analysis (hereinafter PDA) can be a meta-orientation in analysing 
+alternative discourses. Secondly, the work points out that the pragma-dialectical approach 
+can explain latent euphemisation by analysing higher-order conditions of a critical dis-
+cussion as a background to first-order conditions of argumentation, and, in this man-
+ner, include ethical considerations in the examination of arguments. Thirdly, it is dem-
+onstrated that the terms identified as euphemistic are evaluated differently in the public 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+895
+sphere, leading to reasoning/producing arguments for and against practices these words 
+describe, with the former emphasising the good, and the latter the bad in these practices, 
+thus introducing positive or negative connotations into words. Fourthly, the article shows 
+that epistemic evaluation is instrumental in recognising euphemisation. The evaluation of 
+words as euphemistic or non-euphemistic depends on our own epistemological and me-
+taepistemological positions, which lead us to or distract us from the analysis of any ethical 
+aspects regarding the motives and consequences behind the actions discussed.
+Theoretical models
+Positive Discourse Analysis and Critical Discourse Analysis
+As CDA is itself an orientation, rather than a methodology, T. Bartlett [Bartlett 2018] 
+suggests that the limitations of CDA could be improved by adopting another orientation, 
+PDA, so that a positive transformation could be achieved, as suggested by A. Luke [Luke 
+2002] and J. R. Martin [Martin 2004]. Bartlett [Bartlett 2012: 12] argues for the notion of 
+voice, or alternative voices, as foundational in any critical study, since it is a means of over-
+coming limitations in creativity and “analysing the effectiveness of alternative discourses 
+in their local context and beyond”. Bartlett [Bartlett 2012: 7–9] points out that PDA has 
+also been subject to its share of criticisms, three of which are prominent: firstly, in reject-
+ing the fatalistic positions in some critical approaches, PDA “will underplay the impor-
+tance of the determining effects of existing social structures on discourse”. Secondly, “the 
+analysis of complex linguistic features remains resolutely textual, with the rhetorical fea-
+tures of the language employed analysed in relatively self-contained or universal terms (my 
+emphasis)” and, thirdly, “there seems to be a reliance on the trained linguist to provide the 
+evaluation of different texts and linguistic resources rather than a concentrated approach 
+to assessing the evaluation and acceptance of these texts within the target communities 
+themselves”. In order to change the situation, Bartlett [Bartlett 2012: 9] advocates for the 
+integration of textual and contextual analyses of communication, language features and 
+social structure. To achieve this, the author concentrates on the sociolinguistic concept of 
+voice, which links “features of talk to the cultural context of their production and uptake”.
+The sociolinguistic notion of voice, as indicated by Bartlett [Bartlett 2012: 12–18], has 
+been defined in sociolinguistics in different ways, but what all definitions have in common 
+is the work of M. M. Bakhtin [Bakhtin 1981] and Soviet authors of the 1920’s and 1930’s 
+based on the assumption that using language means reusing words in ever-changing social 
+contexts, which impose their own conventions and contextual constraint. Bartlett explains 
+that, for him, voice is not so much “the way in which people manage to make themselves 
+understood or fail to do so”, but he suggests that voice is “the means of behaving appropri-
+ately through language” or “the customary ways of making oneself understood in different 
+contexts”, which is the reason why assuming a particular standpoint/voice does not have 
+to lead to understanding. This is to say, as Bartlett further argues, that there may be con-
+flicts between different voices, reflecting different codes, and this is especially obvious in 
+cases of competition between voices coming from dominant groups and those coming 
+from less powerful groups. This converges with J. Blommaert’s [Blommaert 2005: 4] idea 
+that “a critical analysis of discourse in contemporary societies is an analysis of voice… the 
+way in which people manage to make themselves understood or fail to do so”.
+896 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+Pragma-dialectics and Gerber’s criticisms
+Pragma-dialectics relies on the critical-rationalist philosophy of reasonableness that 
+we cannot be certain of anything, so in a critical discussion an agreed discussion proce-
+dure should be followed to achieve the effect of resolving differences of opinion by testing 
+whether a standpoint can be demerited. It is not a final justification of standpoints that 
+this approach promotes, but rather a critical testing that leads to resolving a difference of 
+opinion on merits [van Eemeren 2018: 29–30]. 
+The pragma-dialectical approach proposes an ideal model of a critical discussion 
+aimed at resolving a difference of opinion, in agreement with the Socratic ideal of subject-
+ing judgements to a dialectical test [van Eemeren 2017: 8; van Eemeren, Grootendorst 
+2004: 57]. It accepts and builds on two lines of thinking: “conventional” Searlean insights 
+[Searle 1969] into the communicative aspects, and “rational” Gricean insight [Grice 1975] 
+into the interactional aspects of argumentative discourse [van Eemeren 2010: 6–7]. As for 
+the former, the pragma-dialectical approach agrees that speaking a language is a rule-gov-
+erned form of behavior, or performed acts according to a set of constitutive rules [Searle 
+1969: 36–41]. These are: 1. identity conditions/clarity: a) the propositional content condi-
+tion (comprehensibility), and b) the essential condition (communicative purpose), and  
+2. correctness/responsibility conditions: a) the preparatory condition (the speaker needs 
+to be capable of realising a speech act), and b) the sincerity condition (the speaker needs 
+to be sincere in his/her intentions).
+The pragma-dialectical approach to argumentation also proposes the principle of 
+communication [van Eemeren 2010; van Eemeren, Grootendorst 1992]. The principle is 
+a combination of the four maxims/rules of conduct: Be clear: do not perform any incom-
+prehensible speech acts; Be honest: do not perform any insincere speech acts; Be efficient: 
+do not perform any superfluous or futile speech act; and Be to the point: do not perform 
+any speech acts that do not appropriately relate to preceding speech acts. 
+The pragma-dialectical approach to fallacies includes considerations of all violations 
+of the discussion rules, not just the logical errors concerning validity [van Eemeren 2018: 
+65–69]. Euphemisation can be regarded as a lack of clarity or as the opposite of univocal-
+ity, which the listener needs to disambiguate and/or clarify. This is related to the Language 
+Use Rule (Rule 10): a) Misusing unclearness (unclearness fallacy: implicitness, indefinite-
+ness, unfamiliarity, vagueness) and b) Misusing ambiguity (ambiguity fallacy). In other 
+words, the norm is that “Discussants may not use any formulations that are insufficiently 
+clear or confusingly ambiguous, and they may not deliberately misinterpret the other 
+party’s formulations” [van Eemeren 2018: 61]. This is connected with the rational require-
+ment of the maxim of clarity. Both discussants are responsible for achieving understand-
+ing. If understanding poses no problem, this is an optimal formulation [van Eemeren, 
+Grootendorst 1992: 195–207]. 
+Gerber’s [Gerber 2011] criticisms labelled as “ethical deficiencies”, “the risk of amo-
+rality” and the limitations regarding the method for the evaluation of arguments in ac-
+cordance with goals, purposes and consequences are related to the issues of higher-order 
+conditions for a critical discussion. F. H. van Eemeren and R. Grootendorst [van Eemeren, 
+Grootwndorst 2004: 36–37; 188–190], however, were aware that their model of a critical 
+discussion might be seen as a utopia, and they did recognise the importance of higher-
+order conditions in argumentation. They regarded higher-order conditions as the inter-
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+897
+nal “second-order” conditions/discussion attitudes, which can be limited by emotional 
+restraints and personal pressure, and the external “third-order” conditions, or social 
+circumstances, such as power or authority. The third-order conditions are also political 
+conditions. Van Eemeren and Grootendorst [van Eemeren, Grootwndorst 2004: 37] view 
+these conditions as circumstances that are related to “the right to a free exchange of infor-
+mation”, voicing criticism, and intellectual pluralism. They further note that “If attention is 
+paid to these conditions as well, then the notion of “reasonableness” acquires, apart from 
+an intellectual meaning, a social meaning as well”. 
+Specifically, Gerber’s [Gerber 2011: 21–22; 27] criticism focuses on the connection 
+between the pragmatic and the dialectical, on the function of the pragmatic, or on how well 
+particular arguments fulfill their rhetorical purposes, and on the function of the dialectic, 
+or on whether or not arguments follow the guidelines for fair dialectical processes. Namely, 
+the author argues that pragma-dialectics should have a more clearly defined philosophical 
+and theoretical foundation that provides a more ethical method for the examination of 
+arguments. As for the dialectical side of pragma-dialectics, it is useful as it has been em-
+ployed in argument criticism. However, although pragma-dialectics investigates the rhe-
+torical implications of arguments, it is not so clear how critics should evaluate the rhetori-
+cal elements of arguments. Therefore, “evaluation based upon purpose, goals, or perceived 
+consequences is both incomplete and potentially dangerous”. By way of illustration, “hate 
+speech” must have an ideological, moral component as part of the methodology, so that 
+arguments in support of those goals can be identified. According to Gerber, in the pragma-
+dialectical model, such rhetoric might be criticised on dialectical grounds [Gerber 2011]1.
+Epistemic evaluation and epistemological background
+Van Eemeren and Grootendorst [van Eemeren, Grootwndorst 2004: 36–37] refer to 
+rules and the epistemological status of the critical-rationalistic philosophy of reasonable-
+ness as heuristic, not algorithmic, since argumentation (always provisional) is not a me-
+chanical process but a social activity in which “the production, analysis, and evaluation of 
+argumentative discourse can be raised only by improving the quality of the communica-
+tion and interaction between the participants”. On the other hand, the epistemological 
+status of the anthropologic-relativistic philosophy is rhetorical as the primary purpose 
+of argumentation is to gain the audience’s approval. As a result, all knowledge should be 
+employed to achieve this goal. In other words, human knowledge is produced by follow-
+ing shared procedures governed by a consensus in a particular community [van Eemeren, 
+Grootendorst 2004: 34, 128], which can also mean that the same ethical standards and 
+moral values are shared. 
+As for theories of argumentation, D. Niño and D. Marrero [Niño, Marrero 2015: 53–
+54], for example, draw attention to C. Lumer’s [Lumer 1990; 2005] classification: rhetorical 
+(the goal is to persuade), dialogical (the goal is to achieve a consensus), and epistemologi-
+cal theories (the goal is to establish truth and justified belief). This is a useful theoretical 
+and methodological demarcation, and, as the extended approach to the pragma-dialectical 
+1 According to the Online Etymology Dictionary (https://www.etymonline.com/), the adjective prag-
+matic comes from Greek pragmatikos, which means “fit for business, active, business-like; systematic”, from 
+pragma (genitive pragmatos) “a deed, act; that which has been done; a thing, matter, affair”. The word can 
+also be used as a euphemism to denote something bad or disgraceful.
+898 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+“standard theory” suggests, the dialectical theoretical framework has been enriched with 
+a rhetorical dimension since effectiveness in argumentative discourse cannot be ignored 
+[van Eemeren 2018: 113–116]. The decision to accept or reject argumentation depends on 
+the evidence we are given to support or refute it. 
+Latent euphemisation can be identified when it is analysed in regard to the epistemic 
+issue of de dicto and de re ambiguities/fallacies. The former type refers to ambiguities con-
+cerning the truth of the proposition, whereas the latter type refers to ambiguities concern-
+ing the way the properties in the external world are determined [Audi 1999: 211]. If we 
+face an ambiguity problem that cannot be resolved by relying on the first-order conditions 
+of a critical discussion that necessitate specifying meaning for the purpose of facilitating 
+the resolution of ambiguities, we need to resort to other methods or analyse higher-order 
+conditions/epistemological backgrounds that optimise our epistemic evaluation. Another 
+problem that can call for epistemic optimisation at a higher level is underdeterminacy in 
+language. For example, the maxim be clear is adjusted in accordance with the speaker’s 
+pragmatic optimum in a given context and the metaepistemological commitment which 
+can be summarised in the question: “What do we mean when we say of some person that 
+he knows or rationally believes some proposition P?” [Fumerton 2006: 8]. The maxim be 
+honest and the constitutive rules are matters of ethics, so ethical norms are relevant in the 
+analysis of commitments. Both ethics and epistemology discuss norms, and our views of 
+what is right and wrong affect the way we acquire knowledge. 
+A case study analysis
+What follows is a detailed examination of the euphemistic use of the verb phrase 
+balance the budget. The examination is digitally intertextual because three digital sources 
+were consulted in the analysis. The analysis started with the online Cambridge Dictionary2 
+definition of the mentioned verb phrase, following the assumption that (even though this 
+is a corpus-informed dictionary) the definition would be neutrally connoted. Following 
+this, the second digital source, the Corpus of Global Web-Based English (GloWbE)3 was 
+consulted to check whether euphemisation had already been recognised in real life com-
+munication (in journals, newspapers, analyses, commentaries, on Amazon Books web-
+sites) with regard to political issues. Finally, the phrase was examined in the context of the 
+debate “Balanced budget amendment to the US Constitution” given on Debatepedia, an 
+internet encyclopedia of pro and con arguments/voices on critical issues4. The pro and con 
+arguments, where the latent euphemisation was identified, were taken as the bearers of the 
+positive or negative connotations attached to the expression. 
+Connotation and higher-order conditions
+T. van Leeuwen [van Leeuwen 2005: 29–46] considers two key principles of semiotic 
+invention: metaphor (and also metonymy) and connotation5. As for connotation, it can 
+2 https://dictionary.cambridge.org/ (accessed: 04.03.2019).
+3 https://www.english-corpora.org/glowbe/ (accessed: 04.03.2019).
+4 http://www.debatepedia.org/en/index.php/Debate:_Balanced_budget_amendment_to_US_Consti-
+tution (accessed: 09.03.2019).
+5 See van Leeuwen [van Leeuwen 2005: 37–42] for a more detailed discussion of the linguistic and 
+semiotic approaches to the issue of connotation. 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+899
+be viewed as the lexico-semantic criterion because euphemisms are identified as neutrally 
+or less negatively connoted forms than its potential paradigmatically related substitutes. 
+However, connotation, i. e., positive or negative values attached to an expression, cannot 
+only be observed through the lexico-semantic lens. Attaching connotation is also an epis-
+temic evaluation (of inference) that relies on higher-order conditions in argumentation, 
+and these are emotive, ethical, social components relative to our interests, motives, and 
+ensuing consequences. Connotation can be viewed as the primary motive for creating/
+importing euphemisation into a lexical item/an utterance, or the tone of discourse on the 
+whole, and it also prompts the creation of novel non-metaphoric, metaphoric and meto-
+nymic euphemistic expressions.
+Analysis and discussion
+The Cambridge Dictionary defines the phrase to balance the budget in the follow-
+ing way: “to make the amount of money spent in a budget (= financial plan) equal the 
+amount of money taken in during a particular period”. This definition provides the basic 
+information about the meaning of the lexical item, on the basis of which we can conclude 
+that this neutrally connoted phrase is used in the jargon/context of economics and all the 
+related jargons/contexts/topics, such as politics, science, finance, newspapers, journals, 
+blogs, commentaries. This is a neutral reading that teaches us the specific “word-to-world 
+direction of fit” [Searle 1979]. 
+The next step was to check whether the lexical item was identified as a euphemism 
+in the Corpus of Global Web-Based English (GloWbe). GloWbE includes samples from 
+different varieties of English (US, CA, GB, IE, AU, NZ, IN, LK, PK, BD, SG, MY, PH, HK, 
+ZA, NG, GH, KE, TZ, JM), and it also includes samples taken from journals, newspa-
+pers, analyses, blogs, commentary, and Amazon Books website (some sources could not 
+be accessed). At the time the research was done (access date 4 March 2019), there were 
+1092 instances of the verb phrase balance the budget in the corpus, but only one instance 
+where this verb phrase was identified as a euphemism for, so it was a hapax legomenon in 
+this corpus. Only the form balance the budget was included in the research, not the forms 
+balances the budget or balanced the budget. As for the term euphemism for, there were 
+1054 examples in the corpus, suggesting that euphemisation was related to many other 
+words and phrases. The plural form euphemisms for was not included in the research. 
+The article where the verb phrase was identified as a euphemism is entitled “Michael 
+Hudson: My Take on Obama’s Big Win”. At the time the research was done, the article was 
+followed by 86 comments, which suggests that it did achieve public impact:
+Having appointed the Bowles-Simpson commission members who seek to shift the 
+tax burden off business onto consumers, the President will pave the way for Bush-type 
+privatization. In his first debate with Mitt Romney, Mr. Obama assured his audience that 
+they were in agreement on the need to balance the budget (his euphemism for scaling back 
+Social Security, Medicare and Medicaid). By christening this “the Great Bargain,” President 
+Obama has refined Orwellian doublethink. It is as if George Orwell went to work on Madison 
+Avenue6.
+6 Example 151 in GloWbe. Michael Hudson: My Take on Obama’s Big Win. Naked capitalism: Fear-
+less commentary on finance, economics, politics and power. Posted on November 9, 2012 by Yves Smith. 
+900 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+The text contains the information that Michael Hudson is a Research Professor of 
+Economics at the University of Missouri, Kansas City, and a Research Associate at the 
+Levy Economics Institute of Bard College. The information is relevant as it shows that 
+this euphemistic metonymical transfer, where the instrument of the action scaling back 
+is related to the action balancing the budget, was noticed by someone well-versed in eco-
+nomics. Therefore, this can be a de dicto ambiguous term, and the ambiguity/fallacy is 
+resolved by resorting to a de re reading, by means of which the reader/expert observes 
+the instrument of the action and the consequences of the action to make a metonymic 
+connection. In this way, the reader changes the word-to-world to “world-to-word direction 
+of fit” (Searle 1979: 4). Thus, the phrase to balance the budget is de dicto ambiguous, and 
+the ambiguity is latent and cannot straightforwardly be resolved unless observed as a de 
+re ambiguity/fallacy, which implies a critical observation of the word-to-world and world-
+to-word directions of fit.
+It should be noted that although the euphemised use of the phrase is a hapax legom-
+enon in the corpus, it does not mean that it is associated only with positive connotations 
+in other contexts (even though it is not explicitly labelled as a euphemism). It is also used 
+in a neutral/not so negative sense and a highly negative sense. This is shown in the second 
+and third examples.
+The second example was taken from the article “A New Way to Look at Prices” from 
+1996. The context is highly relevant in the evaluation of the phrase:
+That suggests the following policy. No one wants to politicize the bureau’s deliberations 
+and procedures. So it should proceed quickly, but on its own, to adopt the fixes that both it 
+and the commission desire. The fixes could in fact take years, even if pursued expeditiously. 
+In the meantime, Congress will come under intense pressure to cut programs to balance the 
+budget. But rather than whacking public programs needlessly, Congress and the White 
+House could jointly agree to use the commission’s figures to adjust Federal spending and 
+taxes by less than the bureau’s measure of inflation. That is a good way to reduce the deficit 
+and spread the pain across most of the population. But to protect the poor from a possible 
+overcorrection, Congress would insulate Supplemental Security Income and other programs 
+for the poor from the adjustment7.
+Namely, as G. Brown and G. Yule [Brown, Yule 1983: 234–238] suggest, our process-
+ing of incoming discourse can be viewed as the combination of (at least) two activities. 
+Bottom-up processing consists in working out the meanings of the words and structure 
+of a sentence, as well as constructing a meaning for the sentence. Simultaneously, our un-
+derstanding of any discourse includes top-down processing, which consists in connecting 
+the context with the composite meaning of the sentences already processed so that we can 
+predict what the next sentence means. In other words, the latter type of processing implies 
+that a specific background knowledge/knowledge of the world provides the reader with 
+an epistemic advantage in text interpretation and possibly the assessment of the author’s 
+metaepistemological position regarding motivations, duties, ethical considerations (that 
+the reader may agree or disagree with). Some of the things that should be done are the fol-
+https://www.nakedcapitalism.com/2012/11/michael-hudson-my-take-on-obamas-big-win.html (accessed: 
+04.03.2019).
+7 Example 65 in GloWbe. Opinion: A New Way to Look at Prices. The New York Times. December 5, 
+1996. nytimes.com/1996/12/05/opinion/a-new-way-to-look-at-prices.html (accessed: 04.03.2019).
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+901
+lowing: So it should proceed quickly… to adopt the fixes, Congress will come under intense 
+pressure to cut programs to balance the budget, This is a good way to reduce deficit, But to 
+protect the poor… Congress would insulate. The measures can have positive or negative 
+consequences. The last recommendation has positive ethical connotations as it deals with 
+the way the poor can be protected. This is another example of de dicto and de re ambi-
+guities that need to be resolved by the reader who evaluates the measures and the conse-
+quences of the actions described in the text as negative or not so negative. 
+The third example shows the critical responses to the article “Federal Reserve Ac-
+tively Preparing for the Possibility of U. S. Default”. The phrase to balance the budget is 
+interpreted highly negatively, albeit without being explicitly labelled as a euphemism for 
+a negative situation:
+That got me thinking. What if we adjusted the Federal Budgets for inflation? Loading 
+comments… # I wonder Has president Obama, VP Biden, or any member of congress 
+recommend that they take a cut in pay and benefits to help balance the budget? I know they 
+all agree that Disabled Veterans, the elderly, sick, and the poorest among us should. # Janice 
+Josephine Carney: I wonder Has president Obama, VP Biden, or any member  Loading 
+comments… # The Republicans are once again being totally unreasonable, just as they were 
+during the Bush years, when they would not even tell Democrats where meetings were being 
+held! now, the wacko tea party, straight out of Alice in WONDERLAND, is holding the 
+entire nation hostage8.
+One of the comments is a proposition to reduce the president’s high officials’ pay and 
+benefits, and not only cut pay to Disabled Veterans, the elderly, sick, and the poorest peo-
+ple. The Republicans are qualified as unreasonable, and one of the consequences is “hold-
+ing the entire nation hostage”. The three readings of the phrase show that positive, neutral 
+or highly negative connotations are not fixed but variable features, which means that the 
+phrase can have controversial readings. 
+Debatepedia 
+The next thing to do was to examine the use of the phrase to balance the budget in 
+relation to the debate “Balanced budget amendment to the US Constitution” given on 
+Debatepedia. The analysis highlights the importance of contrasting different views on the 
+same topics (the pro and con arguments). Following Bartlett’s [Bartlett 2012: 9] recom-
+mendation to integrate the textual and contextual analyses of communication, language 
+features and social structure, the research reveals that it is important to pay attention to 
+the source of information/the social actor who addresses the public (this is relevant to 
+CDA and PDA). Defending one’s standpoint should satisfy the identity and responsibility 
+conditions. However, if argumentation is provisional (which means that it is defeasible), 
+it is expected that argumentation will be based on optimal pragmatic formulations [van 
+Eemeren, Grootendorst 1992: 195–207]. The debate on the abovementioned topic does 
+not have a concluding stage (this is digital communication), but the critical examination 
+of different standpoints at least leads to the acknowledgement and clarification of differ-
+ences. 
+8 Example 173 in GloWbe. https://www.english-corpora.org/glowbe/ (accessed: 04.03.2019).
+902 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+Latent euphemisation, here analysed as the misuse of the Language Use Rule, can 
+be detected when opposing voices are compared and contrasted. The misuse of language 
+can be revealed in inconsistent epistemological positions behind the formulations which 
+are ambiguous, and these de re ambiguities and inconsistences can be examined in light 
+of motives and consequences behind the actions ambiguously described. Van Eemeren 
+and Grootendorst [van Eemeren, Grootendorst 2004: 36–37] qualify the epistemological 
+status of the critical-rationalistic philosophy of reasonableness as heuristic, so it is up to 
+the reader, who also has his/her own interests (not only the author of the article), to decide 
+which interpretation to endorse.
+The debate “Balanced budget amendment to the US Constitution” was elaborated 
+into four topics, provided in Table. The four topics were followed by pro and con argu-
+ments/voices. At the time the research was done, the total number of the con arguments/
+voices (14) outnumbered the pro arguments/voices (10). All 24 arguments/voices are pre-
+sented in the Appendix9. In this work, differences of opinion are illustrated by means of 
+the pros and cons in regard to the first topic, Deficit: Will balanced budget help solve debt/
+deficit. Specifically, differences of opinion are illustrated with examples of pro arguments 
+(1) and (5) and contra arguments (3), (4) and (5) given in the text following Table.
+Table. Four topics related to the debate “Balanced budget amendment to the US Constitution”
+Topics
+Pro arguments — ten
+Con arguments — 14
+Deficit: Will balanced budget help solve debt/deficit?
+5
+6 
+Economy: Is balanced budget amendment good for 
+economy?
+3
+5
+States: If states have it, should the federal 
+government?
+2
+2
+2/3 approval: Is supermajority rule for approving 
+deficits wise?
+0
+1
+The pros and cons are the two confronted positions/two groups of opposing voices/
+beliefs that allow the reader to evaluate alternatives critically, since they inform us of a 
+range of the whys and wherefores for implementing or not implementing balancing the 
+budget in accordance with possible consequences. The examples (a) “Balanced budget 
+amendment will help solve fiscal crisis” and (b) “General statements in favour of balanced 
+budget amendment” are illustrations of the arguments which support the balanced budget 
+amendment: 
+(a) This constitutional amendment is necessary to force Congress and the President to 
+confront and resolve our cancerous fiscal crisis. It will end the annual budget deficit 
+and stop the bleeding. And it will prevent future Congresses or Presidents from relying 
+on tax increases or borrowing to balance the budget.10
+9 This Debatepedia page was last modified on August 9, 2011. 
+10 Dr. Jim Garlow Chairman, Renewing American Leadership Action. The Case for a Balanced Budget 
+Amendment Now. Statement before the House Judiciary Committee Subcommittee on the Constitution. 
+May 13, 2011. http://www.debatepedia.org/en/index.php/Debate:_Balanced_budget_amendment_to_US_
+Constitution (accessed: 04.03.2019).
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+903
+(b) This is a responsible, commonsense plan that would hold Congress accountable, get the 
+country’s fiscal house in order and make sure everybody has some skin in the game, all 
+while protecting Social Security and not forcing an end to Medicare as we know it.11
+These viewpoints show that the BBA to the Constitution can be seen as a duty (much 
+as it can be unpleasant) to force Congress and the President to confront and resolve the 
+fiscal crisis, end the annual budget deficit, stop relying on tax increases or on borrowing 
+to balance the budget. In (b), the positive connotation is reinforced by the premise that 
+Social Security will be protected. 
+However, the con arguments express concerns regarding this amendment, and when 
+negative consequences become negative connotations, other de dicto and de re readings 
+are proposed. The examples (c) “Balanced budget Amend violates intended flexibility of 
+Const”, (d) “Unworkable to measure and define balanced budget”, and (e) “Amend would 
+create Const. crisis, court battle w/ each budget” are illustrations of the arguments which 
+criticise the balanced budget amendment: 
+(c) and (d): Our Constitution outlines in the broadest terms how the federal system works. 
+It contains few numbers, is by design remarkably flexible, and assumes that underlying 
+comity and good intentions will prevail despite strong partisan passions. Amending it 
+is a complex process for good reason, and we should do it precisely and with foresight 
+and caution. A balanced-budget amendment violates those criteria.12
+(e) Since arguments over whether a budget is truly and honestly balanced are endless, a 
+constitutional requirement of balance would make resolving the argument the province 
+of the federal court system, raising two critical problems. Timing: The president 
+proposes a budget to Congress around Feb. 1 to take effect Oct. 1. At any point in that 
+process, lawsuits could be filed by members of Congress and other citizens and interest 
+groups. Typically it takes two or three years to get a case to the U. S. Supreme Court, 
+and there likely would be thousands of cases annually, many frivolous. Thus we could 
+never be sure that any budget actually met the constitutional requirement until it was 
+far too late. Power: In resolving the conflict, federal judges would have the unwanted 
+power to decide how to balance it — what to cut and what revenues to raise. As lifetime 
+appointees, they would be beyond the reach of citizens or Congress if their decisions 
+were unacceptable or inadequate. The primary power of the legislative branch — the 
+purse — and the primary power of citizens — the vote — would be nullified [Merritt 
+2011].
+Namely, from these points of view, amending a budget is a complex process for good 
+reason. In addition, arguments over whether a budget is honestly balanced are endless, 
+and a constitutional requirement of a balanced budget would make resolving the argu-
+ment the province of the federal court system, which leads to further problems some of 
+which are timing and power. The former means that there are no guarantees that any 
+budget actually met the constitutional requirement until it was far too late, and the latter 
+means that in resolving the conflict, federal judges would have the unwanted power of de-
+11 Missouri’s U. S. senators, Democrat Claire McCaskill. http://www.debatepedia.org/en/index.php/
+Debate:_Balanced_budget_amendment_to_US_Constitution (accessed: 09.03.2019).
+12 Davis Merritt. Balanced-budget amendment is unworkable. The Wichita Eagle. August 2, 2011. 
+http://www.debatepedia.org/en/index.php/Debate:_Balanced_budget_amendment_to_US_Constitution 
+(accessed: 09.03.2019) [Merritt 2011].
+904 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+ciding how to balance the budget, what to cut and what revenues to raise, so the legislative 
+branch and the power of citizens would be nullified.
+Conclusion
+Lumer [Lumer 2005] criticises the rhetorical approach as its goal in argumentation is 
+persuasion, the establishment and amplification of a belief defended by the speaker [van 
+Eemeren et al. 2014: 395]. This, as further noted, eventually leads to a situation where we 
+do not strive for truth and knowledge, but we often end up with false beliefs, and diso-
+rientations about the world we live in, which can have extremely negative consequences. 
+The research shows that we can have different opinions about the same issues depend-
+ing on our epistemological commitments and our understanding of the relation between 
+words and the world. This suggests that a dialectical approach to argumentation is more 
+promising as it shows that only if limitations are accepted, can we overcome them. Also, 
+the constitutive rules stipulate that, when different opinions are expressed, arguing for or 
+against an issue makes sense only in the name of responsibility and sincerity. From this it 
+follows that a dialectical approach to developing, defending and rejecting argumentation 
+is, in accordance with the constitutive rules, more committing.
+This specific analysis shows that latent euphemisms can be understood as instances 
+of violating the dialectical Language Use Rule. Pragmatically optimal formulations can 
+be identified as fallacious if and when they are tested with other formulations proposed 
+by other social actors. Finally, the problem of misusing unclearness and ambiguity can 
+be more easily identified if language use is examined against the background of critical 
+epistemology. In this sense, the Language Use Rule is a dead letter unless second and thir-
+order conditions are taken into account. Higher-order conditions allow methodological 
+enhancements, by means of which we are more likely to understand why we talk at cross 
+purposes and less likely to disregard and marginalise a relevant issue as a non-issue. 
+Sources
+Cambridge Dictionary — Cambridge Dictionary. https://dictionary.cambridge.org/ (accessed: 04.03.2019).
+GloWbe  — Corpus of Global Web-Based English (GloWbe). https://www.english-corpora.org/glowbe/ 
+(accessed: 04.03.2019). 
+Debatepedia  — Debatepedia. http://www.debatepedia.org/en/index.php/Welcome_to_Debatepedia%21 
+(accessed: 04.03.2019).
+Online Etymology Dictionary — Online Etymology Dictionary. https://www.etymonline.com/ (accessed: 
+28.02.2019).

@@ -1,0 +1,892 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+55
+Guseynova I.A., Gorozhanov A.I., Kudinova E.S., 2021
+ГЛАВНАЯ ТЕМА НОМЕРА
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.3.5
+UDC 81’25:35.077.535.6
+Submitted: 14.12.2020
+LBC 81.18
+Accepted: 30.03.2021
+TRANSLATION GENIUS AND SOCIAL NETWORKS
+Innara A. Guseynova
+Moscow State Linguistic University, Moscow, Russia
+Alexey I. Gorozhanov
+Moscow State Linguistic University, Moscow, Russia
+Elena S. Kudinova
+Moscow State Linguistic University, Moscow, Russia
+Abstract. The paper attempts to consider changes in the translator’s activity caused by the turn towards
+digital transformation in the institutional sphere. The analysis is based on material from German social networks,
+their content being the subject matter for the modern translator who is a specialist in cross-cultural and cross-
+lingual communication. The study describes the algorithm for implementing social management at the macrostructural
+and compositional levels. The emphasis is also placed on the institutional spheres that are most susceptible to
+digital transformation, which include nutrition and healthy lifestyle, education and many others. Total digital
+transformation of these institutional spheres is primarily evidenced by an increase in neologisms recorded in
+electronic databases, and dictionaries with an indication of their contextual use and their further popularization,
+first of all, in mass media texts. The results of the analysis lead the authors to conclude that training a new
+generation of interpreters and translators should include mastering the skill of working with big data, different
+corpora of texts, neologisms marked by or containing the industry component, as well as the need to develop
+glossary-type dictionaries for branches of knowledge. Considering the controversial content of social networks,
+the authors of the paper come to the conclusion that it is necessary to develop the code of ethics for the social
+networks translator.
+Key words: institutional communication, cross-cultural communication, cross-lingual communication,
+translation theory, translation practice, audiovisual content, digital transformation, social management tool.
+Citation. Guseynova I.A., Gorozhanov A.I., Kudinova E.S. Translation Genius and Social Networks. Vestnik
+Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of  Volgograd  State
+University. Linguistics], 2021, vol. 20, no. 3, pp. 55-64. DOI: https://doi.org/10.15688/jvolsu2.2021.3.5
+УДК 81’25:35.077.535.6
+Дата поступления статьи: 14.12.2020
+ББК 81.18
+Дата принятия статьи: 30.03.2021
+ГЕНИЙ ПЕРЕВОДЧИКА И СОЦИАЛЬНЫЕ СЕТИ
+Иннара Алиевна Гусейнова
+Московский государственный лингвистический университет, г. Москва, Россия
+Алексей Иванович Горожанов
+Московский государственный лингвистический университет, г. Москва, Россия
+Елена Сергеевна Кудинова
+Московский государственный лингвистический университет, г. Москва, Россия
+56
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Аннотация. В статье реализована попытка рассмотреть изменения в деятельности переводчиков,
+вызванные поворотом к цифровой трансформации институциональной сферы. А.И. Горожановым прове-
+ден анализ речевого материала немецких социальных сетей, содержание которых является предметом
+изучения современного переводчика, специализирующегося на межкультурном и межъязыковом обще-
+нии. Е.С. Кудиновой описан алгоритм реализации социального управления на макроструктурном и компо-
+зиционном уровнях. Акцент сделан на институциональных сферах, наиболее подверженных цифровой транс-
+формации (питание и здоровый образ жизни, образование и др.). Установлено, что о тотальной цифровой
+трансформации этих институциональных сфер свидетельствует увеличение количества неологизмов, зафик-
+сированных в электронных базах данных, словарях с указанием их контекстного использования, и их активная
+воспроизводимость в текстах средств массовой информации. И.А. Гусейновой обобщены результаты иссле-
+дования и сделан вывод о том, что подготовка устных и письменных переводчиков нового поколения должна
+включать работу с большими данными, опираться на разные корпусы текстов, способствовать освоению
+неологизмов, имеющих отраслевую составляющую; выявлена потребность переводчиков в словарях типа
+глоссария по отраслям знаний. Учитывая неоднозначное содержание социальных сетей, авторы статьи аргу-
+ментируют необходимость разработки этического кодекса переводчика социальных сетей.
+Ключевые слова: институциональная коммуникация, межкультурная коммуникация, межъязыковая
+коммуникация, теория перевода, практика перевода, аудиовизуальный контент, цифровая трансформация,
+инструмент социального управления.
+Цитирование. Гусейнова И. А., Горожанов А. И., Кудинова Е. С. Гений переводчика и социальные
+сети // Вестник Волгоградского государственного университета. Серия 2, Языкознание. – 2021. – Т. 20,
+№ 3. – С. 55–64. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.3.5
+Introduction
+Digital transformation has a significant
+impact on various occupations, which, in terms of
+translation activities, necessitates the exploration
+of the following range of questions. First, it is
+important to determine the impact of the global
+turn towards digital transformation on experts in
+cross-cultural and cross-lingual communication.
+Secondly, we need to clarify the material the
+modern translator will have to work with under
+conditions of digital economy. Thirdly, it is
+necessary to define efficient training of a new
+generation of translators, ensuring their
+comfortable work during digital transformation,
+which primarily implies systematizing labor
+functions of experts in cross-cultural and cross-
+lingual communication.
+Digital transformation calls for developing
+interdisciplinary research bases that integrate
+achievements of STEM and humanities, providing,
+among other things, a correlation of linguistic and
+mathematical knowledge [Amelkin, Ivanova,
+2011]. A close look at various databases shows
+their global and ubiquitous Anglo-Americanization,
+which is naturally due to economic factors: the use
+of English in computer-mediated communication
+makes it possible for comprehensive cost saving
+on the communicative-discourse continuum, from
+teaching foreign languages in general and higher
+education, to creating an institutional environment
+in which professional interaction is carried out
+through lingua franca, whose status has been
+claimed by English for many decades, despite
+other widely spoken languages, such as Russian,
+Chinese, Arabic, Spanish, French, German and
+others. Many foreign scholars also note that 80%
+of scientific information is published in international
+databases in English, while the remaining 20%
+account for the other languages. This applies to
+different areas of knowledge, including healthcare,
+etc., compare: ‘First, the outcomes are presented
+of our analysis of the Faculty of Medicine at
+University of Münster (Germany). Figure 1
+shows per year-block the total output of the
+faculty (including papers in all languages),
+and the output in English-language journal
+publications only. The share of the latter is
+about 80% of the former, which means that
+20% of the output consists of non-English
+language journal publications’ [Leeuwen et al.,
+2001, p. 338]. The lingua franca status of British
+and American English is largely observed in social
+networks, which are dynamic in nature and can
+absorb resources of different languages to solve
+communication problems. For this reason, many
+researchers deem it necessary to single out
+Internet communication as a separate area of
+research [Ashnin, 2015; Evtushenko, Pervukhina,
+2020; Ibatova, Gromova, 2021; Karasik, 2012].
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+57
+I.A. Guseynova, A.I. Gorozhanov, E.S. Kudinova. Translation Genius and Social Networks
+We consider the scientific point of view of a
+number of scientists to be very efficient, but we
+believe it is important to conduct an analysis in a
+broader vein, which will allow us to see future
+development of virtual space, to identify possible
+risks and dangers for sociocultural interaction in
+the institutional sphere. We see high potential to
+carry out an analysis based on the material of
+widely spoken languages, which include both
+Russian and German. With regard to the Russian
+language of social networks, works of a plethora
+of scientists should be noted [Klimanova,
+Dembovskaya, 2013; Kolesnikov, 2018;
+Kostomarov, 2019; Ovchinnikova, 2013; Saakyan,
+2016]. As for German, the study of changes is
+carried out mainly in Germany and Austria, which
+is evidenced by modern publications on the
+problem [Bedijs, Heyder, 2020; Dittler, Hoyer,
+2014], while in Russian German studies, such work
+is carried out mainly within the framework of
+youth science – in bachelor’s and master’s theses.
+Undoubtedly, achievements of Russian and foreign
+German studies are presented in Russian scientific
+series publications [Yazyk i moda, 2017], but their
+fragmentary presence in the Anglo-American
+scientific community makes German studies more
+vulnerable, however, at the same time helps to
+preserve its best traditions.
+In our work, we will focus on interdisciplinary
+scientific research carried out within the
+framework of various projects implemented by
+experts in German language and culture and based
+on material of German social networks, which is
+relevant for training experts in cross-cultural and
+cross-lingual communication.
+Results and discussion
+Peculiarities of German social networks
+It bears reminding that in modern linguistic
+studies devoted to analysis of empirical facts taken
+from social networks, attempts are constantly
+being made to break down the virtual space into
+genres [Mityagina, Sidorova, 2016; Tipologiya...,
+2008]. This systematization is complicated by the
+hybrid nature of Internet genres, as well as their
+dynamic development across different platforms.
+Despite the fact that the main networks are
+considered to be Facebook, Twitter, WhatsApp,
+their language varies greatly. This is primarily due
+to the fact that all social networks are oriented on
+a specific target audience, in which certain
+sociolinguistic parameters prevail – gender, age,
+social status, gender, etc. The pragmatic aspect
+has a significant impact on socio-communicative
+practices, as well as on the macrostructure, or social
+media content. However, it should be mentioned
+that anonymization and pseudonymization make it
+possible for people to be present in various social
+networks and actively interact with social groups,
+thereby leveling out all sociolinguistic parameters,
+including gender, which we interpret, following the
+majority of scholars, as the sociocultural gender
+[Gorodnikova, 1999; 2002; Kostarnova, 2020]. It
+is for this reason that many foreign researchers
+reflect on the ‘postfeminist era’, which they
+regard as the historical development of feminism,
+or, what is more important to us, as part of modern
+transformations, cf. English: ‘A contrasting
+perspective regards postfeminism as an
+historical shift within feminism, or as part of
+its on-going transformation’ [Litosseliti, Gill,
+Favaro, 2019, p. 4]. Gender transformations will
+pose new challenges for practicing translators in
+terms of specificity of particular languages.
+Eliminating the gender factor in modern texts
+often leads to the loss of gender identity and, at
+the same time, to the popularization of gender
+constructs in other linguocultures, where gender
+is explicitly represented by the lexical and
+grammatical means of the language itself – e.g.
+the gender category in the language system and
+structures, etc.
+The global turn towards digital
+transformation forced members of various ethnic
+societies to dramatically reconsider their attitude
+to objects and world phenomena, which was
+reflected in discursive and communicative
+practices in various professional spheres. At the
+linguistic level, this manifested itself in the
+widespread distribution in the German-speaking
+community both in everyday and institutional
+environment of the concept of ‘Lohas’, which in
+terms of word formation in German, is an
+abbreviation and goes back to ‘Lifestyle of Health
+and Sustainability’ [Klosa-Kückelhaus,
+Schnedermann, 2019, p. 22]. Obviously, such a
+concept, rooted in the recipient’s collective
+consciousness, will lead to changes in social
+networks content, which, in turn, will result in an
+increase in such nouns as ‘Veganer / Vegetarier’ –
+58
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+a vegetarian, a person who consumes plants;
+‘Frutarier’ is a person whose eating habits
+include fruits, etc. The emergence of a corpus of
+texts that address a healthy lifestyle will require
+communication channels for their dissemination –
+mass media, radio, television, etc. As a result, the
+translator will have to know the relevant diet
+programmes, 
+foods 
+recommended 
+for
+consumption, as well as patterns of generating
+advertisements and video content. In addition, it
+should be recalled that these concepts, in
+accordance with the specificity of German, will
+give rise to derivatives, for example,
+‘Teilzeitvegetarier’. In the light of the above, in
+relation to the translator’s profession, the role of
+glossaries, both mono- and multilingual, will also
+increase, which will include information about a
+particular phenomenon that marks a healthy
+lifestyle. To illustrate our point, let us consider the
+following example: the concept of ‘Superfood’,
+which arose no more than 10 years ago:
+‘Superfood – Nahrungsmittel, dem besonders
+viele Vitamine und andere wertvolle
+Inhaltsstoffe und damit eine besondere
+gesundheitsfördernde Wirkung zugeschrieben
+wird’ [Klosa-Kückelhaus, Schnedermann, 2019,
+p. 24]. Such an explanation makes it possible to
+translate the concept of ‘Superfood’, and further
+popularization of this good without adequate
+representation in advertising or medical discourse
+poses a challenge. As digital transformation
+evolves, the lifestyle itself is changing, and in the
+future, so is the social behavior of individuals, as
+well as certain communities united by common
+interests and preferences. For this reason, the
+appearance of lexical units reflecting the new
+reality across social networks should be expected.
+In witness whereof, we will give specific
+examples from German social networks:
+‘Couchpotato / Couchkartoffel; Homing;
+Cocooning’ [Klosa-Kückelhaus, 2020, pp. 1-2].
+It is beyond argument that it is possible to reveal
+the content of the abovementioned lexemes from
+the point of view of translation practice only
+through working with data corpuses and analyzing
+the contextual use of the lexical units, which do
+not mean potatoes at all (‘Couchpotato /
+Couchkartoffel’), but refer to people who lead
+a sedentary lifestyle and prefer to stay in for no
+apparent reason or need, cf. German: ‘Mit diesen
+Wörtern werden Menschen bezeichnet, die ihre
+Freizeit vorzugweise sitzend verbringen’
+[Klosa-Kückelhaus, 2020, p. 1]. Homing should
+be interpreted as remaining indoors, where the
+home is seen as a center for organizing one’s
+leisure time, cf. German: ‘Zuhause als
+Mittelpunkt der Freizeitgestaltung’ [Klosa-
+Kückelhaus, 2020, p. 2]. Cocooning is nothing
+more than a desire to isolate oneself from the
+outside world, to ‘wrap in a cocoon’. From this
+perspective, we should talk about the socio-
+communicative elements of the translator’s
+professional discourse and socio-communicative
+strategies [Naumova, 2013], which help to take
+into account the creative initiative in the
+translator’s practice, which is objectified through
+the use of various linguistic means, which at the
+same time bring out the translator’s individuality.
+Social networks, due to the variety of content
+broadcast through various communication
+channels, require the modern translator to make
+well-grounded, not so much translation decisions,
+as ideological, philosophical and pragmatic
+decisions, which will make it possible to create
+the final translation taking into account the
+specificity of the social services commissioning
+by enterprises and companies that offer digital
+services.
+Social networks as a tool
+for managing social reality
+The fact of managing real ethnosociety
+through social networks is objectified at the
+linguistic level. Let’s turn to specific examples
+in German: ‘mailen, anmailen, simsen, bloggen,
+posten, 
+skypen, 
+whatsappen’ 
+[Klosa-
+Kückelhaus, Schnedermann, 2019, p. 46], cf.
+Russian: ‘писать по электронной почте,
+направлять смс-сообщение, размещать
+пост / постировать, вести блог, выходить
+на связь через скайп, общаться по вотсап-
+пу’. At first glance, we are talking about lexemes
+that mark Internet communication. However, a
+more profound analysis of lexical units, using
+sociolinguistic research methods, elements of
+content analysis, theory of discourse and
+communication allows us to come to the following
+conclusion: not only do units ‘mailen, bloggen,
+twittern’ express communication technologies that
+serve mediated communication, but they also
+define the sociolinguistic parameters of group
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+59
+I.A. Guseynova, A.I. Gorozhanov, E.S. Kudinova. Translation Genius and Social Networks
+communities. The technical channel for
+disseminating and transmitting information, helps
+determine the social status, sociocultural level, job
+functions, the level of information competence of
+the participant in virtual communication. In this
+light, the activities of an interpreter and translator
+become more complicated, because to adequately
+translate the content of social networks, they
+unwittingly have to consider the sociolinguistic
+parameters ‘wired’ in information communication
+channels – blog, twitter, whatsapp, etc.
+Also complicated becomes an interpreter’
+and a translator’s work which is affected by the
+‘shift’ towards imagery and visualization. As a
+result, this shift pushes the verbal mode to the
+background. The decrease in verbal descriptions
+enhances the emotional component, which results
+in the use of emoticons that indicate the attitude
+and assessment of the subject of communication
+by participants in virtual interaction [Provine,
+Spencer, Mandell, 2007]. This is especially
+noticeable in the summary of comments in
+German in such genres as talk shows, interviews
+and other entertainment formats. Simplification
+of verbal content takes communication to an
+emotional level, which makes it possible to
+determine the parameters of the target audience
+quickly and with a high degree of accuracy, which
+is important for marketing in all economic sectors.
+In written cross-cultural and cross-lingual
+communication, this gives rise to emoticons with
+a steadily growing repertoire. There is no need to
+interpret emoticons, but it does not rule out the
+linguistic and cultural or linguocultural
+commentary in translation, which is essential to
+consider while training future translators [Mityagina,
+Gureeva, 2017].
+Social group management is also
+implemented at the macrostructural level. The
+analysis of some popular German social networks
+demonstrates the subject matter of issues under
+discussion. These are transformations taking
+place in schooling and higher education, cf.
+German: ‘Veränderungen im Schul- und
+Hochschulwesen’; search of a life partner, cf.
+German: ‘Partnersuche’; new team-building
+computer games, cf. German: ‘Neue Teamspiele’
+[Klosa-Kückelhaus, Schnedermann, 2019, p. 24].
+All thematic groups are characterized by certain
+key words, which function as a social signal for
+the mainstream recipient who is interested in
+taking part in communication on a particular topic.
+These keywords also perform a password
+function. Their regular use forms the ‘profile’ of
+a member of a given social group, and the data
+helps to establish the communicant’s interests –
+his taste preferences, emotional states, mood, etc.
+In other words, the data helps to define the
+sociocultural profile of a member of this social
+group, which is inclusive of common features. For
+the modern interpreter / translator, this means
+mastering the key words that mark communication
+on an issue. If the terminology base can be isolated
+through text corpora and methods of corpus-based
+and corpus-driven linguistics, working with social
+networks requires knowledge of passwords –
+professional terms, heritage language lexemes,
+dialectisms and other linguistic means. Otherwise,
+the translator runs the risk of making
+communicative-pragmatic blunders.
+Social networks are also managed at the
+compositional level. After all, the format of each
+social network has its given parameters that must
+be implemented by all participants in group
+communication, and at the same time it is supported
+by the structural elements of the pre-set
+communication genre. Failure to comply with certain
+compositional requirements leads to the fact that
+the participant of the social network stands in stark
+contrast to the rest of the group members, thus
+eliciting different reactions from other participants.
+This feedback is often critical, which causes
+discomfort and the group member either obeys the
+general rules or is forced to leave the
+communication group. The abovementioned
+circumstances stimulate genre forms of Internet
+communication. At the moment, we can single out
+social groups that prefer communication in such
+genres as blog, chat, news, etc. According to
+observations of German researchers, social
+networks are going through the following trend:
+each participant entering into indirect
+communication relies not on the topic, but on
+comments posted earlier. In other words, we are
+talking about forming space in which other people’s
+opinion is ignored, which is due to the attempt of
+new participants to ‘fit’ into the established format.
+Translation of social network content lead to the
+translator involuntarily becoming a ‘hostage’ of the
+formats, which leads to his emotional workload,
+which in some cases reduces the qualitative and
+quantitative indicators of his activity. Realizing that
+60
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+there is another message behind the statement, the
+translator adheres to the pre-set composition.
+Social networks are also managed at the
+institutional level. Examples are the regular
+surveys conducted in Germany collecting
+information about the attitude of Germans to the
+state of the German language, as well as the
+attitude of members of the German-speaking
+community to other foreign languages and
+cultures. According to German scholars, the
+interest in the status of German, both in Germany
+and abroad, is on the rise, which necessitates
+regular sociolinguistic surveys. Among various
+questions addressing the dialect proficiency of
+German native speakers, the areas of their use in
+day-to-day communication etc., special mention
+goes to two key themes: 1) the attitude of
+Germans to the German language; 2) the attitude
+of Germans to other (foreign) languages, which
+are used for various reasons in Germany. With
+regard to the first key question, survey participants
+emphasize the need to comply with the spelling
+rules, and to take into account the gender factor,
+cf. German: ‘Geschlechtsgerechte Sprache’
+[Adler, Ribeiro Silveira, 2020, p. 22]. The survey
+results regarding the second key question specify
+that French, English, Italian and Spanish are
+‘attractive’ for the Germans, cf. German: ‘Als
+sympathische Sprachen werden insbesondere
+Französisch, Englisch, Italienisch und
+Spanisch genannt’ [Adler, Ribeiro Silveira, 2020,
+p. 19]. The ‘unattractive’ languages’ in the
+German-speaking community include Polish,
+Russian, Turkish and Arabic, cf. German: ‘eher
+nicht sympathisch bewertet werden dagegen
+Polnisch, Russisch, Türkisch und Arabisch’
+[Adler, Ribeiro Silveira, 2020, p. 19]. It is beyond
+argument that the division of languages into
+‘attractive’ and ‘unattractive’ is provisional, but
+it stimulates the study of cultural, historical, socio-
+political and other reasons for such an attitude
+towards specific languages. In the light of the
+institutional management of social networks, the
+abovementioned facts are of prime importance,
+as they draw attention to language policy in the
+context of migration, to globalization results and to
+imbuing virtual space with relevant content. To this
+effect, translator training requires considering
+theoretical modules that contribute to encyclopedic
+world knowledge, which is essential for the success
+of cross-cultural and cross-lingual communication.
+In summary it can be said that for the
+modern translator should enhance her professional
+theoretical and practical training. Working with
+content involves managing big data, corpora of
+texts and making use of a certain thematic group
+of words, including units of special vocabulary,
+terminology, professional terms, emotive units,
+etc., i.e. the comprehensive set of linguistic means
+that is crucial to convey the meanings and
+information in the native or foreign language. In the
+professional community, a translator will be
+defined as an expert in a particular subject area
+and branch of knowledge.
+Functions of social media translator
+or traps lurking for the modern translator’s /
+interpreter’s genius
+In modern sociolinguistic publications, the
+term ‘vitality’ of languages is increasingly
+introduced into scientific context. In this sense, it
+seems appropriate to mention two types of vitality:
+linguistic and sociolinguistic. Russian authors
+define the linguistic vitality of a language as ‘the
+ability for constant linguistic innovation, which
+manifests itself in reactions to external
+influences arising from contacts with other
+languages 
+(both 
+majoritarian 
+and
+minoritarian 
+languages)’ 
+[Bogdanov,
+Marusenko M.A., Marusenko N.M., 2020,
+p. 316]. Sociolinguistic vitality does not so much
+define the ability ‘to adapt and develop the
+lexical-semantic and grammatical systems, but
+as the will (or strength) of the linguistic
+community to transmit its language or
+language variant to the next generations’
+[Bogdanov, Marusenko M.A., Marusenko N.M.,
+2020, p. 316]. Digital transformations, while
+affecting languages, at the same time ‘check’ the
+degree of their vitality, resistance to external
+influences. To illustrate the phenomenon of
+language resistance used in German social
+networks, let us examine the results of our
+observations, which directly relate to the
+translator’s activity and present certain challenges
+for her.
+Neologisms. German social networks are
+characterized by the use of verbs containing the
+components ‘fremd’ and ‘gegen’, cf. German:
+‘Fremd-Verben’ und ‘Gegen-Verben’ [Müller-
+Spitzer, Ribeiro-Silveira, 2019, p. 16]. Among
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+61
+I.A. Guseynova, A.I. Gorozhanov, E.S. Kudinova. Translation Genius and Social Networks
+them, there are lexical units that pose a certain
+difficulty for the translator, for example,
+‘fremdschämen’ and ‘fremdevaluieren’. In
+reference editions, these verbs are not listed,
+which leads to the translator looking for possible
+translation options either in corpuses or in
+electronic glossary-type dictionaries explaining
+their meaning, since even native speakers are not
+always ready to immediately provide an everyday
+definition of these lexemes. Nevertheless, the verb
+‘fremdschämen’, which is quite popular in
+German social networks, is interpreted as ‘feeling
+ashamed for any words and actions committed
+by third parties’, and the verb ‘fremdevaluieren’
+is a term found in the field of pedagogy, and it can
+be translated as ‘carrying out an independent
+diagnosis’.
+Content stylization according to tastes
+and preferences of social groups. The analysis
+of German social networks reveals certain trends
+in the use of grammatical means. So, in the course
+of the analysis of the ‘weil / denn’ connectors on
+Facebook, it was found that age characteristics
+play a significant role in their use – ‘weil’ is used
+at a more mature age, while the use of ‘denn’ is
+typical for schoolchildren, for example, in essays,
+cf. German: ‘Die Studie legt nahe, dass in
+Facebook-Texten eine Präferenz für den
+Konnektor weil vorliegt, wohingegen in Texten
+von Schüler / -innen häufiger denn verwendet
+wird’ [Bröcher, Herzberg, 2019, p. 5]. In addition,
+Facebook discourse is defined by independent
+sentences that begin with the conjunction word
+‘weil’, although according to the rules of German
+grammar, the word ‘da’ is used at the beginning
+of a sentence, and a subordinate clause without
+the main clause is not used independently. This
+knowledge is crucial for the translator working
+with social networks, since it is these little things
+that testify to his professionalism.
+Acceptance or non-acceptance of
+conventions and rules dictated by the
+employer at the institutional level. Not only
+does stepwise management of social networks
+require a high level of translation competence, but
+also compliance with the translator’s code of
+ethics and rules for the translator’s work with
+content. In this sense, the legal and ethical aspects
+of a translator’s work is subject to further analysis
+and will require reviewing many rules and
+regulations that maintain interaction and dialogue
+between the machine (computer) and a human
+being, as well as taking into account new formats
+of work caused by the global turn towards digital
+transformation.
+Recognizing post-feminist culture
+phenomena. Due to the fact that translators work
+with languages of different structure, and
+complete coincidence is a rather rare phenomenon
+in cognate languages, there arises the question of
+conveying the gender factor, which is blurred in
+virtual space or is impossible to recognize, since
+the participants in group communication use
+pseudonyms or hide their gender identity.
+Anonymity makes it possible to form pseudo-
+identity, which undoubtedly complicates
+translation, given grammatical differences in
+languages. The technologies of working with
+gender constructs in the linguistic aspect in the
+time of digital transformation are still poorly
+understood, which does not yet help us to give
+any recommendations that could be taken into
+account in interpreter and translator training.
+Conclusion
+This paper touches upon only part of the
+problems that directly relate to interpreter and
+translator training, their professional competence,
+and work in the time of digital transformation.
+However, today it is necessary to consider
+incorporating work with neologisms in the theory
+and practice of translation, compiling glossary-
+type dictionaries, working with various databases,
+which make it possible to reveal the meaning of
+new words that mark changes in everyday life
+and institutional spheres. The digital
+transformation of a translator’s activity poses a
+challenge to his genius, but at the same time
+requires institutional support, for example, the
+development of a social media translator’s code
+of ethics. We believe that training to analyze the
+facts of postfeminist culture is both forward-
+looking and crucial.
+REFERENCES
+Adler 
+A., 
+Ribeiro 
+Silveira 
+M., 
+2020.
+Spracheinstellungen in Deutschland – Was die
+Menschen in Deutschland über Sprache denken.
+IDS Sprachreport, vol. 36, iss. 4, pp. 16-24. DOI:
+10.14618/sr-4-2020-adl.
+62
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Amelkin S.А., Ivanova О.S., 2011. Predelnye
+vozmozhnosti peredachi informatsii v
+makrosistemakhc [Limiting Possibilities of
+Transmission of Information in an Economic
+Macrosystem]. Modelirovanie i analiz
+informatsionnykh sistem [Modeling and
+Analysis of Information Systems], vol. 18, no. 3,
+pp. 75-81.
+Ashnin Е.S., 2015. Metaforicheskaya reprezentatsiya
+mentalnykh operatsiy subyekta v yazyke
+nemetskoy 
+molodezhi 
+[Metaphorical
+Representation of the Subject’s Mental
+Operations in the Language of German Youth].
+Vestnik Volgogradskogo gosudarstvennogo
+universiteta. Seriya 2. Yazykoznaniye [Science
+Journal of Volgograd State University.
+Linguistics], no. 1 (25), pp. 125-133. DOI: http://
+dx.doi.org/10.15688/jvolsu2.2015.1.14.
+Bedijs K., Heyder K.H., 2020. Sprache und Personen
+im Web 2.0. Hildesheimer Beiträge zur
+Medienforschung, Band 1, Münster, Lit
+Varlag. 176 p.
+Bogdanov S.I., Marusenko M.A., Marusenko N.M.,
+2020. Yazykovye perepisi i monitoringi kak
+instrument natsionalnoi i yazykovoi politiki
+[Language Censuses and Monitoring as a Tool
+of National and Language Policy], Saint
+Petersburg, Rossiyskiy gosudarstvennyy
+pedagogicheskiy universitet im. A. I. Gertsena.
+343 p.
+Bröcher L., Herzberg L., 2019. Deutsch in sozialen
+Medien. Interaktiv – multimodal – vielfältig:
+Bericht von der 55. Jahrestagung des Leibnitz-
+Instituts für deutsche Sprache, Mannheim, 12-
+14. März 2019. IDS Sprachreport, vol. 35, iss. 2,
+pp. 2-8.
+Dittler U., Hoyer M., 2014. Social Network – Die Revolution
+der Kommunikation. Kundenkommunikation,
+Facebook-Freundschaften, digitale Demokratie
+und 
+virtuelle 
+Shitstorms 
+unter
+medienpsychologischer und mediensoziologischer
+Perspektive. München, kopaed. 341 p.
+Evtushenko О.А., Pervukhina S.V., 2020. Elektronnyi
+modus sovremennogo administrativnogo
+diskursa [Electronic Mode of the Modern
+Administrative 
+Discourse]. 
+Vestnik
+volgogradskogo 
+gosudarstvennogo
+universiteta. Seriya 2. Yazykoznaniye [Science
+Journal of Volgograd State University.
+Linguistics], vol. 19, no. 5, pp. 99-109. DOI:
+https://doi.org/10.15688/jvolsu2.2020.5.9.
+Gorodnikova M.D., 1999. Gendernyi faktor i
+raspredelenie sotsialnykh rolei v sovremennom
+obshchestve: Na materiale brachnykh obyavlenii
+[Gender and the Distribution of Social Roles in
+Modern Society: Based on the Material of
+Marriage Announcements]. Gendernyi faktor v
+yazyke i kommunikatsii: sb. nauch. tr. [Gender
+Factor in Language and Communication:
+Collection of Scientific Papers], Moscow, Rema
+Publ., pp. 36-44.
+Gorodnikova M.D., 2002. Gender v kommunikativnoi
+interaktsii [Gender in Communicative Interaction].
+Gender: yazyk, kultura, kommunikatsiya:
+doklady Vtoroi mezhdunarodnoi konferentsii
+[Gender: Language, Culture, Communication:
+Reports of the 2nd International Conference],
+Moscow, MGLU, pp. 70-76.
+Ibatova A., Gromova A., 2021. Intercultural Features
+of Non-Verbal Means of Communication Used
+in Internet Communication. Applied Linguistics
+Research Journal, vol. 5, iss. 1, pp. 101-108. DOI:
+10.14744/alrj.2021.98215.
+Karasik V.I., 2012. Kompyuternaya igra «StarCraft»:
+lingvokulturnye kharakteristiki [Computer Game
+“StarCraft”: Linguocultural Characteristics].
+Internet-kommunikatsiya 
+kak 
+novaya
+rechevaya formatsiya [Internet Communication
+as a New Speech Formation], Moscow, Flinta
+Publ. 328 p.
+Klimanova L., Dembovskaya S., 2013. L2 Identity,
+Discourse, and Social Networking in Russian.
+Language Learning & Technology, vol. 17, iss. 1,
+pp. 69-88.
+Klosa-Kückelhaus A., 2019. Bloggst du noch oder
+twitterst du schon? (Aus der Rubrik: Neuer
+Wortschatz. IDS Sprachreport, vol. 35, iss. 4,
+pp. 46-49.
+Klosa-Kückelhaus A., 2020. Von Nichtstun und
+Erholung (An Weihnachten und zu anderen
+Zeiten) (aus der Rubrik Neuer Wortschatz). IDS
+Sprachreport, vol. 36, iss. 4, pp. 1-5. DOI:
+10.14618/sr-4-2020-klosa.
+Klosa-Kückelhaus A., Schnedermann T., 2019. Sind
+Sie auch schon ein Lohas? (aus der Rubrik Neuer
+Wortschatz). IDS Sprachreport, vol. 35, iss. 3.
+pp. 22-25.
+Kolesnikov A.E., 2018. Yazyk seti internet i
+amerikanizatsiya russkogo yazyka [The
+Language of the Internet and the
+Americanization of the Russian Language].
+Molodoy uchenyy, no. 20 (206), pp. 446-448.
+Kostarnova О.S., 2020. Gendernye aspekty
+sovremennoy bytovoy italyanskoi skazki
+[Gender Aspects of the Modern Domestic
+Italian Tale]. Nauka bez granits: sinergiya
+teorii, metodov i praktik: materialy
+Mezhdunarodnoi nauchnoi konferentsii
+[Science Without Borders: Synergy of Theory,
+Methods and Practice: Proceedings of the
+International Scientific Conference], Moscow,
+MGLU, pp. 515-518.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+63
+I.A. Guseynova, A.I. Gorozhanov, E.S. Kudinova. Translation Genius and Social Networks
+Kostomarov V.G., 2019. O displeinykh tekstakh
+[About Display Texts]. Russkiy yazyk za
+rubezhom [Russian Language Abroad],
+no. 1 (272), pp. 61-64.
+Leeuwen Van Th.N., Moed H.F., Tijssen R.J.W.,
+Visser M.S., Raan Van A.F.J., 2001. Language Biases
+in the Coverage of the Science Citation Index and
+its Consequences of International Comparisions
+of National Research Performance. Scientometrics.
+Leiden, Leiden University, vol. 51, pp. 335-346. DOI:
+10.1023/A:1010549719484.
+Litosseliti L., Gill R., Favaro L.G., 2019. Postfeminism
+as a Critical Tool for Gender and Language Study.
+Gender and Language, vol. 13, no. 1, pp. 1-22.
+DOI: 10.1558/genl.34599.
+Mityagina V.A., Gureeva А.А., 2017. Kommunikativnaya
+kompetentsiya perevodchika v epokhu
+global’nogo informatsionnogo prostranstva [The
+Communicative Competence of a Translator in
+the Era of the Global Information Space]. Yazyk i
+lichnost v garmonichnom dialoge kultur:
+materialy 
+Mezhdunarodnoi 
+nauchnoi
+konferentsii [Language and Personality in a
+Harmonious Dialogue of Cultures: Proceedings
+of the International Scientific Conference],
+Stavropol, Paragraph Publ., pp. 325-329.
+Mityagina V.A., Sidorova I.G., 2016. Zhanry personalnogo
+Internet-diskursa: kommunikativnye eksplikatsii
+lichnosti [The Genres of the Personal Internet
+Discourse: Communicative Explications of a
+Person]. Zhanry rechi [Speech Genres], no. 2 (14),
+pp. 106-115. DOI: 10.18500/2311-0740-2016-2-14-
+106-115.
+Müller-Spitzer C., Ribeiro-Silveira M., 2019.
+Fremdschämen muss sich jeder Mal, aber haben
+Sie schon einmal von Fremdpflegen oder
+Fremdküssen gehört? Eine Studie zur
+Akzeptabilität und zum Neologismenstatus von
+Fremd-Verben. IDS Sprachreport, vol. 35, iss. 3,
+pp. 16-21.
+Naumova А.P., 2013. Institutsional’nost’
+professional’nogo diskursa perevodchikov
+[Institutionality of Professional Translators’
+Discourse]. 
+Vestnik 
+Volgogradskogo
+gosudarstvennogo universiteta. Seriya 2.
+Yazykoznaniye [Science Journal of Volgograd
+State University. Linguistics], no. 2 (18),
+pp. 104-109.
+Ovchinnikova I.G., 2013. Kommunikatsiya i
+identifikatsiya v sotsialnykh setyakh: faktory,
+tipazhi, natsionalno-kulturnaya spetsifika (na
+materiale sotsialnoi seti twitter) [Communication
+and Identification in Social Networks: Factors,
+Types, Ethnic and Cultural Specifics (Based on
+the Material of the Social Network Twitter)].
+Vestnik Permskogo universiteta. Politologiya
+[Bulletin of Perm University. Political Science],
+no. 2 (22), pp. 143-156.
+Provine R.R., Spencer R.J., Mandell D.L., 2007.
+Emotional Expression Online – Emoticons
+Punctuate Website Text Messages. Journal of
+Language and Social Psychology, vol. 26, iss. 3,
+pp. 299-307. DOI: 10.1177/0261927X06303481.
+Saakyan L.N., 2016. Novye media: yazyk smi i
+sotsial’nykh setei [New Media: the Language
+of the Mass Media and Social Networks].
+Russkiy yazyk za rubezhom [Russian Language
+Abroad], no. 4 (257), pp. 93-99.
+Tipologiya tekstov novogo vremeni [Typology of
+Texts of Modern Times], 2008. Ezhegodnik
+Rossiyskogo soyuza germanistov [Yearbook of
+the Russian Union of Germanists]. Moscow,
+Yazyki slavyanskoy kul’tury, vol. 5. 403 p.
+Yazyk i moda [Language and Fashion], 2017. Collection
+of articles. Moscow. 166 p. (Series: Theory and
+History of Linguistics).
+64
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Information About the Authors
+Innara A. Guseynova, Doctor of Sciences (Philology), Professor, Department of German Language
+Lexicology and Stylistics, Moscow State Linguistic University, Ostozhenka St, 38, 119034 Moscow, Russia,
+ginnap@mail.ru, https://orcid.org/0000-0002-6544-699X
+Alexey I. Gorozhanov, Doctor of Sciences (Philology), Professor, Department of German Language
+Grammar and History, Moscow State Linguistic University, Ostozhenka St, 38, 119034 Moscow, Russia,
+a_gorozhanov@mail.ru, https://orcid.org/0000-0003-2280-1282
+Elena S. Kudinova, Candidate of Sciences (Philology), Associate Professor, Head of the Department
+of English as a Second Foreign Language, Moscow State Linguistic University, Ostozhenka St, 38, 119034
+Moscow, Russia, e.kudinova@linguanet.ru, https://orcid.org/0000-0002-9967-6443
+Информация об авторах
+Иннара Алиевна Гусейнова, доктор филологических наук, профессор кафедры лексиколо-
+гии и стилистики немецкого языка, Московский государственный лингвистический университет,
+ул. Остоженка, 38, 119034 г. Москва, Россия, ginnap@mail.ru, https://orcid.org/0000-0002-6544-699X
+Алексей Иванович Горожанов, доктор филологических наук, профессор кафедры граммати-
+ки и истории немецкого языка, Московский государственный лингвистический университет, ул. Осто-
+женка, 38, 119034 г. Москва, Россия, a_gorozhanov@mail.ru, https://orcid.org/0000-0003-2280-1282
+Елена Сергеевна Кудинова, кандидат филологических наук, доцент, заведующая кафедрой
+английского языка как второго, Московский государственный лингвистический университет, ул. Ос-
+тоженка, 38, 119034 г. Москва, Россия, e.kudinova@linguanet.ru, https://orcid.org/0000-0002-9967-6443

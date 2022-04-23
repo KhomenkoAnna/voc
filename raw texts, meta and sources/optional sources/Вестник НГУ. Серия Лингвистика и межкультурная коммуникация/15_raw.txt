@@ -1,0 +1,619 @@
+ 
+ 
+© Т. В. Репнина, 2021 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+УДК 811.13 
+DOI 10.25205/1818-7935-2021-19-3-20-31 
+ 
+ 
+Непрототипические раздельнооформленные  
+условные конструкции в каталанском языке  
+(в сопоставлении с испанским и французским) 
+ 
+Т. В. Репнина  
+ 
+Институт лингвистических исследований РАН 
+Санкт-Петербург, Россия 
+ 
+ 
+Аннотация 
+Статья посвящена непрототипическим раздельнооформленным условным конструкциям (НРУК) в каталан-
+ском языке в сопоставлении с испанским и французским. НРУК представляют собой два (или более) отдель-
+ных предложения, одно из которых выражает условие, а другое – следствие, при этом условные союзы отсут-
+ствуют. Исследуемая тема представляется актуальной, условные конструкции вызывают значительный 
+интерес у современных ученых, однако НРУК до настоящего времени оставались малоизученными, а на мате-
+риале каталанского языка они практически не рассматривались, чем и определяется новизна настоящего  
+исследования. Следует отличать прототипические условные конструкции с условным союзом si (если) от  
+непрототипических, цельнооформленные от раздельнооформленных. Возможны непрототипические раздель-
+нооформленные условные конструкции с вопросом в препозиции, выражающим условие, и императивом, вы-
+ражающим следствие, а также конструкции с императивом в препозиции (глаголы со значением «предпола-
+гать»), выражающим условие, и вопросом в постпозиции, выражающим следствие. В НРУК возможно 
+употребление различных наклонений глагола: императива, индикатива, конъюнктива и кондиционала; импе-
+ратив может содержаться как в условии, так и в следствии. Существуют также НРУК, не содержащие импера-
+тива. Возможны вставки между первым предложением, выражающим условие, и вторым, выражающим след-
+ствие. Как и в прототипичеких УК, в НРУК условие и следствие являются мыслью или высказыванием одного 
+и того же лица, хотя в некоторых случаях вопрос задает другое лицо. В НРУК отсутствуют условные подчи-
+нительные союзы (в противном случае конструкция становится прототипической), при этом следствие может 
+вводиться маркерами со значением «тогда». В исследовании использованы следующие методы: выборки из 
+генеральной совокупности, анализа, синтеза, описательный, сопоставительный, классификационный, транс-
+формационный. В работе рассматривались тексты каталанских авторов, а также их переводы на испанский  
+и французский, велась работа с информантами – носителями рассматриваемых языков. 
+Ключевые слова 
+условие, следствие, условные конструкции, раздельнооформленные, каталанский язык, испанский язык, 
+французский язык 
+Благодарности 
+Выражаю благодарность Arnau Barios, Iñaki Martinez Pereda за помощь при переводе примеров на каталанский 
+и испанский языки, а также Amélie Cailliez, Marthe Foulon и Gaël-André Bastien за помощь в переводе приме-
+ров на французский 
+Для цитирования 
+Репнина Т. В. Непрототипические раздельнооформленные условные конструкции в каталанском языке (в со-
+поставлении с испанским и французским) // Вестник НГУ. Серия: Лингвистика и межкультурная коммуника-
+ция. 2021. Т. 19, № 3. С. 20–31. DOI 10.25205/1818-7935-2021-19-3-20-31 
+ 
+ 
+ 
+ 
+ 
+Репнина Т. В. Непрототипические условные конструкции в каталанском языке          21 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Non-Prototypical Structurally Separate Conditional Constructions  
+in Catalan (In Comparison with Spanish and French) 
+ 
+Tatiana V. Repnina 
+ 
+Institute for Linguistic Studies RAS 
+St. Petersburg, Russian Federation 
+ 
+Abstract 
+The article is devoted to non-prototypical structurally separate conditional constructions (NSCC) in Catalan in com-
+parison with Spanish and French. These represent two (or more) separate sentences, one of which expresses condition 
+and the other – consequence without conditional conjunctions. The relevance and novelty of this study follows from 
+the fact that NSCCs have not received sufficient attention yet which is particularly true for Catalan. There is no con-
+sensus in specialist literature as regards the terms used to describe this kind of constructions or define their scope. The 
+list of terms for NSCCs in Russian linguistics is too long, and includes the following: “non-prototypical construc-
+tions”, “conditional constructions formed as a “syntactic unity”, “supraphrasal unity”, among others. The paper states 
+that it’s necessary to distinguish prototypical conditional constructions from the constructions with conditional con-
+junction “si”, on one hand, and non-prototypical constructions, on the other. And integral conditional constructions 
+should be distinguished from structurally separate constructions (also referred to as formally separate). There are also 
+non-prototypical structurally separate conditional constructions with interrogative words expressing condition in the 
+protasis and imperatives constructions expressing consequence in the apodosis, constructions with imperatives (verbs 
+like ‘suppose’) expressing condition in the protasis and interrogative sentences expressing consequence in the apodo-
+sis. NSCCs can use different moods: imperative, indicative, subjunctive, and conditional. Imperative forms are com-
+patible both with semantics of conditions and consequences. There are also NSCCs without imperatives. And besides 
+that, between the first sentence expressing the condition and the second sentence expressing the consequence filler ut-
+terances can occur. As typically in prototypical conditional constructions, in NSCC the condition and the consequence 
+expressed also belong to the same subject of speech (speaker), though in some rare cases may be inserted, as a link be-
+tween the first and the second sentences of the construction, an interrogative sentence asked by another subject. 
+NSCCs don’t allow the use of subordinating conjunctions, the opposite being a clear sign of prototypical construc-
+tions, but the consequence can be introduced with markers meaning ‘then’. The study is based on the texts by Catalan 
+authors, excerpts from Catalan journals and their translations into Spanish and French; texts generated by the author’s 
+informers, native speakers have also been used. 
+Keywords 
+condition, consequence, conditional constructions, structurally separate, Catalan, Spanish, French 
+Acknowledgements 
+The author would like to express her gratitude to Arnau Barios, Iñaki Martinez Pereda for their assistance in translat-
+ing examples into Catalan and Spanish, and to Amelie Cailliez, Marthe Foulon, and Gaël-André Bastien for their as-
+sistance in translating examples into French. 
+For citation 
+Repnina, Tatiana V. Non-Prototypical Structurally Separate Conditional Constructions in Catalan (In Comparison 
+with Spanish and French). Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3, 
+p. 20–31. (in Russ.) DOI 10.25205/1818-7935-2021-19-3-20-31 
+ 
+ 
+Введение 
+Статья посвящена непрототипическим раздельнооформленным условным конструк-
+циям (НРУК) (в каталанском языке в сопоставлении с испанским и французским), которые 
+представляют собой два (или более) отдельных предложения, одно из которых выражает  
+условие, а другое – следствие, при этом условные союзы отсутствуют (пример 1). 
+(1 CAT) Ha escrit (PRF IND) l’article? Deixi-me'l (IMP) llegir 1. Вы написали статью? Дай-
+те мне ее прочитать. 
+(1 ES) Ha escrito (PRF IND) el artículo? Déjemelo (IMP) leer. 
+(1 FR) Vous avez écrit (PRF IND) l’article ? Laissez-moi (IMP) le lire. 
+Термин «раздельнооформленные конструкции» заимствован нами у Б. Я. Островского, 
+изучающего условные конструкции в языке дари. Следует отметить, что исследователь рас-
+                                                            
+1 Примеры без указания источника получены от информантов. 
+22  
+Теоретическая и прикладная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+сматривает данное понятие в более узком смысле, чем мы: под ними Островский понимает 
+УК, состоящие из двух предложений или из двух частей сложносочиненного предложения. 
+Первая часть раздельнооформленной УК передает условие и содержит одно из модальных 
+слов и оборотов, переводимых на русский язык как «предположительно», «допустим», «бе-
+рем, что», «предположим, (что)». Вторая ее часть передает следствие; иногда она содержит 
+корреляты типа «в том случае», «тогда» [Островский, 1998. C. 198]. 
+Непрототипические условные конструкции следует отличать от прототипических (при-
+мер 2). Под последними мы вслед за Е. Е. Корди понимаем «сложноподчиненные предложе-
+ния (ССП) с придаточными (ПП), вводимыми условными союзами» [Корди, 1998. С. 275]. 
+Например: 
+(2 CAT) Si en Mateu venia (IMPF IND) amb la Griselda estaven (IMPF IND) cohibits i no li 
+podien (IMPF IND) donar consells [Rodoreda, 2015. P. 89]. Если Матеу приходил вдруг со своей 
+Грисельдой, оба помалкивали, с советами не лезли. 
+(2 ES) Si el Mateu venia (IMPF IND) con la Griselda se sentían (IMPF IND) cohibidos y no le 
+podían (IMPF IND) dar consejos [Rodoreda, 1987. P. 31]. 
+(2 FR) Si Mateu venait (IMPF IND) avec Griselda ils étaient (I MPF IND) tout gênés et finis 
+(PART PAST) les conseils [Rodoreda, 2015. P. 93]. 
+Под непрототипическими УК мы, также вслед за Е. Е. Корди, понимаем «все конструк-
+ции, имеющие условное значение, кроме СПП с условными ПП» [Корди, 1998. С. 276]. Раз-
+дельнооформленные УК с условным союзом si («если» и другими условными союзами) мы 
+относим к прототипическим. 
+В научной литературе нет еще единого мнения ни относительно термина, обозначающего 
+рассматриваемые нами конструкции, ни относительно объема данного понятия. 
+М. Е. Боскова, анализирующая условные конструкции, выраженные бессоюзным слож-
+ным предложением, на материале русского языка упоминая высказывания с вопросом в пре-
+позиции и императивом, либо индикативом в постпозиции, оперирует понятием «синтакси-
+ческое целое» [Боскова, 1970. С. 106]. 
+Значительный вклад в исследование раздельнооформленных условных конструкций вне-
+сла монография Петербургской типологической школы «Типология условных конструкций» 
+[1998]. В. С. Храковский в статье «Теоретический анализ условных конструкций» рассмат-
+ривает на материале русского языка высказывания типа «Вы едете? Я вас подожду» как об-
+разующие сверхфразовое единство и относит УК данного типа к периферийным [Храков-
+ский, 1998b. С. 11–13]. 
+Для нас актуально и понятие «сверхфразовое единство», под которым мы понимаем «от-
+резок речи в форме последовательности двух или более самостоятельных предложений, объ-
+единенных общностью темы в смысловые блоки» [Языкознание. Большой энциклопедиче-
+ский словарь, 1998. С. 435]. В. С. Храковский подчеркивает, что «никакого формального 
+показателя связи между частями УК в этом случае нет» [Храковский, 1998a. C. 102–103]. 
+Как отмечает Н. Ю. Киселева, исследующая условные конструкции на материале англий-
+ского языка, в таких УК части (условие и следствие) синтаксически независимы друг от дру-
+га [Киселева, 2005. С. 10]. Однако, на наш взгляд, следует помнить, что при этом они ставят-
+ся во вполне определенном порядке и представляют собой «синтаксическое целое». Таким 
+образом, речь может идти только о формальной независимости. 
+В ряде работ обращается внимание на возможность синонимической трансформации раз-
+личных типов условных конструкций. 
+Прототипическую условную конструкцию с союзом «если» можно преобразовать в раз-
+дельнооформленную непрототипическую без употребления союза, а также в цельнооформ-
+ленную непрототипическую условно-побудительную конструкцию с очень близким комму-
+никативным содержанием, что видно по следующим примерам [Nueva gramática de la lengua 
+española, 2010. P. 900; Salvador, 2002. P. 2983; Martí, Saldanya, 2012. P. 632]. 
+Репнина Т. В. Непрототипические условные конструкции в каталанском языке          23 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+(3 ES) Si busca (PRS IND) pareja, consulte (IMP) nuestro portal [Nueva gramática de la lengua 
+española, 2010. P. 900]. Если Вы ищете пару, обратитесь на наш портал. 
+(4 ES) ¿Busca (PRS IND) pareja? Consulte (IMP) nuestro portal. [Nueva gramática de la lengua 
+española, 2010. P. 900]. Вы ищете пару? Обратитесь на наш портал. 
+(5 ES) Consulte (IMP) nuestro portal y encontrará (FUT IND) pareja. [Nueva gramática de la 
+lengua española, 2010. P. 900]. Обратитесь на наш портал, и вы найдете пару. 
+Исследуемая тема вызывает значительный интерес у современных романистов, поскольку  
+НРУК не получили достаточного внимания в прошлом, а на материале каталанского языка  
+они практически не рассматривались. В. С. Храковский объясняет это упущение особенно- 
+стями их формализма: условные конструкции, оформленные, в частности, как сверхфразовые  
+единства, а также и другие непрототипические УК не имеют формальных показателей, кото- 
+рые обязательны для прототипических УК [Храковский, 1998b. С. 14]. 
+Отметим, что некоторые аспекты условных конструкций уже были рассмотрены нами ра- 
+нее: в рамках статьи, посвященной монопредикативным вопросительным условным конст- 
+рукциям [Репнина, 2018], а также позднее в работе, посвященной цельнооформленным не- 
+прототипическим условно-побудительным конструкциям [Репнина, 2021]. 
+В корпусе, приведенном в конце статьи М. О’Нейл и М. Касановас, можно обнаружить  
+несколько примеров интересующих нас раздельнооформленных конструкций, однако авто- 
+рами они в качестве специфических не рассматриваются [O'Neill, Casanovas, 1997. P. 277].  
+Цель нашей статьи состоит в том, чтобы восполнить этот пробел, то есть выявить и описать  
+основные типы непрототипических раздельнооформленных условных конструкций. Тем са- 
+мым настоящее исследование вносит вклад в изучение условных конструкций в романских  
+языках. 
+Были использованы следующие методы: выборки из генеральной совокупности, описа- 
+тельный, сопоставительный, классификационный, трансформационный, анализа, синтеза. 
+1. НРУК с вопросом в препозиции, выражающим условие 
+В Грамматике института каталанских исследований отмечается, что конструкция, содер- 
+жащая вопрос в первом предложении, за которым во втором следует императив, обращенный  
+к тому же лицу, может иметь условное значение [Grammàtica de la llengua catalana, 2016.  
+P. 1152].  
+К. Р. Сандфельд также указывает на то, что «вопросительное предложение часто занимает  
+место условного придаточного» [Sandfeld, 1965. P. 357]. В современном языковом материале  
+эта неоднозначность проявляется так (см. полужирный шрифт): 
+(6 CAT) Abans del confinament, l’exposició “The Catalan language: 10 milions European  
+voices” ha visitat (PRF IND) Brussel·les, Cambridge i Lisboa. Vols (PRS IND) ajudar-nos a fer-
+la arribar a moltes més ciutats? Fes (IMP) un donatiu a www.plataforma-llengua.cat/ 
+unpetitgest [La Corbella. 2019/20. P. 30]. До самоизоляции выставка «Каталанский язык:  
+10 миллионов европейских голосов» была проведена в Брюсселе, Кембридже и Лиссабоне.  
+Ты хочешь помочь нам сделать так, чтобы она побывала и во многих других городах? 
+Сделай пожертвование на сайте www.plataforma-llengua.cat/unpetitgest . 
+(6 ES) Antes del confinamiento, la exposición “The Catalan language: 10 milions European 
+voices” ha visitado (PRF IND) Bruselas, Cambridge y Lisboa. ¿Quieres (PRS IND) ayudarnos  
+a hacerla llegar a muchas más ciudades? Haz (IMP) un donativo a www.plataforma-llengua.cat/ 
+unpetitgest . 
+(6 FR) Avant le confinement, l’exposition “La langue catalane : 10 millions de voix euro- 
+péennes” est passée (PRF IND) à Bruxelles, Cambridge et Lisbonne. Veux-tu (PRS IND) nous aider 
+à l'organiser dans beaucoup plus de villes ? Fais (IMP) un don sur www.plataforma-llengua.cat/ 
+unpetitgest . 
+Для конструкций данного типа в романских языках специфично широкое употребление 
+модальных глаголов со значением «хотеть» (кат. voler, исп. querer, фр. vouloir) в препозиции. 
+24  
+Теоретическая и прикладная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Возможно обращение к адресату (в данном случае к читателям журналов) как на «ты» (см. 
+предыдущие примеры), так и на «вы»: 
+(7 CAT) Voleu (PRS IND) conèixer la història que hi ha darrere el centenar d’intervencions? 
+Agafeu (IMP) el telèfon mòbil i escanegeu (IMP) els codis QR [Time out. Barcelona, 2021. P. 36]. 
+Вы хотите знать историю, которая стоит за сотнями [подобных] вмешательств? Возь-
+мите мобильный телефон и отсканируйте коды QR . 
+(7 ES) ¿Queréis (PRS IND) conocer la historia que hay (PRS IND) detrás del centenar de 
+intervenciones? Coged (IMP) el teléfono móvil y escanead (IMP) los códigos QR. 
+(7 FR) Voulez-vous (PRS IND) connaître l'histoire qui est (PRS IND) derrière des centaines 
+d’interventions ? Prenez (IMP) le téléphone portable et scannez (IMP) les codes QR. 
+Другой чертой конструкций данного типа, в отличие от прототипических УК и анало- 
+гично невопросительным непрототипическим условно-побудительным конструкциям, явля- 
+ется невозможность поменять местами условие и следствие. 
+(8 CAT) ¿Us entristeixen (PRS IND) ? Donсs no en parlem (IMP) més [Pla, 2014. P. 166]. Они  
+Вас огорчают? Тогда (стало быть, значит) не будем об этом больше говорить. 
+(8 ES) ¿Le entristecen (PRS IND)? Pues no hablemos (IMP) más. [Pla, 2016. P. 181]. 
+(8 FR) Elles vous attristent (PRS IND) ? Alors, n’en parlons (IMP) plus [Pla, 2013. P. 160]. 
+Следствие в них может вводиться маркерами doncs (кат. «значит, стало быть), pues (исп. 
+«значит, стало быть»), entonces (исп. «значит; стало быть»), alors (фр. «тогда») и т. д. 
+В конструкциях с вопросом в препозиции и императивом, выражающим следствие, усло-
+вие может быть как утвердительным (пример 9), так и отрицательным (пример 10). 
+(9 CAT) T’animes (PRS IND) a promoure un consum responsable i sostenible, posant (GER) 
+l’accent en els aspectes lingüístics? 
+Entra (IMP) a l’aplicació i digues-hi (IMP) la teva! [La Corbella, 2020–2021. P. 42]. Ты вооду-
+шевился продвижением ответственного и долговременного потребления, делая акцент на 
+его лингвистических аспектах? 
+Зайди в приложение и выскажи свое (мнение)! 
+(9 ES) ¿Te animas (PRS IND) a promover una costumbre responsable y sostenible, poniendo 
+(GER) el acento en los aspectos lingüísticos? 
+¡Entra (IMP) en la aplicación y di (IMP) la tuya! 
+(9 FR) T'enthousiasmes-tu (PRS IND) à promouvoir une consommation durable et responsable 
+reposant sur l'accent en linguistique ? 
+Entre (IMP) dans l’application et donne (IMP) ton opinion !  
+(10 CAT) I tu, ja has signat (PRF IND) la petició? Pots (PRS IND) fer-ho a www.som10 
+milions.cat [La Corbella, 2020. P. 32]. А ты уже подписал петицию? Ты можешь сделать это 
+на сайте www.som10milions.cat  
+(10 ES) ¿Y tu ya has firmado (PRF IND) la petición? Puedes (PRS IND) hacerlo en www. 
+som10milions.cat 
+(10 FR) Et toi, as-tu déjà signé la pétition ? Fais-le (IMP) sur www.som10milions.cat . 
+В примере 9 условие утвердительное, и при восстановлении прототипической условной  
+конструкции (Если ты воодушевился… зайди в приложение…) оно остается утвердитель- 
+ным. Однако в примере 10 вопрос, выражающий условие, не содержит отрицания, но при  
+восстановлении прототипической условной конструкции (Если ты еще не подписал петицию,  
+ты можешь сделать это на сайте), условие трансформируется в отрицательное. Заметим, что  
+в примере 10 следствие передается сочетанием модального глагола со значением «мочь»  
+с инфинитивом. 
+2. НРУК с императивом в препозиции 
+В роли условного придаточного может выступать и побудительное предложение: 
+(11 CAT) Vine (IMP) al jutjat! Faràs (FUT IND) práctica de la carrera, llegiràs (FUT IND) 
+papers, veuràs (FUT IND) coses que t’interessaran (FUT IND)... [Pla, 2014. P. 40]. Иди в суд (по-
+Репнина Т. В. Непрототипические условные конструкции в каталанском языке          25 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+работай в суде)! Ты пройдешь стажировку, будешь читать документы, увидишь то, что 
+тебя интересует… 
+(11 ES) ¡Ven (IMP) al juzgado ! Harás (FUT IND) prácticas en la carrera , leerás (FUT IND) 
+papeles, verás (FUT IND) cosas que te interesarán... [Pla, 2016. P. 40]. 
+(11 FR) Passe (IMP) au tribunal ! Tu pourras (FUT IND) faire un stage, consulter des 
+documents, assister à des choses qui t’intéresseront (PRS IND) [Pla, 2013. P. 28]. 
+Как показывает этот пример, НРУК не обязательно содержат вопрос в первом предложе-
+нии, а второе не обязательно включает маркер («тогда»).  
+3. НРУК со вставками  
+Н. А. Добронравин и М. А. Смирнова, исследовавшие условные конструкции в языке  
+хауса, выделяют особый подтип разорванных конструкций, мотивируя это тем, что они  
+разделяются на две части вопросительным предложением [Добронравин, Смирнова, 1998.  
+С. 394]. 
+Подобные предложения со вставками могут быть как прототипическими, то есть с услов-
+ным союзом, так и непрототипическими, без условного союза (ср. [Grevisse, Goosse, 2008.  
+P. 1511]). 
+Рассматриваемые конструкции в нашей терминологии называются раздельнооформлен-
+ными, причем добавляться между двумя предложениями, обозначающими условие и следст-
+вие, могут различные виды вставок, например, реплики другого говорящего, как в (12, 13).  
+Обратим внимание на употребление модального глагола со значением «желать, хотеть»  
+в составе диалогического единства следующем примере. 
+(12 CAT) – Es (PRS IND) aixó, Tommy? Vols (PRS IND) provocar la ruïna d’una família 
+sencera? 
+– No, Frank, és (PRS IND) clar que no… 
+– Doncs torna (IMP) a casa i escriu (IMP) la punyetera novel·leta! [Sánchez Piñol, 2005. P. 20]. 
+– Это так, Томми? Ты хочешь вызвать разорение целой семьи? 
+– Нет, Франк, конечно, нет… 
+– Тогда (значит) отправляйся домой и пиши этот проклятый роман! 
+(12 ES) –¿Quieres (PRS IND) provocar la ruina de una familia entera? ¿Es eso, Tommy? 
+– No, Frank, claro que no... 
+– ¡Entonces vuelve (IMP) a casa y escribe (IMP) la puñetera novela! [Sánchez Piñol, 2015.  
+P. 19]. 
+(12 FR) – Tu veux (PRS IND) provoquer la ruine d’une famille entière ? C’est ça, Tommy ? 
+– Non, Frank, bien sûr que non... 
+– Alors rentre (IMP) chez toi et écris (IMP) ce foutu roman ! [Sánchez Piñol, 2007. P. 16]. 
+(13 CAT) – Si guanyés (IMPF CONJ) la loteria…  
+– Què faries (PRS COND) ?  
+– Me n’aniria (PRS COND) de viatge.  
+– Если бы я выиграла в лотерею…  
+– Что бы ты сделала?  
+– Отправилась бы в путешествие. 
+(13 ES) – Si ganara (IMPF CONJ) la lotería…  
+– ¿Qué harías (PRS COND)? 
+– Me iría (PRS COND) de viaje. 
+(13 FR) – Ah, si je gagnais (IMPF IND) au loto...  
+– Tu ferais (PRS COND) quoi ?  
+– Je partirais (PRS COND) en voyage. 
+В примере 13 условие вводится подчинительным союзом si («если»), а значит, вся эта по- 
+следовательность реплик двух коммуникантов представляет собой одну прототипическую  
+УК, между первой и второй частью которой, т. е. между условием и следствием, вставлено  
+26  
+Теоретическая и прикладная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+вопросительное предложение, которое принадлежит ситуативному адресату первого комму- 
+никанта. 
+4. Употребление времен и наклонений глагола в НРУК 
+Одна и та же НРУК допускает употребление различных времен и наклонений в различных  
+романских языках. Рассмотрим материал каталанского, испанского и французского языков. 
+(14 CAT) Que puc (PRS IND) encendre una cigarreta? … Em traurá (FUT IND) els nervis... 
+[Porcel, 2009. P. 265]. Я могу прикурить сигарету? … Это успокоит мои нервы. 
+(14 ES) ¿ Puedo (PRS IND) encender un cigarrillo ? ... Me tranquilizará (FUT IND) ... [Porcel, 
+2008. P. 274]. 
+(14 FR) Je peux (PRS IND) prendre une cigarette ? … Ça me calmera (FUT IND) les nerfs... 
+[Porcel, 2010. P. 240]. 
+В примере 14 в первом предложении во всех языках употребляется презенс индикатива,  
+тогда как во втором – футурум индикатива. Однако во французском возможно также упот- 
+ребление перифрастического ближайшего будущего времени: 
+(15 CAT) – Que potser están (PRS IND) tristos ? – va dir (PAST PERIFR IND) alegre – . Els  
+cantaré (FUT IND) una cançó irlandesa [Sánchez Piñol, 2005. P. 46]. Вам грустно? – спросил  
+он. – Ну что ж, я спою Вам ирландскую песню. 
+(15 ES) – ¿Están (PRS IND) ustedes tristes? – dijo (PAST SIMPLE IND) – . Muy bien, pues les  
+cantaré (FUT IND) una canción irlandesa [Sánchez Piñol, 2015. P. 38]. 
+(15 FR) – Vous êtes (PRS IND) tristes ? demanda-t-il (PAST SIMPLE IND). – Très bien, je vais  
+vous chanter (FUT PERIFR IND) une chanson irlandaise [Sánchez Piñol, 2007. P. 35]. Отметим  
+параллельно употребление модального глагола со значением «мочь» в примерах 14 и 16. 
+В примерах 16 и 17, в отличие от 14 и 15 во втором предложении, употребляется презенс  
+кондиционала. 
+(16 CAT) Podem (PRS IND) negar-li una companyia amiga? No seria (PRS COND) huma  
+[Sánchez Piñol, 2005. P. 169]. Можем ли мы отказать ему в дружеской компании? Это было  
+бы не по-человечески. 
+(16 ES) ¿Podemos (PRS IND) negarle una compañía amiga? No sería (PRS COND) humano  
+[Sánchez Piñol, 2015. P. 127]. 
+(16 FR) Pouvons-nous (PRS IND) lui refuser une compagnie amicale ? Cela ne serait (PRS  
+COND) pas humain [Sánchez Piñol, 2007. P. 130]. 
+В примерах 14 и 16 во французском в отличие от каталанского и испанского присутствует  
+указательное местоимение cela/ça (это), необходимое в качестве формального подлежащего,  
+так как во французском языке отсутствие подлежащего возможно только в императиве. 
+Раздельнооформленные условные конструкции следует отличать от синтаксической по- 
+следовательности, состоящей из вопроса и его продолжения, не связанных друг с другом  
+условными отношениями. Проверить это можно с помощью метода воссоздания прототипи- 
+ческой условной конструкции. Как правило, все непрототипические УК поддаются такой  
+трансформации: 
+(16a CAT) Si li neguessis una companyia amicable, això no seria humà. Если бы мы отказали  
+ему в дружеской компании, это было бы не по-человечески. 
+(16a ES) Si le (negaras o negases) una compañía amigable, no sería humano. 
+(16a FR) Si vous lui refusiez (IMPF IND) une compagnie amicale, cela ne serait (PRS COND)  
+pas humain.  
+Однако последовательность предложений, выделенных полужирным шрифтом в примере  
+17, не позволяет выполнить такую трансформацию: 
+(17 CAT) Tinc (PRS IND) la collecció completa de les obres del Doctor Flag. Tota menys un  
+número de Fabril del 1899 que está (PRS IND) exhaurit. Vostè no el deu (PRS IND) tenir, per  
+casualitat? Pagaría (PRS COND) un preu raonable [Sánchez Piñol, 2005. P. 29]. У меня есть  
+полная коллекция произведений Доктора Флага. Вся, за исключением номера за апрель 1899,  
+Репнина Т. В. Непрототипические условные конструкции в каталанском языке          27 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+которого уже нет в наличии. Вы его случайно не видели? Я заплатил бы за него прилич- 
+ную сумму. 
+(17 ES) Tengo (PRS IND) la colección completa de las obras del Doctor Flag. Toda excepto un  
+número de abril de 1899 que está (PRS IND) agotado. ¿Usted no lo habrá visto (PFR FUT IND),  
+por casualidad? Pagaría (PRS COND) un precio razonable… [Sánchez Piñol, 2015. P. 25]. 
+(17 FR) J’ai (PRS IND) la collection complète des œuvres du docteur Flag. Entière à l’exception  
+d’un numéro d’avril 1899 qui est épuisé (PRS IND PASS). Vous ne l’auriez pas vu (PRF COND),  
+par hasard ? Je paierais (PRS COND) un prix raisonnable [Sánchez Piñol, 2007. P. 23]. 
+Таким образом, в примере 17 наблюдается эллипсис условия «если бы Вы дали мне этот  
+номер» / «если бы я его нашел» / «если бы он где-то продавался» и т. п., а его место занимает  
+вопрос «Вы его случайно не видели?» 
+(17a CAT). Si jo trobés (IMPF CONJ) aquest número, jo pagaria (PRS COND) un preu raonable  
+per ell. Если бы я нашел этот номер, я бы заплатил за него приличную сумму. 
+(17a ES). Si (encontrara o encontrase) (IMPF CONJ) ese número, pagaría (PRS COND) un  
+precio razonable por el. 
+(17a FR) Si je trouvais (IMPF IND) ce numéro, je paierais (PRS COND) un prix raisonnable  
+pour lui. 
+На самом деле, в примере 17 содержится два условия, при этом одно из них, выраженное  
+эксплицитно («Вы случайно его не видели»), является псевдоусловием, тогда как истинное  
+имплицируется («Если бы я нашел этот номер»). Эта формально-семантическая асимметрия  
+и объясняет невозможность воссоздания прототипической УК. (Невозможно сказать «*Если  
+бы Вы увидели его случайно, я заплатил бы за него приличную сумму»). 
+Возможны условные конструкции и с псевдоследствием. Рассмотрим его примеры в 18  
+и 18а: 
+(18 CAT) Que tens (PRS IND) gana? El sopar és (PRS IND) a la nevera. Вы голодны? Ужин  
+в холодильнике. 
+(18 ES) Tienes (PRS IND) hambre? La cena está (PRS IND) en el frigorífico. 
+(18 FR) Vous avez (PRS IND) faim ? Le dîner est (PRS IND) dans le réfrigérateur. 
+(18a CAT) Si tens (PRS IND) gana, menja (IMP): el sopar és (PRS IND) a la nevera. Если Вы  
+голодны, то поешьте: ужин в холодильнике. 
+(18a ES) Si tienes (PRS IND) hambre, come (IMP): la cena está (PRS IND) en el frigorífico. 
+(18a FR) Si vous avez (PRS IND) faim, mangez (IMP) : le dîner est (PRS IND) dans le  
+réfrigérateur. 
+В примере 18 формальное следствие (ужин в холодильнике) семантически является лож- 
+ным. Истинное следствие «поешьте» в нем опущено, а в примере 18а выражено эксплицитно. 
+Как отмечает Х. Кронинг, приводя высказывание, близкое к примеру 18, в данном типе  
+конструкций «условие», выражаемое в протазисе, не связано с содержанием, обозначенном  
+в аподозисе, но связано с иллокутивным актом, совершенным в высказывании аподозиса,  
+чтобы обеспечить «успех» данного речевого акта [Kronning, 2009. P. 99]. 
+5. НРУК с вопросом в постпозиции 
+Возможны непрототипические раздельнооформленные условные конструкции с вопросом  
+в постпозиции, иллюстрируемые следующей группой типовых примеров: 
+(19 CAT) Suposem (IMP) que hagués vingut (PQP CONJ). Què li diria (PRS COND)? Предпо- 
+ложим, он пришел бы. Что бы Вы сказали ему? 
+(19 ES) Supongamos (IMP) que hubiera venido (PQP CONJ). ¿Qué le diría (PRS COND)? 
+(19 FR) Supposons (IMP) qu'il soit venu (PRF CONJ). Qu’est-ce qu'on lui aurait dit (PRF  
+COND)? 
+(20 CAT) Admetem (IMP) que el coneixes (PRS IND). En aquest cas, com es diu (PRS IND)?  
+Допустим, ты его знаешь. В таком случае как его зовут? 
+(20 ES) Admitamos (IMP) que lo conoces (PRS IND). En tal caso, ¿cómo se llama (PRS IND) ? 
+28  
+Теоретическая и прикладная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+(20 FR) Admettons (IMP) que tu le connaisses (PRS IND). Dans ce cas, comment s'appelle-t-il  
+(PRS IND) ? 
+В таких конструкциях в их первой части высказывается предположение, содержащее усло- 
+вие, а во второй задается вопрос, который станет актуален в случае реализации сформулиро- 
+ванного условия. В конструкциях данного типа нельзя поменять порядок следования условия  
+и следствия, если они выражены сложноподчиненным побудительным и вопросительным  
+предложениями. 
+Однако, как показывает пример 21, границы между цельнооформленными и раздельно- 
+оформленными конструкциями все-таки проницаемы. В примере 21 в первой части предло- 
+жения на каталанском и испанском вместо императива употребляется деепричастный (герун- 
+диальный) оборот, и это значит, что эти конструкции стали цельнооформленными. 
+(21 CAT) Suposant (GER) que existeixin (PRS CONJ) optimistes i pessimistes absoluts – les  
+coses absolutes només existeixen (PRS IND) en el pensament – , els primers deuen (PRS IND)  
+sentir i sentir-se prevalentment en l’espai; els segons, en el temps [Pla, 2014. P. 381]. Предполо- 
+жим, что существуют абсолютные оптимисты и пессимисты – абсолютные вещи суще- 
+ствуют только в сознании, – первые должны воспринимать [мир] и ощущать себя преиму- 
+щественно в пространстве, а вторые – во времени. 
+(21 ES) Suponiendo (GER) que existan (PRS CONJ) optimistas y pesimistas absolutos – las  
+cosas absolutas sólo existen (PRS IND) en el pensamiento – , los primeros deben (PRS IND)  
+de sentir y sentirse preferentemente en el espacio; los segundos, en el tiempo [Pla, 2016. P. 409]. 
+(21 FR) Supposons (IMP) qu’il existe (PRS CONJ) des optimistes et des pessimistes absolus –  
+[étant 2] entendu que les absolus n’existent (PRS IND) que dans la pensée –, les premiers doivent  
+(PRS IND) sentir et se sentir de préférence dans l’espace ; et les seconds dans le temps [Pla, 2013.  
+P. 381]. 
+Т. И. Алиева обращает внимание на то, что во французском языке высказывания со слож- 
+ным союзом «à supposer que» и формой 1 лица мн. числа глагола «supposer» (предполагать)  
+могут приобретать в зависимости от контекста условное значение с оттенком уступки и мо- 
+дальным значением предположения [Алиева, 2003. С. 63–64]. 
+Выводы 
+1. Непрототипические раздельнооформленые условные конструкции могут включать  
+в свой состав вопросительное предложение, выражающее условие и находящееся в препози- 
+ции к следствию. Однако если такая конструкция содержит императив, то он может входить  
+как в состав предложения, выражающего условие, так и в состав предложения, выражающего  
+следствие. Сам же вопрос в этом случае может выражать либо условие, либо следствие. 
+2. Существуют невопросительные НРУК. 
+3. НРУК допускают употребление глагола в различных временах и наклонениях: импера- 
+тива, индикатива, конъюнктива и кондиционала, при этом императив может содержаться как  
+в части с условием, так и в части со следствием. 
+4. Существуют НРУК, не содержащие императива. 
+5. Возможны вставки между первым предложением конструкции, выражающим условие,  
+и вторым, выражающим следствие. В этом случае формируется диалогическое единство. 
+6. Как и в прототипических УК, в НРУК условие и следствие являются логическими  
+формами выражения мысли одного и того же лица (адресанта) в конкретной ситуации обще- 
+ния. 
+7. НРУК не допускает употребления, по своей сути, условных подчинительных союзов:  
+в противном случае конструкция становится прототипической. Однако следствие может вво- 
+диться различными лексемами со значением «тогда». 
+ 
+                                                            
+2 Данный компонент во французском переводе вариабельный. 
+Репнина Т. В. Непрототипические условные конструкции в каталанском языке          29 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Список источников / Sources 
+La Corbella. La revista dels qui estimen la llengua catalana. Barcelona: L’ONG del català. 36 
+hivern 2020-21. (in Catalan). URL: https://www.plataforma-llengua.cat/media/upload/arxius/ 
+lacorbella/Corbella-36-AF_web.pdf (accessed: 27.03.2021) 
+La Corbella. La revista dels qui estimen la llengua catalana. Barcelona: L’ONG del català. 35 estiu 
+2020. (in Catalan). URL: https://www.plataforma-llengua.cat/media/upload/arxius/lacorbella/ 
+Corbella-35-Versi%C3%B3Web.pdf (accessed: 27.03.2021) 
+La Corbella. La revista dels qui estimen la llengua catalana. Barcelona: L’ONG del català. 33 estiu 
+2019. (in Catalan). URL: https://www.plataforma-llengua.cat/media/upload/pdf/corbella-33_ 
+1562754517.pdf (accessed: 27.03.2021) 
+Pla, J. El cuaderno gris. España: Ediciones Destino, 2016, 847 p. Traducción de Dionisio Ridruejo 
+(Translation from Catalan to Spanish). 
+Pla, J. El quadern gris. Barcelona, Edicions Destino, 2014, 763 p. (in Catalan). 
+Pla, J. Le cahier gris. France: Gallimard, 2013. 812 p. Journal traduit du catalan par Serge Mestre 
+(Translation from Catalan into French). 
+Porcel, B. Cada castell i totes les ombres. Barcelona, Edicions 62, 2009, 415 p. (in Catalan). 
+Porcel, B. Cada castillo y todas las sombras. Barcelona, Ediciones Destino, 2008, 421 p. 
+(Translation from Catalan into Spanish). 
+Porcel, B. Quelques châteaux et toutes les ombres. France: ACTES SUD, 2010. 368 p. (Translation 
+from Catalan into French). 
+Rodoreda, M. La plaça del Diamant. Barcelona: Club editor jove, 2015, 267 p. (in Catalan). 
+Rodoreda, M. La place du diamant. France: Gallimard, 2015, 272 p. (Translation from Catalan into 
+French). 
+Rodoreda, M. La plaza del diamante. Barcelona: Ediciones Orbis, 1987, 98 p. (Translation from 
+Catalan in Spanish). 
+Sánchez Piñol, A. Pandora al Congo. Barcelona: La Campana, 2005, 592 p. (in Catalan). 
+Sánchez Piñol, A. Pandora en el Congo. Madrid: Santillana Ediciones Generales, 2015, 436 p. 
+Traducción de Xavier Theros (Translation from Catalan into Spanish). 
+Sánchez Piñol, A. Pandore au Congo. France: ACTES SUD, 2007, 447 p. Traduit du catalan par 
+Marianne Million (Translation from Catalan into French). 
+Time out. Barcelona. # 613 març. 2021. (in Catalan). URL: https://digitalarchive.timeout.com/ 
+TO_PDF_Download/Europe/Spain/Barcelona/2021/March/TOB_613a.pdf (accessed: 27.03.2021) 

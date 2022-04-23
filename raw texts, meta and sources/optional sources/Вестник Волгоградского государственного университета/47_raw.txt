@@ -1,0 +1,945 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+45
+Popova O.I., Volkova I.D., Fadeeva M.Yu., 2021
+ГЛАВНАЯ ТЕМА НОМЕРА
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.3.4
+UDC 81’42:004.738.1
+Submitted: 30.01.2021
+LBC 81.055.51.5
+Accepted: 30.03.2021
+LOCALIZATION AND INTERNATIONALIZATION OF TEXTS
+OF THE MEDIA DISCOURSE
+Olga I. Popova
+Volgograd State University, Volgograd, Russia
+Irina D. Volkova
+Volgograd State University, Volgograd, Russia
+Marina Yu. Fadeeva
+Volgograd State University, Volgograd, Russia
+Abstract. The article presents the results of a comparative analysis of the original and secondary texts of
+media discourse aimed at identifying the ways to localize and internationalize the verbal content of news websites.
+The study has been conducted on the material of news hypertexts in four languages – Russian, English, German
+and French, posted on the international Internet resource rt.com, Business Insider news portal, National Review
+newspaper, RTD Documentary Channel, L’Express journal. The authors substantiate the importance of using the
+terms ‘localization’ and ‘internationalization’ in translation studies to name inter-language transformations used
+in creating news messages, and analyze the definitions of these concepts in the frameworks of linguistics. The
+analysis shows that in many cases the standard translation model “source texttranslation text”, which presupposes
+a certain level of semantic equivalence, loses its relevance, since the secondary text is a new verbal product. It has
+been shown that the localized verbal space of the analyzed international media websites is created through the use
+of the following translation techniques: addition / omission of information in accordance with the pragmatic
+characteristics of readers, inclusion of culture-specific vocabulary in the secondary text, explication of toponyms
+and proper names, neutralization of imagery, omission of precision vocabulary, indication of a personal viewpoint
+of a secondary text’s author, historical reference to allusions. It has also been revealed that internationalization of
+texts is performed through omission of cultural markers, addition of phrases emphasizing the view on the country
+“from outside”, explication of toponyms, replacing proper names with generalized lexemes, as well as by indicating
+the positions of English-speaking countries on topical issues.
+Key words: media discourse, localization, internationalization, verbal content, international news website,
+linguocultural adaptation.
+Citation. Popova O.I., Volkova I.D., Fadeeva M.Yu. Localization and Internationalization of Texts of the Media
+Discourse. Vestnik Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of
+Volgograd  State  University. Linguistics], 2021, vol. 20, no. 3, pp. 45-54. DOI: https://doi.org/10.15688/jvolsu2.2021.3.4
+УДК 81’42:004.738.1
+Дата поступления статьи: 30.01.2021
+ББК 81.055.51.5
+Дата принятия статьи: 30.03.2021
+ЛОКАЛИЗАЦИЯ И ИНТЕРНАЦИОНАЛИЗАЦИЯ ТЕКСТОВ
+МЕДИЙНОГО ДИСКУРСА
+Ольга Ильинична Попова
+Волгоградский государственный университет, г. Волгоград, Россия
+Ирина Дмитриевна Волкова
+Волгоградский государственный университет, г. Волгоград, Россия
+46
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Марина Юрьевна Фадеева
+Волгоградский государственный университет, г. Волгоград, Россия
+Аннотация. В статье представлены результаты сравнительного анализа оригинальных и вторичных
+текстов медийного дискурса, направленного на выявление способов локализации и интернационализации
+вербального контента новостных сайтов. Материалом исследования избраны гипертексты на русском, анг-
+лийском, немецком и французском языках, размещенные на международном интернет-ресурсе rt.com и
+новостных сайтах «Business Insider», «National Review», «RTД Documentary Channel», «L’Express». Автора-
+ми обоснована важность использования терминов «локализация» и «интернационализация» в транслатоло-
+гии для наименования межъязыковых трансформаций, используемых при создании новостных сообщений,
+и проведен аналитический обзор определений данных понятий сквозь призму лингвистики. В результате
+анализа установлено, что во многих случаях стандартная модель перевода «исходный текст  текст перево-
+да», предполагающая определенный уровень семантической эквивалентности, теряет актуальность, поскольку
+вторичный текст представляет собой новый вербальный продукт. Показано, что локализованное вербальное
+пространство рассмотренных международных новостных сайтов создается за счет добавления / опущения
+информации в соответствии с прагматическими характеристиками читателей, включения национально-куль-
+турной лексики во вторичный текст, экспликации географических реалий и имен собственных, нейтрализа-
+ции образности, опущения прецизионной лексики, указания личной позиции автора вторичного текста,
+указания исторической справки к аллюзиям. Выявлено, что интернационализация текстов осуществляется
+посредством нейтрализации их культурной маркированности, добавления высказываний, подчеркивающих
+взгляд на страну «извне», экспликации географических реалий, опущения имен собственных и их замены
+генерализованной лексикой, а также указания позиций англоязычных стран по рассматриваемой теме.
+Ключевые слова: медийный дискурс, локализация, интернационализация, вербальный контент, меж-
+дународный новостной сайт, лингвокультурная адаптация.
+Цитирование. Попова О. И., Волкова И. Д., Фадеева М. Ю. Локализация и интернационализация текстов
+медийного дискурса // Вестник Волгоградского государственного университета. Серия 2, Языкознание. –
+2021. – Т. 20, № 3. – С. 45–54. – (На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.3.4
+Introduction
+Synergy of the existential reality of society
+with the media reality is beyond doubt today. News
+is becoming the main global media product in high
+demand around the world. As it circulates from
+producer to consumer, news content may be subject
+to internationalization, globalization or localization.
+Globalization allows the global circulation of meaning
+and shapes the nature of the discourses that are
+disseminated in different localities. However,
+globalization theory has remained predominantly silent
+about the fundamental role of translation in mediating
+global information flows, assuming that global texts
+can automatically be received by audiences and
+obscuring the crucial intervention of translation in
+the production of a multiplicity of local versions of
+global news events [Bielsa, Bassnett, 2016, p. 93].
+According to E.Yu. Novikova, informational
+development of modern society and expansion of
+instrumental technological capabilities in the
+practice of translation predetermined the need for
+translators to possess additional competencies
+[Novikova, 2017, p. 91].
+Widespread internetization has strengthened
+the position of news agencies as the primary news
+providers, making them monopolies in the
+broadcasting segment. A distinctive feature of an
+international news agency is the ability to bring
+information to a foreign audience directly, without
+intermediaries, significantly reducing the risk of
+distortion of information by local media. Modern
+news agencies filter news and analytical products
+online for the audience that requires news stories
+on specific topics. Such collections differ
+significantly in the layout of news, their volume
+and frequency [Madera, 2018].
+The need to deal with linguistic diversity in
+news production and the simultaneous circulation
+of news in different languages makes translation
+an important part of news agency work.
+Translation intervenes from the start in the
+process of news gathering, and is often the point
+of departure for international journalists who write
+about a foreign reality. It entails a considerable
+amount of transformation of the source text, which
+results in the significantly different content of a
+target text.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+47
+O.I. Popova, I.D. Volkova, M.Yu. Fadeeva. Localization and Internationalization of Texts of the Media Discourse
+The purpose of this study is to consider the
+terms ‘localization’ and ‘internationalization’ from
+a linguistic point of view and to identify the ways
+to localize or internationalize verbal content of
+Internet media resources. To achieve this goal,
+the following tasks have been solved: the
+importance of using the terms ‘localization’ and
+‘internationalization’ in translation studies has been
+substantiated, an analytical review of the existing
+definitions of these terms has been carried out, a
+comparative analysis of original and secondary
+texts of Internet media discourse has been
+conducted, and the translation techniques ensuring
+localization and internationalization of media texts
+for a foreign target audience have been revealed.
+Research material and methods
+The research material is represented with
+hypertexts in Russian, English, German and
+French languages posted on the Internet resource
+rt.com, which is an international multilingual
+network of information TV channels, as well as
+by the verbal content of Business Insider news
+portal, National Review newspaper, RTD
+Documentary Channel, L’Express journal. The
+genre range of the analyzed materials consists of
+news reports, journalistic articles, annotations of
+reports.
+The research methodology consists in using
+the methods of comparative analysis, contextual,
+interpretive and discourse analysis, analysis of the
+text structure.
+The theoretical and methodological base of
+this study is made up of the provisions of such
+academic areas as translation theory [Mityagina,
+2014; Pym, 2004; 2010; Sandrini, 2008; etc.],
+studies of linguistic localization [Achkasov, 2017;
+Androutsopoulos, 2010; Anisimov, Borisova,
+Konson, 2019; Bernal, 2006], studies of media
+discourse [Bassnett, 2005; Davier, van Doorslaer,
+2018; Dobrosklonskaya, 2015; Kalendr, 2016;
+Kozhemyakin, 2010; Orengo, 2005].
+Results and discussion
+Media discourse as a type of discourse
+produced in the field of mass media
+communication is inextricably linked with ideology.
+In the media discourse, information is converted
+into meanings (knowledge construction),
+knowledge is transferred from the institutional
+level to the popular one, and the fusion of various
+types of information (for example, political and
+entertainment, event and advertising) takes place.
+In this case, as E.A. Kozhemyakin notes, the truth,
+or significance of the knowledge gained is
+determined by the linguo-social, sociocultural and,
+more broadly, by the historical and civilizational
+contexts [Kozhemyakin, 2010, p. 14].
+The term ‘internationalization’ originating
+from the sphere of politics and economy
+traditionally refers to adaptation of national
+products to international criteria within the
+framework of development and strengthening of
+relations between countries. The term has
+increasingly been used in other areas of
+knowledge as well. Internationalization of news
+discourse in this article means the creation of a
+media product in the context of global trends in
+accordance with the requirements of the global
+information market.
+According 
+to Russian 
+researcher
+A.V. Achkasov, the concept of localization means
+adaptation of a verbal product, including cultural,
+linguistic, social, economic, political and legal
+aspects, and therefore it can act as a generic
+concept for all types of complex verbal
+modifications [Achkasov, 2017, p. 288]. Since we
+are talking primarily about the verbal element of
+information products, localization industry is an
+important segment of the linguistic services
+market, and in many contexts this term is
+increasingly used instead of the traditional concept
+of translation [Austermühl, Mirwald, 2010, p. 6].
+Since 2005, the American consulting company
+Common Sense Advisory has published annual
+rankings of the leading language service providers,
+and as of 2019, the top 5 positions are held by
+TransPerfect, Lionbridge, LanguageLine Solutions,
+SDL and RWS [The Slator 2019...]. The sector
+of localization services provided by these
+companies is represented by a wide range of
+directions: Software and App Localization,
+Website Localization, Multimedia Localization,
+Training materials / eLearning, Subtitles
+Localization, Document Localization.
+The key role of the verbal component in the
+general structure of the object of localization and
+the central place of translation in the localization
+process determine the active interest of
+translators in this concept. As P. Sandrini rightly
+48
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+notes that the theory of translation should integrate
+the localization industry in order to prevent the
+emergence of an independent science – the
+theory of localization, which will compete with
+translation studies [Sandrini, 2008]. The observed
+tendency of translation studies to borrow this term
+is associated with the search for effective ways
+of ensuring the global Internet polylogue in various
+communicative genres. Against the background
+of this reality, the following definitions of
+localization seem quite logical: a discursive
+process aimed at changing globally accessible
+media content [Androutsopoulos, 2010, p. 205], a
+complex form of pragmatic adaptation [Mityagina,
+2014, p. 347], etc. Besides, a number of
+researchers suggest that the use of the term
+‘localization’ for denoting the translation process
+requires specification of the scope of its use with
+the adjective linguistic – linguistic localization
+[Anisimov, Borisova, Konson, 2019; Bernal, 2006;
+Voskoboynik, Gorchakova, 2014].
+The study of the phenomenon of linguistic
+localization on the example of texts of media
+discourse is of particular interest, since this
+discourse type is one of the most dynamically
+developing forms of intercultural communication,
+taking into account electronic information
+exchange and computer mediation. In addition,
+the informing and motivating functions are the
+backbone ones in the media discourse [Kalendr,
+2016, p. 326], and these are also the key functions
+determining the need to use the strategy of
+localization as linguistic and cultural adaptation.
+L. Davier and L. van Doorslaer emphasize
+the problem of corpus research of news messages
+in a multilingual context due to the difficulty of
+determining the source text, given the large
+number of world news agencies that post fresh
+news on their websites [Davier, van Doorslaer,
+2018]. As a rule, the objects of analysis in this
+case are texts that are similar in content, which
+determines the rarity of news translation in the
+traditional sense of this process with the
+reproduction of the original structure of statements
+in the text. S. Bassnett points to the need of
+searching for a concept that could designate the
+process of inter- and intra-lingual text
+transformations used in creating news messages
+in a global context [Bassnett, 2005, p. 130].
+According to A. Orengo, the global-commercial
+nature of news dissemination determines the
+preference for the concept of localization to name
+this process [Orengo, 2005, p. 168].
+The creation of news messages is often carried
+out according to the internationalization +
+localization scheme: global news agencies,
+multilingual news channels and other international
+media are the source of 90% of foreign news for
+audiences in various countries, which are
+subsequently translated and localized [Pym, 2010,
+p. 126]. In our opinion, any hypertext, including
+the text of media discourse, is most consistent
+with the concept of a moving text proposed by
+E. Pym to denote a dynamic text that is in constant
+distribution in time and space [Pym, 2004, p. 8].
+The Internet resource rt.com is promoted as
+an international multilingual channel, which presents
+an alternative view of current events. The InoTV
+section of the Russian-language version of this site
+is one of the few examples of correspondence of
+the process of creating secondary news texts to
+the traditional translation model source text 
+secondary text. This section includes translated
+Russian-language versions of original news reports
+and journalistic articles in various languages. Let’s
+consider translation techniques that ensure
+localization of hypertexts into Russian. The headline
+of one of the newspaper articles about the US
+elections in the InoTV section is represented by
+the following heading:
+Отделить зёрна от плевел: Нацгвардия допол-
+нительно проверит своих солдат на благонадёж-
+ность перед инаугурацией (BI: отделить зёрна от
+плевел).
+In the original English version of this article
+posted on one of the world’s leading news portals
+Business Insider, the headline is as follows:
+The National Guard is doing background checks
+on its own soldiers to shore up security during the
+inauguration (The National Guard).
+As can be seen from the above examples,
+in the process of translating the headline into
+Russian, the technique of adding the
+phraseological unit “отделить зёрна от плевел”
+with the meaning “to separate the harmful from
+the useful” was used. This idiom is frequently used
+in various genres of journalistic and literary
+discourse in Russia. K.S. Ergaliev et al. point to
+the fact that headlines of media texts not only
+express and generalize information, but also
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+49
+O.I. Popova, I.D. Volkova, M.Yu. Fadeeva. Localization and Internationalization of Texts of the Media Discourse
+attract attention of potential readers [Ergaliev,
+Tekzhanov, Asanbaeva, 2014]. Besides, according
+to Pauline Farris, expert in media content
+localization, various slang terms, regional phrasings,
+and sayings make content more interesting and can
+add personality [A Guide...]. In this regard, the
+addition of phraseological units to the Russian-
+language text contributes to its localization for the
+target audience of Russian speakers.
+Explication of toponyms in secondary texts
+also seems to be an important technique of
+localization, since these lexical units relate to
+national and cultural vocabulary and are one of
+the most difficult to perceive and identify for
+foreign readers. For example, the journalistic
+article by a German traveler contains the toponym
+‘Upper East Side of Manhattan’:
+Back home where I live, on the Upper East Side
+of Manhattan, they used to have – and maybe they
+still have – a BLM vigil every evening at 7 p.m. (Russia
+Has Its Own).
+In this case, explication is carried out by
+adding the name of the country, in which the
+specified region is located:
+Там, где я жил в США, на Верхнем Ист-Сайде
+Манхеттена, каждый вечер в семь часов проходили –
+и, возможно, до сих пор проходят – пикеты активис-
+тов Black Lives Matter («Русский путь» борьбы).
+Let’s turn to consideration of the techniques
+used in translation of the French texts of the InoTV
+website into Russian. One of the news articles
+posted on this website is taken from the famous
+French journal L’Express and is headlined as
+follows: Sondage: Marine Le Pen et Emmanuel
+Macron au coude-à-coude au second tour en
+2022. The word for word translation into Russian
+is the following: Опрос: Марин Ле Пен и Эма-
+нюэль Макрон – идут ноздря в ноздрю во
+втором туре в 2022 году (translation from
+French by O.P.). In the Russian-language version
+of the website under study, the vernacular
+expression “идти ноздря в ноздрю”, which came
+to journalism from equestrian sports and means
+“side by side, on the same line, on the same level”
+lost its figurative meaning and acquired a neutral,
+descriptive character: L’Express: за Марин Ле
+Пен собирается проголосовать рекордное
+число французов.
+Headlines of French media have always been
+highly imaginative, but for the Russian-speaking
+audience, the use of vernaculars does not correlate
+well with such a respectable journal as L’Express.
+Besides, the very fact of confrontation between two
+well-known political leaders is absent in the secondary
+text, despite the fact that the original headline
+contains a hint of some intrigue in the electoral
+process in the near future. Thus, in this case,
+localization of the text for the Russian-speaking
+audience is provided by the neutralization of imagery.
+Localization from French into Russian can
+also be provided through omission of precision
+vocabulary in the secondary text.
+As can be seen from Table 1, the names of
+the PR agency CommStrat in Paris and the weekly
+journal L’Opinion have been omitted in the
+Russian version, given that they are little known
+to the general public and can only overload basic
+information.
+The section “Россия” of the website
+contains news about the events taking place in
+Russia, and these may be of interest for a foreign
+reader. In one of the texts localized for French
+audience, V.V. Putin’s speech at the international
+economic forum in Davos has been rendered. The
+President characterizes the European Union as a
+“partenaire privilégié et naturel”. As Table 2
+shows, localization is carried out by including
+additional information designed to break the ice
+between our countries and convince partners of
+their interest in closer ties.
+Table 1. Original French-language and localized Russian-language text fragments of the news article
+“Sondage: Marine Le Pen et Emmanuel Macron au coude-à-coude au second tour en 2022”
+Original text 
+Localized text 
+Le résultat de ce sondage de second tour, réalisé par 
+Harris 
+Interactive, 
+n’a 
+pas 
+été 
+rendu 
+public, 
+contrairement à celui du 1er tour. Ils ont été commandés 
+par le cabinet CommStrat et le quotidien L’Opinion. 
+Chez Harris Interactive, on refuse de commenter 
+publiquement un sondage non publié (Sondage). 
+Компания Harris Interactive отказалась прокомменти-
+ровать отказ от публикации второй части работы. 
+Однако эксперт по соцопросам рассказал француз-
+ской газете, что небольшой разрыв между двумя 
+кандидатами попадает под допустимую погрешность 
+исследования, которая является важной для второго 
+тура (L’Express).  
+ 
+50
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+The example of localization of French text
+for Russian audience about the death of the
+famous journalist Larry King is shown in Table 3.
+The original text was made up in the genre of a
+traditional obituary, while the Russian-language
+one includes the author’s personal position, which
+is expressed by the vocabulary of a different
+register – “ужасная, ужасная потеря”, “тонкий,
+замечательный, нет слов”.
+Let us now turn to considering the cases of
+translating news from Russian into German using
+the strategy of localization. The German-language
+version of the RT channel can also be referred to
+as a localized one. The news article under the
+headline “Wegen Doping-Skandals: Russland will
+“Katjuscha” statt verbotener Hymne bei Olympia
+singen” (original Russian headline is “Матыцин
+поддержал идею использовать «Катюшу» в
+качестве гимна на ОИ”) informs readers about
+the intention of the Russian Olympic Committee
+to use the folk song Katyusha as the national
+anthem at the upcoming Olympic Games. The
+need for an alternative option is explained in the
+headline – because of the doping scandal, the
+Russian national teams will play at the World
+Championships and the Olympic Games under a
+neutral flag for two years. The requirement also
+applies to the choice of musical composition.
+In this case, the localization markers include full
+name and position of Mr. Matytsin:
+Der russische Sportminister Oleg Matytsin hat
+den Vorschlag der Sportlerkommission der Russischen
+Olympischen Kommission unterstützt, das Lied
+“Katjuscha” anstelle der Nationalhymne bei den
+Olympischen Spielen zu verwenden (Wegen Doping-
+Skandals).
+Short historical reference to the song, which
+is absent in the original Russian-language text
+(Матыцин поддержал идею...), also contributes
+to text localization in the German linguocultural
+space:
+“Katjuscha” war Russlands beliebtestes Lied im
+Zweiten Weltkrieg und ist weit über die Grenzen des
+Landes hinaus bekannt (Wegen Doping-Skandals).
+Despite the transcribed spelling and the use
+of quotation marks, indicating precedence, the
+headline of the composition would hardly be
+familiar to the modern German-speaking audience
+of the channel.
+The RTD section of the above website
+contains short descriptions of the reports in two
+languages – Russian and English with the former
+one being the source language. In this case, we
+are talking about the internationalization of content,
+since in the absence of versions in other languages,
+English-language texts serve as a global resource
+for recipients with different levels of English
+proficiency – native speakers, as well as readers
+for whom English is a second or foreign language.
+Table 2. Original Russian-language and localized French-language text fragments of the news
+article “Вероятность столкнуться с настоящим срывом в мировом развитии: Путин
+заявил об угрозе начала борьбы всех против всех”
+Original text 
+Localized text 
+В ходе своего выступления на форуме Путин также 
+заявил, что у России и Европы есть общие фунда-
+ментальные вещи, в том числе культура (Путин зая-
+вил об угрозе).  
+Vladimir Poutine a ensuite évoqué les relations entre son 
+pays et l’Union européenne, qu’il considère comme «un 
+partenaire privilégié» et «naturel» avec qui la Russie 
+partage une culture commune (Poutine alerte sur le 
+risque).  
+ 
+Table 3. Original French-language and localized Russian-language text fragments of the news
+article “Décès du célèbre journaliste américain Larry King”
+Original text 
+Localized text 
+Décès du célèbre journaliste américain Larry King 
+23 janv. 2021, 14:11 Larry King arrives en novembre 
+2017. Larry King, considéré comme l’un des plus grands 
+interviewers, est décédé à l’âge de 87 ans, a fait savoir sa 
+famille. Depuis son départ de CNN, le célèbre journaliste 
+américain présentait deux talk-shows diffusés sur RT 
+America. Les proches de Larry King ont annoncé ce 
+23 janvier son décès, à l'âge de 87 ans (Décès du célèbre 
+journaliste). 
+23 января 2021, 16:03 в возрасте 87 лет умер амери-
+канский телеведущий, автор программ на телеканале 
+RT Ларри Кинг. Об этом сообщила в своём Telegram-
+канале главный редактор RT Маргарита Симоньян. 
+«А у нас ужасная, ужасная потеря. Ларри Кинг. 
+Главная легенда мирового телевидения, его самое из-
+вестное имя, самое известное лицо. Тонкий, с бле-
+стящим юмором, замечательный. Нет слов», – на-
+писала она (Умер Ларри Кинг). 
+ 
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+51
+O.I. Popova, I.D. Volkova, M.Yu. Fadeeva. Localization and Internationalization of Texts of the Media Discourse
+The text fragments given in Table 4 are the
+original and the internationalized versions of the
+annotation to the report about helping WWII veterans.
+The performed internationalization is
+evidenced by the use of the phrase “national matter
+in Russia” in the English subheading, which is
+absent in the original and emphasizes the view of
+the country from the outside, as well as specification
+of the geographical location of the city of
+Simferopol – “in southern Russia”. In addition, the
+translator omits the mention of Russian celebrities
+(Leonid Yakubovich and Nadezhda Babkina),
+limiting text to the culturally neutral wording “making
+the dreams of the elderly vets come true”. As can
+be seen from the above texts, which are
+characterized by linguistic asymmetry, the quality
+of the secondary text cannot be assessed from the
+viewpoint of equivalence, which is traditional for
+translation theory, and this is quite consistent with
+E. Prunì’s statement that the creation of a new
+text based on the original and cultural adaptation
+of web pages increasingly take for granted areas
+of translators’ activity today [Prunì, 2015, p. 25].
+The similar trend can be observed in the
+example given in Table 5.
+In the internationalized text, the Russian names
+Veronika Matyushina and Sergey Klochek are
+replaced by the neutral expression “A Russian couple”.
+One more example associated with
+domestication of the Russian text in the English
+linguocultural space refers to the translation of
+the Russian-language article (Еда как угроза)
+for the global audience. The original text lacks
+geographical markers, while its English-language
+version mentions the viewpoints of the United
+Kingdom and the United States on the main
+problem of the article:
+In the UK, the fight against GMO means the
+commercial planting of genetically engineered crops
+is banned (The Peril on Your Plate).
+A robust movement against GMO flourishes in
+the US, the world’s leader in the GM production (The
+Peril on Your Plate).
+These are one of the key English-speaking
+countries in the world and their positions on the
+discussed topic in the internationalized version may
+seem relevant to the foreign audience.
+Conclusion
+Thus, the present research outlines the
+importance of using the terms ‘localization’ and
+‘internationalization’ in translation studies to
+denote translation techniques used to adapt media
+verbal content to target audience demands. In the
+course of the study, we prove the functionality of
+Table 4. Original Russian-language and internationalized English-language text fragments of
+the report annotation “Спасибо за мечту. Кто сегодня помогает ветеранам ВОВ”
+Original text 
+Internationalized version 
+Спасибо за мечту. Кто сегодня помогает ветера-
+нам ВОВ 
+Жители Симферополя и Нижнего Новгорода 
+создали собственные благотворительные проекты. 
+А Антон Савчук организовал службу бесплатного 
+ремонта квартир, которая быстро обрела популяр-
+ность в сети. Благодаря этим проектам мечта многих 
+ветеранов уже осуществилась. Кому-то обновили 
+жильё, починили забор или купили утюг, а кто-то 
+смог увидеться с ведущими любимой телепереда-
+чи – например, с Леонидом Якубовичем и Надеж-
+дой Бабкиной (Спасибо за мечту).  
+How to Thank Heroes 
+Why supporting WWII veterans is a national mat-
+ter in Russia today 
+Yaroslav from Simferopol, in southern Russia, 
+launched a website where veterans could post their 
+wishes. Anton fundraised for his project to help elderly 
+Russians, particularly single veterans. His team reno-
+vates old flats for free, and this will be their tenth repair. 
+The internet embraced the initiative with people in other 
+parts of the country joining Anton’s mission. 
+Many committed people responded to the idea, of-
+fering their help in making the dreams of the elderly 
+vets come true (How to Thank Heroes). 
+ 
+Table 5. Original Russian-language and internationalized English-language text fragments of
+the report annotation “Моя дикая семья”
+Original text 
+Internationalized version 
+Однако теперь у них есть дом, еда и уход – благодаря 
+руководителям центра, Веронике Матюшиной и её 
+мужу Сергею Клочеку, а также другим сотрудникам 
+(Моя дикая семья). 
+A Russian couple says they’re mum and dad to scores of 
+wild animals they look after in a refuge they’ve built on 
+their farm (My wild family). 
+ 
+52
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+the investigated terms in denoting inter-language
+textual transformations used in the creation of
+secondary texts of media discourse in online space
+of multilingual media websites. The analysis
+shows that in many cases the standard translation
+model “source text  translation text”, which
+presupposes a certain level of semantic
+equivalence, loses its relevance, since the
+secondary text is often a completely new verbal
+product. Transformations of individual words and
+phrases also relate to the context of the terms
+studied, since they are primarily associated with
+the global commercial nature of the dissemination
+of news messages on the Internet, which
+presupposes taking into account the cultural and
+geographic characteristics of target audiences in
+case of localization or leveling these
+characteristics in case of internationalization.
+Besides, comparative analysis of news and
+reports posted in different languages shows that
+different viewpoints are updated under the
+influence of ideological factors. Promotion of a
+certain position in the translation of news texts
+indicates the desire to meet the expectations of
+the recipients, and, consequently, the existence of
+certain perceptions in relation to another country.
+The localized verbal space of the analyzed
+international media websites is created through
+the use of the following translation techniques:
+addition / omission of information in accordance
+with the pragmatic characteristics of readers,
+inclusion of culture-specific vocabulary in the
+secondary text, explication of toponyms and
+proper names, neutralization of imagery, omission
+of precision vocabulary, indication of a personal
+viewpoint of a secondary text’s author, indication
+of historical reference to allusions.
+The internationalized, or English-language,
+verbal space of the websites is created by
+omission of cultural markers, addition of phrases
+emphasizing the view of the country “from the
+outside”, explication of toponyms, replacing proper
+names with generalized lexemes, as well as by
+indicating the positions of English-speaking
+countries on topical issues.
+Thus, international news remain locale-
+specific in a world whose major trends and
+influences are increasingly global. Much of the
+world’s news coverage is arranged according to
+national boundaries and constructed in terms of
+national interests.
+REFERENCES
+A Guide: Content Localization on Social Media for
+Global Audiences. URL: https://www.addthis.com/
+academy/a-guide-content-localization-on-social-
+media-for-global-audiences (accessed 20 January
+2021).
+Achkasov A.V., 2017. Rethinking the Scope of Localization.
+Journal of Siberian Federal University. Humanities
+& Social Sciences, no. 3 (10), pp. 288-297.
+Androutsopoulos J., 2010. Localizing the Global on
+the Participatory Web. The Handbook of
+Language and Globalization, pp. 203-231.
+Anisimov V.E., Borisova A.S., Konson G.R., 2019.
+Lingvokulturnaya lokalizatsiya kinozagolovkov
+[Linguocultural Localization of Movie Titles].
+Vestnik Rossiyskogo universiteta druzhby
+narodov. Seriya: Lingvistika [Russian Journal
+of Linguistics], vol. 23, no. 2, pp. 435-459. DOI:
+10.22363/2312-9182-2019-23-2-435-459.
+Austermühl F., Mirwald C., 2010. Images of Translators
+in Localization Discourse. T21N – Translation
+in Transition. Trier, Wissenschaftlicher Verlag
+Trier. 45 p.
+Bassnett S., 2005. Bringing the News Back Home:
+Strategies of Acculturation and Foreignisation.
+Language and Intercultural Communication,
+vol. 5 (2), pp. 120-130. DOI: https://doi.org/
+10.1080/14708470508668888.
+Bernal M., 2006. On the Translation of Video Games.
+The Journal of Specialized Translation, no. 6,
+pp. 22-36.
+Bielsa E., Bassnett S., 2009. Translation in Global
+News. London, Routledge. 168 p.
+Davier L., Van Doorslaer L., 2018. Translation Without
+a Source Text: Methodological Issues in News
+Translation? Across Languages and Cultures,
+vol. 19 (2). DOI: https://doi.org/10.1556/
+084.2018.19.2.6.
+Dobrosklonskaya T.G., 2015. Modelirovanie
+informatsionnykh protsessov v sovremennom
+mediaprostranstve [Modeling of Information
+Processes in Modern Media Space]. Vestnik
+Moskovskogo universiteta. Seriya 10.
+Zhurnalistika, no. 4, pp. 3-15.
+Ergaliev K.S., Tekzhanov K.M., Asanbaeva E.B., 2014.
+Funktsii gazetnogo zagolovka [Newspaper
+Headline Functions]. Aktualnye problemy
+gumanitarnykh i estestvennykh nauk, no. 3-2,
+pp. 35-41.
+Kalendr A.A., 2016. Mediynyy diskurs kak
+preobrazovanie informatsii [Media Discourse as
+Information Reconstruction]. Mir nauki,
+kul’tury, obrazovaniya, no. 5 (60), pp. 326-329.
+Kozhemyakin E.A., 2010. Massovaya kommunikatsiya
+i mediadiskurs: k metodologii issledovaniya
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+53
+O.I. Popova, I.D. Volkova, M.Yu. Fadeeva. Localization and Internationalization of Texts of the Media Discourse
+[Mass Communication and Media Discourse:
+Towards Methodology]. Nauchnye vedomosti
+Belgorodskogo gosudarstvennogo universiteta.
+Seriya: Gumanitarnye nauki [Belgorod State
+University Scientific Bulletin. Series Humanities],
+no. 2 (73), iss. 11, pp. 13-21.
+Madera M.G., 2018. Rol’ informatsionnykh agentstv v
+sovremennykh 
+sredstvakh 
+massovoy
+kommunikatsii [The Role of Information
+Agencies in Modern Mass Media]. Diskurs
+[Discourse], no. 4 (2), pp. 69-74. DOI: https://
+doi.org/10.32603/2412-8562-2018-4-2-69-74.
+Mityagina V.A., 2014. Perevod v formirovanii
+turisticheskogo internet-diskursa [Translation in
+Forming Tourist Internet Discourse]. Media- i
+mezhkulturnaya kommunikatsiya v evropeyskom
+kontekste: materialy Mezhdunarodnoy nauchno-
+prakticheskoy konferentsii [Media and
+Intercultural Communication in the European
+Context: Proceedings of the International Scientific
+and Practical Conference]. Stavropol, Izd-vo SKFU,
+pp. 346-348.
+Novikova E.Yu., 2017. Diskursivnaya lichnost
+perevodchika: perevodcheskie kompetentsii i
+rolevoy portret [Discursive Personality of the
+Translator: Translation Competencies and Role
+Portrait]. 
+Vestnik 
+Volgogradskogo
+gosudarstvennogo universiteta. Seriya 2.
+Yazykoznanie [Science Journal of Volgograd State
+University. Linguistics], vol. 16, no. 3, pp. 90-102.
+DOI: https://doi.org/10.15688/jvolsu2.2017.3.9.
+Orengo A., 2005. Localising News: Translation and
+the ‘Global-National’ Dichotomy. Language
+and Intercultural Communication, vol. 5 (2),
+pp. 168-187. DOI: https://doi.org/10.1080/
+14708470508668892.
+Prunì E., 2015. Puti razvitiya zapadnogo
+perevodovedeniya. Ot yazykovoy asimmetrii k
+politicheskoy [Ways of Development of
+Western Translation Studies. From Linguistic
+to Political Asymmetry]. Moscow, R.Valent Publ.
+512 p.
+Pym A., 2004. The Moving Text: Localization,
+Translation, and Distribution. Amsterdam,
+Philadelphia (PA), John Benjamins. 223 p.
+Pym A., 2010. Exploring Translation Theories.
+London, Routledge. 186 p.
+Sandrini P., 2008. Localization and Translation. MuTra
+Journal, vol. 2, pp. 167-191.
+The Slator 2019 Language Service Provider Index.
+URL: https://slator.com/data-research/the-
+slator-2019-language-service-provider-index
+(accessed 20 January 2021).
+Voskoboynik G.D., Gorchakova E.Yu., 2014.
+Mezhyazykovaya lokalizatsiya diskursa brenda:
+domestikatsiya ili forenizatsiya? [Brand Discourse
+Transcreation: Domesticising or Foreignising?].
+Vestnik 
+Irkutskogo 
+gosudarstvennogo
+lingvisticheskogo universiteta [The Bulletin of
+Irkutsk State University], no. 1 (26), pp. 9-14.
+SOURCES
+Еда как угроза – Eda kak ugroza [Food as Threat].
+RTD Documentary Channel. URL: https://
+doc.rt.com/filmy/eda-kak-ugroza (accessed
+20 January 2021).
+Матыцин поддержал идею – Matytsin podderzhal
+ideyu ispolzovat «Katyushu» v kachestve
+gimna na OI [Matytsin Supported the Idea of
+Using “Katyusha” as the Anthem at the Olympic
+Games]. URL: https://russian.rt.com/sport/news/
+822902-matycin-katyusha-gimn (accessed
+31 January 2021).
+Моя дикая семья – Moya dikaya semya [My Wild
+Family]. RTD Documentary Channel. URL:
+https://doc.rt.com/filmy/moya-dikaya-semya
+(accessed 20 January 2021).
+Путин заявил об угрозе – Veroyatnost stolknutsya s
+nastoyashchim sryvom v mirovom razvitii: Putin
+zayavil ob ugroze nachala borby «vsekh protiv
+vsekh» [Likelihood of Facing a Real Disruption
+in World Development: Putin Announced the
+Threat of the Beginning of the “All Against All”
+Struggle]. URL: https://russian.rt.com/world/
+article/826394-putin-mir-ugroza-borba (accessed
+27 January 2021).
+«Русский путь» борьбы – National Review: russkiy
+put borby s COVID-19 vpechatlyaet
+inostrantsev [National Review: The “Russian
+way” of Fighting COVID-19 Impresses
+Foreigners]. InoTV. URL: https://russian.rt.com/
+inotv/2021-01-18/National-Review-russkij-put-
+borbi (accessed 20 January 2021).
+Спасибо за мечту – Spasibo za mechtu. Kto segodnya
+pomogaet veteranam VOV [Thank You for the
+Dream. Who is Helping the Veterans of the Great
+Patriotic War Today]. RTD Documentary
+Channel. URL: https://doc.rt.com/filmy/spasibo-
+za-mechtu (accessed 20 January 2021).
+Умер Ларри Кинг – Umer Larri King [Larry King
+Died]. URL: https://russian.rt.com/world/news/
+825037-umer-larri-king (accessed 29 January
+2021).
+BI: отделить зёрна от плевел – BI: otdelit zerna ot
+plevel  Natsgvardiya dopolnitelno proverit
+svoikh soldat na blagonadezhnost pered
+inauguratsiey [BI: Separate the Wheat from the
+Chaff – The National Guard Is Doing
+Background Checks on Its Own Soldiers to
+Shore up Security During the Inauguration].
+54
+ГЛАВНАЯ ТЕМА НОМЕРА
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+InoTV. URL: https://russian.rt.com/inotv/2021-01-
+18/BI-otdelit-zyorna-ot-plevel (accessed
+20 January 2021).
+Décès du célèbre journaliste – Décès du célèbre
+journaliste américain Larry King. URL: https:/
+/francais.rt.com/international/83092-deces-
+celebre-journaliste-americain-larry-kingord-
+stream-2-construction-troncon-situe-eaux-
+allemandes-terminee (accessed 29 January 2021).
+How to Thank Heroes – How to Thank Heroes. RTD
+Documentary Channel. URL: https://rtd.rt.com/
+films/how-to-thank-heroes (accessed 20 January
+2021).
+L’Express – L’Express: za Marin Le Pen sobiraetsya
+progolosovat rekordnoe chislo frantsuzov
+[A Record Number of French are Going to Vote
+for Marine Le Pen]. URL: https://russian.rt.com/
+inotv/2021-01-28/LExpress-za-Marin-Le-Pen
+(accessed 28 January 2021).
+My Wild Family. RTD Documentary Channel. URL:
+https://rtd.rt.com/films/wild-animal-rehab-is-a-
+family-business-for-a-russian-couple (accessed
+20 January 2021).
+Poutine alerte sur le risque – Davos: Poutine alerte
+sur le risque de «rupture» face à l’aggravation
+des déséquilibres mondiaux. URL: https://
+francais.rt.com/international/83225-davos-
+poutine-alerte-sur-risque-rupture-face-
+aggravation-desequilibres-mondiaux (accessed
+27 January 2021).
+Russia Has Its Own – Russia has Its Own (Very Russian)
+Way of Dealing with COVID. National Review.
+URL: https://www.nationalreview.com/2021/01/
+russia-has-its-own-very-russian-way-of-dealing-
+with-covid (accessed 20 January 2021).
+Sondage – Sondage: Marine Le Pen et Emmanuel
+Macron au coude-а-coude au second tour en
+2022. URL: https://www.lexpress.fr/actualite/
+politique/sondage-marine-le-pen-et-emmanuel-
+macron-au-coude-a-coude-au-second-tour-en-
+2022_2143639.html (accessed 28 January 2021).
+The National Guard – The National Guard is Doing
+Background Checks on Its Own Soldiers to Shore
+up Security During the Inauguration. Business
+Insider. URL: https://www.businessinsider.com/
+national-guard-doing-background-checks-to-
+weed-out-trump-supporters-2021-1 (accessed
+20 January 2021).
+The Peril on Your Plate. RTD Documentary Channel.
+URL: https://rtd.rt.com/films/the-peril-on-your-
+plate (accessed 20 January 2021).
+Wegen Doping-Skandals – Wegen Doping-Skandals:
+Russland will “Katjuscha” statt verbotener
+Hymne bei Olympia singen. URL: https://de.rt.com/
+russland/111934-wegen-doping-skandals-
+russland-will (accessed 21 January 2021).
+Information About the Authors
+Olga I. Popova, Candidate of Sciences (Philology), Associate Professor, Department of Translation
+Theory and Practice, Volgograd State University, Prosp. Universitetsky, 100, 400062 Volgograd, Russia,
+olgapopovavlg@yandex.ru, https://orcid.org/0000-0001-9787-0317
+Irina D. Volkova, Candidate of Sciences (Philology), Associate Professor, Department of Translation
+Theory and Practice, Volgograd State University, Prosp. Universitetsky, 100, 400062 Volgograd, Russia,
+romadina-irina@mail.ru, https://orcid.org/0000-0002-5718-9479
+Marina Yu. Fadeeva, Candidate of Sciences (Philology), Associate Professor, Department of
+Translation Theory and Practice, Volgograd State University, Prosp. Universitetsky, 100, 400062 Volgograd,
+Russia, svinkina29@gmail.com, https://orcid.org/0000-0001-5378-8848
+Информация об авторах
+Ольга Ильинична Попова, кандидат филологических наук, доцент кафедры теории и прак-
+тики перевода, Волгоградский государственный университет, просп. Университетский, 100, 400062
+г. Волгоград, Россия, olgapopovavlg@yandex.ru, https://orcid.org/0000-0001-9787-0317
+Ирина Дмитриевна Волкова, кандидат филологических наук, доцент кафедры теории и
+практики перевода, Волгоградский государственный университет, просп. Университетский, 100,
+400062 г. Волгоград, Россия, romadina-irina@mail.ru, https://orcid.org/0000-0002-5718-9479
+Марина Юрьевна Фадеева, кандидат филологических наук, доцент кафедры теории и
+практики перевода, Волгоградский государственный университет, просп. Университетский, 100,
+400062 г. Волгоград, Россия, svinkina29@gmail.com, https://orcid.org/0000-0001-5378-8848

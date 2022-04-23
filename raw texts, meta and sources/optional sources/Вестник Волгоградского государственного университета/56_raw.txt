@@ -1,0 +1,1294 @@
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+151
+Prokofeva N.A., Akulovich I.A., 2021
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+
+www.volsu.ru
+DOI: https://doi.org/10.15688/jvolsu2.2021.3.13
+UDC 81’42:004.738.5
+Submitted: 21.02.2020
+BBC 81.055.51.5
+Accepted: 01.12.2020
+THE LANGUAGE MEANS OF COMICALITY IN CLICKBAIT HEADINGS 1
+Natalia A. Prokofeva
+Saint Petersburg State University, Saint Petersburg, Russia
+Irina A. Akulovich
+Saint Petersburg State Electrotechnical University “LETI”, Saint Petersburg, Russia;
+Saint Petersburg State University, Saint Petersburg, Russia
+Abstract. The analysis of material presented in the media discourse demonstrates significant changes in
+the intentionality of the journalistic text, which are reflected in establishing contacts so as to grab and retain the
+reader’s attention. This feature of modern media text is represented in changing genre preferences, speech
+tactics and strategies, and, consequently, selecting and combining linguistic means. One of the manifestations
+of this trend is the phenomenon of clickbait, which is a communicative act of promising to continue communication.
+This article is dedicated to the clickbait with the semantics of comicality. The collected from the Russian-
+language Internet research material includes clickbait headings that promise a certain funny content. The study
+revealed that a clickbait model includes the following semantic components: a stimulating utterance of the
+subject of speech seeking to involve the reader in the humorous nature of hypertext; the verbal and non-verbal
+markers of the object of laughter; markers, which reflect Internet user’s involvement in the communicative act.
+The analysis of relationship between the components of a clickbait model resulted in specifying four types of
+clickbait headlines: 1) narrative headlines, which invite the reader to laugh what some other readers have already
+laughed at; 2) offering headlines suggesting some comic entertainment; 3) allusive clickbaits that hint on the
+possibility to continue amusing reading; 4) nominative clickbaits, which name the expected laughing reaction to
+the presentation of some objects.
+Key words: clickbait, comicality, media text, semantics, speech act.
+Citation. Prokofeva N.A., Akulovich I.A. The Language Means of Comicality in Clickbait Headings. Vestnik
+Volgogradskogo gosudarstvennogo universiteta. Seriya 2. Yazykoznanie [Science  Journal  of  Volgograd  State
+University. Linguistics], 2021, vol. 20, no. 3, pp. 151-165. DOI: https://doi.org/10.15688/jvolsu2.2021.3.13
+УДК 81’42:004.738.5
+Дата поступления статьи: 21.02.2020
+ББК 81.055.51.5
+Дата принятия статьи: 01.12.2020
+ЯЗЫКОВЫЕ СРЕДСТВА КОМИЧЕСКОГО В КЛИКБЕЙТЕ 1
+Наталья Анатольевна Прокофьева
+Санкт-Петербургский государственный университет, г. Санкт-Петербург, Россия
+Ирина Анатольевна Акулович
+Санкт-Петербургский государственный электротехнический университет «ЛЭТИ»
+им. В.И. Ульянова (Ленина), г. Санкт-Петербург, Россия
+Санкт-Петербургский государственный университет, г. Санкт-Петербург, Россия
+Аннотация. Анализ современного речевого материала, представленного в медиапространстве, де-
+монстрирует значительные изменения интенциональности журналистского текста. На первый план выхо-
+дит интенция контактоустановления – захвата внимания читателя и стремление его не упустить. Эта осо-
+бенность современного медиатекста реализуется в изменении жанровых предпочтений, особенностей
+152
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+речевых тактик и стратегий, а следовательно, отбора и сочетания языковых средств. Одним из проявлений
+указанной тенденции становится распространение кликбейта – коммуникативного акта обещания продол-
+жить коммуникацию. Статья посвящена кликбейтам с семантикой комического. Материалом исследова-
+ния послужили кликбейты в русскоязычной сети, содержащие обещание смешного. Выявлено, что модель
+кликбейта включает следующие смысловые компоненты: стимулирующая реплика субъекта речи, стремя-
+щегося вовлечь в смеховую стихию гипертекста; речевые и невербальные маркеры объекта смеха; марке-
+ры, отражающие учет присутствия пользователя в коммуникации. В ходе анализа отношений между ком-
+понентами модели кликбейта выделены четыре типа: 1) заголовки-нарративы, включающие приглашение
+читателю посмеяться над тем, над чем уже посмеялись ранее; 2) заголовки-оферты, содержащие предло-
+жение смешного; 3) кликбейты-аллюзии, выражающие намек на возможность продолжения забавного
+чтения; 4) кликбейты-номинативы, называющие ожидаемую смеховую реакцию на представление каких-
+то объектов.
+Ключевые слова: кликбейт, комическое, медиатекст, семантика, речевой акт.
+Цитирование. Прокофьева Н. А., Акулович И. А. Языковые средства комического в кликбейте // Вестник
+Волгоградского государственного университета. Серия 2, Языкознание. – 2021. – Т. 20, № 3. – С. 151–165. –
+(На англ. яз.). – DOI: https://doi.org/10.15688/jvolsu2.2021.3.13
+Introduction
+The hypertext in the news is composed due
+to the use of multiple means of intertextual linkings,
+including catchy headlines as if they are some
+toutings made during the fairs. Such catchy
+headlines attract reader’s attention by promising
+some cheerful and amusing time spent together and
+bringing a pleasant sense of belonging. Through
+referring to obscenities, such preview headlines
+provide for endless surfing in the web space. Such
+hypertext toutings make a victim of every user
+clicking on boldly announced promises, looking
+through some garbage websites that lack any
+valuable information (created, in the first place, to
+hide some advertising links leading to commercial
+websites) (comp.: [Daoud, El-Seoud, 2019]).
+When browsing the Internet, Internet-users
+often look for attractive form rather than for
+interesting and informative content. That is the
+reason why the phenomenon of clickbait is
+nowadays associated with senseless headlines, so-
+called fake headings and captions used as “hooks”.
+Clickbaiting appeared in social networks in the
+form of blog headlines [Potthast et al., 2016], and
+today it is often found in entertaining, analytical
+and news media discourse.
+Clickbaits are considered a means of
+falsifying information [Al Asaad, Erascu, 2018;
+Chanysheva, 2016; Gavrikova, 2018c; Serrano,
+Romero-Rodríguez, Gómez, 2018; Shu et al.,
+2018; Vol’skaia, 2018]. We should note that daily
+routine is presented in a clickbait in such a light
+that makes it look worse than in reality [Molyneux,
+Coddington, 2019]. Therefore, the quality of news
+presenting is getting lower: more attention is paid
+to the presentation form rather than the content,
+clickbait’s author intentionally gives an impression
+that readers are directly involved with the content
+of the message [Geckil et al., 2018; Gavrikova,
+2018b; Agrawal, 2016], though, in reality, the
+article’s content has nothing to do with the topic
+implied in the headline. Clickbaits are often placed
+on a par with spam messages (based on YouTube
+data) [Gavrikova, 2018a; Zannettou et al., 2018].
+Last years have seen a lot of posts suggesting
+that we should get rid of clickbaiting. In this
+regard, scientists create various kinds of models
+to identify the headlines that mislead readers. The
+material that we provide shows that some comic
+tools are used in clickbaits to attract attention
+[Gajda, Brzozowska (eds.), 2000; Vasileva, 2017].
+Today’s Internet discourse ridicules everything:
+something comic is seen in miserable, sloppy,
+disgusting and even beautiful things. In clickbaits,
+the comic becomes a universally used “hook” to
+fully involve readers in viewing the content that
+the clickbaits creators want to make attractive.
+The subject of any clickbait relies on user
+activity of readers, provoking their interest in the
+further reading of texts and some kind of a game,
+entertainment within a communication act by
+means of making readers laugh because of the
+information being “touted”.
+Entertainment is one of the main functions
+of the media text, therefore, the laughing reaction
+caused by reading and, as a result, the relief of
+social tension can be considered as one of the
+forms of communication in the media space sought
+after by the authors (see Fig. 1).
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+153
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+Clickbait pragmatic implication is to promise
+communication with some content to further
+entertain and amuse. The purpose of this article
+is to describe the common structural patterns of
+clickbait headlines that use comic tools.
+Based on V.V. Vinogradov’s [Vinogradov,
+1959] thought about the mutual determination of
+form and content, it can be assumed that the listed
+features of the functionality inherent to clickbaits
+are reflected in their verbal component: in special
+marker words, in the syntactic structure, in the
+semantic connotations. This characteristic of
+clickbait becomes the main objective of the
+research and entails a number of tasks.
+The purpose of this article is to describe the
+constituency of common structural patterns of
+clickbait headlines that use comic verbal and
+nonverbal tools, which requires the search of
+those clickbaits that make use of comic tools to
+link the content of the texts they provide with the
+headlines, finding language markers of comicality
+(such as referring to precedent phenomena, using
+of aposiopesis, the reduction of a statement to
+absurdity, the inclusion of contradictory
+information, intentional informational emptiness,
+playing on the verge of a foul) installed into the
+headlines as well as to work out some
+classification of utterances and other markers of
+comicality promises in media content. All these
+techniques act to form the effect of heightened
+anticipation in the headline-text system.
+The studies of clickbaits have started most
+recently. By various estimates, the word
+“clickbait” appeared at the end of the 90s of the
+previous century, or even at the 10s of this one
+[Ageeva, Smyshliaeva, 2019; Molyneux,
+Coddington, 2019]. Scientifical interest in this
+phenomenon is stipulated by the active spread of
+online communication, its characteristic
+phenomena [Brzozowska, 2013] as well as the
+reaction to such a spread expressed by online
+communication participants.
+Headlines perceived as so-called “toutings”
+were named “clickbaits”, and due to their getting
+widely spread all over the world, now they raise
+genuine interest of the scientists from all over the
+world [Al Asaad, Erascu, 2018; Anand,
+Chakraborty, Park, 2017; Fu et al., 2017;
+Gavrikova, 2018a; Serrano, Romero-Rodríguez,
+Gómez, 2018; Sladkevich, 2019; Vol’skaia, 2018;
+Wang, Wu, 2017]. Originally, clickbait is based on
+some creative headlines and is aimed at attracting
+public attention to the topical issue using both content
+and form (comp.: [Molyneux, Coddington, 2019]).
+As a rule, study materials include texts
+posted in social networks [Agrawal, 2016; Anand,
+Chakraborty, Park, 2017; Khater et al., 2018;
+Potthast et al., 2016; Serrano, Romero-Rodríguez,
+Gómez, 2018; Wang, Wu, 2017; Zheng et al.,
+2017], far less they involve news websites [Geckil
+et al., 2018; Molyneux, Coddington, 2019].
+Attempts have been made to classify clickbaits
+based on symbols [Ageeva, Smyshliaeva, 2019;
+Gavrikova, 2018a; Wongsap et al., 2018], wordings
+or content [Zheng et al., 2018]. A number of
+research are attempted to create a topic model
+[Al Asaad, Erascu, 2018; Potthast et al., 2016;
+Serrano, Romero-Rodríguez, Gómez, 2018],
+a 
+b 
+c 
+Fig. 1. A promise of laugh moments:
+a – funny video showing an animal drama has won the hearts of Internet surfers;
+b – beach activities with no retouch and photoshop applied: you’ll be crying with laughter;
+c – jokey photos making everybody laugh (20 photos)
+154
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+neurolinguistic model [Agrawal, 2016; Anand,
+Chakraborty, Park, 2017; Fu et al., 2017], user
+behaviour model [Zheng et al., 2017], lexical
+model [Zheng et al., 2018], etc. This article
+suggests that we put clickbait in the context of
+dialogics to see the role of comic tools in hypertext
+formation [Bakhtin, 1996; Duskaeva, 2004].
+Study methodology
+In search of clickbait definition, the following
+characteristics have been defined, namely,
+headline function within the text and advertising
+function as a part of communication. The latter is
+realised through attracting attention due to the
+shocking character of the form and it is often not
+linked with the content of the headlined text
+[Ageeva, Smyshliaeva, 2019; Khater et al., 2018;
+Nikolaeva, 2017; Solov’ev, 2018; Vol’skaia, 2018].
+We would like to direct attention to the
+dialogical essence of such a headline, taking into
+account a position taken by the headlines in the
+structure of hypertext formation. Proceeding from
+the three-part structure of media talk, developed
+by L.R. Duskaeva, consisting of paratext,
+metatext and intratext [Duskaeva (ed.), 2018], we
+ascribe clickbait to the phenomenon of paratext
+within hypertext, thus providing the latter with
+intertextual interconnection formed within the
+interaction with presupposed reader’s reaction to
+a clickbait. Any promise, like “touting” during a
+fair or a buffoonery, urges users to communicate
+cheerfully and plainly in order to receive some
+kind of pleasure.
+This article is aimed at analysing the
+represented clickbait content that promises convivial
+communication and specifying direct and indirect
+speech act means. This task is fulfilled by means
+of a) delivering a semantic and pragmatic
+classification of clickbaits; b) specifying, analysing
+and classifying the means of defining major
+components of clickbait intention by using verbal
+and non-verbal means within different media types.
+The study materials cover promissive
+clickbaits implying some comic content posted in
+Russian-language networks. This choice is not an
+accidental one. Despite the fact that since 2016
+[Ageeva, Smyshliaeva, 2019] the campaign to get
+rid of clickbaits has been run, this phenomenon is
+spread so wide that clickbaits can be found even
+in news media discourse, which is supposed to be
+forbidden, as the major value of news reporting is
+providing information. Nevertheless, to win the
+reader’s attention, headlines appear to become
+more entertaining. We have collected 50 clickbaiting
+headlines at the news portal Lenta.ru in order to
+study the stated topic. To collect empirical
+database for the research, we have used a
+continuous sampling method. Lenta.ru is one of
+the largest Russian news portals covering events
+in the area of economy, politics, defence and law
+enforcement agencies, science and technology,
+culture, sports, etc. The portal covers both Russian
+and international news. In the latter case, we are
+talking about translated texts taken from different
+foreign sources referred to by the authors.
+Curiously enough, most often those clickbaits that
+have the semantics of comicality are provided by
+translated texts of some entertaining character.
+The studies performed resort to the means
+of modelling, for deductive pragmalinguistic
+interpretation of clickbaiting headlines.
+The deductive pragmalinguistic interpretation
+of clickbaiting headlines resulted in distinguishing
+several stages of constructing comic clickbaits:
+1) inspiring remark of a clickbait actor implying a
+promise; 2) verbal and non-verbal markers of
+laughter; 3) markers of a presupposed funny reply
+to the stimulus. These are the most distinguishing
+symbols of a clickbaiting promise. Thus, the
+speech act implying a promise (clickbait) gets a
+new form in the context of mass media.
+Thus, the clickbait promise of laugh is based
+on establishing a connection of any nature with the
+text announced in a clickbait. The degree of the
+explication of possible comic effect can be different
+as well as the degree of its connection with the
+text content and the means representing comicality.
+Proceeding from the links between the components
+of the comic clickbait model, several types of
+language-verbalized clickbaits can be specified:
+1) narrative headlines proposing the reader to laugh
+at the things that were laughed at by other readers
+before; 2) offering headlines providing for the
+promise of comic content using laughter markers;
+3) allusive clickbaits providing for a hint to continue
+an entertaining reading; 4) nominating clickbaits
+providing for expected reaction of laughter
+expressed because some objects are presented.
+In accordance with the stated topic, the
+analysis pays special attention to the semantics
+of clickbaits and their lexical content, therefore
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+155
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+the proposed analysis also includes certain
+elements of content analysis and lexical analysis.
+From the standpoint of the authors of the article,
+this allows one to achieve the most complete,
+comprehensive understanding of the phenomenon
+under consideration.
+In addition, when describing the “heading – text”
+effects, as well as when explaining communicative
+objectives and tasks, one cannot do without a
+methodology developed in terms of intentional
+stylistics. This is the final stage of the analysis,
+which makes it possible to fully represent the
+phenomenon of clickbaiting in the broad outlines
+of the development trends characteristic of the
+modern media text.
+Results and discussion
+The results of contextual and pragmastylistic
+analysis are presented below together with the
+explication of every type. It will help prove the
+hypotheses about pragmatic relationship between
+the title and the text, demonstrate its proximity to
+fair touting, reveal the techniques of creating
+clickbait headings in media discourse.
+The first type is composed of narrative
+clickbaits that contain a reminder of some comic
+situation or a story. It is suggested that its details are
+to be revealed in the course of further reading only:
+(1) Несуразный смокинг Трампа на встрече с
+королевой подняли на смех (Lenta.ru. URL: https://
+lenta.ru/news/2019/06/10/trumpstuxedo/) –
+“Trump’s absurd tuxedo was laughed at during
+the meeting with the queen” (hereinafter translated by
+us. – N. P., I. A.);
+(2) Мать жениха подняли на смех за попытку
+перещеголять невесту (Lenta.ru. URL: https://lenta.ru/
+news/2019/08/02/sameasbride/) –
+“Bridegroom’s mother was laughed at for
+attempting to outmatch the bride”.
+As we see it, such a clickbait contains
+indications of a speech act implying laughter
+(phraseological unit осмеян (laughed somebody
+out)); there is an object triggering laughter by
+means of it being not appropriate in a given
+situation (absurd tuxedo, attempt to outmatch
+the bride). Finally, such a clickbait provides for a
+subject of laughter; it is indicated by indefinite-
+personal forms, as a rule (laughed somebody
+out, somebody was ridiculed).
+(3) Любимый дешевый бренд россиян выпус-
+тил женскую одежду для мужчин и был осмеян
+(Lenta.ru. URL: https://lenta.ru/news/2019/06/04/
+menstop/) –
+“Cheap brand admired by Russians started a
+female clothes line for men and was laughed out”.
+In the post titled the headline attracts
+attention due to the abundance of assessment
+lexical units. Absolute contact-establishing
+potential is conveyed by a positively assessing
+word admired by; and there appears some kind
+of discordance in the word combination cheap
+and admired by – so, emotional assessment
+together with pragmatic assessment provides for
+such a contact-establishing potential. Visual
+component, being means of attracting attention,
+apart from a headline, is a photo of a dark-
+skinned man with a shirtless torso. This way, an
+object to laugh at was introduced by Asos brand
+having released female clothes for men, and it
+triggered both laughter and indignation of their
+supporters (users). The text has several
+comments of Twitter network users, having left
+their critical opinion on brand’s newcomers. They
+are in no way linked to the semantics of
+comicality, though the headline uses the potential
+of comic tools, namely, the combination of a verb
+in the past tense and a short form of past
+participle осмеян (was laughed out).
+This type of headlines include the following ones:
+(4) Невесту высмеяли за слишком маленькое
+помолвочное кольцо (Lenta.ru. URL: https://lenta.ru/
+news/2019/05/14/smallring/) –
+“Bride was teased because of a too small
+engagement ring”;
+similar structure is characteristic for the following
+headlines:
+(5) Тучную невесту высмеяли за похожее на
+пижаму платье (Lenta.ru. URL: https://lenta.ru/news/
+2019/06/04/dressshaming/) –
+“Plus-size bride was ridiculed at the wedding
+for wearing a pyjamas-like dress”;
+(6) Невесту высмеяли за неподобающее ниж-
+нее белье и шляпу на свадьбе (Lenta.ru. URL: https:/
+/lenta.ru/news/2019/07/23/brideshaming/) –
+“The bride was laughed out because of
+inappropriate underwear and a hat at the wedding”;
+(7) Странные пятна на платье невесты рассме-
+шили пользователей сети (Lenta.ru. URL: https://
+lenta.ru/news/2019/08/01/coffeebreak/) –
+156
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+“Strange spots on bride’s clothes made Internet
+users laugh”,
+where the actor of a speech act in an indefinite-
+personal sentence involves the addressee to join some
+combined action using such verbs as высмеяли
+(ridiculed, laughed out), namely, to laugh at a non-
+ordinary situation with addressee’s attention being
+focused on the absurdity of bride’s clothes:
+underwear, hat and strange blots on the dress.
+Headline (4) has a bride as a speech object and
+an engagement ring as its subject in order to
+involve the addressees in the situation for them to
+laugh at. It uses the picture of the ring for the
+web users to laugh at its size, suggesting that
+scientists devise an instrument to examine the size
+of the ring. Thus, linguistic means used in the
+headline are predetermined by the adverb of
+measure too much, pointing at the deviation from
+the norm meaning “way over, beyond measure”,
+and а qualitative adjective “small” characterizing
+a substantial deviation from average size values.
+An indirect indication of a subject to be laughed
+at is provided by using the verb высмеяли
+(laughed out).
+Such type of headlines is often eliminating the
+line between the intimate (private) and the public.
+(8) Студентку подняли на смех за отказ брить
+ноги из-за лени (Lenta.ru. URL: https://lenta.ru/news/
+2019/04/03/depressed/) –
+“Female student was made fun of because she
+refused to shave her legs claiming that she is lazy”.
+The headline cites the student from Valencia
+saying that she was “just too lazy” to shave legs,
+though her protesting position was to a great
+extent connected with her refusal to follow the
+rules being observed by the public. The text starts
+from the photo displaying an unshaved leg, and
+there is no object of a speech act in the picture.
+The phraseological unit подняли на смех (made
+fun of) together with a word combination because
+of being lazy triggers more negative reactions
+and implies disapproval of the public. The
+phraseological unit by itself relates to the
+conversational (informal) style. This fact is used
+as a means of contact establishing, getting closer
+to the author and the addressee. Thus, the heading
+attracts attention as it triggers misunderstanding
+and the barbed wit of the public: “A lot of people
+were labelling her awful and disgusting, the others
+were claiming that she had low self-esteem and
+she was suffering from depression”.
+Thus, the first type is composed of narrative
+headlines describing the situation that implied
+laughter and promised a reader to laugh at some
+person, as the others have done it already. Such
+clickbait model is the following: it contains the
+marker of a laughter speech act, the object being
+laughed at – some phenomenon that breaks rules
+and norms. This type of headlines provides for
+the names of the sources of the comicality, though
+they are not further disclosed. Using the names
+of laughter speech acts in indefinite-personal
+meaning ensures the impression that the stated
+source of the comic is being laughed at by
+everybody. Due to the joint social action, the
+reader is supposed to join a message to continue
+communication. Thus, the headline contains the
+narrative of a funny situation; the contact-
+establishing intention is being realized. Often, the
+attention is attracted by promising to laugh at
+something extraordinary, some clumsy and strange
+things.
+The second type is made up of so-called
+“offering” headlines containing no information
+on the source of comicality, though promising
+some entertainment to the reader. Often, the
+object of derision is implied in political opponents
+of Russia, e.g.:
+(9) Спикера Рады развеселила инаугурация
+Зеленского (Lenta.ru. URL: https://lenta.ru/news/2019/
+05/20/parubii/) –
+“Rada speaker was livened up by the
+inauguration of Zelensky”,
+where the referral to the name of a politician,
+attended with a commentary demonstrating a
+laughter reaction, is used as some kind of a “hook”.
+The text referred to by the clickbait is about the
+dissolution of Verkhovnaya Rada by the president
+of Ukraine. This moment is a dramatic one in the
+history of the country and it usually provokes no
+laughter. Meanwhile, the text mentions the
+reaction to the dissolution act by Andriy Parubiy,
+when he characterized the inauguration of a new
+president Vladimir Zelensky as a funny one, as
+well as reaction to this statement expressed of
+the deputies of Verkhovnaya Rada meeting it with
+a burst of laughter. Contact-establishing effect of
+a clickbait is increased due to introducing an
+informal word развеселила (was livened up) to
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+157
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+the context of usual terminology. The collision of
+lexical units stylistics appears as it introduces some
+ironic implication to the headline. Readers are
+suggested that they find out its reasons. Though
+the text states that the president of Ukraine
+announced disbanding of Verkhovnaya Rada and
+gave the deputies two months to meet his
+requirements, and Andriy Parubiy, a speaker of
+Verkhovnaya Rada, is just slightly mentioned as
+well as him saying that the inauguration of a new
+president Vladimir Zelensky is a funny one, and
+the deputies met these words with a burst of
+laughter. An allusion is used (namely a hint, that
+Zelensky is a former comic actor and the deputies
+consider his presidential activities as a continuation
+of his former activities). Thus, Russian mass
+media continues to take advantage of the topic of
+the “might-have-been state control establishment”
+in Ukraine. The ambivalence in the attitude to the
+president of Ukraine, with everybody expecting
+a burst of laughter at him, is used as a “hook” to
+attract the reader’s attention in Russia. Turned
+up expectations are formed due to the fact that
+there is no mentioning of the reasons provoking
+the laughter of the deputies of Verkhovnaya Rada.
+One more heavily ridiculed object in today’s
+Russian mass media is the prime minister of Great
+Britain Theresa May:
+(10) Премьер Британии поблагодарила Бори-
+са Джонсона и рассмешила парламент (Lenta.ru.
+URL: https://lenta.ru/news/2018/07/10/theresa/) –
+“Prime minister of Great Britain thanked Boris
+Johnson and made the Parliament laugh”.
+The text states that Theresa May thanked the
+Minister of International affairs Boris Johnson
+barely containing the laughter at “the passion he
+had while advancing country’s interests”, and
+this way she triggered laughter of all the
+attendees. Boris Johnson left the post of the Head
+of the Foreign office as he was opposing the
+measures taken by Theresa May, who was
+demanding a stricter scenario of the country’s
+exit from the supranational union. The headline
+misleads the readers, as some logical links
+connecting the predicates are left not clear:
+whether the laughter of the Parliament was
+caused by the gratefulness of the Prime minister
+or the Prime minister has become the reason
+for the laughter herself or the fact that her
+gratefulness was addressed to Boris Johnson.
+In order to find it out, readers have to go through
+the text following the clickbait.
+The promise of laughter is contained in the
+following example as well:
+(11) Представление российского игрока в НХЛ
+рассмешило пользователей сети (Lenta.ru. URL:
+https://lenta.ru/news/2019/07/30/lol_goose/) –
+“The introduction Russian hockey player to the
+NHL team made Internet surfers laugh”.
+In this case, the headline can be named bivalent:
+the names of a derision object (the introduction
+of a Russian hockey player) and laughter
+subject (Internet users) are given to indicate the
+laughter reaction. The very situation does not give
+any explanation. Thus, the author of the headline
+ensures the effect of turned up expectations by
+using a word referring to the semantic field named
+“comicality”. Hint to the possible laughter reaction
+becomes a so-called “hook”, and this way it incites
+a desire to read the following text.
+Hint to the comic nature of the situation is
+present in the article headlined:
+(12) Незадачливый ухажер выдал набор фак-
+тов о себе и рассмешил пользователей сети (Lenta.ru.
+URL: https://lenta.ru/news/2019/04/30/mujchina/) –
+“Down-on-his-luck boyfriend has revealed some
+facts about himself and made Internet users laugh”.
+Here, we again face a not fully informative
+headline containing a lot of hints with no
+explanation to the questions appearing while
+reading the article. Characteristic of the laughter
+object attracts attention due to a casual word
+boyfriend. Here it is used ironically in combination
+with an adjective незадачливый (down-on-his-
+luck), defining a naive person. Lexical unit “вы-
+дал (revealed, disclosed)” suggests comic nature
+of the action in this context as well. The semantics
+of the comic element is increased with each word
+contained in the headline. The very situation
+provoking laughter is left unclear.
+(13) Парней из Tinder подняли на смех (Lenta.ru.
+URL: https://lenta.ru/news/2019/04/25/typical_tinder/) –
+“Guys from Tinder were ridiculed”.
+The text headlined tells the story of Jon Foor from
+Los Angeles, scriptwriter working for UCB
+Theatre. Together with friends, he made a mock
+video to show an “average guy from Tinder”. The
+headline uses a casual phraseological unit “to
+158
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+ridicule” to make somebody an object to be
+laughed at. As all the forms are similar, the author
+of the video got the feeling that he is looking
+through the pages of the same person. Comic
+effect is created due to the literalization of the set
+phrase поднять на смех (literally “to raise on
+laugh”) which is usually understood as “to laugh
+somebody out”, “to ridicule”, though in the context
+(after reading the text) it is perceived in the
+meaning of “writing a comic play scene that will
+make somebody laugh”.
+(14) Пациент с опухолью мозга принялся шу-
+тить прямо во время операции (Lenta.ru. URL:
+https://lenta.ru/news/2019/04/07/joker/) –
+“Medical patient suffering from a tumour started
+to joke right during the surgery”.
+The article headlined tells that after the patient
+comes round from anaesthetic he asks whether
+the surgeons have taken his brain outside. This
+phrase gives no reason to laugh. Though the
+headline intrigues readers by means of disturbing
+situation’s picture. Within the situation, the patient
+stays unconscious, and the possibility to laugh in
+this case is more likely a mystification. Moreover,
+the magnetism of the given headline is related to
+the referral to a taboo subject: health, surgeries,
+etc. Most commonly, these topics are not laughed
+at and pose no reason to laugh. The attractive
+nature of the headline is ensured by means of
+interfering with private life.
+While speaking about taboo topics, we cannot
+but mention that such clickbaits, which authors refer
+to as “below-the-belt” topics, are often used.
+Inclusion of this topic into a “comic” headline is
+expected to strengthen “a standpoint of a headline”.
+(15) Телеведущие расшутились о пенисе во
+время эфира (Lenta.ru. URL: https://lenta.ru/news/
+2019/04/22/lil_or_big_dicky/) –
+“TV presenters couldn’t stop joking about penis
+during the broadcast”.
+This headline constitutes a sentence with a
+message on the subject of a speech act with no
+clarification of the nature of the discussion. In
+other words, here we see another bivalent
+headline with a hint to the situation of laughter
+indicating subject and object of laughter. Such
+delivery form of intrigues provides the effect of
+turned-up expectations. Everything linked with
+obscenity is always interesting and triggers
+curiosity. This is what the author of a given
+headline counts on. The text is accompanied by
+the video taken from the British morning television
+show called Good Morning Britain, where the
+broadcaster Kate Garraway made a joke on the
+size of the “cock” of his colleague Richard
+Madeley. As is often the case, such headlines are
+associated with language games: laughter reaction
+put in the headline was realized while discussing
+creative activities of a rapper with an expressive
+pseudonym Lil Dicky, which can have “small
+penis” as one of the possible translation options.
+(16) Смеявшиеся над докладом о зарплатах
+врачи раскрыли свой реальный заработок (Lenta.ru.
+URL: https://lenta.ru/news/2019/03/28/bashkir/) –
+“Doctors who were laughing at the report on
+doctors’ salaries revealed the information on how much
+they earn”.
+The article headlined tells about the salary
+amounts received by the medical staff of a
+maternity hospital in Bashkiria. Topics that are
+linked to money and salary issues always provoke
+public interest. Moreover, curiosity is fuelled by
+the semantics of a secret introduced by means of
+the lexical unit раскрыли (revealed). Here, there
+is only one indication of the laughter subject with
+no further information on the situation caused
+laughter. The desire to read the text is provoked
+by turned up the expectation to learn the secret
+linked to the salaries issue as well as the cause of
+laughter.
+Allusive headlines
+The difference of such clickbaits is in the
+nomination of a laughter act with no reason
+provoking it. Meaning of such headlines is not only
+to provoke laughter or invite to laugh together but
+also to provide a hint that text contains some
+message being of interest for the readers. As for
+allusive headlines, first of all, we focus on those using
+comic lexical units to increase the reader’s interest
+rather than to reveal the content of the text.
+(17) He is Зе! Президент (YouTube. URL: https://
+www.youtube.com/channel/UCp2zBKrqP0Z
+QF6RN4RJtF2Q) –
+“Зе (in Russian)! President”.
+Generic name for the type of texts
+discussing political activities of Zelensky. In other
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+159
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+words, the political figure turns into a private one
+belonging to the circle of the closest acquaintances,
+who can be given a funny nickname [Vasileva,
+Prokofeva, 2015] and whose private life can be
+discussed in some leisure moments. We would
+pay attention to graceful language games implied
+in the headline: Зе – these are the first two letters
+of the last name of the president of Ukraine as
+well as imitation of a vulgar pronunciation of the
+definite article in the English language. The
+headline’s ambiguity is conveyed in the following:
+the fact whether the author laughs at the main
+character or admires his activities becomes the
+most intriguing part of the text as well as the
+means to form the effect of turned-up
+expectations from the text or a type of texts
+following.
+Another example of allusive headlines can
+be seen in the following clickbait:
+(18) Насмешливые школьники заставили жен-
+щину похудеть на 63 килограмма (Lenta.ru. URL:
+https://lenta.ru/news/2019/06/10/zatravili/) –
+“Sarcastic students made a woman lose 63 kilos”;
+the attention is attracted by the promise to explain
+how to lose 63 kilos. The semantics of comicality
+is conveyed in the comic subject (students). The
+very situation stated in the headline cannot be
+accepted as a funny one. The headline rather
+promises information on a person whose deed is
+worthy of respect or admiration. Comic object
+(promising the reader some interesting information
+to read) is a woman from the British city of
+Warrington, who lost weight for the sake of her
+daughter who was laughed at by the classmates.
+In this regard, we can state that semantics of
+comicality here is a contact-establishing means
+only. Further on, it is counted on supporting the
+contact by maintaining the interest in the actions
+of the main character of the article.
+Another example goes about shocking the
+public due to the violation of behaviour
+stereotypes:
+(19) Ребенок громко высмеял пренебрегаю-
+щую гигиеной пассажирку самолета (Lenta.ru. URL:
+https://lenta.ru/news/2019/06/07/barefooooot/) –
+“A child laughed out loud at an airline passenger
+neglecting hygiene rules”.
+We can hardly expect that a child can laugh
+intentionally to make a monkey out of an adult.
+Contact is established due to announcing
+something impossible: subject situation a child
+высмеял (laughed out loud) does not correlate
+with the expected behaviour of children. The
+interest of the public is provoked by the following
+dissonance: neglecting hygiene. While watching
+the video going before the text, we see an
+intentional misleading of the reader: the parent is
+the one who laughs, not the child. Promising
+communication by referring to two factors violating
+the image of the typical behaviour of adults and
+children proves effective for clickbaiting: the
+headline under analysis was viewed a record
+number of times.
+(20) Дикие пранки, задницы и никаких правил
+(Lenta.ru. URL: https://lenta.ru/articles/2019/06/13/
+zdorovetsky/) –
+“Wild prank calls, ass holes and lack of any rules)”.
+Allusive mechanism of clickbaiting is seen
+in the heading (20) where attention is attracted
+not by a lexical unit пранки (prank calls), but a
+colloquial rude word ass hole which indicates a
+subject of the comic situation. Text is
+accompanied by the video showing a half-naked
+American top-model Kinsey Wolanski entering the
+football field during the match between British
+“Tottenham” and “Liverpool”. Such a thought-
+out campaign made up and prepared by a young
+guy Vitaly Zdorovetsky is aimed at the majority
+of views and increasing online popularity.
+Barbarism prank adopted from the English
+language is used in combination with the word
+wild highlighting rudeness, uncontrollability,
+clumsiness and strange nature of these jokes.
+(21) Тренер сборной России по хоккею отре-
+агировал на насмешки американских СМИ
+(Lenta.ru. URL: https://lenta.ru/news/2019/05/24/
+vorobiev) –
+“Russian hockey team coach reacted to the
+mockery in American mass media”.
+The headline uses the word mockery as one
+associated with the semantic field of comicality,
+though the text does not tell us that the journalist
+of an American newspaper laughs playing of the
+Russian team out. Reason for writing the article
+is in the comment of the head trainer of the
+Russian hockey team Ilya Vorobyev to the critical
+words of American journalist from The New York
+Times July Robenhaimer, who labelled the tactics
+160
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+of the team as absurd in the interview to the TV
+channel “Russia Today”. The cheating is in the
+fact that the text has the comments of the journalist
+writing for one magazine only, though after reading
+the text we get the impression that all American
+mass media sources laugh at the Russian hockey
+team. Clickbait meaning, as it appears, does not
+tell something extremely funny, but rather attracts
+attention to some intrigue using the words
+belonging to the semantic field of comicality. The
+word насмешки (mockery) provokes interest in
+the readers; contact-establishing potential is
+referred to the promise to tell us about the trainer’s
+reaction. Thus, the conflict that is interesting for
+the readers is indicated. Such headlines are
+intended for those readers who are interested in
+the announced subjects and who will read the text
+till the very end.
+The promise containing a hint to the comic
+character of the situation is contained in the headline:
+(22) Телеведущий непристойно пошутил о
+собаке и рассмешил ведущую (Lenta.ru. URL:
+https://lenta.ru/news/2019/04/22/doggy_style) –
+“TV presenter afforded a joke about a dog and
+made a female TV presenter laugh”.
+The text is accompanied by the video featuring a
+host of the American channel NBC4 David Ushery
+telling a story about a dog who had swam 217
+kilometres and was saved by the worker of a drilling
+installation unit, who said that the dog “definitely
+gave a new meaning to the phrase ‘doggy style’”.
+Ushery immediately corrected his words saying that
+it was a slip of the tongue and he meant to say that
+doggy style meant “doggy paddle”, thus making
+program’s co-host laugh. People who are not in
+the know will see nothing funny in the given phrase
+of the American host, though in reality, it provides
+for a dirty joke relating to some sexual transactions.
+Most readers will not understand it if no translation
+is provided. Though everything that is dirty
+provokes interest, and пошутил (made a joke)
+and рассмешил (made somebody laugh) are some
+type of a “hook” for a reader. Russian readers get
+an association with a film clip “My doggy style”.
+Nominative headlines
+Promising laughter markers while perceiving
+online content can be referred to in a lot of texts
+(pictures), rubrics, etc.:
+(23) Странные люди в общественном транс-
+порте или чудики среди нас: самые смешные фото
+(YouTube. URL: https://www.youtube.com/
+watch?v=PCss5xyYZlE) –
+“Strange people in public transport or freaks
+among us: the funniest photos”;
+(24) Самые смешные видео про котов
+(YouTube. URL: https://www.youtube.com/channel/
+UCBe-obq2p6OVmJSO9Eua1gg) –
+“Funniest cat videos”;
+clarifying relations between semantically
+heterogeneous objects (photos, videos, news
+stories selections, etc.). Such headlines are mostly
+focused on the word with the semantics of
+comicality in the direct meaning of this word. They
+invite readers to relax and get some positive
+emotions (see Fig. 2).
+We would like to pay attention to the
+following promises of the comic element: to laugh
+hysterically. Here we see an exaggerated
+statement proved by a casual assessment
+characteristic of the object provoking laughter:
+“all-thumbs” photographers. It is a light-hearted
+joke starting the succession of photo materials
+having the same light-hearted nature.
+The promise of entertainment can be
+conveyed in clickbaits by means of using
+corresponding verbal nominations of comic acts:
+scandals, hardcore stuff, not for weak-nerved,
+lol, laughed my ass off, prank, to force tears
+for laughter, it is pretty messed up, to
+scandalize, shock, secrets are revealed, etc.
+Such clickbaits express the failure to meet
+expectations as the most often used effect in
+the interconnection of a headline and a text.
+Promised (declared) things do not correspond
+the reality (text content). Such examples are
+often found among YouTube videos, and they get
+in the area of interests of clickbaiting
+researchers (see Fig. 3).
+It seems to us that it is a kind of game
+played with the reader. By clicking a clickbait
+headline the reader is ready to get frustrated.
+Thus, switching between clickbaits and looking
+for some entertainment, as if the reader was
+making the expectations come true: the
+headline does not correspond to the text
+content. This way Internet surfers increase
+their self-esteem playing a guessing game,
+namely, that headlines do not correspond to
+the text content.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+161
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+Fig. 2. An invitation to laugh:
+Title: It makes you laugh hysterically! Panoramic photos of animals made by “all-thumbs” photographers
+ 
+ 
+ 
+ 
+a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 
+Fig. 3. An invitation to have fun:
+a – 20 minutes of laughter moving to tears | Best kickers of March 2019;
+b – kickers of June 2019 #470 lol moving to tears, messing up, kickers – tricks;
+c – best kickers of 2019! #28 lol moving to tears, messing up, the kicker – tricks;
+d – kickers of March 2019 #515 lol moving to tears, kickers – tricks
+162
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Conclusion
+Clickbait is a communication act implying a
+promise to continue communication. The analysis
+provides a classification of clickbaits according
+to the techniques of attracting attention used in
+them. Several types of headlines are highlighted
+in the paper, namely narrative headings, offering
+headings, allusive and nominative headings.
+One of often used “hooks” is promising
+funny and entertaining reading. In this regard,
+language-enabling resources of comicality are
+being resorted to, though a headline and a
+corresponding text are far from correlating with
+each other in terms of content. Such “hooks” are
+aimed at attracting as much attention as possible
+to “own” content.
+The proposed research highlights the
+mechanisms of creating a clickbait in the semantic
+field of “funny” from the positions of the
+addressee, the subject of laughter, the object and
+the matter of laughter. This approach allows us
+to create a most complete description of each of
+the analysed clickbait headlines and sets a
+precedent for the further development of the given
+line of research.
+What is noteworthy is the repetitiveness and
+uniformity of analysed headings, which confirms
+the possibility of developing a model for identifying
+clickbaits in each of the designated semantic fields.
+Moreover, from our point of view, it is the lexical
+model that is especially promising, since keywords
+allow us to detect clickbait most easily and quickly.
+The properties of the structure of clickbait
+promising message:
+– the subject of a speech act aimed at
+involving readers in the situation implying laughter;
+– the object of a comic reaction implying
+laughter;
+– user;
+– attracting attention to some interesting
+information.
+Clickbaits are often accompanied by some
+shocking value provoking the referral to the taboo
+topics (“below-the-belt” topics), suggesting that
+readers laugh at the things that usually provoke
+no laughter (death, physical disadvantages, etc.).
+Promise message attracts attention by
+implementing an active usage of various language
+expressive means such as phraseological units,
+conversational vocabulary, precedent names,
+verbal markers of comicality and expressive
+lexical units.
+As clickbait is easier and quicker by using
+keywords, the most significant role is played by
+the following lexical units: laughed out, are
+laughing, was laughed at, has livened up,
+made a joke, started joking, laughing, made
+laughing, ridiculed, couldn’t stop joking,
+smiled, had somebody in stitches, to mock,
+refused joking around. We view clickbait as a
+means of hypertext formation usually based on
+the appeal to join those who have already enjoyed
+reading the news. A significant place in a clickbait
+phenomenon is occupied by the headlines implying
+direct or indirect promises to make readers laugh.
+Verbal and non-verbal means are used in the
+process of clickbait formation to indicate the
+reaction implying laughter. It constitutes a so-
+called hook used to involve the user in the
+communication act. Having learnt the details,
+readers are not always eager to laugh, though the
+actor of a communication act hopes to increase
+“appeal’s” productivity.
+NOTE
+1 The study was carried out with the financial
+support of the RSF: project no. 19-18-00530 “Humour
+as a communicative resource in the digital news
+environment”.
+REFERENCES
+Ageeva G.A., Smyshliaeva V.A., 2019. Clickbait:
+etimologiia, semantika, sredstva vyrazheniia
+[Clickbait: Etymology, Semantics, Expression
+Means]. Molodezhnyi vestnik Irkutskogo
+natsional’nogo issledovatel’skogo tekhniches-
+kogo universiteta [Young Researchers’ Journal
+of ISTU], vol. 9, iss. 1, pp. 153-158.
+Agrawal A., 2016. Clickbait Detection Using Deep
+Learning. 2nd IEEE International Conference on
+Next Generation Computing Technologies
+(NGCT), Dehradun, India. S. l., IEEE Publ.,
+pp. 268-272.
+Al Asaad B., Erascu M., 2018. A Tool for Fake News
+Detection. 20th International Symposium on
+Symbolic and Numeric Algorithms for
+Scientific Computing (SYNASC), September
+20–23, Timisoara, Romania. S. l., IEEE Publ.,
+pp. 379-386. DOI: 10.1109/SYNASC.2018.
+00064.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+163
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+Anand A., Chakraborty T., Park N., 2017. We Used Neural
+Networks to Detect Clickbaits: You Won’t Believe
+What Happened Next! 39th European Conference
+on Information Retrieval (ECIR), April 8–13,
+Aberdeen, United Kingdom. S. l., Springer, pp. 541-
+547. DOI: 10.1007/978-3-319-56608-5_46. (Lecture
+Notes in Computer Science (LNCS), no. 10193).
+Bakhtin M.M., 1996. Problema rechevykh zhanrov [The
+Problem of Speech Genres]. Sobranie sochinenii.
+V 7 t. [Complete Works. In 7 Vols.]. Moscow,
+Russkie slovari, vol. 5, pp. 159-206.
+Brzozowska D., 2013. Demotivators as a New Type of
+Media Texts. Medialingvistika [Media
+Linguistics]. Saint Petersburg, Izd-vo Sankt-
+Peterburgskogo 
+gosudarstvennogo
+universiteta, iss. 2, pp. 124-130.
+Chanysheva Z.Z., 2016. Informatsionnye tekhnologii
+smyslovykh iskazhenii v klikbeit-zagolovkakh
+[Information Technologies of Semantic
+Distortions in Clickbait Headlines]. Vestnik
+Permskogo natsional’nogo issledovatel’skogo
+politekhnicheskogo universiteta. Problemy
+iazykoznaniia i pedagogiki [PNRPU Linguistics
+and Pedagogy Bulletin], no. 4, pp. 54-62. DOI:
+0.15593/2224-9389/2016.4.5.
+Daoud D.M., El-Seoud M.S.A., 2019. An Effective
+Approach for Clickbait Detection Based on
+Supervised Machine Learning Technique.
+International Journal of Online and Biomedical
+Engineering (iJOE), vol. 15, iss. 3, pp. 21-32.
+DOI:  10.3991/ijoe.v15i03.9843.
+Duskaeva L.R., ed., 2018. Medialingvistika v
+terminakh i poniatiiakh : slov.-sprav. [Media
+Linguistics in Terms and Concepts. Reference
+Dictionary]. Moscow, Flinta Publ. 442 p.
+Duskaeva L.R., 2004. Dialogicheskaia priroda
+gazetnykh rechevykh zhanrov [The Dialogical
+Nature of Newspaper Speech Genres]. Perm, Izd-
+vo Permskogo universiteta. 276 p.
+Fu J., Liang L., Zhou X., Zheng J., 2017. A
+Convolutional Neural Network for Clickbait
+Detection. 4th International Conference on
+Information Science and Control Engineering
+(ICISCE), 14 November, Changsha, China. S. l.,
+IEEE Publ., pp. 6-10. DOI: 10.1109/
+ICISCE.2017.11.
+Gajda S., Brzozowska D., ed., 2000. Świat humoru. Opole,
+Wydawnictwo Uniwersytetu Opolskiego. 628 p.
+Gavrikova O.A., 2018a. Kriterii vyiavleniia klikbeit-
+zagolovkov [Identification Сriteria of Сlickbait
+Рeadlines]. Iazykovye edinitsy v svete
+sovremennykh nauchnykh paradigm: materialy
+IV Vseros. nauch.-prakt. konf. s mezhdunar.
+uchastiem (20 dek. 2018 g.) [Linguistic Units
+in the Light of Modern Scientific Paradigms.
+Proceedings of the 4th Scientific and Practical
+Conference With International Participation,
+20 December, 2018]. Ufa, Izd-vo Bashkirskogo
+gosudarstvennogo universiteta, pp. 23-28.
+Gavrikova O.A., 2018b. O fastsinativnom vospriiatii
+klikbeit-form v interdiskursivnom prostranstve
+[Fascinative Perception of Clickbait Forms in an
+Interdiscursive Space]. Doklady Bashkirskogo
+universiteta, vol. 3, iss. 1, pp. 94-99.
+Gavrikova O.A., 2018c. Smyslovoe iskazhenie
+informatsii v klikbeit-zagolovkakh v tekstakh
+politicheskogo mediadiskursa [Semantic
+Distortion of Information in Clickbait Headers
+in the Texts of a Political Media Discourse].
+Vestnik Bashkirskogo universiteta [Bulletin of
+Bashkir University], vol. 23, iss. 1, pp. 173-178.
+DOI: 10.33184/bulletin-bsu-2018.1.28.
+Geckil A., Mungen A.A., Gundogan E., Kaya M., 2018.
+A Clickbait Detection Method on News Sites.
+10th IEEE/ACM International Conference on
+Advances in Social Networks Analysis and
+Mining (ASONAM), Barcelona, Spain, 28–
+31 August. S. l., IEEE Publ., pp. 932-937.
+Khater S.R., Al-Sahlee O.H., Daoud D.M.,
+El-Seoud M.S.A., 2018. Clickbait Detection.
+7th International Conference on Software and
+Information Engineering (ICSIE), British
+University in Cairo, Egypt, 2–4 May. Cairo, IEEE
+Publ., pp. 111-115. DOI: 10.1145/3220267.3220287.
+Molyneux L., Coddington M., 2019. Aggregation,
+Clickbait and Their Effect on Perceptions of
+Journalistic Credibility and Quality. Journalism
+Practice. Taylor & Francis, vol. 14, iss. 4, pp. 429-
+446. DOI: 10.1080/17512786.2019.1628658.
+Nikolaeva A.V, 2017. Klikbeit: k opredeleniiu poniatiia
+[Clickbait: Defining the Concept]. Aktual’nye
+problemy stilistiki [Actual Problems of
+Stylistics], no. 3, pp. 146-151.
+Potthast M., Köpsel S., Stein B., Hagen M., 2016.
+Clickbait Detection. 38th European Conference
+on Information Retrieval Research (ECIR),
+Padua, Italy, 20–23 March. S. l., Springer,
+pp. 810-817. DOI: 10.1007/978-3-319-30671-1_72.
+(Lecture Notes in Computer Science (LNCS),
+no. 9626).
+Serrano J.G., Romero-Rodríguez L.M., Gómez Á.H.,
+2018. Análisis del Clickbaiting en Los Titulares
+de la Prensa Española Contemporánea. Estudio
+de Caso: Diario El País en Facebook. Estudios
+Sobre el Mensaje Periodistico, vol. 25, iss. 1,
+pp. 197-212. DOI: 10.5209/ESMP.63724.
+Shu K., Wang S., Le T., Lee D., Liu H., 2018. Deep
+Headline Generation for Clickbait Detection.
+18th IEEE International Conference on Data
+Mining (ICDM), Singapore, 17–20 November.
+Singapore, IEEE Publ., pp. 467-476. DOI: 10.1109/
+ICDM.2018.00062.
+164
+МАТЕРИАЛЫ И СООБЩЕНИЯ
+Вестник ВолГУ. Серия 2, Языкознание. 2021. Т. 20. № 3
+Sladkevich Zh.R., 2019. Zagolovki-anonsy v setevykh
+mediaservisakh: mezhdu informirovaniem i
+klikbeitingom [Announcement Headlines in
+Network Media Services: Awareness and
+Clickbaiting]. Medialingvistika [Media
+Linguistics], vol. 6, iss. 3, pp. 354-369.
+Solov’ev A., 2018. Klikbeit-zagolovki v reklame:
+ispol’zovat’ nel’zia ignorirovat’ [Clickbait
+Headlines in Ads: Should Be Used and Cannot
+Be Ignored]. Zhurnalіstyka-2018: stan, prablemy
+і perspektyvy: materyialy 20-i mіzhnarodnai
+navukova-praktychnai kanferentsyі (Mіnsk, 15-
+16 lіst. 2018 g.) [Journalism-2018: Current
+Situation, Issues and Prospective Directions:
+Proceedings of the 20th International Scientific and
+Practical Conference (Minsk, 15–16 November,
+2018)],  Mіnsk, BDU, pp. 253-255.
+Vasileva V.V., 2017. “Obeshchanie smeshnogo” kak
+strategiia privlecheniia massovoi auditoria
+[“Promising Some Comic Entertainment” as a
+Strategy to Attract Mass Audience].
+Strategicheskie kommunikatsii v biznese i
+politike: tez. Mezhdunar. nauch. konf. (Sankt-
+Peterburg, 22–23 noyab., 2017 g.) [Strategic
+Communication in Business and Politics. Thesis
+Statements of International Scientific Conference
+(Saint Petersburg, November 22–23, 2017)]. URL:
+http://jf.spbu.ru/conf-pr/7558/7562-gr2.html
+(accessed 20 December 2019).
+Vasileva V., Prokofeva N., 2015. Slang Toponyms and
+Newsmakers’ Nicknames as a Communicative
+Contact and Indicator of Comic Culture in the
+Modern Russian Journalism. International
+Review of Management and Marketing, no. 5,
+pp. 1-10.
+Vinogradov V.V., 1959. O yazyke khudozhestvennoy
+literatury [About the Language of Fiction].
+Moscow, Goslitizdat Publ. 656 p.
+Vol’skaia N.N., 2018. Klikbeit kak sredstvo sozdaniia
+lozhnoi informatsii v internet-kommunikatsii
+[Clickbait as a Means of Producing False
+Information in Internet Communication].
+Mediaskop [Mediascope], no. 2. URL: http://
+www.mediascope.ru/2450 (accessed 19 December
+2019). DOI: 10.30547/mediascope.2.2018.12.
+Wang S., Wu Q., 2017. An Empirical Study on the
+Clickbait of Data Science Articles in the WeChat
+Official Accounts. International Conference on
+Frontier Computing (FC), Osaka, Japan, 12–
+14 July. S. l., Springer, pp. 131-140. DOI: 10.1007/
+978-981-10-7398-4_14. (Lecture Notes in
+Electrical Engineering (LNEE), no. 464).
+Wongsap N., Lou L., Jumun S., Prapphan T.,
+Kongyoung S., Kaothanthong N., 2018. Thai
+Clickbait Headline News Classification and its
+Characteristic. 2018 International Conference
+on Embedded Systems and Intelligent
+Technology and International Conference on
+Information and Communication Technology
+for Embedded Systems, (ICESIT-ICICTES),
+Khon Kaen, Thailand, 7–9 May. S. l., IEEE Publ.,
+pp. 1-6. DOI: 10.1109/ICESIT-ICICTES.2018.
+8442064.
+Zannettou S., Chatzis S.P., Papadamou K.,
+Sirivianos M., 2018. The Good, the Bad and the
+Bait: Detecting and Characterizing Clickbait on
+YouTube. 1st Deep Learning and Security
+Workshop, co-located with the 39th IEEE
+Symposium on Security and Privacy, San
+Francisco, 21–23 May. S. l., IEEE Publ., pp. 63-
+69. DOI: 10.1109/SPW.2018.00018.
+Zheng H.-T., Yao X., Jiang Y., Xia S.-T., Xiao X., 2017.
+Boost Clickbait Detection Based on User
+Behavior Analysis. 1st Asia-Pacific Web and Web-
+Age Information Management Joint Conference
+on Web and Big Data, APWeb-WAIM, Beijing,
+China, 7–9 July. S. l., Springer, pp. 73-80. DOI:
+10.1007/978-3-319-63564-4_6. (Lecture Notes in
+Computer Science (LNCS), no. 10367).
+Zheng H.-T., Chen J.-Y., Yao X., Sangaiah A.K., Jiang
+Y., Zhao C.-Z., 2018. Clickbait Convolutional
+Neural Network. Symmetry. Multidisciplinary
+Digital Publishing Institute (MDPI), vol. 10,
+iss. 5. DOI: 10.3390/sym10050138.
+Science Journal of  VolSU. Linguistics. 2021. Vol. 20. No. 3
+N.A. Prokofeva, I.A. Akulovich. The Language Means of Comicality in Clickbait Headings
+Information About the Authors
+Natalia A. Prokofeva, Candidate of Sciences (Philology), Associate Professor, Media
+Linguistics Department, Higher School of Journalism and Mass Communications, Saint Petersburg
+State University, Vasilyevskiy ostrov, 1-ya Liniya, 26, 199004 Saint Petersburg, Russia,
+n.prokofieva@spbu.ru, https://orcid.org/0000-0003-3105-4530
+Irina A. Akulovich, Assistant, Chair of the Public Relations Department, Saint Petersburg State
+Electrotechnical University “LETI”, Professora Popova St, 5, 197376 Saint Petersburg, Russia;
+Postgraduate Student, Media Linguistics Department, Higher School of Journalism and Mass
+Communications, Saint Petersburg State University, Vasilyevskiy ostrov, 1-ya Liniya, 26, 199004 Saint
+Petersburg, Russia, iaakulovich@etu.ru, https://orcid.org/0000-0002-4804-7014
+Информация об авторах
+Наталья Анатольевна Прокофьева, кандидат филологических наук, доцент кафедры
+медиалингвистики Высшей школы журналистики и массовых коммуникаций, Санкт-Петербург-
+ский государственный университет, Васильевский остров, 1-я линия, 26, 199004 г. Санкт-
+Петербург, Россия, n.prokofieva@spbu.ru, https://orcid.org/0000-0003-3105-4530
+Ирина Анатольевна Акулович, ассистент кафедры «Связи с общественностью», Санкт-
+Петербургский государственный электротехнический университет «ЛЭТИ» им. В.И. Ульянова
+(Ленина), ул. Профессора Попова, 5, 197376 г. Санкт-Петербург, Россия; аспирант кафедры медиа-
+лингвистики Высшей школы журналистики и массовых коммуникаций, Санкт-Петербургский го-
+сударственный университет, Васильевский остров, 1-я линия, 26, 199004 г. Санкт-Петербург, Рос-
+сия, iaakulovich@etu.ru, https://orcid.org/0000-0002-4804-7014
