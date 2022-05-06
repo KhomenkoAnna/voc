@@ -1,0 +1,666 @@
+Когнитивная лингвистика 
+ 
+ 
+© Е. С. Савина, 2021 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+УДК 81’23 + 81’25 
+DOI 10.25205/1818-7935-2021-19-3-98-109 
+ 
+ 
+Юридическая лексика как средство выявления М. Прустом  
+культурных кодов аристократии, буржуазии и народа 
+ 
+Е. С. Савина 
+ 
+Московский государственный университет имени М. В. Ломоносова 
+Москва, Россия 
+ 
+ 
+Аннотация 
+Представлен стилистический и когнитивный анализ юридической лексики в третьем томе романа М. Пруста 
+(Le côté de Guermantes), автора, принадлежавшего к amateurs d’aristocratie, которая используется для описания 
+ментального, психологического и культурного мира Германтов в его противопоставлении, с одной стороны, 
+миру буржуазии, с другой – жизни простого народа. Рассматриваемые нами юридические термины входят  
+в состав стилистических фигур, прежде всего образных сравнений и метафор. Вслед за Ж. Корню и другими 
+исследователями, под юридической лексикой, юридической терминологией и юридическими терминами мы 
+понимаем все слова того или иного языка (в нашем случае французского), имеющие по меньшей мере одно 
+юридическое значение. Выявленные нами юридические термины мы разделили на две группы: общую юри-
+дическую лексику и лексику, относящуюся к отдельным отраслям права: конституционного, уголовного  
+и международного. Для проверки их семантики мы использовали словари, как двуязычные переводные,  
+так и одноязычные толковые, общие и специальные, и прибегали к методам контекстуального анализа. Ос-
+новная цель нашей работы заключалась в установлении функции данных фигур в тексте. Для решения этой 
+задачи необходимо было проанализировать семантику рассматриваемых терминов, выявить их коннотации,  
+а также установить их контекстуальные связи с фигурами, в которых задействована лексика из других облас-
+тей жизни. Германты ассоциируются в глазах выходцев буржуазии, представителем которых является, в част-
+ности, Марсель, с некими возвышенными образами: волшебными преданиями древних времен, произведе-
+ниями изобразительного и музыкального искусства, старинными музыкальными инструментами. В данном 
+контексте такой юридический термин, как carte photographique d’identité вносит по контрасту приземленную, 
+утилитарную, прозаическую ноту. С другой стороны, даже безобразная драка Сен-Лу с журналистом в ресто-
+ране возвышенно сравнивается с дипломатическим конфликтом на высшем уровне, с ситуацией из области 
+международного права. Демократические же изменения, которые привели к возвышению буржуазии, жизнь 
+простого народа и его взаимоотношения с хозяевами-буржуа, напротив, представлены предельно конкретно 
+как симбиоз: паводковые наносы ила; самые разные звуки и шумы, которые могут прекращаться только ис-
+кусственно по случаю визита президента. Чувства, например, восхищение издалека Марселем герцогиней 
+Германтской и любовь Сен-Лу к актрисе Рахиль переданы изображением разных аспектов тюремного заклю-
+чения. 
+Ключевые слова 
+метафора, образное сравнение, стилистические фигуры, юридическая лексика, юридическая терминология, 
+юридические термины, язык и стиль автора 
+Благодарности 
+Автор хотел бы поблагодарить Елену Эмильевну Разлогову, Ирину Николаевну Кузнецову и Татьяну Ильи-
+ничну Тарасову за ценные советы, полезные консультации и плодотворные обсуждения 
+Для цитирования 
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов аристократии, 
+буржуазии и народа // Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3.  
+С. 98–109. DOI 10.25205/1818-7935-2021-19-3-98-109 
+ 
+ 
+ 
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов    99 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Legal Vocabulary as Means of Revealing by Marcel Proust  
+of the Cultural Codes of French Aristocracy, Bourgeoisie  
+and Peasantry  
+ 
+Elena S. Savina 
+ 
+Lomonosov Moscow State University 
+Moscow, Russian Federation 
+ 
+Abstract 
+This article is devoted to the stylistic and cognitive analysis of the legal vocabulary in the third volume of Marcel 
+Proust’s novel “In Search of Lost Time” used in order to describe mental, psychological and cultural world of 
+Guermantes in its contrast with the world of bourgeoisie and with that of French peasants. The legal terms we consider 
+in the paper are used by Proust as core components of a number of stylistic figures, first of all, similes and metaphors. 
+Following Gérard Cornu and some other scholars, we understand legal terminology (legal terms and legal vocabulary 
+in general) as any word of language (in our case, those of French) having at least one legal meaning, acknowledged by 
+an authoritative French dictionary. The legal terms identified in the text were classified into two groups: general legal 
+vocabulary and specific legal vocabulary belonging to different branches of law: constitutional, criminal, international. 
+In order to confirm their legal semantics while conducting contextual analysis, we have consulted all types of diction-
+aries: bilingual, monolingual, general and special ones. The main aim of the article was to determine the functions of 
+these figures in Marcel Proust’s text whose poetics is not at all legal. To achieve it, the main task was to identify the 
+connections between the denotative meaning of a given term and its connotative contextual transformations. This 
+means first of all to decode contextual links between the legal figure under analysis and various domains of life it was 
+applied to by Proust. Eventually, this analysis helps to reveal French cultural codes, those of declining aristocracy, 
+empowered bourgeoisie and, in “Guermantes”, of peasantry. Thus, the Guermantes are associated in the eyes of the 
+bourgeoisie, represented by Marcel, with something ancient, inaccessible to rational minds, charming: some sublime 
+images, magical legends of ancient times, exquisite works of art and music, antique music instruments. In this context, 
+a legal term, such as  carte photographique d’identité for instance, introduces, by contrast, some materially-minded, 
+pragmatic, prosaic notes. At the same time, democratic changes leading to the rise of the bourgeoisie, as well as the 
+world of peasants are depicted in an extremely concrete way, being associated with the untamed force of nature: dam-
+age and devastation caused by the floods, noises, and the like. At the same time, various typical human feelings, such 
+as Marcel’s admiration and Saint-Loup’s love due to the use of legal figures may be represented as imprisonment. 
+Keywords 
+similes, metaphors, stylistic figures, legal vocabulary, legal terminology, legal terms, language and style of a writer 
+Acknowledgements 
+The author would like to thank Elena Razlogova, Irina Kuznetsova and Tatiana Tarasova for their precious and useful 
+advice, as well as for all our productive discussions 
+For citation 
+Savina, Elena S. Legal Vocabulary as Means of Revealing by Marcel Proust of the Cultural Codes of French Aristoc-
+racy, Bourgeoisie and Peasantry. Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, 
+no. 3, p. 98–109. (in Russ.) DOI 10.25205/1818-7935-2021-19-3-98-109 
+ 
+ 
+Введение 
+ 
+В романе М. Пруста вольно или невольно оказались представлены самые разнообразные 
+идеи. Так, переход от личного опыта к общефилософским проблемам в романе недавно под-
+вергся исследованию в работе И. И. Блауберг [2018], которая относит его проблематику  
+к традиционно находящейся в центре внимания философии. Новую грань творчества 
+М. Пруста сквозь призму его журналистской деятельности рассматривает В. П. Трыков 1. Ис-
+следователь показывает, что характеристики журналистских публикаций писателя впослед-
+ствии в полной мере проявились и в его прозе. Некоторые работы посвящены чувствитель-
+ности и сознанию в текстах писателя [Hughes, 2010]. Р. Эпштейн написал фундаментальную 
+статью о соотношении сознания, восприятия искусства и мозговой деятельности у Пруста  
+                                                            
+1 Трыков В. П. Марсель Пруст – журналист // Знание. Понимание. Умение. 2008. № 5. URL: http://www.zpu-
+journal.ru/e-zpu/2008/5/Trykov_Proust/ (дата обращения 17.12.2020). 
+100  
+Когнитивная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+и в его творчестве [2004] 2. Не случайно Т. М. Николаева высказывает мнение, что описы-
+ваемые в романе «события» на самом деле не происходили, не являются таковыми, а лишь 
+мерещатся герою [2012]. 
+В связи с изучением юридической лексики в составе художественного произведения так-
+же возникают очень специфические проблемы. Они не рассматриваются обычно в работах, 
+посвященных когнитивному анализу юридических терминов в юридическом дискурсе (ср. 
+[Федулова, 2017]) или истории формирования русской правовой терминологии в ее контак-
+тах с английской [Лутцева, 2007], что оказывается возможным, несмотря на то, что системы 
+права у нас базируются на принципиально различных основаниях. 
+В своих предыдущих статьях, посвященных М. Прусту, мы уже пытались определить 
+объем понятия «юридическая лексика» [Савина, 2019; 2020], отмечая его широту. Она трак-
+туется нами через ее отношения с фигурой законодателя (рассматриваемого тоже в самом 
+широком смысле) как «словарный состав современного языка, которым пользуется законода-
+тель в своей деятельности» 3. При всей своей широте это определение все-таки конкретнее 
+того, которое предложено, например, Ж. Корню, трактующим юридическую лексику как со-
+вокупность терминов, которые имеют в том или ином языке одно или несколько юридиче-
+ских значений («Le vocabulaire juridique français est, au sein d’une langue, l’ensemble des termes 
+qui ont, dans cette langue, une ou plusieurs acceptions juridiques») [Cornu, 2005. P. 14].  
+Спецификой функционирования юридической лексики в правовой сфере объясняются  
+и некоторые ее лингвистические особенности. Так, одной из ее характеристик является нали-
+чие большого количества антонимов, синонимов, многозначных слов и фразеологических 
+оборотов. Данная лингвистическая особенность тоже диктуется извне и связана с типами от-
+ношений между людьми, которые регулируются правом, что эксплицитно подчеркивается  
+в [Гойман-Калинский, Иванец, Червонюк, 2003]. 
+Художественный текст плодотворно соединяет специальное значение единиц, составляю- 
+щих юридическую лексику 4, с их лингвостилистическим и социокультурным потенциалом, 
+и потому исследователю приходится анализировать всевозможные стилистические фигуры 
+(прежде всего метафоры и сравнения), созданные на основе юридических терминов. 
+Стилистические фигуры рассматривают как отклонение от языковой нормы еще со вре-
+мен Квинтилиана (см., например, «А фигура, как и самое название ее показывает, есть некий 
+оборот речи, от общего и обыкновенного образа изъяснения мыслей отступающий» [Квинти-
+лиан, 1834. С. 124]. Во Франции данный подход был наиболее полно и систематически пред-
+ставлен в работах П. Фонтанье 1821 и 1827 г. Manuel classique pour l’étude des tropes, ou 
+élément de la science des mots и Des figures autres que tropes соответственно, в последний раз 
+переизданных в 2009 г. [Fontanier, 2009]. Однако анализу и классификациям фигур во фран-
+цузском языке до сих пор посвящается немалое количество работ (см., например, [Bacry, 
+1992; Fromilhague, 2010; Pougeoise, 2001; Reboul, 1991]), несмотря на богатую историю изу-
+чения этой проблематики. Некоторая новизна нашего подхода состоит в том, что, вслед за 
+Ж. Молинье, мы не будем разделять такие фигуры, как метафора и образное сравнение, а бу-
+дем считать сравнение первой стадией метафоры [Molinié, 1992. P. 213–214]. 
+Юридическая лексика занимает важное место в текстах М. Пруста. Мы разделили приме-
+ры, выявленные нами в третьем томе романа, на общую юридическую лексику и на термины, 
+                                                            
+2 R. Epstein использует отличное от нашего английское название романа Пруста: Remembrance of Things Past. 
+Однако этот вариант не нов, он появился еще при жизни Пруста, который считал, что оно сужает смысл произве-
+дения. Действительно, выражение things past придает ему излишнюю историческую прагматичность, а слово 
+remembrance несколько утрирует сам писательский процесс поиска времени. Кроме того, известно, что Пруст 
+категорически возражал против такого перевода названия. Именно поэтому мы предпочитаем другой, также усто-
+явшийся вариант, дословно воспроизводящий французский оригинал, In Search of Lost Time. 
+3 Гойман-Калинский И. В., Иванец Г. И., Червонюк В. И. Элементарные начала общей теории права. М.: Право 
+и закон, КолосС, 2003. URL: https://elementary_law.academic.ru/451 (дата обращения 17.12.2020). 
+4 В рамках нашей работы мы будем также использовать понятие «юридическая терминология», считая его 
+полным синонимом. 
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов    101 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+относящиеся к областям конституционного, международного и уголовного права. Специаль-
+ное значение анализируемых терминов уточняется по толковым и юридическим словарям. 
+ 
+1. Общая юридическая лексика 
+ 
+ Carte photographique d’identité «личная фотокарточка для документов» 
+Существительное identité в значении «данные о личности» в словаре Trésor de la langue 
+française 5 определяется как «ensemble des traits ou caractéristiques qui, au regard de l’état civil, 
+permettent de reconnaître une personne et d’établir son individualité au regard de la loi». В словаре 
+рассматриваемое значение помечено как относящееся к области права, а для его иллюстра-
+ции приводятся такие коллокации, как constater, vérifier l’identité de qqn, papier d’identité,  
+и там же присутствует рассматриваемое нами выражение. У М. Пруста оно релевантно, на 
+наш взгляд, в аспекте противопоставления «официальной фотокарточки для документов» 
+художественному портрету, с которым его «аристократический» романтизированный мир 
+ассоциируется, конечно же, в большей степени:  
+Cependant, la fée dépérit <...> et avec elle le nom, comme cette famille de Lusignan qui devait s’éteindre le 
+jour où disparaîtrait la fée Mélusine. Alors le Nom, sous les repeints successifs duquel nous pourrions finir par 
+retrouver à l’origine le beau portrait d’une étrangère que nous n’aurons jamais connue, n’est plus que la simple 
+carte photographique d’identité <...> Mais qu’une sensation d’une année d’autrefois – comme ces instruments de 
+musique enregistreurs qui gardent le son et le style des différents artistes qui en jouèrent – permette à notre 
+mémoire de nous faire entendre ce nom <...>, et ce nom <...>, nous sentons la distance qui sépare l’un de l’autre 
+les rêves que signifièrent successivement pour nous les syllabes identiques. <...> [Proust, 1988. P. 5]. 
+В начале третьего тома романа противопоставляется восприятие Марселем имени герцо-
+гини Германтской реальной женщине. Le Nom (т. е. Имя), его звучание, звуковой ореол зна-
+чат гораздо больше для мальчика, выступающего в роли наблюдателя, чем сама личность  
+(la personne réelle). Общение с реальной женщиной быстро переводит ее из категории феи, 
+которой она показалась ему издалека, в категорию «простых смертных», тогда как Имя ее 
+первоначальную магию хранит в неприкосновенности. Изначальное представление о ней  
+в его глазах иррационально, волшебно, загадочно, что выражается за счет использования су-
+ществительного fée, а также проведения аналогии с феей Мелюзиной, легендарной основа-
+тельницей династии Люзиньян, вымышленных предков Германтов. Оппозиция волшебного  
+и прозаического миров, деградация волшебства передаются также с помощью «утилитарного 
+изобретения» 6 carte photographique d’identité. Рассматриваемое выражение благодаря своему 
+«административному», «официальному» характеру противопоставляет сказочные (а также 
+связанные с областью изобразительного и музыкального искусства) мечты Марселя о герцо-
+гине Германтской реальной женщине.  
+Знакомству с «реальной» герцогиней Германтской соответствует и окончательное пре-
+вращение феи Мелюзины, женщины-змеи, в чудовище после того, как ее супруг нарушил 
+клятву и подсмотрел за ней в субботу, единственный день недели, когда он не должен был 
+этого делать, чтобы она могла жить как обычная женщина в остальное время 7. То же проис-
+ходит и с завораживающим портретом незнакомки, который словно становится обычной фо-
+токарточкой на документы, как только Марсель к ней приближается. Однако для повествова-
+теля очарование исчезает не навсегда, и прежние впечатления могут его воскресить. Это, 
+впрочем, не удивительно, поскольку психические состояния обратимы. Та же идея выража-
+ется и посредством упоминания древних музыкальных инструментов, несущих на себе отпе-
+чаток прикосновений ранее игравших на них музыкантов. Таким образом, М. Пруст выража-
+                                                            
+5 Le Trésor de la langue française. URL: http://atilf.atilf.fr/ (accessed 17.12.2020). 
+6 Изобретатель фотографии (Ньепс) был аристократического происхождения, а изображения правонарушите-
+лей были нужны еще королям в XVIII в. 
+7 Приводится по сайту https://www.leslusignanetmelusine.fr/index.php/34-la-legende/la-legende-de-melusine#js_ 
+navigation (дата обращения 17.12.2020). 
+102  
+Когнитивная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ет одну и ту же идею противопоставления воображаемого мира реальному (явно отдавая 
+предпочтение первому), обращаясь сразу к нескольким ассоциативным рядам (старинные 
+легенды, живопись, музыка). 
+ Coutumier «сборник кутюм, свод постановлений обычного права» 
+Существительное coutumier определяется в Юридическом словаре Ж. Корню следующим 
+образом: «Dans l’Ancien Droit, recueil de coutumes; plus spécialement celui des coutumes d’une 
+région». Мы уже рассматривали данный термин ранее [Савина, 2019. С. 69–70]. Однако там 
+он «абстрактно» перечислялся наряду с прочими французскими древностями, такими как ме-
+дальоны периода Возрождения, старинные названия населенных пунктов, которые с акусти-
+ческой точки зрения ассоциировались у Марселя с изысканным именем дяди маркиза де Сен-
+Лу, одного из самых недоступных представителей аристократии, Паламедом. В следующем 
+же ниже контексте говорится о конкретном своде древних кутюм из архива герцогини Гер-
+мантской, с которым в его представлении были связаны ее черты лица и ее речь: 
+<...> Je revoyais les armoiries <...> dont les quartiers s’étaient remplis <...> de toutes les seigneuries <...> 
+venues <...> inscrire <...> leur donjon de sinople ou leur château d’argent dans son champ d’azur. J’avais entendu 
+parler des célèbres tapisseries de Guermantes et je les voyais <...> au pied de l’antique forêt où chassa si souvent 
+Childebert, et <...> il me semblait qu[e] <...> je pénétrerais dans leurs secrets, rien qu’en approchant un instant à 
+Paris Mme de Guermantes, suzeraine du lieu et dame du lac, comme si son visage et ses paroles eussent dû 
+posséder <...> les mêmes particularités séculaires que le vieux coutumier de ses archives. Mais alors <...> [Saint-
+Loup] m’avait appris que le château ne s’appelait Guermantes que depuis le XVIIe siècle <...> [Proust, 1988.  
+P. 8]. 
+Правовые обычаи действовали во Франции с эпохи Средневековья до революции 1789 г. 
+В данном случае рассматриваемое существительное, в отличие от предыдущего примера, 
+гармонично вписывается в развернутую сеть словесных ассоциаций, связанных в представ-
+лении Марселя с образом герцогини Германтской, в частности с древностью ее фамилии, 
+восходящей ко временам феодализма (на что прямо указывают такие существительные, как 
+armoiries, quartiers, seigneuries, château, donjon, suzeraine и прилагательное sinople, обозна-
+чающее зеленый цвет в геральдике), с рыцарскими романами о короле Артуре (dame du lac – 
+фея Озера, воспитавшая Ланцелота), а также с гербом их рода, замками, средневековыми на-
+стенными коврами, сословными привычками сельской жизни, природной средой, с древним 
+лесом, в котором охотился сын Хлодвига, само имя которого звучит еще по-германски. Дан-
+ная развернутая сеть визуальных ассоциаций вводится, как часто происходит у Пруста, кон-
+кретным зрительным образом – гербом рода Германтов рядом с витражами в церкви Комбре. 
+Но здесь романтическое воображение Марселя получает привычный контрудар, мечты снова 
+рассеиваются при контакте с реальностью, когда он осознает, что фактически «древность 
+присутствия» Германтов в этих местах восходит к XVII веку. Также интересно отметить, что 
+здесь имплицитно утверждается та же – рациональная по своей сути – мысль, что и в преды-
+дущем отрывке, а именно: сокращение дистанции с неким волшебным, загадочным, леген-
+дарным объектом, то есть переход из виртуального пространства в реальное,  неизбежно раз-
+рушает его очарование. 
+ Droit d’exercer librement le culte «право на свободное отправление культа» 
+Право на свободное отправление культа во Франции закреплено в первой статье закона об 
+отделении церкви от государства от 9 декабря 1905 года: «La République assure la liberté de 
+conscience. Elle garantit le libre exercice des cultes sous les seules restrictions édictées ci-après 
+dans l’intérêt de l’ordre public» 8. М. Пруст употребляет выражение droit reconnu d’exercer 
+librement le culte du déjeuner применительно к служанке Франсуазе (вводя в текст «крестьян-
+скую» тему, тему простого народа), которая после смерти тети Леонии перешла на службу  
+                                                            
+8 Приводится по сайту https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000508749 (дата 
+обращения 17.12.2020). 
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов    103 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+к родителям Марселя и вслед за этим переехала с ними в особняк Германтов, не только  
+в прямом значении, но и иронически, в как бы религиозном смысле: 
+<...> pareille à ces plantes qu’un animal <...> nourrit d’aliments qu’il attrape, mange, digère pour elles et 
+qu’il leur offre dans son dernier et tout assimilable résidu, Françoise vivait avec nous en symbiose; c’est nous 
+qui <...> devions nous charger d’élaborer les petites satisfactions d’amour-propre dont était formée –  
+en y ajoutant le droit reconnu d’exercer librement le culte du déjeuner suivant la coutume ancienne comportant 
+la petite gorgée d’air à la fenêtre quand il était fini – <...> la part de contentement indispensable à sa vie. Aussi 
+comprend-on que Françoise avait pu dépérir, <...> en proie <...> à <...> l’ennui dans ce sens énergique qu’il  
+a chez Corneille ou sous la plume des soldats qui finissent par se suicider parce qu’ils s’« ennuient » trop après 
+leur fiancée, leur village <...> [Proust, 1988. P. 13]. 
+В данном отрывке Марсель иронично передает эксплицитно сформулированное далее  
+в тексте описание представлений Франсуазы о добродетели:  
+Si elle tenait tant d’ailleurs <...> à ce qu’on nous sût riches, ce n’est pas que la richesse sans plus, la richesse 
+sans la vertu, fût aux yeux de Françoise le bien suprême, mais la vertu sans la richesse n’était pas non plus son 
+idéal. <...> Elle les séparait si peu qu’elle avait fini par prêter à chacune les qualités de l’autre, à exiger quelque 
+confortable dans la vertu, à reconnaître quelque chose d’édifiant dans la richesse [Proust, 1988. P. 15–16].  
+Для описания ее первых непростых дней на новом месте (где ее новым хозяевам не ока-
+зывали должного почтения, так как об их прежних заслугах никто не знал, в то время как  
+в Комбре тетю Леонию уважали) и сложных отношений с семьей Марселя (с одной стороны, 
+она была столь же неразрывно связана с ними, как растение в симбиозе с животным; с дру-
+гой – представляла свое право проводить за обедом с другими слугами по три часа в день 
+столь же неприкосновенным как право на свободу отправления культа) используются срав-
+нения и метафоры из разных сфер жизни: ботаники, права, армии. Пруст вводит, проводя не-
+сколько ироничную параллель, также интертекстуальный культурный концепт: уныние как  
+в трагедиях Корнеля, то есть в классицизме, когда для того, чтобы сохранить честь, нередко 
+приходилось умирать; равно как и «высокий» глагол dépérir, который ранее употреблялся 
+применительно к фее Мелюзине [Proust, 1988. P. 5]. Данные сравнения и метафоры, с одной 
+стороны, привносят ироничную нотку, с другой – позволяют выявить в служанке некие ис-
+конные, глубинные народные представления о чести и почете. 
+ Certificat d’authenticité «сертификат подлинности» 
+Существительное authenticité «подлинность, аутентичность, достоверность» определяется 
+в Юридическом словаре Ж. Корню как «qualité de l’objet ou du document (œuvre, écrit, etc.) 
+dont l’auteur ou l’origine sont attestés, notamment sur la foi d’un certificat».  
+В романе М. Пруста выражение certificat d’authenticité, используемое применительно  
+к произведениям искусства, образно употребляется для фигурального подтверждения под-
+линности высокого происхождения герцогини Германтской, равно как и для указания на то, 
+что само лишь ее присутствие в фамильной ложе ее кузины, принцессы Германтской, свиде-
+тельствовало в некотором роде о высокой ценности культурной жизни и о «высоком художе-
+ственном качестве» окружения последней, подобно тому как ее прекрасное имя непосредст-
+венно указывало на благородное происхождение, несмотря на то, что она сама далеко не 
+была красивой: 
+<...> Mais comme certains artistes qui, au lieu des lettres de leur nom, mettent au bas de leur toile une forme 
+belle par elle-même, un papillon, un lézard, une fleur, de même c’était la forme d’un corps et d’un visage 
+délicieux que la princesse apposait à l’angle de sa loge, montrant par là que la beauté peut être la plus noble des 
+signatures; car la présence de Mme de Guermantes <...> était, aux yeux des amateurs d’aristocratie, le meilleur 
+certificat d’authenticité du tableau que présentait sa baignoire <...>. 
+Notre imagination étant comme un orgue de Barbarie détraqué <...>, le souvenir de certaines œuvres du XVIe 
+siècle avait commencé à chanter en moi <...> [Proust, 1988. P. 37]. 
+В данном контексте тело и лицо госпожи Германтской сравниваются с произведением ис-
+кусства. В сертификате подлинности художественного произведения указываются характе-
+ристики, которые позволяют однозначно его идентифицировать: его название, дата написа-
+104  
+Когнитивная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ния, фамилия художника и т. д. В рассматриваемом отрывке говорится также об отдельных, 
+на первый взгляд, незначительных деталях, по красоте которых можно узнать руку мастера 
+даже без его подписи, и присутствие герцогини Германтской в ложе принцессы Германтской, 
+подобно этим элементам, свидетельствует о качестве круга общения последней. С этой точки 
+зрения герцогиня Германтская сопоставляется с величественным придворным портретом 
+эпохи Возрождения. При этом автор тут же указывает на субъективность ощущений подоб-
+ного рода, во-первых, используя оговорку «aux yeux des amateurs d’aristocratie», во-вторых, 
+сравнивая воображение наблюдателя с расстроенной шарманкой, воспроизводящей любую 
+мелодию, кроме требуемой. 
+ 
+2. Лексика, относящаяся к отдельным отраслям права 
+2.1. Лексика из области конституционного права 
+ Démocratie «демократия» 
+Существительное démocratie определяется в Юридическом словаре Ж. Корню как «régime 
+politique dans lequel le pouvoir suprême est attribué au peuple qui l’exerce lui-même, ou par 
+l’intermédiaire des représentants qu’il élit». В романе оно употребляется в составе образного 
+сравнения: 
+<...> C’était une de ces vieilles demeures <...> dans lesquelles la cour d’honneur – soit alluvions apportées 
+par le flot montant de la démocratie, soit legs de temps plus anciens où les divers métiers étaient groupés autour 
+du seigneur – avait souvent sur ses côtés des arrière-boutiques, <...> – et au fond, dans le logis «faisant hôtel», 
+une «comtesse» qui, quand elle sortait dans sa vieille calèche à deux chevaux, montrant sur son chapeau 
+quelques capucines semblant échappées du jardinet de la loge <...>, envoyait indistinctement des sourires et des 
+petits bonjours de la main aux enfants du portier et aux locataires bourgeois de l’immeuble qui passaient à ce 
+moment-là et qu’elle confondait dans sa dédaigneuse affabilité et sa morgue égalitaire [Proust, 1988. P. 10]. 
+Данный отрывок построен на целой серии антитез: арендаторы-буржуа в аристократиче-
+ском особняке, старинный особняк феодала – окружающее его жилье простого народа  
+и мнимое принятие герцогиней Германтской республиканского равенства, которое на самом 
+деле оказывается проявлением того же аристократического презрения, она не знает и не же-
+лает знать людей, которых приветствует (на что указывают такие похожие на оксюморон со-
+четания, как dédaigneuse égalité и morgue égalitaire). Особняк, в свою очередь, описывается 
+как связанный с древними временами, с ранним Средневековьем, с которым род Германтов 
+ассоциируется в глазах повествователя, когда различные гильдии располагались поблизости 
+от замка феодала. Здесь мы также имеем дело с метафорой из области гидрологии: подобно 
+тому, как наносы песка и ила, относящиеся к русловым процессам, постепенно изменяют 
+речное русло, так и народ, буржуазия и аристократия после Революции соседствуют друг  
+с другом во дворе аристократического особняка, словно принесенные мощной волной демо-
+кратических перемен.  
+Интересно отметить и то, что здесь также присутствует одна из многочисленных подска-
+зок, по мнению Т. М. Николаевой, указывающих на то, что все эти события происходят лишь 
+в мечтах героя: в тексте никак не объясняется тот факт, что семья родителей Марселя в Па-
+риже внезапно поселилась по соседству с особняком Германтов [Николаева, 2012. С. 58], не-
+смотря на то, что «в салон герцогини практически попасть почти невозможно» [Там же], 
+причем «юный Марсель не совершает никаких коммуникативных усилий – все слетаются  
+к нему как пчелы на мед». [Там же. С. 56] 
+ Chef d’État «глава государства», peuple «народ» 
+Данный термин также уже встречался при сравнении развития любовных отношений 
+Марселя и Жильберты с ситуацией из области международного права [Савина, 2019. С. 72–
+73]. Но в следующем ниже контексте рассматриваемые выражения неожиданно используют-
+ся М. Прустом в составе необычного образного сравнения ощущений больного при исполь-
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов    105 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+зовании ватных беруш для сна и при их извлечении после пробуждения в целях противопос-
+тавления их прагматических эффектов: 
+<...> Le pianissimo ne suffit plus, la boule fait instantanément fermer le clavier et la leçon de musique est 
+brusquement finie; le monsieur qui marchait sur notre tête cesse d’un seul coup sa ronde ; la circulation des 
+voitures et des tramways est interrompue comme si on attendait un chef d’État. <...> Qu’on retire, au contraire, 
+pour un instant au malade les cotons superposés à son tympan, et soudain la lumière, le plein soleil du son se 
+montre de nouveau, aveuglant, renaît dans l’univers; à toute vitesse rentre le peuple des bruits exilés; on assiste, 
+comme si elles étaient psalmodiées par des anges musiciens, à la résurrection des voix <...> [Proust, 1988. P. 69]. 
+В рассматриваемом случае разгул самых разных звуков и шумов накануне вечером кон-
+трастирует с их полным отсутствием и последующим «возрождением» на следующее утро. 
+Здесь сравнение, в состав которого входит юридическая лексика, используется для создания 
+очень сложной синестетической метафоры. Звуки соотносятся со зрительными впечатления-
+ми (на что указывают такие существительные, как lumière и plein soleil). Ситуация, связанная 
+с перекрытием уличного движения в ожидании главы государства, и последующее возвра-
+щение «изгнанного народа звуков» также входит в ее состав. С таким чисто физическим яв-
+лением, как «вернувшиеся» голоса, соотносятся и метафизические религиозные представле-
+ния, когда ангелы с музыкальными инструментами словно предвещают воскресение звуков, 
+подобно воскресению Христа. Эта комплексная метафора указывает на тесную связь-пере- 
+плетение всех явлений окружающего мира (звуковых, зрительных, политических, религиоз-
+ных) в представлении Марселя, когда при пробуждении все звуки и шумы народной жизни 
+обрушиваются на него «в полном объеме». 
+2.2 Лексика из области уголовного права 
+ Condamné («осужденный, приговоренный»), prison («тюрьма») 
+Существительное condamné определяется в словаре «Trésor de la langue française» как 
+«frappé d’une condamnation par la justice», а prison – как «établissement pénitentiaire clos, 
+aménagé pour recevoir des individus condamnés par les tribunaux à une peine les privant de liberté 
+ou des prévenus en instance de jugement». Ожидание Марселем выхода герцогини Германтской 
+на прогулку сравнивается, с одной стороны, с ожиданием разъяренной толпой выхода приго-
+воренного к смертной казни из тюрьмы, с другой – с восторгом толпы, ожидающей великого 
+человека, дабы увидеть и поприветствовать его лично: 
+<...> Car jamais fanatique d’une grande comédienne qu’il ne connaît pas, allant faire « le pied de grue » 
+devant la sortie des artistes, jamais foule exaspérée ou idolâtre réunie pour insulter ou porter en triomphe  
+le condamné ou le grand homme qu’on croit être sur le point de passer chaque fois qu’on entend du bruit venu de 
+l’intérieur de la prison ou du palais, ne furent aussi ému que je l’étais, attendant le départ de cette grande dame 
+qui, dans sa toilette simple, savait, par la grâce de sa marche (toute différente de l’allure qu’elle avait quand elle 
+entrait dans un salon ou dans une loge), faire de sa promenade matinale – il n’y avait pour moi qu’elle au monde 
+qui se promenât – tout un poème d’élégance et la plus fine parure, la plus curieuse fleur du beau temps <...> 
+[Proust, 1988. P. 52]. 
+В данном случае страстное ожидание Марселем выхода герцогини Германтской на про-
+гулку сравнивается с описанными выше ситуациями. Все эти сравнения указывают на раз-
+личные чувства ожидающих, не реальные, но потенциально возможные для чувственности 
+Марселя (о чем свидетельствует в том числе и похожий на заклинание повтор наречия 
+jamais, хотя объективно молодой человек не может проверить данный факт) – от низменных 
+до самых высоких, от желания присутствовать на казни до поклонения перед искусством  
+и неудержимого восторга перед великим человеком (которые, как известно, в толпе могут 
+сменять друг друга за считанные секунды). Подобные сопоставления используются для того, 
+чтобы выявить на фоне психологии толпы силу восхищения герцогиней со стороны ее от-
+дельного молодого поклонника; но оно скорее воображается Марселем, чем охватывает его 
+реально, на что указывают и такие в высшей степени поэтичные выражения, передающие  
+его представления о прогулке герцогини, как tout un poème d’élégance, la plus fine parure  
+и la plus curieuse fleur du beau temps. 
+106  
+Когнитивная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Сравнение с тюрьмой используется М. Прустом также при описании страданий Робера де 
+Сен-Лу после ссоры с его возлюбленной Рахиль: 
+<...> On a dit aussi que le silence était un supplice, et capable de rendre fou celui qui y était astreint dans les 
+prisons. <...> D’ailleurs, plus cruel que celui des prisons, ce silence-là est prison lui-même. Une clôture 
+immatérielle, sans doute, mais impénétrable, cette tranche interposée d’atmosphère vide, mais que les rayons 
+visuels de l’abandonné ne peuvent traverser <...> [Proust, 1988. P. 114–115]. 
+В рассматриваемом контексте молчание Рахиль, от которого страдает Сен-Лу, сравнива-
+ется с тишиной, от которой сходят с ума заключенные в одиночной камере. От данного срав-
+нения М. Пруст переходит к концептуальной метафоре («ce silence-là est prison lui-même»). 
+Отчаяние влюбленного в подобной ситуации передается и посредством противопоставления 
+прилагательных immatériel и vide прилагательному impénétrable и относительному придаточ-
+ному que les rayons visuels de l’abandonné ne peuvent traverser. Здесь снова «абстрактные» су-
+губо вербальные страдания Робера де Сен-Лу психологизируются посредством их сравнения 
+с известными ему конкретными видами мучений заключенных в тюрьмах, что делает данную 
+ситуацию более живой, реальной и позволяет читателю лучше представить себе мучения мо-
+лодого человека, которого также словно наказывают молчанием за некое преступление. 
+2.3. Лексика из области международного права 
+ Expatriation «экспатриация» 
+Существительное expatriation определяется в Юридическом словаре Ж. Корню как «action 
+d’expatrier, d’être expatrié ou de s’expatrier; résultat de cette action; état de la personne expatriée». 
+Сравнение с данной правовой ситуацией продолжает описание мучений Робера де Сен-Лу,  
+и, в частности, болезненное переживание им любовных страданий в надежде на скорое воз-
+вращение Рахиль к нему, сопоставляется с действиями экспатрианта, который уладил все 
+свои дела на родине, ожидая скорейшего отъезда за границу. Подобно тому, как такой отъезд 
+не произойдет в действительности, так и возлюбленная Робера к нему не вернется: 
+<...> Après avoir entrevu ainsi une oasis imaginaire de tendresse, il se retrouvait piétinant dans le désert réel 
+du silence sans fin. 
+Il souffrait d’avance, sans en oublier une, toutes les douleurs d’une rupture qu’à d’autres moments il croyait 
+pouvoir éviter, comme les gens qui règlent toutes leurs affaires en vue d’une expatriation qui ne s’effectuera pas, 
+et dont la pensée, qui ne sait plus où elle devra se situer le lendemain, s’agite momentanément, détachée d’eux, 
+pareille à ce cœur qu’on arrache à un malade et qui continue à battre, séparé du reste du corps. En tout cas, 
+cette espérance que sa maîtresse reviendrait lui donnait croyance qu’on pourra revenir vivant du combat aide  
+à affronter la mort <...> [Proust, 1988. P. 115]. 
+В рассматриваемом примере любовные страдания Робера де Сен-Лу также изображаются 
+как блуждания по пустыне в тщетной надежде найти оазис. Ход его мыслей представлен по-
+средством сравнения из области хирургии, а надежда на скорейшее примирение – сравнени-
+ем из военной сферы. Благодаря описанию чувств Сен-Лу через параллели со столь далекими 
+друг от друга областями жизни читатель получает максимально детальное и конкретное 
+представление о них. 
+ Diplomates «дипломаты», paix «мир», guerre «война», rectification de frontière «уточне-
+ние границы», droit des gens «международное публичное право» 
+Данные термины из области международного права образно используются М. Прустом 
+для описания драки Сен-Лу с журналистом в ресторане: 
+À ce moment, je vis Saint-Loup lever son bras verticalement au-dessus de sa tête <...> comme un chef 
+d’orchestre, et en effet – sans plus de transition que sur un simple geste d’archet, dans une symphonie ou un 
+ballet, des rythmes violents succèdent à un gracieux andante <...>, il abattit sa main, en une gifle retentissante, sur 
+la joue du journaliste. 
+Maintenant qu’aux conversations cadencées des diplomates, aux arts riants de la paix, avait succédé l’élan 
+furieux de la guerre, <...> je n’eusse pas été trop étonné de voir les adversaires baignant dans leur sang. Mais ce 
+que je ne pouvais pas comprendre (comme les personnes qui trouvent que ce n’est pas de jeu que survienne une 
+guerre entre deux pays quand il n’a encore été question que d’une rectification de frontière, ou la mort d’un 
+Савина Е. С. Юридическая лексика как средство выявления М. Прустом культурных кодов    107 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+malade alors qu’il n’était question que d’une grosseur du foie), c’était comment Saint-Loup avait pu faire suivre 
+ces paroles <...> d’un geste qui ne sortait nullement d’elles, <...> le geste de ce bras levé non seulement au 
+mépris du droit des gens, mais du principe de causalité <...> [Proust, 1988. P. 172–173]. 
+Отношения между людьми сравниваются с отношениями между государствами, а необос-
+нованная, на первый взгляд, агрессия – с внезапным началом войны между странами. Рас-
+сматриваемая аналогия активно подкрепляется сравнениями с другими сферами деятельно-
+сти – музыкой (она вводится лексемами chef d’orchestre, archet, symphonie, ballet, andante), 
+медициной (mort, malade, grosseur de foie) и логикой (principe de causalité). Внезапность аг-
+рессии подчеркивается и контекстуальным противопоставлением лексики, указывающей на 
+внешнюю учтивость (paroles courtoises, amabilité) словам, прямо указывающим на физиче-
+ское насилие (une gifle, les coups). 
+ 
+Заключение 
+ 
+Юридическая лексика в начале третьего тома романа используется М. Прустом с тремя 
+следующими целями. 
+1. Описание мира аристократии таким, каким он видится выходцам из буржуазии, в созна-
+нии которых воображаемое противопоставлено реальному. 
+Разнообразные культурные концепты, связанные в воображении Марселя, в частности,  
+с представлением о герцогине Германтской, на поверку оказываются обманчивыми. При 
+этом юридическая лексика может указывать как на возвышенные представления мальчика  
+о них, так и на их несоответствие действительности. 
+2. Описание жизни народа, в котором, напротив, преобладают предельно конкретные 
+сравнения и метафоры. 
+Автор иронически сравнивает право Франсуазы проводить за обедом с другими слугами 
+около трех часов со свободой отправления религиозного культа, представляя эту ее привыч-
+ку как столь же священное право. Медленное поглощение аристократических атрибутов 
+прежней жизни высшего сословия народной массой со своей материальной культурой и об-
+разом жизни представлено как затопление, захламление парадного двора богатого поместья 
+неудержимым разливом демократии. Эти сравнения и метафоры соотносятся с другими, так-
+же конкретными (ботаника, армия). Если и появляются аллюзии на прецедентные абстракт-
+ные культурные концепты (особый вид уныния в трагедиях Корнеля), то они используются 
+скорее иронически. 
+3. Описание различных ощущений, чувств и отношений между представителями различ-
+ных слоев общества. 
+Мотивация больного, использующего беруши для того, чтобы быстрее заснуть, отгоро-
+диться от шумов уличной жизни, подкрепляется посредством развернутого сравнения и ме-
+тафоры, в рамках которых переплетаются воедино правовая ситуация, визуальные, слуховые 
+ощущения и религиозные представления. Сложные отношения между Робером де Сен-Лу  
+и его возлюбленной Рахиль, происходящей из «низов», представлены различными ситуация-
+ми из области международного и уголовного права. Внезапное начало драки Сен-Лу с жур-
+налистом изображено как конфликтная ситуация международного права. При этом автор 
+прибегает и к сравнению из области музыки, что позволяет представить драку как произве-
+дение искусства. 
+Проведенный анализ материала позволяет утверждать, что юридическая лексика в начале 
+третьего тома романа М. Пруста отражает романтические представления автора о жизни  
+в целом, прежде всего о философии отношений традиционных французских социальных со-
+словий в эпоху Третьей республики. С метафорами и сравнениями, созданными на основе 
+юридической лексики, соотносятся другие, как абстрактные, так и конкретные. Актуализиру-
+ется не только и не столько семантика юридических терминов, сколько связанные с ними 
+представления и ассоциации автора о социальном окружении персонажей, часто на фоне вы-
+108  
+Когнитивная лингвистика 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+мышленного любовного страдания. Задействование юридической лексики и ее связь со срав-
+нениями и метафорами из других сфер не только указывают на ее специфическую текстопо-
+рождающую роль в поэтике Пруста, но и позволяют воссоздать в литературном произведе-
+нии многоплановую картину жизни и разнообразного культурного сознания французского 
+общества, подмеченную в работах И. И. Блауберг и Р. Эпштейна. 
+ 

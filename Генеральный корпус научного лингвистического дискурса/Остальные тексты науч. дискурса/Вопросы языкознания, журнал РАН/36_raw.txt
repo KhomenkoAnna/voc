@@ -1,0 +1,652 @@
+С. / Pp. 76–90 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2020. № 5
+ 
+Voprosy Jazykoznanija
+Ability and possibility in Tocharian A:
+The semantics of the verbs yāt- and cämp-
+and their derivatives
+Maksim V. Vyzhlakov 
+Palacký University Olomouc, Olomouc, Czech Republic; m.v.vyzhlakov@gmail.com
+Abstract: There are two verbs in Tocharian A that denote potential modality: yāt- and cämp-. Their forms, 
+as well as the derived abstract nouns yātlune and cämplune, are usually translated almost identically. 
+A thorough analysis shows that yāt- emphasizes the aspect of probability, external to the agent, whereas 
+cämp- focuses on the inner ability or potency of the agent. Yāt- demonstrates a rather impersonal and 
+inactive behavior even at the level of grammar, which can be seen in the distribution of forms and some 
+speciﬁ c syntactic constructions. This distinction is found in the derivatives as well. For instance, yātlune, 
+unlike cämplune, is regularly described as not inherent to the owner, so it can be gained or achieved. 
+While it is diﬃ  cult to ﬁ nd diﬀ erences in the core semantics of these words (i.e., ‘ability’ or ‘power’), 
+yātlune has, in addition, speciﬁ c meanings, such as ‘possessions, property’ and probably ‘perfection’. 
+The article also includes two supplemental parts. The ﬁ rst has to do with the adjective cämpamo, bor-
+rowed from Tocharian B, and its controversial Tocharian A counterpart cämpam. The second part deals 
+with the lexicalized past participle yāytu and its probable synonym sākär. As the research will show, 
+both mean ‘obedient, docile’.
+Keywords: modality, possibility, Tocharian
+Acknowledgements: The author is very thankful to Loren A. Billings, Ilya B. Itkin, Anna V. Kuritsyna, 
+Olga V. Lundysheva, Sergey V. Malyshev, Claudio J. Rodríguez Higuera, and the reviewers for their 
+help and corrections. This work was supported by the SGS project “Metody lingvistické analýzy v Digi-
+tal Humanities”, no. IGA_FF_2019_019, allocated to Palacký University Olomouc in 2015 due to the 
+support of speciﬁ c higher education research.
+For citation: Vyzhlakov M. V. Ability and possibility in Tocharian A: The semantics of the verbs yāt- and 
+cämp- and their derivatives. Voprosy Jazykoznanija, 2020, 5: 76–90.
+DOI: 10.31857/0373-658X.2020.5.76-90
+Способность и возможность в тохарском А:
+семантика глаголов yāt- и cämp-
+и их дериватов
+Максим Владимирович Выжлаков
+Университет Палацкого в Оломоуце, Оломоуц, Чехия; m.v.vyzhlakov@gmail.com
+Аннотация: В тохарском А языке существует два глагола, обозначающих потенциальную модаль-
+ность: yāt- и cämp-. Обычно их формы, так же как и формы производных абстрактных существи-
+тельных yātlune и cämplune, переводятся практически одинаково. Тщательный анализ, однако, 
+показывает, что yāt- подчеркивает вероятностный аспект, внешний по отношению к деятелю, 
+тогда как cämp- концентрируется на внутренней способности, потенции деятеля. Yāt- демон-
+стрирует достаточно безличное и инактивное поведение даже на грамматическом уровне, что 
+можно увидеть на примере распределения некоторых форм, а также в отдельных синтаксических 
+© 2020
+ 
+ Maksim V. Vyzhlakov 
+77
+конструкциях. Указанное различие проявляется и в случае производных существительных. 
+В частности, yātlune, в отличие от cämplune, последовательно характеризируется как нечто, что 
+не является внутренне присущим носителю — yātlune можно получить или достичь. Хотя найти 
+различия в базовой семантике этих слов (например, ‘способность’ или ‘могущество’) достаточно 
+сложно, у yātlune есть и специфические значения, такие как ‘имущество’ и, возможно, ‘совер-
+шенство’. Статья содержит две дополнительных части. Одна из них касается прилагательного 
+cämpamo, пришедшего в тохарский А из тохарского B, а также аналогичного незаимствованного 
+слова cämpam, связанного с рядом противоречий. Другая же часть затрагивает лексикализован-
+ное причастие прошедшего времени yāytu и его вероятный синоним sākär. Как показывает наше 
+исследование, оба слова означают ‘послушный, покорный’.
+Ключевые слова: возможность, модальность, тохарские языки
+Благодарности: Автор признателен Л. А. Биллингсу, И. Б. Иткину, А. В. Курицыной, О. В. Лунды-
+шевой, С. В. Малышеву, К. Х. Родригезу Игере и рецензентам за помощь и исправления. Данная 
+работа была поддержана грантовым проектом “Metody lingvistické analýzy v Digital Humanities”, 
+no. IGA_FF_2019_019, выделенным Университету Палацкого в Оломоуце в 2015 г. в рамках под-
+держки специфических исследований в высших учебных заведениях.
+Для цитирования: Vyzhlakov M. V. Ability and possibility in Tocharian A: The semantics of the verbs 
+yāt- and cämp- and their derivatives. Вопросы языкознания, 2020, 5: 76–90.
+DOI: 10.31857/0373-658X.2020.5.76-90
+1. Cämp- and yāt- (Grundverb)
+The Tocharian languages comprise an extinct branch of the Indo-European language family, 
+spoken during the ﬁ rst millennium AD in the Tarim Basin (modern Xinjiang Uyghur Autono-
+mous Region, China) and discovered only in the early twentieth century. Many unsolved prob-
+lems and tentative solutions remain in Tocharian, especially its lexicology. For instance, both 
+languages under this branch, called Tocharian A and Tocharian B, contain the important verbs 
+yāt- and cämp-, which are usually translated similarly as ‘can’ or ‘be able’ but can have quite 
+distinctive meanings. In this paper I analyze Tocharian A exclusively, though the conclusions 
+here may also be applicable to Tocharian B.1
+It should also be mentioned that Tocharian verbs can have two (or even three) conjugational 
+paradigms: the ‘basic’ Grundverb and one or two Kausativa. These terms are merely traditional. 
+In fact, the valency and semantic relationships between these are highly controversial and quite 
+frequently cannot be described purely in terms of causativity. For this reason, an interpretation 
+of the third paradigm as the Antigrundverb [Malzahn 2010: 64 ﬀ .] has gained some traction, al-
+though it is not a universally recognized concept. This term is used in this paper in order to dis-
+tinguish between diﬀ erent stems, because yāt- attests this third paradigm. However, I will fo-
+cus on yāt- (Antigrundverb) only brieﬂ y, as its traditional rendering seems to be unambiguous. 
+(No Antigrundverb counterpart for cämp- is attested.)
+As for the Grundverb paradigms of cämp- and yāt-, common translation variants are found 
+in the literature. For instance, cämp- ‘be able’ [Carling et al. 2009: 195; Malzahn 2010: 635] 
+and ‘können, vermögen’ [Thomas, Krause 1964: 101]. As for yāt-, ‘fähig sein, imstande sein’ 
+[Thomas, Krause 1964: 128] and ‘be (cap)able’ [Malzahn 2010: 787]. However, none of these 
+variants shows much of a semantic diﬀ erence. (Both verbs are translated alike in two other works: 
+as ‘posse’ [Poucha 1955: 102, 239] and ‘мочь’ [Burlak, Itkin 2013: 406, 470].) Using the support 
+of considerable evidence, this study attempts to show that this diﬀ erence does exist, although it 
+may not always be demonstrated in every translation.
+ 
+1 In Tocharian B, yāt- is deﬁ ned as “ ‘be capable of’ [often with inﬁ nitive complement]; ‘succeed’ (Grund-
+verb), ‘have power over, control; tame’; (mediopassive) ‘be enabled’ ” (Kausativum); cämp-, as “ ‘be 
+able to’ [always followed by an inﬁ nitive]” [Adams 2013: 527, 272 (respectively)].
+78 
+Voprosy Jazykoznanija 
+2020. № 5
+In my view, the distinction between yāt- and cämp- could be formulated as follows:
+ 
+1) yāt- encodes deontic modality, emphasizing the possibility or probability for the agent 
+to do or achieve something, based on external conditions.
+ 
+2) cämp- rather expresses dynamic modality, emphasizing the potency or ability of the 
+agent to do or achieve something, based on its inner capability.
+There are several reasons for making such a proposal for yāt-. First, its personal forms demon-
+strate a rather ‘unbalanced’ distribution of tenses. There are no examples of either the preterit 
+or imperfect forms, only two sentences with the present, and one with the optative. Meanwhile, 
+there are at least eight examples of the subjunctive forms (which usually express the future in the 
+main clause but have various meanings in the subordinate clause 2). Taking into account the lim-
+ited number of entries containing yāt- (where the Grundverb paradigm is represented by around 
+27 tokens), the relatively high frequency of subjunctives shows a dominant pattern.
+As for the other forms of yāt-, the gerundive I, the absolutives I and II and the nt-participle 
+are absent and there is only one example of the m-participle yatmāṃ:
+(A 459 b3) /// yatmāṃ tāṣ säm cāturdi[ś]· /// ‘… <he> will be able. He … the four regions …’.3
+The participle seems to be part of a future construction with the 3 Sg. Sbjv. form of ‘be’, but 
+it cannot be unambiguously translated. It does not show any peculiarities either, in contrast with 
+the past participle yāytu, which should be investigated separately.
+Another notable feature of yāt- is the relatively frequent use of the gerundive II (at least nine 
+entries), which usually expresses possibility [Krause, Thomas 1960: 186–187]. With negation, 
+the gerundive can mean almost prohibition (A 2 a1–2, A 6 a3–4, A 7 a1–2), like ‘must not’. It is 
+worth mentioning that A 6 a3–4 uses the copular verb, which is in the third person. Meanwhile, 
+there are no examples of expression of the ﬁ rst or second person using either the ﬁ nite forms 
+or the non-ﬁ nite forms with the copular verb. Along with the frequency of the gerundive, this 
+suggests a strong tendency towards a generalized inactivity, both semantic and grammatical.
+In addition, the following observation about predicative constructions containing yāt- shows 
+a rather interesting yet controversial picture. Unfortunately, most of the examples are damaged 
+to some degree, so there are few sentences that give full information. First, the scheme of grammat-
+ical subject in the nominative (patient) + gerundive + inﬁ nitive with passive meaning is present:
+(A 2 a1–2) : mā =pärmāt tsru yärm yātal ya(tsi) a2 tsraṣṣune : 1 ‘Not in the least must energy 
+be decried. 1.’ [CEToM]
+(A 6 a3–4) : mā (nu yā)a4talyi ṣeṣ lokit lo«ki»tāp-äk yärk yatsi wätkässi ‘Aber ein Gast würde 
+nicht geheißen werden können einem Gaste aufzuwarten.’ [Sieg 1944: 9]
+(A 7 a1–2) tämyo sās ñi ṣñaṣṣeyāp ṣñi lyutār pāk śkaṃ (lkā)a2tsi kräṃtso nasluneyā mā yātalyi 
+tuṅ= śärsässi ‘Therefore, (because) she (is) of my own relative and mainly because 
+ 
+2 Cf. [Peyrot 2013: 616]: “In subclauses, the subjunctive takes on a variety of functions, which may be 
+summarised as ‘uncertainty’. It is used in the protasis of conditions, where it may be the only explicit 
+marking of the conditional; it is further found in eventual, iterative, indeﬁ nite, comparative, conces-
+sive, and ﬁ nal clauses. Compared to present subclauses, subjunctive subclauses denote events that are 
+not well known or do not need to be known precisely, or of which it is uncertain whether they actually 
+take place, or events that are irrelevant to the truth of the main clause.”
+ 
+3 Hereinafter, translations are mine unless another source is stated. The * symbol after a word denotes 
+a reconstructed form of an attested lexeme. The • and : symbols in the Tocharian citations denote spe-
+ciﬁ c punctuation marks used in Tocharian manuscripts, while the = symbol denotes sandhi and the 
+subscript marks show the beginning of a new line. The /// , – , and · symbols denote diﬀ erent amounts 
+of the lost text. The symbols in my translations are: (…) — reconstructed text, that is not preserved 
+in the manuscript;  — additional text, needed for understanding the phrase; […] — other additional 
+notes; (?) — questionable translation.
+ 
+ Maksim V. Vyzhlakov 
+79
+of being beautiful to look at, (she) must not be made aware of the love’ (my transl., based 
+on [CEToM]).
+Another gerundive construction is no grammatical subject + agent in the genitive or per-
+lative + gerundive + inﬁ nitive with active meaning:
+(A 66 a5) (ā)kāl ritorā tatmus nasam ṣakk atsek nāñi brahmadatte wäl pats mäskal mā nu ñkā 
+yātal mäccākye (///) ‘I was born because I cherished a wish. King Brahmadatta, by any 
+means, must become my husband, for it is impossible for me (to kill the elephant) by my-
+self’ (transl. by S. V. Malyshev, p. c., with my minor changes).
+(A 69ext 4 b5) (yātal te nṣā mätta)kyāp puk saṃ[sā](r-ṣi)näs wrasaśśi klopaṃ [p]āṣlune yatsi 
+kupre pat nu mā yātal • ‘(Is it possible for me to protect by myself) the living beings 
+of Saṃsāra in <their> suﬀ ering? What if it is impossible?’ (reconstructed and transl. 
+by I. B. Itkin and S. V. Malyshev, p. c., with my minor changes).
+As for the personal forms, we can ﬁ nd the construction of grammatical subject in the nom-
+inative (patient) + agent in the genitive or perlative + personal form + inﬁ nitive with pas-
+sive meaning:
+(A 14 a1–2) : (2 || śla)k śkaṃ pñintwāśśi säs pᵤkäṣ lyutār kāswone näm kuc ne täm mā a2 poryo 
+tskäṃsaṃtär mā wäryo sikaṃtä(r) mā lāñcsā pärtsi yāteñc mā penu lyäksā kärnātsi yāteñc 
+‘(2. And furthermore): Of virtue/merit this is the one quality superior to all for us: that it 
+is not burned with ﬁ re, not ﬂ ooded away by water, [that it] cannot be taken away by kings 
+[and that] further they cannot be stolen by thieves.’ 5 [CEToM]
+(A 125ext 6 a3) … pāpṣu[ne] (waṣtäṣ laltuntāp pāssi ya)tatär mā waṣt lmontāp … ‘Observa-
+tion <of rules> (by the one who left home) can be (observed), <but> not by a householder’ 
+[Itkin 2020: 226] (reconstructed and transl. by S. V. Malyshev; conjecture (ya)tatär ac-
+cording to [Siegling PK: 66]).
+There are three possible exceptions within this system. The ﬁ rst contains the gerundive and 
+the inﬁ nitive with active meaning, but the gerundive seems to play an attributive role:
+(A 23 b1–3) pälkāt – b2 – – – – k·tukr(i) wl(e)ṣluneyā tsres päśres āsres tukrinuñcäs krośśes mā yāt-
+lyes ptāñäb3(kte ka)pśñac tsinātsi ‘he saw (his hands) …, [which were,] due to working the 
+clay, rough, hard, dry, covered in clay, cold and not ﬁ t to touch the Buddha’s body.’ [CEToM]
+As for the unusual variant of rendering here, if we compare this usage with the proposed se-
+mantics of yāt-, the sentence rather assumes that the hands could not touch the Buddha’s body 
+because they were dirty, rough, etc. (external conditions again).
+There is also a strange passage that seems to lack the inﬁ nitive:
+(A 17 b2–3) pñintu(yo) b3 ptāñkät yärkā ypamāṃ yatatär : ‘through virtue one becomes the vene-
+rated Buddha.’ [CEToM]
+ 
+4 A 69ext = THT 1382.l + A 69 + THT 1382.c + THT 1868.
+ 
+5 The translation is not fully correct, because pñintwāśśi and all the verbs in the subordinate clause are 
+in the plural. However, it is diﬃ  cult to render this passage precisely, because it indeed shows some in-
+consistency between the singular and the plural. Also, tskäṃsaṃtär and sikaṃtä(r) are in the pre sent, 
+while yāteñc is in the subjunctive. [Peyrot 2013: 793] suggests that yāt- is sometimes used in the sub-
+junctive in such contexts where it should be in the present. On the one hand, it can be another sign 
+of the ‘unbalanced’ tense system. On the other, there can be an additional meaning, such as indeﬁ nite-
+ness (see [Ibid.: 258–259]): ‘… taken away by whatever kings …’, ‘… stolen by whatever thieves …’. 
+Such an emphasis on indeﬁ niteness can hardly be applied to the uncountable “ﬁ re” and “water”.
+ 
+6 A 125ext = A 125 + THT 1425.e + A 117.
+80 
+Voprosy Jazykoznanija 
+2020. № 5
+The whole translation is questionable, and the assumption of meaning ‘become’ (or even ‘can 
+become’) for yatatär, 3 Sg. Prs. M. of yāt-, has no apparent foundation. (If anything, the verb is 
+intransitive.) Either the inﬁ nitive meaning ‘become’ is missing or the participle ypamāṃ is em-
+ployed instead of the inﬁ nitive yatsi (perhaps by mistake). Also, this translation is built on the 
+assumption that yärkā ypamāṃ ‘venerating /  venerated’ is the postpositive attribute of ptāñkät 
+‘the Buddha’, which is a plausible story, but not a reliable one as Tocharian A has a strong ten-
+dency to employ prepositive attributes. If we treat yärkā ypamāṃ as the argument of yatatär, 
+the syntax of the phrase becomes a little bit less peculiar. In addition, taking into account that 
+the next sentence advises the veneration of the Buddha, the whole passage may have quite the 
+opposite meaning: ‘Through virtue the Buddha can [be] venerated.’
+Finally, we can ﬁ nd a construction with an intransitive verb:
+(YQ III.5 b2) /// (: w)[s](o)konyo ats śl= āñcālyi tṣaṃ ytsi yātaṣ eṅkäl kleś wikäṣṣ oki : ‘… with 
+joy indeed and hands placed together he will be able to come here, [and] he will drive 
+away as it were the impurity of passion’ [Ji et al. 1998: 165].
+However, there are peculiarities in this passage and its translation, which can be connected 
+with another interesting detail about the usage of yāt-. While yātaṣ is the subjunctive form, wikäṣ 
+‘drives away, removes’ is the present-tense form. Still, [Ji et al. 1998] translate both verbs us-
+ing the future tense. Such interpretation is possible as the present sometimes can have a future 
+meaning. On the contrary, this passage has been treated as an example of a present- subjunctive: 
+“Morphologically, TA yātaṣ looks like a subjunctive, but in this example parallel and unambig-
+uously presentic wikäṣ suggests that it is used as a present” [Peyrot 2013: 653–654]. Rather un-
+usually, both variants assume the use of two diﬀ erent tenses with the same meaning within the 
+same sentence. There is an equal chance that it is a conditional clause (subjunctive) plus a main 
+clause (present): the conditional conjunction kᵤpre ne may have been lost because of the destruc-
+tion of the leaf, yet it can be just omitted, especially in poetical texts (e.g. A 65 a2, A 229 a7, 
+A 230 a2). Note that the YQ III.5 b2 passage is also written in verse. It is likely that only an analy-
+sis of the context where the passage is from, as well as making a comparison with the parallel 
+found in Old Uyghur, can give us a solution.
+The plots of the Tocharian A (TA) and Old Uyghur (OU) fragments coincide along general 
+lines: a group of women go to the Nyagrodhārāma monastery, the dwelling of the Buddha, and 
+recite diﬀ erent speeches. One of them sees the monastery and speaks in monologue about how 
+the Buddha brought happiness to thousands of women and cured them of their passion. After 
+that, queen Gautamī steps into the monastery. Despite the fact that the OU version is much bet-
+ter preserved, it does not contain the name of the last speaker. In [Geng, Klimkeit 1988: 191], 
+it is restored as Gautamī, but the Tocharian version has the name of a diﬀ erent queen: Gopikā. 
+In addition, the OU monologue has nothing similar to ‘with joy indeed and hands placed to-
+gether he will be able to come here’ (the Buddha is already in Nyagrodhārāma and does not go 
+anywhere). Keeping in mind that YQ III.5 b2 contains no explicit pronouns or words that could 
+tell the gender, I suggest that at least one ‘she’ should replace a ‘he’ in this sentence. While, ac-
+cording to the OU parallel, it is the Buddha who provides the cure from passions, he is not the 
+subject of the subjunctive part of the sentence.
+Summing up, the Tocharian pada probably means ‘if <she = Gautamī> can come here [to the 
+monastery] with joy indeed and hands placed together, <he = the Buddha> will drive away <from 
+her> as it were the impurity of passion.’ The sentence preserves the active construction, but it 
+stresses rather the external condition than the inner capability.
+Whether yāt- can form active constructions or not, it obviously has a very strong tendency 
+towards passive and reﬂ exive ones. Strikingly, cämp- provides us with plenty of active exam-
+ples and with a complete absence of passive ones. In other words, the agent of cämp- can only 
+be the subject (or at least tends to be so), while yāt- gives to its agent the object role, creating 
+an impersonal impression for this lexeme. The subject of both the ﬁ nite forms of cämp- and its 
+gerundive constructions tends to be always in the nominative.
+ 
+ Maksim V. Vyzhlakov 
+81
+Apart from this, investigating cämp- without comparing it to yāt- cannot give us so much in-
+formation. Cämp- is visibly more frequent than its counterpart because there are at least 50 re-
+gistered examples accounting for it. However, cämp- shows a much more consistent situation, 
+deﬁ nitely corresponding to the aforementioned variants of its translation, provides a diverse va-
+riety of tense forms, and is attested in all three persons:
+1 Sg. Prs.: (A 191 b3) /// (eṃ)tsässi mā śkaṃ cäm[pa]m || ‘… and I cannot take’
+2 Sg. Prs.:  (A 343 b4) /// (o)mäskeṃ wraso[m] (mā tu) [cä]mpät ‘… as a bad person you [Sg.] 
+are not able <to do something> …’ (transl. from [CEToM], with my minor changes).
+3 Pl. Prt.:  (A 395 b1) • tmäṣ āsuk ysi kuc yärmaṃ mā campär ‘Then they could not come fur-
+ther away at all’ [CEToM]
+The gerundive cämpäl demonstrates no semantic diﬀ erence from the ﬁ nite forms and is quite 
+regularly used with the ﬁ rst and second person forms of the verb nas- ‘be’ (all these examples 
+are in the present). Even in the cases where the copula is omitted, A 342 a5 and b2–3, the ﬁ rst 
+person is explicitly shown by the pronouns.
+Little can be added to the traditional variants of rendering. Sometimes the very contexts sug-
+gest ‘manage’ as a translation, emphasizing the personal potency not only to conduct some ac-
+tion, but to overcome something. For example:
+(A 7 a2–3) kus nu cämpiṣ taṃne kräṃ(tso)a3nāṃ taṃne tkanā «†taṃne» «†tkanā» taṃne praṣtā 
+kälporäṣ āñcäm sākässi ‘But who would, having found such a beautiful girl in such a place 
+and at such a time, be able to restrain oneself?’ [CEToM]
+(A 153 b2) /// neyā āsäñcac porr oki eṅkäl santānaṃ täklā-ṃ kapśañi sākässi mā śkaṃ campäs 
+ṣūraṃ lcā-ṃ /// ‘… because of (touching?) the buttocks (?), like a ﬁ re, the passion lit 
+up in his mindstream, and <he> did not manage to restrain the body, the seed came out 
+from him …’ (transl. by S. V. Malyshev and me).
+(A 313 a5–6) cämpäl te nasam ānand śtwarāk päñ pi puklākaṃ salu (puttiśpa)a6rṣṣāṃ wles 
+wlessi : ‘Am I able, oh Ānanda, in 45 years’ time, to fulﬁ ll the entire service of a Bud-
+dha?’ [CEToM]
+Basically, cämp- is ‘be able / managed / will manage to do something’, whereas yāt- is ‘It is 
+possible to do something’.7
+Finally, the Old Uyghur parallels should be mentioned. They are surprisingly scarce, as most 
+of the respective OU fragments either are damaged or diﬀ er from the TA passages. Perhaps the 
+only interesting example can be found here:
+TA (A 296 a6) (///) (kupre ne … täm) kärsoräṣ rinäṣtār was yātiś-śi [ā](kāl … knässi) /// ‘(Si,) 
+après avoir compris (cela), tu nous abandonnes, puisse le vœu (désiré) être en état (d’être 
+réalisé) par toi !’ (conjecture and translation according to [Pinault 1993: 139]).
+OU (MaitrHami 13, 8 b10–12) amtï inčä ök ävrilmätin barïr b11 ärsär siz … küsämiš küsüšüngüz 
+qanmaqï b12 bolzun … ‘Wenn Ihr jetzt genau so, ohne Euch umzuwenden, weggeht, so möge 
+Euer ersehnter Wunsch in Erfüllung gehen!’ [Geng et al. 1991: 290].
+These passages do not correspond precisely, and while the TA sentence has the optative form 
+of yāt- (‘may it be possible’), the OU fragment has bolzun, the voluntative form of the verb bol- 
+‘be’ (‘may it be’). Furthermore, the TA passage YQ II.13 b7 contains cämp-. Its OU parallel, 
+MaitrHami 2, 15 b18–19, probably contains a construction with the verb bol-, but it is too da-
+maged to reach any deﬁ nitive conclusion.
+ 
+7 Cf. also [Seržant 2014: 201–204], where we can ﬁ nd a similar view on the deontic nature of the Grund-
+verb of yāt-. Note, however, that, because Seržant proposes a new interpretation of the Tocharian ver-
+bal system, he treats this not as the Grundverb, but as “Inagentiv”. The basic paradigm is diﬀ erent and 
+expresses not the deontic, but the dynamic possibility (see also footnote 10).
+82 
+Voprosy Jazykoznanija 
+2020. № 5
+2. The adjectives cämpamo and cämpam*
+Turning to cämp-, the related adjectives cämpam* and cämpamo should also be mentioned. 
+Cämpamo is borrowed from Tocharian B (TB) [Winter 1961: 272–273], with the same meaning 
+as the verbal forms, and always used as the predicate (with or without a copula). Seven of nine 
+passages containing this word are found in verse (A 56 a1, A 71 b1, A 125+117 b3–4, A 166 a5, 
+A 212 a7, A 275 b7, YQ I.10 a7), but the style of the remaining two (A 368 b2 and b3) cannot 
+be identiﬁ ed with certainty. Tocharian poetry is syllabic and uses diﬀ erent instruments to reduce 
+or increase the number of syllables in accordance with the requirements of the meter:
+(A 71 b1) : lāñciṃ watku yatr appärmāt rake träṅktsi mā tswātär cämpamo pe ñi se säs : ‘De-
+liberately, however, this my son mocks the royal command [and] does not comply to say 
+a single word, although [he is] able [to speak].’ [CEToM]
+The required number of syllables in the line is 22, which is divided in three groups: of 8 
+(lāñciṃ watku yatr appärmāt), 7 (rake träṅktsi mā tswātär), and 7 (cämpamo pe ñi se säs) syl-
+lables. The 3 Sg. Prs. form cämpäṣ is too short and does not ﬁ t here. Therefore, it is quite likely 
+that cämpamo is used only as a poetic counterpart of the ﬁ nite forms of cämp- and it was the 
+main reason for its borrowing, as it does not represent any additional meaning or connotation. 
+Strangely, the loanword in TA appears to be even more frequent than its source in TB. (Regarding 
+this, there are only six reliable examples: PK AS 6B a2, PK NS 22 a4, THT 214 a3, THT 295 b6, 
+THT 1109 b1, and THT 1374.g a2).
+Moreover, as [Winter 1961: 272] states, TA probably has its own adjective counterpart 
+cämpam*, which coincides with the 1 Sg. Prs. form of the verb and tends to be extremely rare. 
+This lexeme is found in two questionable passages:
+(THT 1592.a, a2) /// s[si] mā cämpam-ci waṣtā pic /// ‘… I cannot <do something> to you. 
+Go home!’
+Given the enclitic pronoun -ci, we can state with some certainty that the verb is attested here. 
+The second example is the aforementioned A 191 b3 8, but [Malzahn 2010: 635] argues that it 
+also contains the verbal form. The same interpretation is provided in [Carling et al. 2009: 195]. 
+Indeed, this passage is from prose, and for this genre, the presence of the adjective in ﬁ nal po-
+sition (especially without any copula), instead of a verb, is very unlikely. However, the occur-
+rence of the Nom. Pl. f. form cämpaminā[ñ] (A 388 b2), pace [Carling et al. 2009: 195], can-
+not be a form of cämpamo 9, then it clearly indicates the existence of the TA adjective cämpam* 
+(I. B. Itkin, p. c.). Unfortunately, such scarce evidence does not permit a reliable analysis.
+3. The Antigrundverb of yāt-,
+past participle yāytu and adjective sākär
+The Antigrundverb paradigm of yāt- encodes two meanings. The direct one is clearly the 
+causative ‘enable’ (in other words, ‘make something possible /  probable’, which corresponds 
+neatly with the proposed Grundverb sense). On the other hand, its ﬁ gurative meaning is rather 
+ 
+8 (/// (eṃ)tsässi mā śkaṃ cäm[pa]m || ‘… and I cannot take’)
+ 
+9 Cf., for instance, the declension of another TB-to-TA borrowing, pruccamo ‘useful, advantageous; ex-
+cellent’, that attests the Nom./Acc. Pl. f. form, which is pruccamont (A 14 b6), not **pruccamināñ / 
+**pruccaminās. On the other hand, as one of the anonymous reviewers noted, TA cämpam* is not a regu-
+lar formation, and the ‘native’ TA word should be *cämpäm. However, TA adjectives sometimes demon-
+strate such irregularities, cf. kulypam ‘desiring’ instead of the expected *kulypām (I. B. Itkin, p. c.).
+ 
+ Maksim V. Vyzhlakov 
+83
+unusual: ‘to tame’ [Malzahn 2010: 787], ‘mansuefacere’ [Poucha 1955: 239]. All in all, the pub-
+lished translations agree about this meaning, and I cannot ﬁ nd any grounds for questioning them.10
+Still, there is no consensus about the past participle yāytu (and the CEToM seemingly does 
+not have translations at all for this form). There are only ﬁ ve examples (A 147 b3, A 308 b6, 
+A 322 b6, A 464 b3, and THT 2056 a2). Fortunately, one of these passages belongs to a Sanskrit- 
+Tocharian A bilingual text:
+(A 464 b3) || bhadraka • yāytu ||
+Sanskrit bhadraka is deﬁ ned by a variety of words with positive connotations: ‘good, brave, 
+ﬁ ne, handsome, beautiful’ [Monier-Williams] (see also [Mayrhofer 1996: 244]). It could be pos-
+sible to be satisﬁ ed with this vague meaning, because it suits to all the fragments unsurprisingly 
+well. However, a more thorough investigation can bring new details to light. See the only pas-
+sage with suﬃ  cient context:
+(A 147 b3) … klaṅkäṣ kākärpu yāytu ākälṣäll oki śla ynāñmune śino ymāṃ riṣa(knac) k(ā)ts(e) 
+yeṣ
+This can be translated as ‘… coming down from the draught animal, like a yāytu disciple, 
+going with respect … <he> came to the sage’, where śino is a hapax legomenon. As for the re-
+maining passages, the following are more or less informative:
+(A 322 b6) /// śolaṃ yāytuñc(ä)s wrassaśśäl /// ‘… in life with yāytu creatures …’
+(THT 2056 a2) /// [yā]ytu sā[kär] /// (reading by I. B. Itkin, p. c.; pace [Carling et al. 2009: 37])
+The collocation with sākär is interesting because its derivative is used for the translation of the 
+same Sanskrit root in another bilingual fragment:
+(A 386 b1) cittabhadravatā • pälskes sākrone :
+[Thomas, Krause 1964: 153] translates sākär as ‘glückselig’ (and sākrone as ‘Glückseligkeit’), 
+while [Poucha 1955: 362] oﬀ ers the variant ‘prosper, felix’. Again, there is a positive connota-
+tion, but the word does not seem to be well deﬁ ned. As for textual evidence, a few examples are 
+found, providing some context:
+(A 93 a5) : sākkres parnoñcäśśi kāpñe yāmu saṃkrām nyagrodha (///) ‘Being loved by the sākär 
+[Acc. Pl.] ones and the glorious ones, … the Nyagrodhā(rāma) <monastery> …’
+(A 239 a3) mroskᵤluneyo sākrone : ‘… by disgust to the world sākrone …’
+However, the word order suggests another word division and, thus, translation:
+(A 239 a3) mroskᵤlune yo sākrone ‘… disgust to the world and sākrone …’ (I. B. Itkin, p. c.)
+(A 266 b8) yetuñcäs sākres klaṅksā lmo(räṣ) /// ‘… sitting on docile riding animals’ (transl. from 
+CEToM based on [Carling 2000: 237]; emphasis mine).
+Carling [Ibid.] provides the OU parallel, where we can ﬁ nd the word yawas (cf. javaš in [Na-
+deljaev et al. 1969: 248] ‘gentle, meek, tamed, domestic’).
+ 10 Yet (continuing somewhat from the preceding footnote), [Seržant 2014: 201–204] splits the Antigrund-
+verb into two paradigms: the basic one (‘control’) and the causative (‘enable, tame’). The former, how-
+ever, is attested in only two examples: YQ II.15 b6 and YQ III.12 b3 (coincidently, with the subjunctive 
+and gerundive, derived from the subjunctive stem, respectively). Both passages lack important parts 
+that could allow one to determine the nuances of meaning, while the Old Uyghur parallels are no help 
+in verifying them with certainty. And even if these translations are correct, the opposition between ‘con-
+trol’ and ‘tame’ seems rather forced to me, as we can imagine some core meaning (e.g. ‘subdue’).
+84 
+Voprosy Jazykoznanija 
+2020. № 5
+(A 313 a2–3) (tämne)a3k tām praṣṭaṃ cam suryodgam prātī[h]āriyo wrasañ puk wlyepe sākre 
+[l](ot)k(a)r || ‘just so through the marvel of sunrise all beings had grown gentle and glad 
+then’ [CEToM]
+(A 369 a3) • sākär kā(w)äl(lt)e — – — ·ākäts lu • ‘sākär, beautiful, … [adjective?] animal’
+(YQ III.9 a2) /// [ne]yo sākroneyo kläṣmuneyo kaknu ‘having materialized by …, blissfulness 
+[and] patience’ [Ji et al. 1998: 183].
+The parallel OU passage, MaitrHami 3, 8 b24, does not contain this part, but, quite notably, 
+tells about the life of a monastic community (see [Geng, Klimkeit 1988: 203]).
+[Poucha 1955: 362] adds to this A 129 b2 as well, but it is very damaged and [Siegling PK: 
+70] oﬀ ers a diﬀ erent reading excluding sākär, so it probably does not belong here. Another 
+example mentioned by Poucha, A 314 b1, also lacks the crucial part needed to deﬁ ne whether 
+there is sākär or another word.
+Summarizing the translation of sākär (A 266 b8) and its probable synonymity with yāytu, 
+I would suggest that both sākär and yāytu mean ‘obedient, docile’. In this view, it is worth men-
+tioning that these two lexemes frequently occur in passages about animals or monks, for whom 
+obedience is an expected feature.
+It would be tempting to link yāytu grammatically with the Antigrundverb paradigm, as both 
+stems are identical, but the past participle of yāt- (Antigrundverb) has been attested in (A 425e + 
+A 425f a4) as (yāyä)tṣuräṣ [Peyrot 2016: 202]. However, the existence of such a meaning in the 
+paradigms of the verb could somehow aﬀ ect the semantic shift in the case of the Grundverb 
+past participle.11
+Reanalyzing the examples following this view, I daresay that it ﬁ ts much better in most cases:
+(A 93 a5) ‘Being loved by the obedient ones and the glorious ones, … the Nyagrodhā(rāma) 
+<monastery> …’
+(A 147 b3–4) ‘… coming down from the draught animal, like an obedient disciple, going with 
+respect … <he> came to the sage’
+(A 313 a2–3) ‘just so through the marvel of sunrise all beings had grown gentle and docile then’
+(A 369 a3) ‘docile, beautiful, … [adjective?] animal’
+(A 386 b1) ‘cittabhadravatā — obedience of mind’
+(YQ III.9 a2) ‘having materialized by …, obedience [and] patience’
+The material of TB can hardly help there, as [Adams 2013: 744] notes in the article about TB 
+sākre*: “The meaning is based on the almost certain correspondence with TchA sākär.” How-
+ever, one of the examples there is particularly notable, as Adams himself expresses uncertainty 
+about the syntax of the phrase:
+(IOL Toch 51 a4) /// ·[o] wiksen-ne sakreñ arṣā(klaṃ) ///
+ 11 One of the anonymous reviewers suggested the opposite scenario. Namely, sometimes the peculiari-
+ties of the semantics of yāt- and its derivatives (see also the analysis of yātlune below) can represent 
+not the innovations but the traces of older meaning(s). However, at the ﬁ rst glance, there are no ap-
+parent clues. [Adams 2013: 528] links this verb with the PIE root *yet-, ‘strive, ﬂ y at, concern oneself 
+zealously’. Adams also mentions a hypothesis by Van Windekens [1976: 645] that the Tocharian root 
+was borrowed from the Sanskrit past participle yata- from yam- ‘hold, sustain, tame, etc.’. While this 
+scheme does not seem plausible, the semantics of the paronymic Sanskrit word could aﬀ ect the Toch-
+arian translation (see also the next footnote).
+ 
+ Maksim V. Vyzhlakov 
+85
+Apart from the analyzed adjective which is probably in Nom. Pl. m., there is the verb wiksen 
+‘<they> avoid’ plus 3 Sg. enclitic pronoun -ne, and also the noun arṣā(klaṃ) ‘snakes’. Adams 
+suggests that sakreñ can be the grammatical subject of wiksen. This interpretation assumes an in-
+verted word order (which can occur in a poetic line, but there is no certainty about the genre 
+in this case). On the other hand, if we treat sakreñ as the attribute of arṣā(klaṃ), there is a word 
+collocation ‘good snakes’ (if one follows the traditional translation of TB sākre / TA sākär), 
+which is quite unusual, because snakes can hardly be good. However, as I. B. Itkin (p.c.) pro-
+poses, wiksen-ne marks the end of the previous phrase, whereas the last two words are the sub-
+ject of the next sentence and should be reconstructed as sakreñ arṣā(klañ). Adding to this the 
+newly proposed meaning for the lexeme, one can get a less unusual, both from the syntactical 
+and semantical point of view, interpretation of the passage, which allows to translate it as fol-
+lowing: ‘… avoid him. The tamed snakes …’.
+All in all, this transition — from the general ‘good’ to the speciﬁ c ‘obedient’ — is not odd. 
+Obedience and timidity were obvious virtues for the Buddhist doctrine, especially in the world 
+of monasteries, teachers and students.
+Finally, this obscure passage should be mentioned:
+(A 138 b1) /// || āytātsuney· ///
+Having in mind the existence of the TB privative ayātaitstse*, which likely means ‘untam-
+able, indomitable, unsubdued’ [Adams 2013: 22], this word may be an abstract noun derived 
+from the hypothetical TA privative āytāts* (S. V. Malyshev, p. c.). While there is no suﬃ  cient 
+context to specify its semantics, it would be tempting to have it connected with yāt-.
+4. The verbal abstracts cämplune and yātlune
+Usually, the verbal abstracts are not given much attention. [Thomas, Krause 1964: 101, 128; 
+Malzahn 2010: 635, 787] simply list both words as derivatives without any commentary. For 
+cämplune, [Poucha 1955: 103] gives ‘facultas’; [Carling et al. 2009: 195], ‘ability’. For yātlune, 
+[Poucha 1955: 239] equates it with Sanskrit ṛddhi ‘facultas, sollertia’. A search on the CEToM 
+adds translations that do not widen the meaning considerably: ‘capability’ or ‘capacity’. While 
+in general this can hardly be questioned, a heedful analysis shows a more controversial picture.
+The main distinction between these words tends to lie in the concept of inherence. This 
+can be illustrated by the verbs with which these nouns collocate, especially in the patient role. 
+Namely, cämplune attests only two such tokens: one can ‘understand, seize’ it (A 43+52 b6), but 
+it can also be ‘seen’ (A 397 b1). As for yātlune, one can ‘seize’ (A 54 b6) and ‘see’ (A 324 a7) it 
+as well, but one can also ‘attain’, ‘reach’, or ‘gain’ it (A 1 a2, A 16 a1–2, A 271 a5, YQ N.4 a7, 
+YQ N.4 a8). Moreover, yātlune can ‘appear’ (A 372 a2), ‘increase’ (A 254 a6–7), and probably 
+‘disappear’ (A 243 b4). With it, a subject can be ‘endowed’, ‘provided’, or ‘furnished’ (A 317 a3, 
+A 345 b1–2, YQ V.1 a2). In other words, yātlune is quite regularly described as something that 
+can be given or attained, something that is not inherent to its owner. By contrast, there is no such 
+nuance for cämplune and it can be probably characterized as an inherent ability. Indeed, the 
+richness of the data should also be noted: cämplune is rarer than its counterpart (around 22 as op-
+posed to 38 examples; the situation is the absolute opposite to that of the corresponding verbal 
+forms). However, there is a striking correspondence to the semantics of their respective verbs: 
+the ‘external possibility’ of yāt- and the ‘inner capability’ of cämp-.
+Here are some additional details strengthening this interpretation. For instance, cämplune has 
+no proven examples of plural forms. It can be treated like something indivisible, quite natural 
+for inner potency. The only possible exception is the form (c)ä(mpluneytu) /// (A 292 b3), recon-
+structed in [Pinault 1999: 221]. However, G.-J. Pinault himself calls this reading “purement con-
+jecturale” based on ‘the ten powers’ (or ‘abilities’) of the Buddha in the parallel OU text [Ibid.: 
+86 
+Voprosy Jazykoznanija 
+2020. № 5
+222]. But, as I. B. Itkin (p.c.) notes, in TA, the respective sense is always denoted by śäk tampeyntu 
+(cf., for example, A 372 a3), so it is more likely that we should restore (ś)ä(k tampeyntu) in this line.
+The overwhelming majority of the examples can be divided into two groups. The ﬁ rst de-
+scribes abilities in a literal sense, and they are always characterized by constructions like ‘cäm-
+plune to do something’ or some wider context (A 4 b5, A 11 b4, A 29 b2, a number of passages 
+from the A 384–386 manuscript). The second group usually has no such explanations but is used 
+as ‘cämplune of the Buddha’ (A 43+52 b6, A 153 b3, A 438 a3) or at least with adjectives like 
+‘great’, ‘big’, or ‘mighty’ (A 397 b1, A 438 b6, THT 2152 b1). This group deals with the con-
+cept of ‘power’ (perhaps occasionally even in a supernatural sense), but, again, there is no clue 
+that this power was acquired.
+In this context, it would be interesting to look at A 4 b5: tämnek {t}ṣaṃ ākntsuneyis 
+cämpluneyā wrasañ ‘Just so are the beings because of their ignorance’ [CEToM], literally 
+‘… because of their ability for ignorance’, and, if we apply to my reasoning, this ignorance is 
+inherent for the living beings.
+As for yātlune, it demonstrates more fractured and even obscure semantics, just like its respec-
+tive verb.12 Strangely, whereas ‘ability’ should be deduced from the source verb, there are almost 
+no passages that conclusively show this. To be precise, only one example is found in this regard:
+(YQ N.4 a8) /// [a]käṃtsuneṣiṃ spārtwluneṣiṃ yātlune śkaṃ śtärcäṃ yomu ‘… and having 
+gained the fourth ability, connected with transformation of riches’
+Based on this translation, we can suggest the same meaning in the preceding line:
+(YQ N.4 a7) /// ñ mäskaṃtär yātluneytu śtwar yomuṣ : ‘… <they> become the ones who have 
+gained the four abilities’
+Of course, in practice, ‘ability’ can be used without any speciﬁ cations, but the distinction 
+from cämplune is notable. YQ N.4 a7 also demonstrates other diﬀ erences: the use of the plural 
+and collocation with numerals. For the latter, see also the following example.
+(A 317 a3) tosäṃ tri yātluneyntuyo pukyo kaknu ṣeṣ /// ‘… <he?> was wholly provided with 
+these three abilities …’
+As for the plural of this noun, though, it is not always ‘abilities’, but instead a diﬀ erent, un-
+expected meaning is possible, as these examples show:
+(A 254 a2–4) /// (tāk) k(e)tuma(ti) [r](i) waṣtu ṣontañ wrasañ wrasaśśi yātluneyntu • [mä](nt ne 
+tṣaṃ riñ waṣtu) a3 (ṣontañ wrasañ wrasaśśi) yātluneyntu mäskanträ • tämnek ālkontäk 
+āṣānik metrak ptāñkät ris waṣtu ṣontas wrasas wrasaśśi yātluneyntu rä(ddhiyo pāa4kär 
+yāmäs •) ‘(This was) the city Ketumatī, houses, streets, beings, and the achievements of the 
+beings. So as (here there are cities, houses, streets, beings, and) the achievements (of the 
+beings), just so the venerable Maitreya, the Buddha-god, (by his supernatural power let 
+appear) other cities, houses, streets, beings, and achievements of the beings.’ [CEToM]
+(254 b1–2) ñemiṣināñ riñ ñemiṣin(āñ) b2 (waṣtu ñemiṣiñi ṣontañ) ś[l]a niṣpal yātluneyaśśäl 
+raurāp ñareyaṃ oki slamasyo wäntoṣ pᵤkāk sälpiñc ‘The jewel-cities, the jewel-(houses,) 
+(the jewel-streets), with [all] possessions and achievements shrouded in ﬂ ames, burn one 
+and all as in the Raurava-hell.’ [CEToM]
+Cf. also examples in the singular:
+(A 271 a6) /// (yā)tl(u)neyo mā trikal : 2 ‘… one must not be misled because of property’ (con-
+jecture and transl. according to I. B. Itkin, p. c.)
+ 12 As S. V. Malyshev (p.c.) suggests, the range of meanings of TA yātlune mostly corresponds to that 
+of Sanskrit ṛddhi ‘increase, growth, prosperity, success, good fortune, wealth, abundance, accomplish-
+ment, perfection, supernatural power’ [Monier-Williams]. This hypothesis requires further veriﬁ cation.
+ 
+ Maksim V. Vyzhlakov 
+87
+(A 304 b2) /// [r] pracar : akäṃtsune yātlune kātkuneṣiṃ kärparäṃ ‘… (fathe)r, brother, pro-
+perty, power, and the dignity of a householder’ [CEToM]
+(YQ N.1 b7) /// (käṣ)[ṣ]i träṅkäṣ weñā näṣ cesmi waṣtwāṣiṃ yātlune śwātsi pe[n](u) /// ‘… the 
+teacher speaks: “I said: their household property (?), food indeed” ’
+The translation of A 254 a2–4 and b1–2 is based on [Geng et al. 2004: 54–55], where the 
+variant ‘die Leistungen’ is given. It is hard to say what the reasons are for such a translation. 
+Unfortunately, there is no parallel in the OU texts for it [Ibid.: 51]. Such a collocation is quite 
+homogenous: streets, houses, property — in other words, physical objects that lay in the se-
+mantic ﬁ eld of wealth and possessions. A similar, but not-so-verbose collocation can be seen 
+in the last two fragments too. In one of them, A 304 b2, yātlune seems to be translated by the 
+OU hendiadys ärk türk ‘Macht und Kraft’ [Geng et al. 1991: 292] in MaitrHami 13, 9 b24–25. 
+But these fragments, though very similar, do not correspond with one another perfectly, and 
+the OU passage mentions nothing pertaining to property or household: ‘Ich habe mein Haus, 
+meinen Sohn, meine Frau, meine Mutter, meinen Vater, meine Verwandten, Macht und Kraft, 
+Glanz und Gloria, Freuden und Heroismus vollständig aufgegeben’ [Ibid.: 291–292]. There-
+fore, yātlune cannot be argued conclusively to be ‘power’ here. With all of this in mind, for 
+yātlune in general and for these passages in particular, I would like to proﬀ er a novel gloss: 
+‘possessions, property’.
+Still, the overwhelming majority of the other fragments containing the singular form and 
+with a suﬃ  cient context can be rendered by ‘power’ or ‘might’ (including other passages with 
+‘achievement(s)’). It is here that we ﬁ nd the obvious contamination of yātlune with cämplune, 
+but yātlune, as mentioned earlier, stresses ‘power that is not inherent to the owner and can be 
+gained’ (from this point of view, the transition to ‘possessions, property’ is quite natural as it is 
+obviously a ‘gainable’ thing). The understanding of yāt- as ‘something is possible (for me)’ also 
+provides an explanation of yātlune in the sense, on the one hand, of ‘ability as a new possibility’ 
+and, on the other hand, of ‘power as an increase in possibilities’. For this, see also the Russian 
+idiom čelovek s bol’šimi vozmožnostjami, literally ‘person with great possibilities’ = ‘powerful, 
+rich person’. If so, then, for example, the passage below can be understood as ‘… great [inner] 
+power and [achieved] might …’:
+(A 438 b6) /// tsopatsäṃ cämplune yā(t)l(u) /// (conjecture according to [Siegling PK: 438])
+Of course, we cannot state for sure that the distinction between cämplune and yātlune was 
+‘alive’. It could be just two diﬀ erent (and almost opposite) ways to develop the same (or at least 
+similar) meaning. However, the verb collocation and the presence /  absence of ability speciﬁ -
+cations are divided in a rather patent fashion. Still, sometimes these words overlap with each 
+other, because there are two fragments where yātlune is linked with the Buddha, whose power 
+can hardly be anything other than inherent:
+(A 32 a5–6) /// (yā)a6tluneyo ptāñkät käṣṣ(i) op[y]ā(c) /// ‘… through his capacity the Buddhalord, 
+the teacher remembered (his previous births)’ [CEToM].
+(A 357 3) /// (pru)[c]camñeṣi wākmats ptāñkäkteṃ yātlune n-äṃ ‘… he has … excellent, out-
+standing, inherent to the Buddha power’.
+In A 357 3, however, it is unclear whether the main subject of these epithets is the Buddha 
+himself.
+Finally, there is a rare but remarkable variant as ‘perfection(s)’:
+(A 3 b6 — 4 a1) : yomnāṣ lame ñä(ktaśśi)a1 yātluneyo sne nākäm : ‘…it attains the dwelling 
+of the gods through its ﬂ awless perfection’ [CEToM]. Note, however, that [Lane 1947: 
+39] has ‘prospering’ and [Pinault 2008: 241] even interprets the literal ‘capacité’ as ‘vertu’.
+88 
+Voprosy Jazykoznanija 
+2020. № 5
+(A 14 b4) /// (ts)m(ā)r nā(ṃ)tsunt puk yātluneṃ[tw]āśśi «†śśi» nāṃtsunt puk krañcäs wrasaśśi 
+kāpñe yāmunt kra /// ‘(the requirement?) for all perfections, [and since they] are loved 
+by all good beings’ [CEToM]
+(A 15 b2) || rupavāṃ śpālmeṃ śpālunt kānikāñcās kᵤlewās a«rä»mpātṣiṃ yātluneyo /// ‘Rūpavān, 
+by giving pleasure to the most beautiful girls and women with the capability of his body…’ 
+[CEToM], while [Carling et al. 2009: 15] has here ‘by the perfection of the beauty’.
+(A 16 a1–2) «:» mā ca(m kä)a2lpānt yātlune kuc ne kälpāt pñi s{n}e ske : tämyo kropnᵤlaṃ skam 
+pñintu ke ne kulypal yātlune : ‘…they do not reach the perfection that virtue achieved 
+without eﬀ ort. Therefore, he who longs for perfection shall always gather merit’ [CEToM].
+I hold no objections to such a variant except for a general point, that we should strive for 
+as few translations as possible, especially if there is no consensus in at least some cases. It is also 
+strange that this variant is applied only to a speciﬁ c manuscript. Moreover, A 14 b4 just lacks the 
+essential context to make a conclusion, giving us room to render yātlune as ‘po wers’ (remem-
+ber also the Buddha’s ten powers mentioned in the section on cämplune). On the other hand, 
+the very transition from ‘power’ to ‘perfection’, especially in the case of ‘Buddha- connected 
+power’, is quite plausible. In addition, ‘perfection’ seems well suited for the other three pas-
+sages (A 15 b2 in particular).
+As for the Old Uyghur parallels, there are at least two counterparts of cämplune: küč ‘strength, 
+power’ (TA YQ III.8 b7 — OU MaitrHami 3, 8 b9) and the hendiadys küč küsün (TA YQ I.8 b3 — 
+OU MaitrHami 1, 14 b17) with the same meaning [Nadeljaev et al. 1969: 322–323] (notably 
+enough, [Geng, Klimkeit 1988: 103] translate it as ‘Kraft und Vermögen’). For yātlune, besides 
+the aforementioned A 304 b2 13, there is no apparent correspondence.
+5. Conclusion
+The main diﬀ erence between yāt- and cämp- and their derived verbal abstracts lies in the dis-
+tinction between the external and internal conditions. Whereas cämp- emphasizes potency (‘to be 
+able’, ‘to manage’), yāt- emphasizes probability (‘may’, ‘to be possible for someone’). Some 
+word forms of yāt- have a tendency to lexicalization. Its gerundive yātal in negation can even 
+depict prohibition (‘impossible’ or ‘must not’). Besides, its past participle yāytu seems to mean 
+‘obedient, docile’. The other TA word, sākär, used for the translation of the same Sanskrit root, 
+bhadra-, probably has a similar meaning. The Antigrundverb paradigm of yāt- has two mean-
+ings: the literally causative one (‘enable, make possible’) and the idiomatized one (‘to tame’).
+Highly synonymous, cämplune and yātlune share both literal (‘ability’) and ﬁ gurative (‘power, 
+might’) meanings. The nuance is that yātlune considerably stresses non-inherence: it is regularly 
+described as something that can be gained. By contrast, cämplune has no such nuance and is 
+likely to focus on the inherent, indivisible potency of ‘being able’. Apart from this, yātlune has 
+some speciﬁ c meanings, such as ‘possessions, property’ and maybe ‘perfection’.
+ABBREVIATIONS
+ 13 /// [r] pracar : akäṃtsune yātlune kātkuneṣiṃ kärparäṃ ‘… (fathe)r, brother, property, power, and the 
+dignity of a householder’ [CEToM]
+Acc. — accusative
+f. — feminine
+M. — middle
+Nom. — nominative
+OU — Old Uyghur
+Pl. — plural
+ 
+ Maksim V. Vyzhlakov 
+89
+Prs. — present
+Prt. — preterit
+Sbjv. — subjunctive
+Sg. — singular
+TA — Tocharian A
+TB — Tocharian B

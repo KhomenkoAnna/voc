@@ -1,0 +1,847 @@
+© Санкт-Петербургский государственный университет, 2020
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+https://doi.org/10.21638/spbu09.2020.211 
+343
+UDC 81”26
+Ekaterina V. Nagornova
+Institute оf Fоreign Languages of Рeoples’ Friendship University of Russia, 
+6, Miklukho-Maklaya ul., Moscow, 117198, Russia 
+nagornova_ev@rudn.university
+Yana A. Volkova
+Institute оf Fоreign Languages of Рeoples’ Friendship University of Russia, 
+6, Miklukho-Maklaya ul., Moscow, 117198, Russia 
+volkova_yaa@rudn.university
+The concept HOUSE in Penelope Lively’s The House 
+in Norham Gardens*
+For citation: Nagornova E. V., Volkova Ya. A. The concept HOUSE in Penelope Lively’s The House in 
+Norham Gardens. Vestnik of Saint Petersburg University. Language and Literature. 2020, 17 (2): 343–
+364. https://doi.org/10.21638/spbu09.2020.211 (In Russian)
+In this paper, the verbalization of one of the key concepts in the English sphere of con-
+cepts, HOUSE, in P. Lively’s novel The House in Norham Gardens is analysed. The research is 
+based on a three-layer model of a concept developed by V. I. Karasik, as well as the method 
+of linguo-conceptual analysis which involves the following steps: 1) definition and etymo-
+logical analysis of the lexeme house; 2) analysis of the lexical and phraseological units rep-
+resenting the concept in the language, 3) contextual analysis of the corpus of contexts in 
+which the lexeme house is used. The traditional, “cultural”, verbalization of the HOUSE is 
+compared with the author’s individual one, which is derived through a similar analysis of 
+the author’s contexts. In the novel, a certain extension in the meaning of the core compo-
+nents is traced — the concept HOUSE acquires the basic features of the concept HOME. The 
+method of linguo-conceptual analysis allows us to reveal the variety of images connected 
+with the idea of the house. The metaphorical models “the house is a museum”, “the house is 
+life”, “the house is a dinosaur/monster” employed by the author add to the conceptualization 
+of the house as a major value of English culture. This concept is based on the archaic under-
+standing of the house as “one’s own”, internal, mastered space, which confronts the strange, 
+external space of chaos. The analysis allows us to assume that the procedure of the linguo-
+conceptual analysis of the individual author’s concepts opens up prospects for further study 
+of the individual author’s concepts in modern English literature, followed by a comparative 
+study in the intercultural dimension.
+Keywords: author’s worldview, cognitive linguistics, concept HOUSE, cultural concept, Pe-
+nelope Lively.
+Introduction
+This study is a part of a project investigating the core values of English culture re-
+flected in modern English literature.
+* The publication is supported by “RUDN University Program 5-100”.
+344 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+ “House” can be regarded as a fundamental value of many world cultures, and English 
+seems to be no exception [Easthope 2004; Parsell 2012; Saunders 1989, et al.]. English 
+grand country houses have always attracted fiction authors of all epochs, from J. Austen 
+to modern writers. The American novelist Henry James paid tribute to the importance of 
+this concept in the English mentality with the following words:
+Of all the great things that the English have invented and made part of the credit of the 
+national character, the most perfect, the most characteristic, the only one they have mastered 
+completely in all its details, so that it becomes a compendious illustration of their social 
+genius and their manners, is the well-appointed, well-administered, well-filled country 
+house [James 1905: 292].
+Modern novelists are drawn to the concept of the English stately house, and P. Lively 
+is a good example. In The House in Norham Gardens1 (1974), the concept HOUSE plays a 
+central role; it is carefully thought through and verbalized, eventually becoming a major 
+character. The lexeme house is placed in a strong position — in the title of the novel. From 
+the very beginning, the readers realize that all events, actions, relationships are connected 
+with the house. It correlates with all the other topics and notions represented in the novel: 
+history, memory, time, family, multicultural society, continuity of generations, and oth-
+ers. Thus, in the novel, we can see a large old house on a quiet road in an ancient city. The 
+house is filled with relics from the past, trophies from expeditions to the Stone Age of New 
+Guinea. Clare, the fourteen-year-old protagonist, lives with her two great-aunts in this 
+three-story spacious Victorian house. The house has been in the family for many years. 
+Like the castle in Dodie Smith’s novel I Capture the Castle (1948), it is altogether too big 
+for its occupants. With its breakfast rooms and flower rooms, it is impractical: a relic, 
+stuffed with old letters, and photographs, and the fruits of colonial expeditions made by 
+Clare’s great-grandfather. At fourteen, Clare is responsible for her great-aunts’ health and 
+the finances of the house, and despite her contentment with all the history and the eccen-
+tricity, the atmosphere of doom hangs over it all, unspoken and perhaps unacknowledged. 
+Everything is poised, hushed, almost breathless, between several kinds of time, several dif-
+ferent worlds. There are many other types of houses and homes which are described or just 
+mentioned by the author. They complete the perfect setting for the book. Houses create a 
+special atmosphere of a place, reveal the characters of people living in them, become parts 
+of a family histories, country history, and national culture. All these explain our interest in 
+the concept HOUSE in Lively’s novel, thus making the book the subject of research.
+Also, it is necessary to speak about Lively’s creative work in general. Since the publica-
+tion of her first novel in 1970 (a children’s book entitled Astercote), Lively has developed 
+into a writer who is both prolific and wide-ranging. She is the author of over forty novels, 
+short story collections, young adult fiction, and children’s fiction. Lively’s work appeals 
+to both a youthful, popular audience keen on finding escape within a good yarn, and to 
+an academic audience interested in her experimental narrative techniques and her crea-
+tion of what postmodern scholars sometimes refer to as “historiographical metafiction”. 
+Lively’s slight attention to the traditional means of creating characters does not mean that 
+she completely abandons this category. The writer uses other, often indirect means to cre-
+ate her characters’ images, their inner life. Lively’s novels reflect many aspects of the image 
+1 Lively P. The house in Norham Gardens. Cit. ex: [Lively 1974]. (Henceforth — The House.) 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+345
+and lifestyle of the English. Her experimental narrative techniques make it possible to 
+explore the characters’ inner speech, which, unlike the external one, is less dependent on 
+the communicative situation, social roles, and conventions, and allows for observing the 
+linguistic personality in its immediate manifestation.
+Lively is especially concerned with the relationship between the past and memory, a 
+concern that can be traced back to her years as an undergraduate when she read modern 
+history. Speaking on the subject of memory, Lively says she is interested in “the ways in 
+which the physical world is composed of memory, the way in which it’s an encumbrance 
+and the ways in which is an asset… I can hardly decide which it is. But it is something that 
+I’m constantly aware of and constantly seeking new ways of exploring fictionally”2.
+The study of the concept HOUSE in its implementation in the novel The House in 
+Norham Gardens makes it possible to identify the features of the concept HOUSE in Eng-
+lish linguistic culture through the author’s individual worldview.
+The study utilizes both cognitive [Kubryakova 1999; Popova, Sternin 2003; Barsalou 
+2017; Pelletier 2017; Compositionality 2017] and linguo-cultural [Smolicz 1981; Vorobyev 
+1997; Karasik, Slyshkin 2001; Vorkachev 2004; Mendez 2011] approaches to the study 
+of cultural concepts. The linguistic representation of the concept HOUSE is analyzed in 
+Lively’s The House in Norham Gardens (1974). Particular attention is paid to the writer’s 
+worldview, which is non-accidental, since individualized speech is more responsive to 
+changes in both linguistic and socio-cultural environments. Furthermore, the study of 
+cultural concepts through the artistic text provides a basis for a comparative analysis of the 
+universal and individual components of a cultural concept.
+Theoretical framework and research methodology
+The term “concept” as it is used in this article is widely applied in modern linguistics 
+to a range of cognitive, cultural, and literary data. Generally, it is understood as a complex 
+mental formation which refers to the cognitive, spiritual or material spheres of human life, 
+but becomes accessible through language. Thus, the cognitive and linguistic sides of the 
+concept are closely intertwined. This idea, in fact, stems from Wilhelm von Humboldt’s 
+observation that 
+language and thinking are inextricably linked. Each person has a subjective image of an ob-
+ject that does not completely coincide with the image of the same object another person has, 
+and this view can be objectified only by making its way through the mouth to the outside 
+world3 [Humboldt 2000: 168].
+Much later, when the interrelation between language and culture was no longer called 
+into question, G. Lakoff and M. Johnson observed that “language is a powerful social tool 
+that coordinates the human flow into an ethnos that forms a nation through the pres-
+ervation and transmission of culture, traditions, and public consciousness of the given 
+language community”. [Lakoff, Johnson 1980: 180–181]. Russian linguist Yu. S. Stepanov 
+introduced the idea of “a cultural concept”, which has a double-sided nature: on the one 
+hand, it is “a cultural unit in the mental world of a human being”, on the other hand, it is 
+2 Penelope Lively. https://literature.britishcouncil.org/writer/penelope-lively (accessed: 21.04.2018).
+3 The translation of all Russian sources which are quoted in the article was done by the authors of the 
+article.
+346 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+represented, or materialized, only through language [Stepanov 2001: 288–306]. According 
+to the scholar, cultural concepts are represented by lexical units, idiomatic expressions, 
+and/or texts. Since then, numerous attempts to create a consistent and coherent “con-
+ceptual” picture of the world have been undertaken, including a series of studies in lin-
+guo-cultural concepts [Anthology 2007; Karasik 2002; 2015; Goddard, Wierzbicka 2014; 
+Underhill 2012; Vorkachev 2016; Wierzbicka 2011; 2016; 2017a; 2017b] and wide-scale 
+research on emotion concepts [Kövecses 1990; 2006; Emotions 2001]. Each of these stud-
+ies touches upon the correlation between the universal and cultural components in the 
+concept, which allows us to see that though the biological nature of some phenomena is 
+the same, each concrete culture chooses its own linguistic way of verbalization. Moreover, 
+modern research results indicate that the same or similar concepts are evaluated differ-
+ently in different cultures. The results open broad prospects for intercultural comparative 
+linguistic study of this cultural-linguistic phenomenon.
+What does not seem to have received much attention so far is the way in which the 
+universal and cultural components are interrelated with the individual one. Individual 
+reflection is creative, and it allows us to speak about an author’s individual worldview. 
+As L. G. Babenko notes, “the author’s artistic worldview combines elements of a national 
+worldview and individual representations. Each literary work embodies an individual au-
+thor’s way of perceiving and organizing the world, i. e. a particular version to conceptual-
+ize the world” [Babenko, Kazarin 2004: 58–59]. Thus, concepts in a literary text, on the 
+one hand, reflect the traditional, within a particular culture, perception of the reality, and 
+on the other hand — add individual, even unique, features. The degree of correspondence 
+between the universal/cultural and individual knowledge in the artistic worldview in a lit-
+erary text can be different: from complete identity to complete divergence. Though some 
+scholars state that concepts of the artistic worldview can hardly be defined and described 
+clearly and unconditionally, we believe that it is their verbalization in the literary text that 
+allows us to trace the interrelation between the universal and the particular, to define the 
+true value of a concept in the culture, which turns a regular lexeme into a cultural concept.
+In the article, the concept is defined as a multidimensional mental formation that has 
+figurative, conceptual, and value components [Karasik 2002]. The principal provisions are 
+as follows: the concept is a unit of consciousness; it is verbalized in various linguistic forms 
+and possesses cultural specificity. In general, the concept description involves the study of 
+the totality of the language representing it, including the paradigmatic and syntagmatic 
+links of the core lexeme, which denotes the concept.
+The purpose of this article is to analyze the verbalization of the individual author’s 
+concept HOUSE in Lively’s The House in Norham Gardens, to compare the author’s in-
+dividual perception with the basic characteristics of HOUSE as an English cultural con-
+cept. We share the viewpoint that individual concepts function as a clue to understanding 
+cultural specifics of an ethos [Charyikova 2001; Litvinova 2009; Vyistropova 2013]. To 
+study the concept HOUSE in Lively’s novel, we applied the three-layer model of a concept 
+developed by V. I. Karasik as well as the method of linguo-conceptual analysis which, in 
+this research, includes the following steps: 1) definition and etymological analysis of the 
+lexeme naming the concept, specifically house; 2) analysis of the lexical and phraseological 
+units representing the concept in language; 3) contextual analysis of the corpus of the con-
+texts in which the lexeme house is used [Karasik 2002]. Therefore, the first step involves 
+a semantic analysis of the core lexeme house in various explanatory dictionaries check-
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+347
+ing its etymology, which contributes to revealing the value of the concept to the culture. 
+At the second stage, we reveal and explore a wide range of language units, paroemia, set 
+expressions, and stylistic devices used to speak about the house. They include conceptual 
+metaphors as well. As a result, we can see what images are associated with the house in 
+English culture, whether the concept HOUSE is valued or not, i. e. its axiological potential. 
+After that, the traditional, “cultural” verbalization of the house is compared with the au-
+thor’s one, which is derived through a similar analysis of the author’s contexts. The text of 
+the novel amounts to 52,864 words. With the continuous sampling method, 450 text frag-
+ments containing the lexeme house were selected. They were subjected to a thorough con-
+textual and interpretative analysis in order to reveal various semantic and stylistic links 
+of the core lexeme house. 97 examples of contexts containing the core lexeme were taken 
+from various English dictionaries to provide material for the “cultural” interpretation of 
+the concept. Finally, the concept HOUSE in English culture was compared with the con-
+cept HOUSE in Lively’s artistic worldview, which revealed both universal and individual 
+characteristics and attitudes to the concept under study.
+Results and discussions
+The concept HOUSE in the English language
+This work is based on the three-layer concept structure which includes notional, val-
+ue, and figurative components.
+Following Karasik [Karasik 2002], S. M. Bogatova [Bogatova 2006] attributes the 
+concept HOUSE to semantic doublets. Respectively, we conduct an analysis of the seman-
+tics of the lexemes house and home, identify the basic cognitive layers, cognitive features, 
+and the differential characteristics of these lexemes. We analyze the dictionary definitions 
+of the lexemes house and home4.
+The notional component of the concept HOUSE in the English language
+The main cognitive layers and characteristics represented by the above-mentioned 
+lexemes were identified. Although there are some obvious similarities in the content of 
+these conceptual layers, the house and home still have a unique core and a set of cogni-
+tive features. The conceptual layer house includes two cognitive layers: (1) a building for 
+people to live in, a building for animals or goods: a hen house, a warehouse, a building 
+in which children live at a private boarding school, a theatre, concert hall, or auditorium: 
+a vaudeville house, the building in which a legislative or official deliberative body meets, 
+residence of a religious community; (2) the people living in such a house, the household, 
+the important family, especially noble or royal: The House of Windsor is the British royal 
+family, the people watching a performance in a theater, concert hall, the audience, the 
+members of the law-making body: the House of Commons, the members of a religious 
+community. Thus, the external aspect of the structure and the principle of grouping peo-
+ple according to the external circumstances are emphasized. The conceptual layer home in 
+4 The study analyses in detail the semantics of the lexemes house and home, identifies the basic cogni-
+tive layers and cognitive features represented by these lexemes, and also identifies the differential signs and 
+points of contact of their conceptual content. The following dictionaries were used in the research: [LDCE 
+1995; LDELC 1992; Hornby et al. 1995; OCDE 2002; ODE 2003; ODSA 1999; RHWSOT 1995].
+348 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+its core is determined by the cognitive attributes “place”, “uniqueness”, “one’s own/strange”, 
+which introduces the category of a subject and relationship into its semantics and serves as 
+a basis for delimitating the conceptual layers house and home. The conceptual layer home 
+includes the cognitive layers: “the house, flat, etc. where a man lives”, “the place where a 
+man was born or habitually lives and to which a man usually has emotional ties”, “the fam-
+ily, the place in which one’s domestic affections are centered”. The basis for distinguishing 
+between these two conceptual layers is an attribute “one’s own/strange” which permeates 
+and unites all the cognitive features of the lexeme home: “permanence of residence”, “emo-
+tional attachment”, “comfort”, “family”, “security”, “privacy”, “solitude”, etc. To conclude, 
+the conceptual layer house appears in its core as a material object, and home as a spiritual 
+object, allocated on the relationship basis. The results obtained through the definition 
+analysis are supported by the study of the paradigmatic links of these lexemes (see: [Boga-
+tova 2006] for an extensive analysis).
+The value component of the concept HOUSE in the English language
+The study of the value component confirms the fact that this concept is a key one for 
+the English linguistic culture. A house, a home for the English people living in a densely 
+populated country is a place where they can relax and be themselves [Girouard 1992]. 
+Therefore, the Englishman needs a house-fortress, to hide not so much from the weather 
+as from other people’s views. This feature of national character connects this concept with 
+another dominant of English culture — privacy [Easthope 2004]. “In general, the English 
+house is a micromodel of the island: a blind fence that rails off the outside world, and a 
+piece of lovingly cultivated land — small, well-groomed” [Tsvetkova 2001: 168]. In the 
+heart of the English notion “home” is the idea of isolation, separation from the rest of the 
+world and isolation in its small, comfortably equipped space [Parsell 2012].
+The analysis of lexical compatibility, phrase-combinations, and paroemia allows us to 
+reveal the concept additional cognitive features. The value layer, represented by the lexeme 
+house contains features that, in the English language worldview, are related to the house’s 
+exterior aspects, its physical characteristics: exterior, beauty, safety, stability. The value 
+layer objectified by the lexeme home reflects some other aspects of the English house such 
+as the psychological atmosphere; internal security; the tenants’ social status and includes 
+additional cognitive features: an individual’s inner world, consciousness; limit, edge; sense 
+and mental health. It is obvious that in the English language the value layer “home” is the 
+cultural dominant [Saunders 1989]. It reflects the connotations of emotional attachment, 
+Lares and Penates, house-fortress.
+Many aspects for interpreting the space have a mythological basis, which necessitates 
+separating the mythological layer of the concept HOUSE in the language.
+The house in the archaic consciousness is associated with the internal, mastered 
+space, which confronts the strange, external space of chaos. The house symbolizes secu-
+rity, permanence, shelter, stronghold, dwelling, corner; family, family nest, clan, dynasty; 
+fatherland; human body. The mythopoeic motives of building a house are connected with 
+developing and cultivating a new space [Lotman 2000].
+The archaic consciousness perceives the destruction of the house as a reference point 
+in the surrounding world. In the mythopoeic consciousness, the motive for the destruc-
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+349
+tion of a house is associated with the abolition of habitual sense-distinguishing landmarks; 
+as a result, a person finds himself/herself in the space of absolute non-being.
+The figurative component of the concept HOUSE in the English language
+The conceptual ideas in this study belong to Lakoff. He examines different concepts, 
+provides examples, and analyses the concepts HOUSE and HOME [Lakoff, Johnson 1980]. 
+In Women, fire, and dangerous things [Lakoff 1987: 538–540] and Metaphors We Live By, 
+Lakoff and Johnson state that the human conceptual system is metaphorically structured 
+and defined. According to them, the conceptual metaphor is a system of metaphors that 
+lies behind much of everyday language and forms everyday conceptual systems, includ-
+ing the most abstract concepts. A metaphor is “understanding and experiencing one kind 
+of thing in terms of another” [Lakoff, Johnson 1980: 5]. Lakoff’s theory of the cognitive 
+metaphor reveals the relationship between metaphors: “A metaphor can be viewed as an 
+experientially based mapping from an ICM (an idealized cognitive model) in one domain 
+to an ICM in another domain” [Lakoff 1987: 411] which makes it possible to describe the 
+metaphorical meanings of the concept HOUSE. 
+The concept HOUSE in Penelope Lively’s House in Norham Gardens
+The study of the concept HOUSE in its implementation in the novel The House in 
+Norham Gardens makes it possible to identify the concept HOUSE as an English cultural 
+concept.
+The notional component of the concept
+An analysis of the novel’s text allows us to make an assumption about the individual 
+author’s worldview, which is in some way different from the worldview represented in the 
+national trivial consciousness. The layer “home” is inferior to the layer “house”. The lexeme 
+home is found in the novel 45 times, house 142. A lower degree of relevance of the layer 
+“home” for expressing the author’s view is seen. This fact could be explained, first of all, by 
+the important function of the house in the book, since, as we mentioned previously, it is 
+one of the major characters. Also, it is a setting for the plot. It is the element which helps 
+outline and understand other protagonists of the book as well.
+The analysis of the substantial use of the lexeme home in the novel makes it possible to 
+trace the realization of the basic cognitive features of this layer in the author’s worldview, 
+which are also revealed in the national language worldview.
+In the following examples, in the layer “home”, the cognitive attribute “one’s own 
+/ strange” is portrayed. It is explicable by the possessive pronouns (your, my):
+(1) Not so funny. In my home we have ceremonial spears and my father’s tribal dress, 
+though he does not wear it any more.
+‘It’s funny for North Oxford,’ said Clare. ‘Where’s your home?’
+‘Uganda. A little village one hundred miles from Kampala. John Sempebwa’. He held 
+out his hand (The House. P. 61).
+350 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+In this example, the cognitive feature “motherland” is foregrounded by indicating the 
+character’s nationality and a presupposition that he is in a foreign country, and home refers 
+to his homeland. There is another example of this lexeme in the text: (2) “Where’s that 
+when it’s at home? No, do not tell me — it’s near Australia”. (The House. P. 28).
+The cognitive feature “family” is foregrounded when the lexeme home is realized in its 
+basic meanings “a place of residence”, “a place of birth”:
+(3) She went into the museum with a feeling of coming home. It was a place she had 
+always liked (The House. P. 59);
+(4) She went through the doors at the far end, down the steps, and into the Pitt Rivers 
+Museum, where the feeling of coming home was stronger still (The House. P. 59);
+(5) She thought of John, leaving home for three years (The House. P. 110).
+In each illustrative example, home symbolizes in the character’s mind not so much 
+the image of the house itself, but the family living in it, the special atmosphere of warmth 
+and mutual understanding, and traditions and customs inherent in it. Therefore, it can be 
+concluded that the feature “emotional attachment” in Lively’s worldview is closely related 
+to the feature “family”. At the same time, the cognitive feature “comfort” in the content of 
+the layer “home” is not vividly explicated and expressed by other means. Here are some 
+other examples:
+(6) She took him into the kitchen. ‘Sorry about the mess’.
+‘Not at all,’ said John. ‘It is homely’. He pulled a chair out of the table and sat down 
+(The House. P. 83);
+(7) Home, she toured the house, as though she had been away for a long time and needed 
+to make sure that everything was all right and in its proper place (The House. P. 142).
+Along with a few substantive implementations, in most cases, the lexeme home func-
+tions in the novel as a component of the collocation at home. The most frequent is the 
+meaning “the place where a man lives” and “the place of birth, origin”, for example:
+(8) Mrs. Cramp asked if she was feeling better, and hoped she had rested at home yesterday.
+‘Yes,’ said Clare, ‘I rested at home yesterday, and I am quite all right now.’ (The House. 
+P. 108);
+(9) ‘We have those at home,’ said John, pointing. A bright, patterned snake lay against the 
+glass, basking in the sun of a sixty-watt bulb (The House. P. 112).
+Thus, the layer “home” in the novel represents the following cognitive layers included 
+in the national concept: “the place of living”, “the place of birth / motherland”, and “fam-
+ily”. This conceptual layer contains the same basic cognitive features of the corresponding 
+layer in the national language image: “one’s own / strange”, “emotional attachment”, and 
+“family”.
+The conceptual layer “house” implemented in the novel includes the following cogni-
+tive layers of a nationwide concept: “a building;” “a place of living”, “residence”, “family”, 
+and “dynasty”.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+351
+The first layer — “house as a building” does not serve to foreground the functional 
+features of the house as a place of living or a shelter. The cognitive feature which is fore-
+grounded is house — “a physical object” that is the house is perceived as an object oc-
+cupying room in space and possessing some physical characteristics (the indication of 
+belonging is absent):
+(10) Belbroughton Road. Linton Road. Bardwell Road. The houses there are quite 
+normal. They are ordinary sizes and have ordinary chimneys and roofs and gardens 
+with laburnum and flowering cherry… They are three stories high… neatly 
+grouped in threes with flaring brick to set them off… They have nineteen rooms and 
+half a dozen chimneys and iron fire escapes (The House. P. 1);
+(11) It was a very grey dusk, quite colourless, like a photograph — white snow and grey 
+houses and blue-grey sky and black trees. Here and there an uncurtained window 
+made of an orange square within the dark and solid outline of the houses (The 
+House. P. 24).
+In these examples, the word house is used as a “building”, usually when describing the 
+cityscape, so the spatial and physical characteristics are the defining ones. This cognitive 
+layer is used by the author to create the context of a wider life environment for the charac-
+ters. The lexeme house is used here to create a general image of the city and the epoch. In a 
+spatial sense, house is included in the relationship “house — streets — Oxford”.
+The attributes that describe the lexeme house in the novel serve not for the immediate 
+characterization of the protagonists, but for modeling the artistic space of the novel as a 
+whole:
+(12) Outside, snow fell on North Oxford: on the Parks and the river and the old, dark laurel 
+in the gardens and the brick and iron of the big houses (The House. P. 15);
+(13) Believe it or not, the fronts of the late-Victorian gothic houses have fewer than 
+twenty-one windows, counting each panel of the attic ones as a single window (The 
+House. P. 18).
+The second cognitive layer coincides with the first dictionary meaning of the lexeme 
+house — ‘a place of living (building), residence.’ Insomuch as this cognitive layer of the 
+concept represents the external features of the object, the use of the lexeme house in this 
+meaning is usually associated with an indication of certain physical characteristics of the 
+house, it includes elements of its external and internal description. In Lively’s novel, the 
+description of the house fulfills the characterizing function: (14) “Gosh. You are lucky. 
+Living in weird house like this. Ours is the same as the next door and the others”. (The 
+House. P. 30).
+The following example indicates the fact that the house as a place of living is a char-
+acteristic attribute of the protagonist’s life:
+(15) ‘Actually,’ said Clare, ‘it isn’t dull at all. I like this house being cold and dusty and 
+peculiar and I think the aunts are the most interesting people I’ve ever known. If 
+they are out of touch, like you said, then I think I’d rather be too, if being in touch 
+352 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+is what I think it is. I’ve always liked living with them and I wouldn’t like to live 
+anywhere else.’ (The House. P. 75).
+In another example, the description of the character’s house is the basis for emphasiz-
+ing the heroine’s inner state: (16) “Later, lying in bed, with the house, the huge and si-
+lent around her, everyone stowed away into separate rooms, the aunts, Maureen, cousin 
+Margaret having a bath, with sounds of distant splashing, she opened the diary and be-
+gan to read”. (The House. P. 76).
+The evaluation is expressed by the attributes huge and silent. Even though the evalu-
+ation is of an indirect nature, since it refers to the characteristics of the house, this assess-
+ment is transferred to Clare and it emphasizes the girl’s loneliness. This cognitive layer is 
+the basis for modeling the characters’ space.
+The next layer of the concept HOUSE — “family”, “dynasty” fulfills the cognitive fea-
+ture “a group of people connected by hereditary relations with a certain house / estate”. 
+This meaning is widely represented in the novel, which can illustrate its importance in the 
+author’s model of the world. In this sense, the lexeme house refers to a noble family:
+(17) By the time you get to Norham Gardens they have tottered over the edge into madness: 
+these are not houses but flights of fancy. They are three stories high and disguise 
+themselves as churches. They have ecclesiastical porches instead of front doors and 
+rounds of norman windows or pointed gothic ones, neatly grouped in threes with 
+flaring brick to set them off. They are reek of hymns and the Empire, Mafeking and 
+the Khyber Pass, Mr. Gladstone and Our Dear Queen… A bomb could not blow 
+them up, and the privet in their gardens has survived two World Wars. People live 
+in these houses. Clare Mayfield, aged fourteen, raised by aunts in North Oxford (The 
+House. P. 1).
+It is possible to paraphrase: Clare Mayfield belonged to one of the noble families, 
+those which have a long history and rich traditions. The reference to belonging to a noble 
+dynasty is given by the characters to emphasize their social statuses as well. Belonging to 
+the tradition has a special value in English linguistic culture, which is expressed by the 
+substance of the names of the rooms in the house:
+(18) They were always in the library at half-past four. They migrated slowly through the 
+house during the day: from their bedrooms to the breakfast room to the study to the 
+dining-room. I am the only person I know, Clare thought, who has a special room for 
+having breakfast in. And a pantry and a flower-room and a silver cupboard and a 
+scullery and three lavatories (The House. P. 2).
+The value component of the concept
+Let us turn to the value component of the concept HOUSE in the novel.
+First, we consider the implementation of the conceptual layer “home”. The analysis 
+of the predicates, combined with the lexeme home in Lively’s text, allows us to reveal the 
+features of conceptualization of this concept [Langacker 2010]. Home mainly functions in 
+the text as an adverb in combination with verbs of directional movement, for example: go 
+home, come/coming home, leave home, and cycle home.
+(19) She went into the museum with a feeling of coming home (The House. P. 59);
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+353
+(20) Maureen had a phone call from Weybridge, to say that her father was ill. She took a 
+couple of days off and went home to see him (The House. P. 127);
+(21) She could go home in a day or two, when the doctor had seen her again (The House. 
+P. 140).
+Thus, home is perceived not so much as a place of living (the place where some events 
+occur). It is a place of attraction, the center of family and personal life that a person leaves, 
+and where he constantly returns (compare the archetypal notions about the house as the 
+world center).
+The conceptual layer “home” in the novel differs significantly from the ideas em-
+bodied in the general language worldview. It differs, first, in the frequency of objecti-
+fication, and in the variable value. For an average Englishman, the notion “home” is 
+one of the main cultural dominants and is endowed with considerable value. In the 
+novel, Penelope Lively pays more attention to the embodiment of the conceptual layer 
+“house”, and “home” appears only as the birthplace and/or residence of the person and 
+the family; the place to which he/she is emotionally attached and where the person feels 
+comfortable.
+A feature of the novel is its detailed development of the conceptual layer “house” ver-
+sus the less relevant conceptual background layer “home”. In the writer’s worldview, the 
+layer “house” which designates the external spatial characteristics of the structure, along 
+with the person’s physical orientation, represents a person’s social and psychological posi-
+tion in relation to culture and tradition. It is very important for the novel’s plot.
+Thus, the house as someone’s residence, the place of living is itself a sign, a source of 
+information about the past and the present for the novel. Accordingly, two additional cog-
+nitive layers of the author’s concept represented by the lexeme house can be distinguished 
+in the novel: the house as a measure of success in life and the house as an artistic space of 
+the protagonist’s life.
+The cognitive layer “house as a measure of success in life” in addition to the cognitive 
+feature “success” also portrays the feature of “social status”. The house is one of the fea-
+tures of social success, self-realization in life for the Englishman. The very fact of owning 
+a house is an indicator of a person’s social status and, therefore, a value in itself [Nordby 
+2008]. So, the feature of high social status, actualized in the novel, is the possession of a 
+house in Oxford — the cradle of education and science. Norham Gardens was developed 
+from 1860 onwards as part of the Norham Manor housing estate. Most of its houses are 
+large Victorian Gothic villas designed by famous architects. It is a well-known fact that the 
+Sanskrit scholar, Max Müller lived at No. 7 from 1848 until his death in 1900. When he 
+was Regius Professor of Medicine (1905–1919), Sir William Osler lived at No. 13 with his 
+wife, Grace, who remained there until her death in 1928. A number of houses in Norham 
+Gardens are now used by the University of Oxford (mainly the Department of Education) 
+and its colleges; one of the houses is an ecumenical postgraduate student hostel run by the 
+Society of the Sacred Heart.
+Thus, the quality of the house indication shows the home owners’ social status — a 
+house with nineteen rooms:
+(22) The house squatted around them, vast, empty, unnecessary and indestructible. You 
+had to be a vast busy Victorian family to expand enough to fill up bases and passages 
+and conservatories and attics. You had to have an army of booties and nurses 
+354 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+and parlourmaids. You had to have a complicated, greedy system of living that 
+used a lot of space and people just in the daily business. You had to multiply your 
+requirements and your possessions, to activate that panel in the kitchen-Drawing-
+Room and Master Bedroom and Library — keep going a spiral of needs and people 
+to satisfy the needs (The House. P. 5).
+The context can include explicit characteristics of the buildings in similar areas: 
+(23) “The aunts have always had the back ones and I like this one because it looks out over 
+the Parks” (The House. P. 30). In this example, the cognitive features “success” and “high 
+social status” are actualized by the house’s location: to look over the Parks. As a standard of 
+success in the context, the house with a park view is shown. The definite article and capi-
+talization indicate the idea that it is not any park, but Oxford University Parks.
+An additional feature of success in life and a high social status marker is the house 
+interior — furniture, things, décor items: (24) “Three cups on a tray. Crown Derby. Very 
+valuable” (The House. P. 3).
+The listed objects serve not so much to describe the interior as to indicate the social 
+status of their owner. (25) “Clare’s visitors always wanted to see the hats, along with the 
+lift and the china collection in the drawing room and the old photograph albums in 
+the study desk. ‘It’s super coming here,’ they said happily” (The House. P. 31).
+The profession of the former house owner is emphasized in the novel. Clare’s great-
+grandfather was a well-known anthropologist: (26) “‘They’ll be something to do with my 
+great-grandfather,’ said Clare. ‘He was an anthropologist. He went to queer places and 
+brought things back’” (The House. P. 13).
+But many items lost their value over time, became unnecessary, useless. The people 
+living in the house now do not have the status and prosperity their relatives had fifty years 
+ago, this is no longer necessary. Time makes its own adjustments to the way of life, chang-
+ing the line of human values:
+(27) …then a house like this became a dinosaur, occupying too much air and ground 
+and demanding to be fed by new sinks and drainpipes and a sea of electricity. Such 
+a house became a fossil, stranded among neighbours long since chopped up in flats 
+and bed-sitting-rooms, or sleek modern houses that had a suitable number of rooms 
+for a correct living in the late twentieth century. It, and its kind, stood awkwardly on 
+the fringes of a city renowned for old and unbeautiful buildings: they were old, and 
+unbeautiful (The House. P. 3);
+(28) The house squatted around them, vast, empty, unnecessary and indestructible (The 
+House. P. 5).
+Lively models several worlds in one novel. Changing the viewpoint, the writer allows 
+the reader to see the reality created by her from different sides, gives a versatile assessment 
+of the phenomena under consideration.
+In the above example, the author’s negative attitude toward the prevailing cultural 
+stereotypes is noted. The metaphors — to squat, to be fad, a dinosaur, a fossil, a sea of 
+electricity; attributes and epithets — stranded, awkwardly, old, unbeautiful, empty, un-
+necessary, and indestructible; antithesis — emphasize the pretentiousness and irrelevance 
+of the building, and its internal content, discontent and irritation from the problems that 
+it causes.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+355
+According to the author’s intention, Clare’s aunts differ from their mother and are an 
+example of the opposition of the traditional materialistic system of values and spirituality, 
+poetry. They inherited these qualities from their father:
+(29) Clare’s great-grandmother, unlike her daughters, Aunt Anne and Aunt Susan, had been 
+a lady of fashion. While her husband roamed the world in the search of primitive 
+peoples, and, back in Oxford, shut himself away with his books to puzzle out the 
+relevance of their mysterious lives, great-grandmother attended garden parties and 
+theatres and entertained her friends to luncheon and afternoon tea and dinner 
+in the evening. The equipment that had been necessary for all these activities, the 
+dresses and capes and gloves and boots, and, above all, the battery of elaborate 
+hats, feathered, ribboned, and flowered, lay still in trunks in the attic. The aunts had 
+never needed such things (The House. P. 32).
+Material values and social status markers are represented in this example by the 
+substances: garden parties, theaters, luncheon, afternoon tea, dinner in the evening, the 
+equipment, activities, the dresses, capes, gloves, boots, the battery of elaborate hats, as well 
+as polysyndeton, reflecting the endlessness and diversity of these things. The opposite val-
+ue system is objectified by the description of the great-grandfather’s occupations, which 
+implicates spirituality and creativity. In its turn, the description of the house emphasizes 
+the fact that spirituality does not bring wealth and luxury:
+(30) The curtains were faded in stripes, and the William Morris wallpaper had brown 
+marks on it, and damp patches. The silk cushions had holes in them. The aunts’ lives 
+had not been spent in a drawing room. They were people who lived in libraries or 
+studies (The House. P. 21).
+Thus, with the help of the concept HOUSE (its attributes “housing quality”, “loca-
+tion”, “interior”, generating the secondary modeling system with the components “success 
+in life”, “social status”, “value system”), Lively portrays two life settings that correlate with 
+two life positions: “to have” or “to be”. This opposition can only be regarded as a subtle 
+reproach, but not criticism of English society because P. Lively as the bearer of traditions 
+herself shares the assimilated system of values, although she recognizes the existence of 
+alternative attitudes.
+In the novel, the house is not so much a means which characterizes the protagonist 
+as it is a self-valuable image. Lively models two significant localities, contrasting with each 
+other, creating two images of the same house: the first image is the image of the house at 
+the beginning of the twentieth century, when Clare’s great-grandfather and great-grand-
+mother lived in it; the second image is the house in which the heroine and her aunts live. 
+The distance of time separates these two images. The past image is closely connected with 
+the present image. The past is in every house corner in the present. There is not much in 
+the house that has changed. Furniture, books, dishes, decor — everything has been left 
+in its place for many decades. The idea of the past is marked by the past predicates: had 
+always been, had become, held, needed, had tipped, had been once, had survived, and had 
+called:
+(31) The house, which had always been their base, had become also their shell. It held 
+everything they needed and they seldom went beyond it (The House. P. 10);
+356 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+(32) There was a blob of wax on the page at this point, as though great-grandfather had 
+tipped the candle over. The next entry was nearly a week later (The House. P. 78).
+The house’s space is significant for the main character and is associated in her mind 
+with the uncertainty she is experiencing. Time has slowed down in this house for her, for 
+her aunts. But beyond its walls, it continues its running. Clare is in anticipation of change 
+and further movement. But she is not quite sure what she is waiting for, what should hap-
+pen. Here are her feelings and reasoning about this:
+(33) Clocks ticked, the fire sighed and shifted. If there was a world beyond Norham 
+Gardens, where urgent and consuming things went on, it seemed very far away. 
+Clare thought: I am like the aunts, we are both at a time when nothing much is 
+happening to us. They have finished having things happen to them, and I haven’t 
+started yet. We just wait. The aunts think backwards mostly, because that suits them 
+best. Perhaps I should think forwards, but I can’t because there is nothing to be seen 
+for certain except O levels and August in Norfolk. I don’t know what I will be, any 
+more than I’m sure what I am now. I am like a chrysalis, turning into something: 
+not knowing what is frightening, sometimes (The House. P. 26).
+The following example reveals another aspect of the house’s space showing its great 
+importance and value for the girl:
+(34) Lying in bed that night, in the hinterland between being awake and asleep, when 
+things slide agreeably from what is real to what is not, it seemed to her that the house 
+itself, silent around her, was a huge head, packed with events and experiences and 
+conversations. And she was part of them, something the house was storing up, like 
+people store each other up. Drifting into sleep, she imagined words lying around 
+the place like bricks, all the things people had said to each other here, piled up in 
+the rooms like the columns of books and papers in the library, and she wandered 
+around among them, pushing through them, jostled by them (The House. P. 38).
+When Clare describes the atmosphere in the house, she compares the house with a 
+mythical creature consisting of brick words. She compares it to a sort of encyclopedia full 
+of information of all kind.
+In general, as can be seen from the examples, the house’s space is a symbol of his-
+tory, a bulwark of traditions, protected from external unrest and change; it is a temple of 
+knowledge and science.
+The conceptual meanings “traditionalism” and “continuity” are expressed in the time 
+dimension of the house’s space, which is related to the concept of the cyclic time, while all 
+external to the house’s world, experiencing changes, lives in linear time. As E. S. Yakovleva 
+writes, 
+in the native speakers’ cultural paradigm the ideas of natural cycles, endless returns and 
+repetitions of the same events and human destinies on all circles are connected with the 
+notion “cyclic time”; with the notion “linear time”, such characteristics as “originality”, 
+“uniqueness”, “singularity” of events, and irreversibility of the life process itself are associated 
+[Yakovleva 1994: 100–101].
+The cyclic time in Claire’s house manifests itself not only in the absence of change, but 
+also in certain repetitive actions of the main characters — their habit of moving around 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+357
+the house. The process of moving around the house is expressed by the predicate “mi-
+grated slowly”, which can be seen in some previous examples.
+The mythopoeic thinking traits can be traced in the novel, which can be probed 
+by the erecting-and-destroying-the-house motives in the notional component of the 
+concept.
+Through Claire’s work on appropriating the house, familiarizing with tradition is ex-
+pressed as it may seem, in insignificant things: decoration, things, and furniture arrange-
+ment:
+(35) She tidied her own room, excavating drawers and cupboards, filling cardboard boxes 
+with rubbish, laboriously, with one hand, arranging books according to subject and 
+author. She threw out the chair she had always used at her desk and asked John to help 
+her bring up the one from the study, a heavy, dark brown thing with a leather seat that 
+swiveled on its base (The House. P. 142).
+In the novel, when creating the house’s space, the archetypal motives for the house’s 
+destruction are clearly highlighted. The motive for the destruction is figuratively related to 
+the slowing or stopping of time. The reason for the house’s destruction is objective nature 
+of matter and time: over time, things are shattered under the influence of external natural 
+factors. The only obstacle to the inexorable destruction of the house is a person guarding 
+the house from destruction or restoring the already destroyed house. The image of the 
+destroyed house is created by using the words with the seme ‘dilapidation’: rack, faded, 
+brown marks, holes, etc.:
+(36) The Outgoings and the Assets, and the cracked guttering that must be repaired and 
+the leaking kitchen sink that would have to be replaced (The House. P. 3);
+(37) The curtains were faded in stripes, and the William Morris wallpaper had brown 
+marks on it, and damp patches. The silk cushions had holes in them (The House. P. 21).
+The main reason for the destruction is time. The longer the house remains exposed 
+to nature, without human interference, the more active the dilapidating processes are. The 
+explication of the cyclic time (the linear time in this case is associated with the presence 
+of a thinking subject, a person) in the following examples is revealed in the substances: 
+night, spring, summer, winter. Among the names of the cyclic time, the substance “spring” 
+is associated with creation, flowering, and purity: (38) “The sunshine gradually filled the 
+room and she knew that somehow the winter must have passed, without her realising it, 
+and spring have come, or even summer” (The House. P. 115). The substantive night often 
+occurs in a close context with the predicates and attributes that characterize winter phe-
+nomena and expresses negative connotations: (39) “The blizzard roared all that night” 
+(The House. P. 68); (40) “I hate this winter. I felt as though time had stuck. Last night I 
+dreamed it was summer”. (The House. P. 120).
+As it has been already noted, the only force that can keep a house from destruction is 
+a person. As for Claire, she needs money to support the house and put it in order. But there 
+is a lack of money. The only way for Claire and her aunts is to have tenants:
+(41) You have to fill the gap somehow. The gap, in this instance, had been filled with 
+Maureen. ‘A lodger!’ Mrs. Hedges had said. ‘They never heard of a lodger!’ (The 
+House. P. 3);
+358 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+(42) I would not have thought the aunts would have been all that keen on the idea of a 
+lodger, that’s all. They do not mind (The House. P. 76).
+One more action is repeated in the novel several times, and it is symbolic. This is the 
+predicate “spring-clean”:
+(43) ‘Goodness!’ Said cousin Margaret. ‘You could do with a proper spring-clean in here. 
+You must let me give you a hand. I love throwing things away’ (The House. P. 72);
+(44) ‘Why all these changes, suddenly?’ ‘I’m spring-cleaning,’ said Clare… ‘Those can be 
+thrown away,’ said Clare. ‘Those old shoes. I’m just keeping the most important 
+things’ (The House. P. 142).
+The simple actions of getting rid of old unnecessary things can bring a house to life, 
+stop the destruction, and initiate life and time.
+Thus, in the novel, the motive of the house’s destruction is connected not with the 
+complete destruction, but with the transition from one state of being to another. Man is 
+the only force capable of preventing destruction and regulating chaos.
+The figurative component of the concept
+The application of the metaphorical component of the concept in the novel opens 
+the individual expression to understand abstraction. Based on the analysis of the novel, 
+we can distinguish the following set of metaphorical models with the concept HOUSE as 
+a target domain: 1) the house is a dinosaur / monster; 2) the house is a museum; 3) the 
+house is life.
+The first model is associated with the monster image, huge, insatiable, requiring more 
+and more investments:
+(45) …then a house like this became a dinosaur, occupying too much air and ground 
+and demanding to be fed by new sinks and drainpipes and a sea of electricity (The 
+House. P. 5);
+(46) The house, now that she had shut the door, swallowed her, empty, apparently, and 
+pitch dark. She felt, for an instant, quite panic-stricken… (The House. P. 130).
+A number of constantly recurring attributes in the novel, characterizing the house, 
+makes it possible to imagine the monster-house vividly: silent, vast, empty, unnecessary, 
+indestructible, greedy, awkward, demanding, big, dark, weird, huge, etc.
+Fear of the monster disappears only with the realization that the house is full of fam-
+ily and friends, and that it is now Clare’s own creation and transformation: (47) “Home, 
+she toured the house, as though she had been away for a long time and needed to make 
+sure that everything was all right and in its proper place. Drawing-room, library, study, 
+dining-room, spare rooms. She tidied her own room…” (The House. P. 142). 
+Claire, in a jocular way, often compares the house to a museum full of old dresses, 
+hats, china collection, old photographs, and albums:
+(48) They inspected the lavatory. Maureen giggled. Then she said, ‘Sorry, dear, but it is a bit 
+of a museum-piece, isn’t it?’ (The House. P. 11);
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+359
+(49) Like a museum where you’re allowed to take everything out and mess with it (The 
+House. P. 32);
+(50) It’s stuffed, this place, like a museum (The House. P. 74).
+Not only furniture objects, houseware, household items, and furnishings, but the very 
+atmosphere of Clare’s life reminds her of a museum. Many things from their house have 
+already become museum exhibits. But one of them — the shield, which becomes the cent-
+er for events in the novel, is stored in the attic: (51) “She stood looking at her own face, not 
+seeing it, thinking about other things. This house. That painted shield in the attic. The 
+aunts. Then and now. Yesterday. Tomorrow” (The House. P. 52).
+In her dreams, throughout the novel, Claire tries to return this tamburan to the own-
+ers — the tribe to whom it once belonged. In the novel, this object personifies the de-
+liverance from the past, from chaos, and order returns. But Claire honors and respects 
+history, her ancestors. In the end, she understands that the tribe continues to live and has 
+been changing all this time, their way of life has been undergoing change and their values 
+have changed. The conclusion to which the girl arrives at is obvious. We need to get rid 
+of unnecessary things. Life must be filled with new events, new things, relationships, and 
+feelings. So, the house, its walls, its space, and filling (physical and spiritual) are associated 
+with life:
+(52) ‘Step back into the past’, said Clare. ‘In this house we preserve an older, finer way of 
+life. Welcome to nineteen thirty-six’ (The House. P. 32);
+(53) …and the house had been absolutely still and silent around her. It was like a shell, 
+quite without life… (The House. P. 51);
+(54) Either way, you will not need it. You will have furnished your own life, with other 
+places and other things (The House. P. 153).
+The metaphor “house-life” is emphasized by Lively throughout the novel. Clare con-
+stantly stresses the presence of frightening silence in the house, especially in the evenings. 
+Life seems to stop, and Clare moves to another world, to another life.
+Symbolical in this case is the image of the Christmas roses brought by Clare from the 
+garden:
+(55) “Christmas roses! Susan, she has brought Christmas roses from the garden! An 
+inspiration! Clever child. The roses, pale and unreal, like imaginary flowers, flopped 
+over the edge of the vase and made of blurred reflections of themselves on the surface 
+of the library table” (The House. P. 26).
+The substantive roses is a symbol of the continuation of life, beauty, and joy.
+At the beginning of the novel, the girl asks herself questions whether it is necessary 
+to preserve and keep her ancestors’ history unchanged, or whether the houses and people 
+who live in them need to change, or maybe they just need to be destroyed to the ground 
+in order to create something new. Clare presents houses as the witnesses of historical pro-
+cesses of all kinds — economic, political, cultural, and educational:
+(56) It, and its kind, stood awkwardly on the fringes of a city renowned for old and beautiful 
+buildings: they were old, and unbeautiful. Perhaps, Clare thought, you should knock 
+360 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+own places like this when they are no longer useful. Reduce them to the brick and dust 
+from which they came?
+Or should you, just because they are old, not beautiful, but old, keep them? 
+Houses like this have stood and watched the processes of change. People swept by 
+the current, go with it: they grow, learn, forget, laugh and cry, replace their skin every 
+seven years, lose teeth, form opinions, become bald, love, hate, argue and reflect. 
+Bricks, roofs, windows and doors are immutable. Before them have passed carriages, 
+and the carriages have given way to bicycles and the bicycles to the cars that line up 
+now, bumper to shining bumper, along the pavement. In front of them have paraded 
+ankle-length dresses and boaters and frock coats and plus-fours and duffle coats 
+and miniskirts. Through their doors have passed heads, shingled, bobbed, permed 
+and unkempt. Within their walls language has changed, and assumptions, and the 
+furniture of people’s minds. Possibly, just possibly, you must keep the shells inside 
+which such things happen, in case you forget about the things themselves (The 
+House. P. 5–6).
+Claire is looking for the answers to these questions. She is tormented by the dreams, 
+in which the motive of movement and changes in life is figuratively traced through the 
+example of an African tribe. Clare meets new people. She goes beyond her shell-house. 
+The house frightens her and burdens her with its emptiness at times.
+In the end, it is time to part with everything that prevents movement and develop-
+ment. The museum cannot be a place to live; there are too many puzzles in it that can keep 
+a person from moving. It happens with Clare, she is stuck between the ages, between the 
+worlds, and Claire is not able to systematize all the information and knowledge she re-
+ceives due to the lack of experience. Her aunt gives her excellent advice, which helps Clare 
+start the time in the house and in the life to run: (57) “‘My dear child,’ said Aunt Susan, 
+‘you can’t carry a museum round with you. Neither will you need to. What you need, 
+you will find you already have. You are a listener’” (The House. P. 154).
+Lakoff and Johnson note that 
+understanding is necessarily relative to our cultural conceptual systems and it cannot 
+be framed in any absolute or neutral conceptual system. Human conceptual systems are 
+metaphorical in nature and involve an imaginative understanding of one kind of thing in 
+terms of another… metaphorical understanding involves metaphorical entailment, which 
+is an imaginative form of rationality [Lakoff, Johnson 1980: 139–140].
+By analyzing the metaphorical models of the concept HOUSE in the novel, we un-
+cover and clarify the core concept. The symbolic metaphors that are grounded in our 
+physical experience provide an essential means of comprehending cultural concepts [La-
+koff, Johnson 1980: 33].
+Thus, the conducted analysis of the metaphorical component allowed us to draw the 
+major lines along which this concept may be linked with other important concepts of 
+English culture: TIME, HISTORY, MEMORY, HERITAGE, SELF-CONSCIEOUSNESS 
+(MIND), and LIFE. The house, considered as the shell of a person, is simultaneously meta-
+phorically conceptualized as an independent living being, which needs the presence of a 
+person, his creative and constructive energy.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2 
+361
+Conclusion
+In this paper, we have demonstrated the procedure of a step-by-step analysis of the 
+individual concept HOUSE in Lively’s The House in Norham Gardens and compared the 
+obtained results with the verbalization of the same concept in the English explanatory 
+dictionaries. This approach allowed us to reveal the common notional or core compo-
+nent of the concept, which is perfectly natural, since it is the core component that forms 
+the basis for an adequate understanding of the concept by all members of the culture. 
+Nevertheless, in Lively’s novel, the meaning of the core components has been extend-
+ed — the concept HOUSE acquires the basic features of the concept HOME. This is un-
+doubtedly linked with the personification of the house in Lively’s novel, which makes it 
+not only a material, but truly spiritual object. The method of linguo-conceptual analysis 
+also allowed us to reveal the variety of the images connected with the idea of the house. 
+The metaphorical models “the house is a museum”, “the house is life”, and “the house is a 
+dinosaur/monster” employed by the author add to the conceptualization of the house as 
+a significant value of English culture. The linguistic analysis illustrates that the concept 
+HOUSE is associated with English traditions, deeply rooted in previous epochs; the 
+house bears the imprints of all cultural layers, therefore it is subject to careful storage. 
+The house symbolizes security, permanence, shelter, stronghold, dwelling; family, family 
+nest, clan, dynasty; fatherland; human body. It embodies a plea to preserve the purity of 
+English culture, traditions, and art that will save and cleanse the human soul. This con-
+cept is based on the archaic understanding of the house as an internal, mastered space, 
+which confronts the strange, external space of chaos. Thus, it is no coincidence that it 
+is the concept HOUSE that is subjected to such a significant extension of meaning. All 
+this allows us to conclude that house possesses a salient value component in English 
+linguistic culture, which permits the author to extend and expand its core meaning by 
+adding various shades of the images. It is its emotional and value charge that makes it a 
+very “convenient” object for artistic writing.
+The applied procedure of linguo-conceptual analysis reveals broad prospects for fur-
+ther study of the individual author’s concept HOUSE in modern English literature in the 
+comparative aspect.
+Sources
+Lively 1974 — Lively P. The house in Norham Gardens. New York: Dutton, 1974. https://archive.org/details/
+houseinnorhamgar00live (access date: 20.06.2019).
+James 1905 — James H. English hours. London: W. Heinemann, 1905. 315 p.
+Dictionaries
+Hornby et al. 1995 — Hornby A. S., Cowie A. P., Gimson A. C. Oxford advanced learner’s dictionary of current 
+English. 5th ed. Crowther J. (ed.). Oxford: Oxford University Press, 1995. 1430 p. 
+LDCE 1995 — Longman dictionary of contemporary English. 3rd ed. Harlow: Longman Group Ltd, 1995. 
+1668 p. 
+LDELC 1992 — Longman dictionary of English language and culture. Summers D. (ed. director). Harlow 
+(Essex): Longman, 1992. 1528 p. 
+OCDE 2002 — Oxford collocations dictionary for students of English. Oxford: Oxford University Press, 2002. 
+897 p. 
+362 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 2
+ODE 2003 — Oxford dictionary of English. 2nd ed. Oxford: Oxford University Press, 2003. 2088 p. 
+ODSA 1999 — Oxford dictionary of synonyms and antonyms. Comp. by A. Spooner. New York: Oxford Uni-
+versity Press Inc., 1999. 572 p. 
+RHWSOT 1995 — Random House Webster’s school and office thesaurus. New York: Random House, 1995. 
+612 p. 

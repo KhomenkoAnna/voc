@@ -1,0 +1,1 @@
+выздоравливать<V,нп=прош,ед,изъяв,сред,сов>(VERB,perf,intr neut,sing,past,indc) за<PR=>(PREP) сутки<S,мн,неод=(вин|им)>(NOUN,inan,GNdr,Pltm plur,accs) с<PR=>(PREP) выздоровление<S,сред,неод=твор,ед>(NOUN,inan,neut sing,ablt) выписывать<V,пе=прош,мн,прич,кр,сов,страд>(PRTS,perf,past,pssv plur) пациентаумерший<S,муж,од=(пр,мн|вин,мн|род,мн)>(PRTF,perf,tran,past,actv plur,gent)

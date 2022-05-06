@@ -1,0 +1,1114 @@
+С. / Pp. 94–112 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2019. № 6
+ 
+Voprosy Jazykoznanija
+Is contact-induced syncretism possible?
+A corpus-based study on bilingual verbal morphology 
+of spoken German in Russian Siberia
+Christiane Andersen
+University of Gothenburg, Gothenburg, Sweden; christiane.andersen@sprak.gu.se
+Abstract: This paper investigates bilingual verbs in a corpus of spoken German by L1 speakers in Rus-
+sian Siberia. The study analyzes bilingual verb formations of the type hinpostupaje, which are inserted 
+into a position corresponding to a native verb. Different kinds of inﬂ ectional and word-formation pat-
+terns in bilingual verbs are identiﬁ ed and discussed with reference to the contact-induced morphology 
+of German and Russian. The study demonstrates that the bilingual verbs follow morphophonemic reg-
+ularities, and that there are several traces of morphophonemic syncretism. It argues that the bilingual 
+speakers make use of German and Russian morphology in an innovative way, which cannot be ex-
+plained by classical morphology alone. The bilingual formatives identiﬁ ed differ from the form/func-
+tion equivalents in both German and Russian morphology. Further research should therefore include 
+cognitive aspects of bilingual morphology.
+Keywords: bilingualism, corpus linguistics, dialectology, diaspora, German, island dialects, language con-
+tact, mixed languages, morphology, Natural Morphology, Russia, Russian, syncretism, verbal inﬂ ection
+Acknowledgements: I wish to thank Nadezhda Zorikhina Nilsson (professor of Slavic Languages at the 
+University of Stockholm) for her valuable feedback concerning Russian morphology and two anony-
+mous reviewers for valuable advices.
+For citation: Andersen Chr. Is contact-induced syncretism possible? A corpus-based study on bilingual 
+verbal morphology of spoken German in Russian Siberia. Voprosy Jazykoznanija, 2019, 6: 94–112.
+DOI: 10.31857/S0373658X0007548-1
+Возможен ли контактно-обусловленный синкретизм?
+Корпусное исследование глагольной морфологии 
+в языке сибирских немцев
+Кристиана Андерсен
+Гётеборгский университет, Гётеборг, Швеция; christiane.andersen@sprak.gu.se
+Аннотация: В статье исследуются «двуязычные» глаголы в корпусе разговорной речи носителей 
+немецкого языка, проживающих в Сибири. Анализируются немецко-русские образования типа 
+hinpostupaje, функционирующие как глаголы. Выделяются различные модели словоизменения 
+и словообразования «двуязычных» глаголов; они обсуждаются в свете контактной морфологии 
+немецкого и русского языков. Исследование показывает, что «двуязычные» глаголы подчиня-
+ются морфонологическим закономерностям и обнаруживат некоторые следы морфонологиче-
+ского синкретизма. Делается вывод о том, что билингвы используют русский и немецкий мор-
+фологический материал инновационными способами, для объяснения которых недостаточно 
+классических методов морфологии. Рассматриваемые «двуязычные» образования отличаются 
+от своих формальных и функциональных эквивалентов в русском и немецком. В связи с этим, 
+дальнейшие исследования должны учитывать когнитивные аспекты двуязычной морфологии.
+© 2019
+ 
+ Christiane Andersen 
+95
+Ключевые слова: билингвизм, глагольное словоизменение, диалектология, диаспора, естественная 
+морфология, корпусная лингвистика, морфология, немецкий язык, островные диалекты, Россия, 
+русский язык, синкретизм, смешанные языки
+Для цитирования: Андерсен К. Возможен ли контактно-обусловленный синкретизм? Корпусное иссле-
+дование глагольной морфологии в языке сибирских немцев. Вопросы языкознания, 2019, 6: 94–112.
+DOI: 10.31857/S0373658X0007548-1
+1. Goal of the investigation and research questions
+Morphosyntactic structures from Russian have consistently affected the German varieties spo-
+ken in Russia over a period of more than 200 years.1 Syntactic phenomena such as verb-ﬁ rst or-
+der in declarative sentences and pro-drop of subject pronouns, which often coincide with mor-
+phological borrowings, have recently been the subject of more detailed investigations [Andersen 
+2016a; 2016b]. But contrastive studies focusing on structural and/or typological phenomena are 
+still rare, which is all the more concerning considering that the time for fruitful applied research 
+is running out: “[…] the onset of the 21st century bears witness to the last potential (semi-)func-
+tional speakers of many of these dialect communities, it would seem that the time to conduct 
+meaningful research on these dialects is now” [Putnam (ed.) 2011: 1].2
+Based on the previous investigations, the goal of this study is to investigate bilingual verb 
+units that have hitherto not been included in typologies of German and Russian, although this 
+phenomenon of bilingual speech is well-known in contact linguistics. Muysken investigated 
+bilingual verbs in typologically different languages and noted that code-mixing in verbal sys-
+tems is often innovative, “leading to structures not present in either of the languages in contact” 
+[Muysken 2000: 184]. This is particularly noticeable in Colonial German from Russian Siberia. 
+Consider the following example 3:
+(1) 
+Jets    henze      uns   kants   naies    eivodide 4
+���    ���.3��    ���    ���     ���       ���
+jetzt    haben-sie   uns    ganz    Neues    eingeführt
+‘Now they have introduced something very new.’
+In (1), the verb perfect unit (predicate) henze eivodide has in the position of the German per-
+fect participle a bilingual verb containing the verb stem of the Russian inﬁ nitive vodit’ ‘lead’, 
+the German verb formation preﬁ x ei-, and the German inﬁ nitive sufﬁ x -e. The bilingual verb 
+eivodide is morphologically a German inﬁ nitive with a Russian stem. A wide range of several 
+contact-linguistic and cognitive phenomena can activate the underlying triggers of such verb 
+ 
+1 But it should be mentioned that code-mixing with Russian was stigmatized for a long time, see Dinges 
+[1923: 60]: “[…] so geht und fragt die Russen und hört wie sie urteilen. Sie lachen sich aus über die 
+Deutschen, die auf Schritt und Tritt russische Wörter in ihre Sprache hineinﬂ icken und sie noch dabei 
+schlecht aussprechen […].”
+ 
+2 An exception is the volume “Studies on German-language islands” [Putnam (ed.) 2011] introducing 
+generative and structural studies on German-language islands in Northern America (Wisconsin, Texas, 
+Pennsylvania), Italy (Cimbrian German) and the Netherlands (Plautdietsch). Unfortunately, studies 
+on German-language islands in Russia are missing.
+ 
+3 This example is taken from the transcription of a dialogue between a grandmother and grandchild liv-
+ing in the Russian Altai region [Moskaljuk 2013].
+ 
+4 This and the following examples from the Siberian German Corpus (see more details in section 2) are in ital-
+ics, the Russian insertions are in bold. The linguistic description is given as follows: morphosyntactic fea-
+tures for relevant word forms, Standard German lexemes, and English translation of the corpus example.
+96 
+Voprosy Jazykoznanija 
+2019. № 6
+formations. Muysken subsumes these complex phenomena under the term “congruent lexical-
+ization”, when “the grammatical structure is shared by languages A and B, and words from both 
+languages a and b are inserted more or less randomly” [Muysken 2000: 8]. But what does “more 
+or less randomly” mean for morphological units like eivodide and what makes it different from 
+Russian and German morphology? In cognitive approaches to morphology, particularly in con-
+nectionist models, morphemes are not represented as discrete entities. “Instead, as the network 
+learns to map from one domain to another (e.g. sound to meaning) it picks up on regularities 
+in the mappings. Morphology arises as a consequence of the correlations between codes” [Sei-
+denberg, Gonnerman 2000: 356]. It is useful to bear the connectionist view in mind when inves-
+tigating odd contact-induced morphological verb formations like eivodide.
+While we concentrate on contact-induced phenomena, we will argue in particular that there 
+are speciﬁ c restrictions for certain language pairs in different bilingual speech situations, i.e. “not 
+anything structural” is possible in contact speech [Myers-Scotton 2002: ix], and that language 
+contact phenomena are constrained by the requirements of the given grammar of the contact-in-
+duced speech [Andersen 2016b: 8]. A further approach adopted in the following investigation 
+is the notion of contact-induced syncretism, arising probably in the morphological phenomena 
+in the investigated corpus. We understand simple syncretism as cases in which “two or more 
+cells with different values for a feature are merged” [Baerman et al. 2005: 13].
+Based on these considerations, the investigation will concentrate on the following questions:
+(i) 
+What kind of inﬂ ectional and/or word-formation morphemes are inserted into the bilin-
+gual verb units under investigation?
+(ii) Can particular word-formation patterns be identiﬁ ed in the bilingual verb units under 
+investigation?
+(iii) To what extent does the language pair and/or the direction of language transfer matter 
+in this speciﬁ c case of contact-induced morphology?
+The background and special conditions of the corpus and several types of investigated data 
+are presented in section 2. Relevant typological contrasts between German and Russian taking 
+into account the grammatical structure of the German varieties in Russia are discussed in sec-
+tion 3. There follows an analysis of two types of verb formation contained in the material in sec-
+tion 4: (1) inserted Russian verb forms and (2) Russian verb stems with German afﬁ xes. The 
+analysis seeks to answer research question (i). The particular word-formation patterns are then 
+discussed in section 5 with reference to research question (ii): Finally, in section 6 an attempt is 
+made to answer research question (iii).
+2. Research corpus and types of data
+The corpus data for this study are taken from the digitalized Siberian German Corpus (SGC) 5 
+at the University of Gothenburg.6 It has been speciﬁ cally created as a sample of the German 
+ 
+5 The corpus data consist of audio recordings from the Krasnoyarsk region between 1988 and 1998, col-
+lected by Valentina Djatlova (V. P. Astafyev Russian State Pedagogical University in the city of Kras-
+noyarsk) and video recordings from the Krasnoyarsk region of 2010 collected by the author with the 
+help of Russian colleagues at the Astafyev University. The transcription and annotation of the two lin-
+guistic corpora was a part of the research project “Syntax in Contact. Word Order in a Variety of Ger-
+man Spoken in East Siberia” at the University of Gothenburg in collaboration with the Astafyev Uni-
+versity between 2008 and 2016. The transcription follows the broad outlines of the transcription sys-
+tem of Spoken German GAT [Selting et al. 1998].
+ 
+6 In collaboration with the Centre of Language Technology, University of Gothenburg, two corpora 
+(Siberian German and Siberian German women) are available at Korp, the concordance search tool 
+ 
+ Christiane Andersen 
+97
+language which has been spoken in Russia for two hundred years by ethnic Germans who immi-
+grated to Russia as colonists. The speakers 7 are between 70 and 80 years old, and are probably 
+the last generation speaking German as their heritage language [Andersen 2016c].
+The SGC consists of transcriptions of spoken narratives and dialogues of the German variety 
+spoken by about 36,000 people in the Siberian region of Krasnoyarsk (Russia). The SGC con-
+tains a total of 50,413 tokens, see the interface of the SGC in the ﬁ gure below:
+Figure. The interface of the SGC showing examples of the token war ‘was’
+The SGC is partly annotated: Russian words and German-Russian bilingual word units are 
+given in square brackets; verb units have the attribute ����� (ﬁ nite verb) or ������� (perfect par-
+ticiple or inﬁ nitive). A quantitative breakdown of the data in the SGC is as follows:
+Table 1
+Total amount of annotated tokens in the SGC
+T���� ��������
+F����� �����
+N�������� �����
+B��������� 
+���� R������
+50,413 (100 %)
+6,209 (12.3 %)
+2,152 (4.3 %)
+1,503 (3 %)
+About 3 % of the total number of tokens is borrowed from Russian. These borrowings in-
+clude sequential code switches and different types of lexical borrowings. However, the propor-
+tion of lexical borrowings is relatively low. Typical borrowings are nouns, adjectives, adverbs 
+and various discourse markers as illustrated in (2):
+(2) 
+di     lait     leve     družno
+���   ���.��   ���.1��   ���
+die    Leute    leben     einträchtig
+‘People live in harmony.’
+of Språkbanken (The Swedish Language Bank); see the language resources at Språkbanken, Korp 
+[Borin et al. 2012]; SGC is in open access at https://spraakbanken.gu.se/korp/?mode=siberian_ger-
+man#?lang=sv&stats_reduce=word&cqp=%5B%5D.
+ 
+7 Special thanks to my wonderful informants Maria, Emma, Linda and Minna, who told me about their 
+lives as ethnic Germans in the former Soviet Union and in Russia today.
+98 
+Voprosy Jazykoznanija 
+2019. № 6
+In (2) the adverb družno, derived from the adjective družnyj, is used in the phrase die Leute 
+leben einträchtig. The sample is a direct transfer of the Russian phrase žit’ družno ‘to live in har-
+mony’, which can be translated into Standard German as in Eintracht leben. As we can see, the 
+transfer of a lexical item mostly triggers further borrowing of lexical and structural constructions. 
+Like the adverb družno, which appears only once in the SGC, most of the lexical borrowings are 
+used spontaneously. Only Russian discourse markers are more integrated in the German speech. 
+The Russian discourse marker nu ‘well’ appears most frequently in the SGC.8
+High frequency of ﬁ nite auxiliaries is another typical property of the SGC, see table 1. 
+As a German contact variety, German in Siberia is still a sample of spoken German. However, it 
+cannot come as a surprise that the verbs are mostly used in the present and perfect tenses. Verb 
+forms of the German past tense do not occur at all (exceptions are the auxiliaries war, hatte 
+etc.). Another interesting quantitative result of the SGC is the absence of ﬁ nite bilingual verbs. 
+In other words, the German ﬁ nite verbs are not linked with Russian morphemes in the sample 
+under investigation. But about 1.5 % of the total number of borrowings in the corpus are non-
+ﬁ nite bilingual verbs with a Russian stem and German afﬁ xes as in example (1) above. On the 
+other hand, there is not a single case in the SGC where the nonﬁ nite verb consists of a German 
+stem and Russian inﬂ ectional morphemes, which is certainly remarkable.
+But studies which compare the speech of Russian and Russian-German immigrants in Ger-
+many show opposite patterns. Russian immigrant speakers produce bilingual verbs in Russian 
+speech with a German verb stem and Russian inﬂ ectional morphemes, as the following exam-
+ples show: behandlevat’ (behandeln ‘treat’, Russian inﬁ nitive sufﬁ x -vat’ ), vermissevaem (ver-
+missen ‘miss’, Russian inﬂ ectional sufﬁ x -vaem, 1��, ���) [Berend 2014: 232]. The same phe-
+nomenon is documented in the speech of Russian immigrants in Sweden. The Russian immi-
+grants use Swedish verb stems with Russian inﬁ nitive sufﬁ xes as in bukovat’ (boka ‘book’) and 
+sjuklat’ (cykla ‘bike’) [Lisik 2013: 63].
+The following section discusses the crucial typological differences between German and Rus-
+sian morphosyntax.
+3. Typological differences between German and Russian 
+taking into account the morphosyntactic structure 
+of spoken German in Siberia
+In the spirit of Hawkins [1986], the contrastive approach will be applied as a comple-
+ment of typological studies. Hawkins, who has suggested a contrastive typology of German 
+and English, argued that it “adopts a methodology which is in many ways the exact inverse 
+of the comparative-universal approach. Whereas this latter examines a small number of vari-
+ant linguistic properties in a large number of languages, the present approach looks at a large 
+number of variant linguistic properties in a small number of languages” [Ibid.: 3]. Moreover, 
+the contrastive approach is motivated by the goal of this investigation. It is undeniable that 
+the sample under investigation in the SGC is a German contact variety. Russian is present 
+ 
+8 The discourse marker nun (34 tokens) is used less often than its Russian counterpart nu (59 tokens) in the 
+SGC. Compared with other Russian borrowings, nu is used relatively frequently and it shows a higher 
+heterogeneity concerning the word order type in the German contact variety. Most of the examples with 
+nu surprisingly contain a verb-ﬁ rst order and not the typical German verb-second order [Andersen 2016a: 
+280ff]. Russian discourse markers seem to be a crucial linguistic unit also in other typologically different 
+languages spoken in Russia as in an Udmurt-Russian mixed code [Kaysina 2014], which shows similar 
+phenomena to German in Siberia. But apart from that, it is not the subject of the present study.
+ 
+ Christiane Andersen 
+99
+throughout as an embedded language in the vocabulary as well as in the grammatical struc-
+ture of this German variety.
+Even though Russian and German are not closely related languages, as Indo-European lan-
+guages, they both have verbal systems that function as the core of the sentence, determining 
+syntactic and semantic role assignments. In addition, German and Russian verbs have inﬂ ec-
+tion-bearing morphemes, marked for person, number and tense. That means code-mixing in the 
+verbal system is to be expected but is unpredictable in detail. To begin with, let’s have a look 
+at an example [Andersen 2016a: 273] from the SGC:
+(3) 
+hat       nich   gefunde    weg
+���.3��   ���    ����       ���
+hat        nicht   gefunden    Weg
+‘He did not ﬁ nd the way.’
+(3′) Ne    našël     put’
+���   ���.��.�   ���
+not    found      way
+‘He didn’t ﬁ nd / has not found / had not found the way.’
+While (3) consists of exclusively lexical items from German, we assume that its grammati-
+cal structure exhibits traces of structural transfer from Russian. If we contrast the utterance with 
+Standard German, it would correspond to Er hat den Weg nicht gefunden. But striking differ-
+ences are the absence of the subjective pronoun, the exclusion of the object from the sentence 
+bracket and the missing deﬁ nite article of the object. In typology, German and Russian are clas-
+siﬁ ed as languages with SVO 9 basic word order with relatively free constituent orders. However, 
+the contrasts in usage-based word order are rather intricate. Table 2 shows the relevant typolog-
+ical features of German and Russian which have a crucial impact on the present investigation.
+Table 2
+Typological contrasts between Russian and German
+G����� ������������
+R������ ������������
+SVO
+SVO
+SOV in subordinate clauses
+no
+sentence bracket
+no
+no
+pro-drop
+deﬁ nite article: der, die, das
+no
+present, past tense
+present, past tense
+perfect, past perfect
+no
+temporal auxiliaries: haben, sein
+no
+no
+copula drop in present tense
+German has the characteristic feature of verb-ﬁ nal order (SOV) in subordinate clauses. 
+Some linguists, like König and Gast, consider the SOV order in subordinate clauses as the ba-
+sic word order for German. Among the arguments they give is the observation that German 
+verbs with separable preﬁ xes like Ich will, dass Karl das Licht ausschaltet – Karl schaltet das 
+Licht aus leave their preﬁ x behind in ﬁ nal position when they occur as ﬁ nite verbs in a main 
+ 
+9 See more typological features of German and Russian in the World Atlas of Language Structures 
+(WALS): [Dryer, Haspelmath (eds.) 2013].
+100 
+Voprosy Jazykoznanija 
+2019. № 6
+clause [König, Gast 2009: 165]. This order of constituents is not possible in Russian, because 
+it does not separate verbal preﬁ xes. Moreover, German has analytical forms of the perfect and 
+past perfect, whereas Russian has a synthetic preterite form, which semantically corresponds 
+to these tenses. If we translate (3) into Russian, as in (3′), we derive the perfective (singular 
+masculine) past tense form našël from the Russian inﬁ nitive pair najti / naxodit’ ‘ﬁ nd’. The 
+German translation offers the past, perfect and past perfect tenses. It should be noted that the 
+purity of only three Russian tenses (present, past and future) is compensated for by the gram-
+matical category of aspect, including a morphologically different perfect and imperfect form 
+for almost every verbal inﬁ nitive.
+Since the Russian past tense našël also denotes the masculine gender, the masculine pronoun 
+can be dropped without losing this grammatical information. In (3), the temporal auxiliary hat 
+does not mark the gender morphologically, but the pronoun is dropped anyway. In (3′), more-
+over, the negation precedes the ﬁ nite verb – ne našël.
+Another conspicuous difference is that the Siberian German perfect hat gefunde evokes 
+the German “sentence bracket” (Germ. Satzklammer) including the negation nich in the mid-
+dle ﬁ eld. In German, the ﬁ nite verb invariably occupies the second position in main clauses 
+and exactly one constituent has to be placed in the position before the verb, in the so-called 
+“foreﬁ eld” (Germ. Vorfeld). Thus, in Standard German the pro-drop in (3) is considered to be 
+salient.
+The non-ﬁ nite verb, here gefunde, typically occurs in ﬁ nal position. The position behind the 
+non-ﬁ nite verb (“extraposition”) is called “postﬁ eld” (Germ. Nachfeld). It usually contains sub-
+ordinate clauses (cf. [König, Gast 2009: 167]). As we can see, there are several contrasting gram-
+matical features, which can trigger the morphosyntax of the contact variety.
+The German sentence bracket is perhaps the crucial typological feature in the German variety 
+which has resisted any structural change. A noticeable ﬁ nding is the exclusive usage of perfect 
+tense when talking about the past 10. The structure of perfect tense causes the German sentence 
+bracket. As mentioned above, there are no tokens of German past tense forms (except auxilia-
+ries) in the entire SGC. This ﬁ nding does not seem to be a coincidence. Investigations on Colo-
+nial German in Eastern Europe that are almost a hundred years old show the same empirical re-
+sults in parts of Ukraine, Russia and the South Caucasus (Transcaucasia), cf. [Ström 1926/1927; 
+Schirmunski [1926–1931/1992]. The past tense was already replaced by the perfect a hundred 
+years ago. Table 3 illustrates the frequency of auxiliary usage in the SGC.
+Table 3
+Auxiliary usage in the SGC, the most frequent ﬁ nite forms
+F�����
+(total)
+war, 
+waren
+hat, hun, 
+hab, hot
+ist, is
+haben, 
+habe
+sin
+bin
+kann
+muss
+P������
+ 100
+ 15
+ 11
+ 10
+  7
+  2
+  2
+  2
+ 1
+T�����
+6209
+935
+673
+619
+421
+127
+103
+100
+65
+It is obvious that about half of the ﬁ nite verbs occurring in the SGC are variants of haben 
+and sein followed by a lower frequency of the ﬁ nite forms of können and müssen. In the major-
+ity of cases, haben is used in the perfect and past perfect, which build the sentence bracket. This 
+strong structural contrast to Russian morphosyntax has not changed despite long-term language 
+contact. Another interesting quantitative result is the substantial frequency of sein. Inﬂ ectional 
+forms of sein are frequently used as copulas in nominal predicates, as in examples (4)–(6). In ta-
+ble 4, we can see the variation of the ﬁ nite forms (types) of auxiliaries in the SGC.
+ 10 In written Standard German, the past tense has the meaning of a narrative tense used primarily for de-
+scribing past narratives (cf. [Duden 2016: 523]).
+ 
+ Christiane Andersen 
+101
+Table 4
+Conjugational patterns of auxiliaries (types) 11 in the SGC
+S���
+H����
+K�����
+M�����
+W�����
+S�����
+M������
+S�����
+SG
+1.
+bin, pin, war
+hab, hap
+kann, kon, 
+konnt, 
+konnte
+muss, 
+musst, 
+musste
+will,
+wollte
+soll
+möchte
+, -te
+2.
+bist
+hast
+kannst
+musst
+—
+—
+—
+-st
+3.
+ist, is, iz, 
+war, wars, 
+vor
+hat, hot
+kann
+muss
+will,
+wollte
+soll
+—
+, -t, 
+-te
+PL
+1.
+sin, sind, 
+sijn, simr, 
+waren, warn
+haben, han, 
+hen, humr, 
+hamr, hun, 
+habe
+können, 
+kenne
+musst, 
+musstn, 
+musste
+wollen, 
+wolln
+—
+möchten
+, -en, 
+-n, -e, 
+-t, -mr
+2.
+—
+habt
+—
+—
+—
+—
+—
+-t
+3.
+sin, sind, sijn
+haben, habe, 
+hen, han, 
+hade, hatten
+können, 
+kenne
+musst, 
+musste
+wollen
+—
+möchten
+, -en, 
+-n, -e, -t
+The greatest amount of variation appears in the temporal auxiliaries haben and sein in the ﬁ rst 
+and third person plural followed by the ﬁ rst and third person singular. The most frequent modal 
+auxiliaries are müssen and können in the ﬁ nite forms of the ﬁ rst and third person plural. It is also 
+obvious that the second person plural is not used in SGC (except habt, 13 tokens). In contrast, 
+the occurrence and variation of the temporal auxiliary haben is very high, particularly in the ﬁ rst 
+person plural (seven variants) and third person plural (six variants), for the frequency of the to-
+kens see table 3. It means that the Siberian German speakers only use a few conjugational pat-
+terns. In these patterns, the variation of forms is evidently high.
+Furthermore, the occurrence and variation of the modal auxiliaries 12 sollen and möchten are 
+very limited. The conjugational form soll appears 16 times, the form möchte only seven times and 
+möchten eight times. In conclusion, it can be said that the usage of conjugational patterns of aux-
+iliaries in SGC is limited to a few conjugational patterns of the auxiliaries haben and sein and the 
+modal auxiliaries können and müssen. But the above discussed corpus data are difﬁ cult to explain. 
+On the one hand the results show that Siberian German is still vital spoken language, but, on the 
+other hand, the distribution of the conjugational patterns shows a limited ﬁ eld of verbal discourse.
+(4) 
+Wir      war         ganz    allein.
+���.1��   ���.���.3��           ����
+wir       waren       ganz    allein
+‘We were quite alone.’
+(5) 
+Es      war          voennye.
+3��.�    ���.���.3��    ����.��
+es       war          Soldaten
+‘They were soldiers.’
+ 11 The table shows the occurring word forms (types) of the most frequent auxiliaries in SGC. The aux-
+iliary sein for instance appears in more than 19 different conjugational forms; every variant occurs 
+in a number of tokens like bin (108), bist (9), war (460) etc., for more frequencies see table 3. The vari-
+ety of conjugational forms can indicate the status of Siberian German: Spoken German, mixture of di-
+alects, absence of Standard German etc.
+ 12 The modal auxiliaries dürfen and mögen do not occur in SGC.
+102 
+Voprosy Jazykoznanija 
+2019. № 6
+(6) 
+Das     sind         ja     auch    billiger.
+���.��   ���.���.3��   ���   ���     ����
+das       sind          ja     auch    billiger
+‘They are cheaper, too.’
+The number of the subject does not correspond with the inﬂ ection of the copula war, as il-
+lustrated in (4). In (6), the construction das sind does not correspond to the predicative billiger; 
+in Standard German: Das ist ja auch billiger. Borrowing is an additional component in (5). In ad-
+dition, in this case the number of the copula war does not match the number of the nominal pred-
+icative voennye, as is required in Standard German. The Russian voennye ‘militaries’ is inserted 
+as a nominal predicative; in Standard German it would be Es waren Soldaten. We argue that the 
+bilingual speaker retrieves both Russian and German morphological rules: the Russian predica-
+tive (plural) and the German (singular) copula war. We do not know how this cognitive process 
+works, nor is it the topic of the present investigation. But we can make the argument by compar-
+ing the existing structural parameters. In particular, both grammars can form a nominal predi-
+cate using a copula — German sein or Russian byt’ — followed by a predicative, but the Russian 
+copula is not realized in present tense. This means that the irregular personal forms of the Ger-
+man copula sein (bin, bist, ist, sind, seid) correspond to a zero form in Russian. The German past 
+tense forms of sein are war, warst, waren, wart, signalizing the categories of person and number, 
+whereas the Russian past tense forms of byt’ are byl, byla, bylo, byli, signalizing the categories 
+of number and gender, but not the category of person. Retrieving the morphologies of both lan-
+guages, the speaker of the contact variety makes use of different rules from the two languages. 
+The output is a contact-induced sentence construction constrained by both languages. To illus-
+trate the underlying morphological diversity of the bilingual speech, the regular inﬂ ectional para-
+digms of the verbs occurring in the SGC can be compared to German and Russian as follows:
+Table 5
+Regular synthetic verb paradigms in German and Russian: spielen / igrat’ ‘play’
+German
+Russian
+Non-past
+Past
+Non-past
+Past
+1��
+spiele
+e
+spielte
+te
+igraju
+ju
+igral/la/lo l, la, lo
+2��
+spielst
+st
+spieltest test
+igraješ’ ješ’
+igral/la/lo l, la, lo
+3��
+spielt
+t
+spielte
+te
+igrajet
+jet
+igral/la/lo l, la, lo
+1��
+spielen en
+spielten
+ten
+igrajem jem
+igrali
+li
+2��
+spielt
+t
+spieltet
+tet
+igrajete jete
+igrali
+li
+3��
+spielen en
+spielten
+ten
+igrajut
+jut
+igrali
+li
+German and Russian have two synthetic verb paradigms, non-past and past. In table 5, the 
+paradigms of the regular verbs spielen and igrat’ ‘play’ are compared in person, number and gen-
+der. The non-past tense forms in German and Russian mark person and number, and it is obvious 
+that the German inﬂ ected forms show block syncretism, i.e. blocks of inﬂ ectional morphemes 
+(cf. [Stump 2001: 217]); see also Synkretismusfelder, [Eisenberg 1998: 164]) in several cases: 
+3�� and 2��, 1�� and 3�� in German non-past; 1�� and 3��, 1�� and 3�� in German past tense. 
+This is not the case for the Russian non-past forms. The inﬂ ectional sufﬁ xes in the Russian verb 
+differ for every person and number, while the Russian past tense forms are uninﬂ ected for per-
+son, but inﬂ ected for number and also gender. But the grammatical category of gender appears 
+neither in the Russian non-past paradigm nor in the German inﬂ ectional system.
+We argue that the tension between partial uninﬂ ectedness (past) and form diversity (non-
+past) in Russian on one hand and block syncretism in the German variety on the other hand are 
+ 
+ Christiane Andersen 
+103
+responsible for several morphological contact phenomena, as will be discussed in the following 
+analysis of bilingual verb units.
+4. Types of inserted Russian verb morphemes 
+in Siberian German
+In his study of bilingual speech, Muysken [2000] investigated a large number of bilingual 
+verb formations in several language pairs in order to explore different ways of borrowing for 
+a speciﬁ c word class.13 He established four main types of bilingual verb constructions in typo-
+logically different languages: (i) the new verb is inserted into a position corresponding to a na-
+tive verb, in an adapted form or not; (ii) the new verb is adjoined to a “helping verb”; (iii) the 
+new verb is a nominalized complement to a causative “helping verb” in a compound; (iv) the 
+new verb is an inﬁ nitive and the complement of a native auxiliary [Ibid.: 184]. Muysken’s con-
+tact-linguistic approach is clearly typological and general in nature, whereas the following anal-
+ysis focuses on the particular case of inserted Russian verb morphemes in a German variety. The 
+embedded Russian morphemes in the SGC are in all cases inserted into the position of a Ger-
+man nonﬁ nite verb. That means the Russian morpheme occupies the position of a German per-
+fect participle or an inﬁ nitive.
+There are two options in German grammar to create non-ﬁ nite verb units: (1) the regular for-
+mation of the perfect participle is the preﬁ x ge-, added to the verb stem, and the sufﬁ x -t; (2) the 
+formation of the regular inﬁ nitive is the verb stem plus the sufﬁ x -en. Additionally, German ir-
+regular verbs often have different stem paradigms as in schreib (present stem) and schrieb (past 
+tense stem); the perfect participle of schreiben is geschrieben. But in the corpus under investi-
+gation, bilingual verb units with the afﬁ xes ge- and -en do not occur. Therefore, it is not neces-
+sary to discuss more verb inﬂ ections in German than just the regular one. In the SGC data, Rus-
+sian verbs basically come as one of two main insertions:
+a. The stem of a Russian verb is inserted into the position of the German perfect participle 
+or inﬁ nitive and accompanied by German word-formation afﬁ xes.
+b. The inﬂ ected form of a Russian verb is inserted into the position of the German perfect 
+participle or inﬁ nitive without German afﬁ xes.
+Following the classiﬁ cation by Muysken [2000: 184], only the insertion of a borrowed verb 
+in an adapted or unadapted inﬂ ected form occurs in the SGC. The types (ii–iv) above were not 
+found in the corpus under investigation. One reason is probably that German and Russian are 
+both fusional languages building the inﬂ ectional systems by sufﬁ xes and changing their semantic 
+and syntactic functions by preﬁ xes etc. But alongside the similarities, there are speciﬁ c morpho-
+syntactic contrasts, as is illustrated above; see speciﬁ cally examples (3), (3′) and tables 2 and 5.
+It is remarkable that in most of the examples in the SGC the inserted Russian verb units re-
+main unadjusted to the morphosyntactic sentence structure in some way or other. The next sec-
+tion contains a detailed analysis of the bilingual verbs discovered.
+4.1. Russian verb stems with German word-formation afﬁ xes
+In (7)–(10), Russian verb stems are integrated in the rest of the German sentence. There is 
+no other lexical borrowing from Russian.
+ 13 In my view, this study is still the most extensive overview of morphosyntactic borrowings in verb for-
+mations, but Russian borrowings are not mentioned.
+104 
+Voprosy Jazykoznanija 
+2019. № 6
+(7) 
+das      vas      mr    net    vo   ze    vil        hinpostupaje
+���.��   ���.1��   1��   ���    �    3��   ���.3��   ���
+das       wissen    wir    nicht   wo   sie    will       eintreten
+‘We don’t know where she wants to apply.’
+(8) 
+un    des    nae    johr   vstretschaje   um   zvelf    uhr
+      ���.�   ���    ���    ���
+und   das     neue   Jahr    treffen          um    zwölf    Uhr
+‘And we meet New Year at 12 o’clock.’
+(9) 
+militajres   hebn      sich   gsobirajet
+���.��       ���.3��   ����    ����
+Soldaten     haben     sich    gesammelt
+‘The soldiers have met.’
+(10) mir      huns      gapridilait
+���.1��   ���.1��   ����
+wir       haben-es   erkannt
+‘We have realized it.’
+The stems of the Russian verbs postupat’ ‘enter’, vstrečat’ ‘meet’, sobirat’ ‘collect’, opredeljat’ 
+‘identify’ seem to be rather seamlessly integrated into the German verb morphology. In (7)–(8), 
+the Russian stem takes the German sufﬁ x -e 14, and in (9)–(10), the Russian stem is integrated 
+into the German perfect participle with the preﬁ x g- and the sufﬁ x -t, as summarized in table 6.
+Table 6
+Examples for integrated Russian verb stems with German afﬁ xes in the SGC
+P�����
+P�����
+����
+S�����
+����
+S�����
+���
+R������ ����������
+(������������/����������)
+hinpostupaje
+hin-
+—
+—
+-(aj)e [-en] 15
+postupat’ / postupit’
+vstretschaje
+—
+—
+—
+-(aj)e [-en]
+vstrečat’ / vstretit’
+gsobirajet
+—
+g- [ge-]
+-(aje)t [-t]
+—
+sobirat’ / sobrat’
+gapridilait
+—
+g- [ge-]
+-(ai)t [-t]
+—
+opredeljat’ / opredelit’
+In example (7), the Russian stem takes the derivational preﬁ x hin- in addition to the inﬁ nitive 
+sufﬁ x -e, while the borrowed Russian inﬁ nitive postupat’ does not have a preﬁ x. Furthermore, 
+it is striking that the (bilingual) inﬁ nitive vstretschaje in (8) is used instead of a ﬁ nite verb and 
+without the subject pronoun wir (‘we’).
+Another crucial contrastive aspect affecting the morphology of bilingual verb forms is the 
+existence of the verbal aspect in Russian. The selection of Russian verb stems by the bilin-
+gual speaker is due to the fact that Russian verbal inﬁ nitives are systematically represented 
+ 14 In (8), the German Sufﬁ x -e has the grammatical function of an inﬁ nitive sufﬁ x because most of the 
+verbal inﬁ nitives of SGC have the sufﬁ x -e. This is a common feature in various German dialects and 
+not only typical for Siberian German. In contrast, the regular inﬁ nitive sufﬁ x in written German Stan-
+dard is the sufﬁ x –(e)n (cf. [Duden 2016: 446]). But in several Spoken Regional Standard varieties one 
+can also ﬁ nd the pronunciation [ə], i.e. the sufﬁ x -e. Moreover, the sufﬁ x -e (schwa) is one of the most 
+syncretic sufﬁ xes in the German nominal and verbal inﬂ ectional system including the plural of mascu-
+line and neutral nouns and the ﬁ rst person singular, present tense. In several Spoken German varieties, 
+including SGC, the ﬁ rst person plural is often pronounced as schwa, transcribed as -e, like in example 
+(2). However, discussing the various options here would go beyond the scope of the paper.
+ 15 The Standard German afﬁ xes appear in brackets.
+ 
+ Christiane Andersen 
+105
+by an inﬁ nitive pair, the perfective and the imperfective, see table 6. In the examples (7)–(10), 
+the Russian verb stem is possibly derived from the imperfective inﬁ nitive. The vowel -a- in the 
+stem of the hybrid forms in (7)–(10) could be an indication of the imperfective form. But this 
+is only a cautious assumption. In this study, it is not possible and not intended to consider the 
+functional-semantic category of aspectuality in the Russian embedded verb forms, which does 
+not mean, however, that this functional opposition of the two aspectual inﬁ nitives is not rele-
+vant. But the present study considers only the morphological form and not the function of this 
+category.
+However, this does not completely explain the existence of the formative -a- in the bilingual 
+verbs. The choice of the imperfective Russian verb stem might be motivated by phonetic ana-
+logy: if we separate the sufﬁ xes as -aje, -ajet, -ait, we arrive at potentially well-formed phonetic 
+clusters in both languages. The phonetic value /ait/ is a part of several German stems such as ar-
+beit ‘work’ 16, and /(a)je/ is a frequently occurring value in the SGC as in fraje ‘woman’ etc. But 
+/aj/ is also the imperative singular in Russian verbs, and /ajet/ is the third person present tense 
+in Russian verbs ending in -at’. It should be mentioned here that the Russian verb stems in (7)–
+(10) belong to the ﬁ ve most productive verb classes in Modern Russian (cf. [Sidorov 1945]). 
+These factors — phonetic similarity and morphological frequency — could be evidence for con-
+tact-induced syncretism. At this point we argue with [Baerman et al. 2005] that a sort of nested 
+syncretism is compounded across different environments as in the example of the West Slavonic 
+language Upper Sorbian. In Upper Sorbian, “a-stem nouns have syncretism of the dative, loca-
+tive in the singular, while all nominals have syncretism of the dative, locative and instrumental 
+in the dual. Thus the syncretic pattern of the singular can be said to be nested within the larger 
+syncretic pattern of the dual” [Baerman et al. 2005: 14].
+This is also supported by Muysken’s [2000: 192] observation that in the case of verb inser-
+tion, no extra structure is created, but the morphophonemic requirements of the language pair 
+evokes the bilingual inﬁ nitive construction with an adapted stem, as in Dutch with French verb 
+stems. French verbs can easily be integrated into Dutch when the stem is afﬁ xed with -er. How-
+ever, the addition of -er to incorporate alien stems seems to be limited to French stems in stan-
+dard Dutch, e.g. blesseren ‘hurt’ (< Fr. blesser). Muysken [Ibid.: 191] also found that Dutch bi-
+lingual verbs which derive their stems from French -ir verbs also take the sufﬁ xes -er and -en 
+as in offreren ‘offer’ (< Fr. offrir).
+As in Dutch, the German sufﬁ xes -er and -en are very productive word-formation morphemes. 
+Basically, the German inﬁ nitive sufﬁ x -en can be seamlessly afﬁ xed to most English verb stems 
+like save — saven, start — starten, move — moven, while in the German variety of the SGC the 
+Russian verb stems need an additional interﬁ x, as can be seen in (7)–(10), and also in table 6. 
+Here it is undeniable that the language pair plays an important role in language contact.
+In Standard Russian, verbs of foreign origin often need to be afﬁ xed with -ova-/-eva- fol-
+lowed by the Russian inﬁ nitive sufﬁ x -t’ as in klassiﬁ cirovat’, stilizovat’, kollektivizirovat’ or re-
+montirovat’. This morphological process also matters for the formation of bilingual verbs in the 
+SGC as can be seen in (11):
+(11) war          noch    remontiert    jez
+���.���.3��   ���     ����          ���
+war          noch    renoviert       jetzt
+‘It was renovated then.’
+The form remontiert is a Russian stem integrated in German verbal morphology. This is not 
+necessarily obvious, because there is a verb remontieren in German — in fact, it is a seldom-used 
+botanical term meaning ‘to blossom after the main ﬂ owering time’ (a French loan from remonter 
+ 16 Arbeit appears in SGC 77 times, the perfect participle gearbeit 15 times, but the phonetic value /ait/ is 
+with a total frequency of 307 tokens strikingly often used in the SGC; for example, in the dialect verb 
+forms geit and keit ‘goes’, steit ‘stands’ and in zeit ‘time’, krankheit ‘illness’ etc.
+106 
+Voprosy Jazykoznanija 
+2019. № 6
+‘wind up’). But the Russian loan verb remontirovat’ ‘renovate’ is a derivative of the noun remont 
+and belongs to the class of ova/eva-stems, which often have interﬁ xes such as -ir- or -iz(-ir-) 
+as in stilizovat’, kollektivizirovat’ etc. [Mulisch (ed.) 1975: 68].
+The context of remontiert in the SGC deﬁ nitely supports the meaning of repair. However, the 
+fact that the noun remont is also a loan in Russian makes it to an appropriate candidate for bilin-
+gual word-formation because the morphophonemic similarity of the Russian interﬁ x -ir- in -iro-
+vat’ and the German -ier- makes it easy to integrate the Russian stem into German morphology. 
+The formation of the perfect participle with -ieren inﬁ nitives is frequently used in foreign loans 
+such as diskutiert, pariert, fabriziert etc. Several verb tokens of passiert, palviert, interessiert 
+etc. also appear in the GSC.
+4.2. Bare inﬂ ected Russian verbs
+A further group of inserted verb forms are inﬂ ected Russian verbs, as can be seen in exam-
+ples (12)–(16). Most of the tokens found in the SGC are ﬁ nite forms or in few cases passive 
+participles, but there are no borrowed inﬁ nitives.
+As is well-known, inﬁ nitives are basic morphological forms in traditional grammar. Bare in-
+ﬁ nitives also appear in several interim structures in ﬁ rst and second language acquisition. It is 
+widely accepted that verbal inﬁ nitives occur in the two-word-phase of one year and 10 month 
+old children as in sentences like Ball haben ‘ball have’; the morphological assignment is a later 
+process [Müller 2013: 52].
+Studies in second language acquisition with German as the second foreign language after En-
+glish in Swedish schools show similar patterns. The learners choose the uninﬂ ected verb forms 
+in an early phase using the sufﬁ xes -en and -t, but master the details of the different inﬂ ectional 
+categories much later and often incompletely [Fredriksson 2006: 150–160].
+However, in the present case of bilingualism, the speakers seem to avoid bare inﬁ nitives 
+of the embedded language.
+(12) mir      huns      apridilili
+���.1��   ���.1��   ���.��
+wir       haben-es   erkannt
+‘We have deﬁ ned it.’
+(13) die    kvartira   ist        alles    arendovan
+���.�   ���.�        ���.3��           ����.�
+die     Wohnung   ist        alles     gemietet
+‘The ﬂ at is rented.’
+(14) Junge    sind      gange     tantsuju
+���.��    ���.1��   ����       ���.1��
+Jungen   sind       gegangen   tanzen
+‘The youngsters went dancing.’
+(15) so   viel    äpfel   und    die      emer      marinujut
+            ��             ���.��   ���.1��    ���.3��
+so    viele   Äpfel    und    die       haben-wir   eingeweckt
+‘So many apples and we have them marinated.’
+(16) des   alte   johr  provozhaj  und   des   nae    johr   vstretschaje  um   zvelf   uhr
+���   ���   ���   ���.��             ���   ���    ���    ���
+das    alte   Jahr   begleite      und   das    neue   Jahr    treffen         um    zwölf   Uhr
+‘Let us say goodbye to the old year and meet the New Year at 12 o’clock.’
+ 
+ Christiane Andersen 
+107
+In example (12), the inserted Russian apridilili is the past tense plural of the inﬁ nitive opre-
+delit’. It correctly corresponds to the Siberian German subjective pronoun (nominative) mir ‘we’. 
+This borrowed verb is also used in the SGC as an adapted form with German afﬁ xes — gapri-
+dilait’, ‘realize’ — as is illustrated in (10).
+A different case is example (15). In this case, the inserted form marinujut is the third person 
+plural of the present tense of the corresponding inﬁ nitive marinovat’ ‘marinate’; but the subject 
+emer ‘we have’ is the ﬁ rst-person plural!
+In example (13), the Russian participle arendovan ‘rented’ is incorporated in place of the 
+predicative complement with the German copula ist. The German sein-passive ist gemietet ‘is 
+rented’ is replaced by the Russian equivalent, actually the short form of the past passive partici-
+ple, masculine arendovan from the inﬁ nitive arendovat’. Standard Russian has four participles 
+(present active and passive, past active and passive), but only the short form of the past passive 
+participle occurs in the SGC.
+(17) kvartira    arendovana
+���.�        ����.��.�
+‘The ﬂ at is rented.’
+(17′) Die Wohnung ist gemietet.
+‘Idem.’
+As illustrated in (17), Russian perfective passive sentences are built synthetically from the 
+short form of the passive participle, in this case with the inﬂ ectional sufﬁ x -a (feminine) in agree-
+ment with the feminine noun kvartira ‘ﬂ at’. The copula byt’ ‘be’ is not realized in the present 
+tense. Unlike Russian, the translated German construction (17′) realizes the copula ist in the 
+present tense. This is also the case in the contact variety, as is illustrated in example (13). The 
+insertion of the Russian noun kvartira in (13) is particularly apparent because of the use of the 
+corresponding German deﬁ nite article die in the feminine form and the Russian participle aren-
+dovan. As can be seen in (17), gender agreement between subjective pronoun and predicative 
+participle is obligatory in Russian. But in the German variety, see (13), the masculine form ar-
+endovan is used.
+In example (14), the inﬂ ected verb tantsuju (1��, ���; from the inﬁ nitive tancevat’ ‘dance’) 
+is inserted in the verbal predicate sind gange tantsuju. The word order is ������-���������-��-
+���� (borrowing).
+In example (16), the imperative provozhaj (���, �� from inﬁ nitive provozhat’ ‘see off ’) 
+is inserted together with the bilingual inﬁ nitive vstretschaje, discussed in (8), literally trans-
+lated as “Begleite das alte Jahr und treffen das neue Jahr um 12 Uhr”. Still, the morphological 
+non-alignment of the borrowed verbs is in a way pragmatically motivated. The grammatical 
+function ‘invitation’ is an inherent feature of the Russian imperative.
+5. Summarizing discussion
+Based on assumptions of language typology and related principles of Natural Morphology, 
+inﬂ ectional forms (a) “are (in general) more often and more systematically subject to analogi-
+cal leveling than derivationally related words […]”, (b) inﬂ ections are “(prototypical) catego-
+ry-constant”, and (c) “inﬂ ectional formatives usually have a peripheral position in the word 
+form” [Dressler (ed.) 1987: 5–6].
+In the analysis of tokens of inserted Russian verbs occurring in the SGC, a striking amount 
+of variation in morpheme combination and types of insertion has been discovered, but it has 
+become obvious that the borrowed inﬂ ectional formatives basically show the features named 
+in (a–c) above.
+108 
+Voprosy Jazykoznanija 
+2019. № 6
+The variation of borrowed morphemes has to be related to the quantitative patterns of the ﬁ -
+nite and nonﬁ nite verbs occurring in the corpus. In contrast to the large number of monolingual 
+ﬁ nite verbs, the occurrence of nonﬁ nite verbs is much smaller (see table 1), and the number of bi-
+lingual nonﬁ nite verbs is even lower. However, the bilingual verbs investigated show promising 
+results. Here I want to turn around Myers-Scotton’s [2002: ix] thesis that “not anything struc-
+tural is possible in contact speech,” and ask: what is possible in bilingual speech when German 
+is contrasted with Russian in this contact variety?
+First, it has been shown that the system of inﬂ ectional sufﬁ xes which are added to German 
+verb stems do not show any morphological borrowing from the Russian verbal inﬂ ection over 
+a period of 200 years. On the other hand, the variation of monolingual German verb sufﬁ xes is 
+high compared to Standard German inﬂ ection (see table 4). It is especially signiﬁ cant for 1��, 
+���/���: , -en, -n, -e, -t, -mr, -te and 3��, ���/���: , -en, -n, -e, -t, -te, which correspond to -en 
+(���.1/3��) and -ten (���.1/3��) in Standard German.
+Second, the inserted Russian verb forms in the SGC have the shape of an inﬂ ected form with 
+or without German inﬂ ectional afﬁ xes, and these verbs are sometimes loans from other European 
+languages. The total number of formatives in bilingual verbs is shown systematically in table 7.
+Table 7
+German and Russian formatives of bilingual verbs occurring in the SGC
+Morpheme
+(German/
+Russian)
+Inﬂ ected
+Russian verb
+Bilingual:
+Russian stem
++ German 
+afﬁ x
+Bilingual:
+Russian stem 
+of non-Russian 
+origin
++ German afﬁ x
+Morpho-
+phonemic
+coincidence
+Number of
+occurrences 
+in SGC
+Inserted
+Russian verb
+0
++
++
++
+0
+–
+German 
+inﬁ nitive
+-( j)e
+–
++
+–
+-(a) je
+ 164
+Russian
+1��.���
+-uju
++
+–
+–
+–
+  11
+Russian
+3��.���
+-(u) jut
++
+–
+–
+–
+   4
+Russian
+���.��
+-aj
++
+–
+–
+-aj / ei-
+   9
+German
+preﬁ x
+hin-
+–
++
+–
+–
+  86
+Russian
+���.��
+-ili
++
+–
+–
+–
+  21
+German
+participle 
+(sufﬁ x)
+-(ier)t
+–
++
+–
+-ir / ier-
+-ait / eit-
+  29
+Russian
+participle
+-n
++
+–
++
+-(a)n
+ 294
+German
+participle 
+(preﬁ x)
+g(e)-
+–
++
+–
+g(e)-
+1285
+In one case, the derivational preﬁ x hin- was found, see example (7). But German preﬁ xes 
+compounded with Russian stems have been found in other corpora as well. For this reason, 
+we believe that the single case in the SGC is not an incidental ﬁ nding, see also example (1). 
+ 
+ Christiane Andersen 
+109
+The preﬁ x hin- is otherwise a regularly used word-formation morpheme in the SGC, as can be 
+seen in table 7.
+The preﬁ x of the perfect participle g(e)- was found in several cases in combination with the 
+corresponding sufﬁ x -t. Since ge- + ���� + -t is the regular formation of German perfect parti-
+ciples, the preﬁ x g(e)- has the highest number of tokens in the SGC, see table 7. It is assumed 
+that the bilingual formation of the German perfect participle with a Russian stem is the most 
+regular bilingual formation in this German variety. This is conﬁ rmed by Berend, who gives 
+many bilingual examples, including some without the preﬁ x but with the sufﬁ x -t, as in uznajt 
+‘recognized’, machajt ‘waved’ etc. [Berend 2013: 89]. The formative -t- seems to be a very fre-
+quently used morphophonemic element in the entire inﬂ ectional verb paradigm of the SGC. It 
+therefore seems that the formative -t- is a contact-induced syncretic formative of spoken Ger-
+man in Siberia. It is a noteworthy formative in bilingual verb formation, as well as in the Ger-
+man conjugational paradigm, see table 4. Moreover, it also appears in the Russian non-past 
+conjugation, see table 5. However, arguing for contact-induced inﬂ ectional syncretism is a bit 
+risky. Several assumptions are required that these instances of “inﬂ ectional homophony” might 
+be seen as systematic and “somehow represented in morphological structure” [Baerman et al. 
+2005: 9]. But of course this question seldom has a clear-cut answer. The most rigorous ana-
+lysis of distinct pattern identity is given by Pike [1965]. He isolated the phoneme sequences 
+of the German irregular verb sein ‘be’ and found identity in the elements /b/, /z/, /ai/, /ist/, /in/, 
+/n/, and /t/, as in table 8.
+Table 8
+Identical phoneme sequences in German sein (adapted from [Pike 1965: 195])
+ist
+3��
+b
+ist
+2��
+b
+in
+1��
+z
+in
+t
+1��
+z
+in
+t
+3��
+z
+ai
+t
+2��
+z
+ai
+n
+���
+In spite of the fact that this proposal is not compatible with most morphological models,17 the 
+resulting parts are suitable for the present analysis of contact-induced verbal morphology. It is 
+argued that the formatives -ai-, -t, -n, and also -( j)e form very productive patterns in the bilin-
+gual verb morphology, see table 8. The special aspect here is that these formatives occur in Rus-
+sian, Standard German and also in spoken German in Siberia. The formatives are part of either 
+the German or the Russian inﬂ ectional paradigm and merge in the bilingual morphological con-
+text. They do not have exactly the same function, but they are part of the system of verbal mor-
+phology. We propose here that they belong to the contact-induced syncretic inﬂ ectional system.
+Finally, we should discuss the Russian inﬂ ectional sufﬁ xes -ili, -uju, and -ujut. In contrast 
+to the formatives discussed above, they do not have analogous morphophonemic forms in Ger-
+man, but occur relatively frequently as Russian inﬂ ectional sufﬁ xes in the SGC, see table 7. 
+As we saw in examples (12), (14), and (15), the inﬂ ectional morphemes -uju, -ujut have the func-
+tional values of grammatical person and number, and -ili only marks number, see example (12) 
+and table 5. In the Russian inﬂ ectional system, they may be ﬁ nite verbs, but in the contact-in-
+duced context they appear in the position of the German perfect participle.
+ 17 Baerman et al. [2005: 9] argue that these patterns of identity may be suitable for a speciﬁ c analysis, but 
+are not desirable in the context of a large-scale typological investigation. But for a contrastive analysis 
+such as ours, this proposal represents a promising approach.
+110 
+Voprosy Jazykoznanija 
+2019. № 6
+6. Conclusion
+This investigation has demonstrated that in a mixed language (the variety of Siberian Ger-
+man) the bilingual verb formations (Russian as the contact language) follow morphophonemic 
+regularities to a certain extent:
+1. The borrowed Russian inﬂ ectional morphemes are exclusively units of Russian verbal 
+morphology, i.e. the diversity of borrowed morphemes is restricted.
+2. The borrowed morphemes under discussion are derived from Russian verb stems belong-
+ing to the ﬁ ve most productive verb classes in Modern Russian.
+3. There are obviously several traces of syncretism in the entire verbal inﬂ ectional system 
+including cross-linguistic verb constructions.
+However, in spite of the regularities we uncovered, we can neither explain precisely why 
+just those morphemes were chosen, nor can we say with certainty if these formatives are reg-
+ular morphemes. If we ﬁ nally have a look at the internal structure of the bilingual verb gapri-
+dilait ‘identiﬁ ed’ (example 10), components such as g- or ga-, apridilai- or pridil-, -ait or -ai- 
+and -t etc. could be possible morphological units of this bilingual token, if we assume the clas-
+sical morphological approach 18 of word-formation, i.e. that words consist of morphemes that 
+are minimal meaningful units in language. However, the formatives investigated in the SGC do 
+not have exactly the same form/function equivalents in both the German and Russian morpho-
+logical systems. It is argued here that the bilingual speakers make use of German and Russian 
+morphology in an innovative way and that this becomes apparent through the production of new 
+(bilingual) types of verb formation. The high degree of variation in the verbal inﬂ ectional sys-
+tem of this German variety could be another indication of innovative morphological rules in-
+duced by language contact.
+For further research, it may be productive to focus speciﬁ cally on cognitive aspects in bilin-
+gual morphology, taking into account different forms of language acquisition and other types 
+of bilingualism.
+ABBREVIATIONS
+ 18 Classical morphology has its roots in structural linguistics, as demonstrated in [Hockett 1958].
+��� — accusative
+��� — adjective
+��� — adverb
+��� — article
+��� — auxiliary verb
+��� — copula
+��� — demonstrative pronoun
+� — feminine
+��� — imperative
+��� — inﬁ nitive
+� — masculine
+� — neuter
+��� — negative particle
+��� — object
+�� — plural
+���� — predicate
+��� — present tense
+��� — past tense
+���� — participle
+� — interrogative pronoun
+���� — reﬂ exive
+��� — subject
+�� — singular

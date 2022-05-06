@@ -1,0 +1,938 @@
+2019. № 6 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+С. / Pp. 113–133
+ 
+Voprosy Jazykoznanija
+Deﬁ ning evidentiality
+Samira Verhees
+National Research University Higher School of Economics, 
+Moscow, Russia; jh.verhees@gmail.com
+Abstract: This paper explores how evidentiality is deﬁ ned in recent research. It was inspired by the recent 
+publication of The Oxford Handbook of Evidentiality and several other volumes, which provide a rich 
+body of new material. The deﬁ nition (or rather demarcation) of evidentiality encompasses both morpho-
+syntactic and semantic parameters. I will address criteria for the distinction of dedicated grammatical 
+evidentials, and survey the values distinguished in evidentiality’s semantic domain. In addition, I dis-
+cuss deictic views of evidentiality, which seem a fruitful approach to the study of evidentials in context.
+Keywords: survey, deixis, evidentiality
+Acknowledgements: The article was prepared within the framework of the Basic Research Program at the 
+National Research University Higher School of Economics (HSE) and supported within the framework 
+of a subsidy by the Russian Academic Excellence Project “5-100”.
+For citation: Verhees S. Deﬁ ning evidentiality. Voprosy Jazykoznanija, 2019, 6: 113–133.
+DOI: 10.31857/S0373658X0007549-2
+Определение категории эвиденциальности
+Самира Ферхеес
+Национальный исследовательский университет «Высшая школа экономики», 
+Москва, Россия; jh.verhees@gmail.com
+Аннотация: Эта обзорная статья посвящена понятию эвиденциальности и способам его опреде-
+ления в современной лингвистике. Статья была вдохновлена публикацией книги «The Oxford 
+Handbook of Evidentiality» и еще нескольких изданий, в которых представлено множество новых 
+данных. Определение категории эвиденциальности затрагивает как морфосинтаксические, так 
+и семантические параметры. В статье обсуждаются критерии выделения грамматических пока-
+зателей эвиденциальности и конкретные значения, входящие в эвиденциальную семантическую 
+зону. Кроме того, уделяется внимание недавним работам, в которых данная категория рассма-
+тривается как дейктическая, что кажется удачным подходом к изучению эвиденциальных пока-
+зателей в контексте коммуникативной ситуации.
+Ключевые слова: дейксис, обзор, эвиденциальность
+Благодарности: Статья подготовлена в ходе проведения исследования в рамках Программы фун-
+даментальных исследований Национального исследовательского университета «Высшая школа 
+экономики» (НИУ ВШЭ) и с использованием средств субсидии в рамках государственной под-
+держки ведущих университетов Российской Федерации “5-100”.
+Для цитирования: Verhees S. Deﬁ ning evidentiality. Вопросы языкознания, 2019, 6: 113–133.
+DOI: 10.31857/S0373658X0007549-2
+© 2019
+114 
+Voprosy Jazykoznanija 
+2019. № 6
+Introduction
+Research on evidentiality, or the linguistic encoding of information source, has grown expo-
+nentially in recent years. Grammatical forms referring to a type of information source are men-
+tioned as early as the 4th century BCE, in Pāṇini’s grammar of Sanskrit [Friedman 2018: 125], 
+and they surface in descriptions of a variety of languages throughout history. The idea of a dis-
+tinct grammatical category with this function, however, is relatively new.1 Evidentiality became 
+an established concept in linguistics only during the past two to three decades, which have been 
+especially proliﬁ c in terms of qualitative descriptions and new theoretical and empirical ap-
+proaches. A quick search of the keyword “evidentiality” on Google Scholar learns that in the 
+period between 2000 and 2009 a total of 4 330 publications appeared, and another 11 300 be-
+tween 2010 and 2019 (in contrast: only 941 publications are retrieved for the period 1990–1999).2 
+Nonetheless, some issues regarding the deﬁ nition and delimitation of evidentiality as a linguis-
+tic concept persist. In the present paper I explore how evidentiality is deﬁ ned in contemporary 
+studies. This concerns the morphosyntactic phenomena associated with the category, as well 
+as the speciﬁ c values composing its semantic domain (e.g. sensory perception, inference, hear-
+say). Additionally, evidentials can be deﬁ ned in terms of their relationship to a discursive context.
+The paper was inspired by the recent publication of The Oxford Handbook of Evidentiality 
+[Aikhenvald (ed.) 2018] along with two other new volumes: Epistemic Modalities and Eviden-
+tiality in Cross-Linguistic Perspective, edited by Zlatka Guentchéva, and Evidence for Eviden-
+tiality, edited by Ad Foolen, Helen de Hoop and Gijs Mulder. The Oxford Handbook is intended 
+as a reference work that provides an up-to-date state of the art in the study of evidentiality. The 
+papers in [Foolen et al. (eds.) 2018] are proceedings of a workshop held in Nijmegen (the Neth-
+erlands) in 2014, and the volume edited by Guentchéva [2018] is a successor to L’énonciation 
+médiatisée [Guentchéva (ed.) 1996], and L’énonciation médiatisée II [Guentchéva, Landabaru 
+(eds.) 2007]. All three volumes focus on empirical evidence and provide a wealth of new ma-
+terial. The Oxford Handbook consists of 21 chapters dealing with evidentiality in speciﬁ c lan-
+guages or groups of languages. The remaining 15 chapters provide overviews of more general 
+topics, such as the interaction of evidentiality with other categories, evidentiality in experimen-
+tal research and in formal semantic theories, cultural pragmatics, and evidentials in language 
+contact. The volumes edited by Guentchéva and Foolen et al. contain, among other things, cor-
+pus-based studies of particular languages, and theoretical considerations. As Aikhenvald is the 
+main proponent of a strictly grammatical interpretation of the term “evidentiality”, The Oxford 
+Hanbook focuses on grammatical evidentials. The other two volumes adhere to a more inclu-
+sive, functional approach, which views evidentiality as a universal semantics that can be real-
+ised with various means. Functional approaches overall are more common, in particular among 
+researchers of European languages, which lack evidentiality as a grammatical category. Thus, 
+the introductory paper to a thematic issue of the Journal of Pragmatics was paradoxically enti-
+tled: Evidentiality in non-evidential languages: Are there evidentials in Spanish? [Albelda Marco 
+2015]. At the same time, evidentiality gained recognition as a distinct grammatical category. It 
+has become a common addition to the TAM triad, cf. The grammaticalization of tense, aspect, 
+ 
+1 A concise chronological overview of the history of evidentiality in linguistic research is provided 
+in [Aikhenvald 2004: 11–17].
+ 
+2 The search query was made on 06.04.2019. It should be kept in mind that Google Scholar’s search en-
+gine does not offer a 100 % coverage of existing literature. In addition, the term “evidentiality” also 
+occurs in other disciplines, such as philosophy. As a matter of fact, of the handful of results from the 
+period before 1960, none are on linguistics. I assume that the exponential growth of studies on eviden-
+tiality from the 2000s onwards is due to the surge in popularity of evidentiality in linguistics, but I did 
+not make a detailed study of these search results.
+ 
+ Samira Verhees 
+115
+modality and evidentiality [Hengeveld et al. 2017], and Tense, aspect, modality and evidential-
+ity: Cross-linguistic perspectives [Ayoun et al. (eds.) 2018].
+Regardless of the opposing preliminaries, most scholars would agree that the study of both 
+grammatical and non-grammatical (including lexical and semi-grammatical) expressions contrib-
+utes to our understanding of evidentiality, although dedicated grammatical forms should be dis-
+tinguished from lexical expressions and contextual interpretations. Section 1 presents an overview 
+of the terminology used in the present paper. Section 2 evaluates some criteria for distinguishing 
+different types of marking. In Section 3 I investigate the speciﬁ c values associated with evidential-
+ity, and whether empirical data warrant some revisions in the semantic domain. Evidentials in gen-
+eral can be construed as deictic. Section 4 explains how to do this and which advantages it has 
+for language-speciﬁ c and comparative analyses. Section 5 explores experimental evidence for the 
+cognitive mechanisms involved in identifying information source, and how they relate to linguis-
+tic structure. Evidentials are highly context-sensitive items. Some interesting perspectives on how 
+discursive context inﬂ uences their use are the topic of Section 6, in which I also address some 
+methodological implications. Section 7 summarises the main conclusions of the preceding sections.
+1. Preliminaries and terminology
+For clarity, I adopt the convention of capitalizing language-speciﬁ c categories while writing 
+comparative concepts with lower case letters. Below I specify the concepts I will use throughout 
+this paper. Equivalents used by other authors are indicated between brackets. Since most stud-
+ies treat “evidentiality” as a universal semantics, I use this term to refer to the linguistic encod-
+ing of information source in a ����� sense. The noun “evidential” is reserved for grammatical 
+expressions only, following the lead of Anderson [1986: 274]. Information sources are divided 
+into types, which are rendered as adjectives here. Together with “information” they character-
+ize a type of information source, e.g. “visual information” is information obtained through vi-
+sual perception. In combination with “evidential” they refer to a grammatical morpheme with 
+a speciﬁ c function; a “visual evidential” is a grammatical morpheme dedicated to marking in-
+formation obtained through visual perception.
+Evidentiality 
+—  a semantic-functional category for the encoding of information 
+source
+Evidential (adjective) — expressing information source, e.g. “evidential strategy”
+Evidential (noun) 
+— grammatical form used to mark information source
+Direct 
+— personally witnessed (ﬁ rsthand)
+Indirect 
+— not personally witnessed (non-ﬁ rsthand) 3
+Visual 
+— seen
+Auditory 
+— heard sound (not speech)
+Non-visual sensory 
+— any type of sensory perception besides visual
+Participatory 
+— active participation
+Revelative 
+— witnessed in a dream
+Inferential 
+— inference based on a visual result or traces (deduction)
+Presumptive 
+—  inference based on some prior knowledge and/or chain of reason-
+ing (assumed, conjecture)
+Reportative 
+— hearsay from an unidentiﬁ ed source 
+ 
+3 In my view, indirect is not an equivalent of Indirective, Mediative or Non-conﬁ rmative, contra Aikhenvald 
+(cf. the glossary provided in [Aikhenvald (ed.) 2018: 40–43]). See Section 2 of this paper for more detail.
+116 
+Voprosy Jazykoznanija 
+2019. № 6
+Second-hand 
+— reportative evidence from a source who witnessed the event
+Third-hand 
+— reportative evidence from a source who did not witness the event
+Reported speech 
+— umbrella term for various ways of reproducing the speech of others
+General knowledge —  knowledge that is part of a community’s beliefs, and to which source 
+qualiﬁ cation does not apply, e.g. “the world is round”
+Quotative 
+— indicates the boundaries of a quotation
+Folklore evidential —  dedicated marker of reported speech for which the use is restricted 
+to traditional tales
+2. Isolating grammatical evidentials
+As mentioned in the introduction to this paper, evidentiality can be viewed as a grammatical 
+category or a universal semantics. The latter is especially popular among researchers of European 
+languages that lack the grammatical category. Aikhenvald is a well-known opponent of treat-
+ing evidentiality as a semantic-functional category, in part because functional approaches tend 
+to extend the term to cover any type of expression related to knowledge. Aikhenvald character-
+ised the tendency to analyse phenomena from familiar European languages in terms of some 
+“exotic” category like evidentiality as a fad.
+ 
+“This is similar to how, a few years back, when ergativity was in ‘vogue’, languages which 
+have ambitransitive verbs of type S=O (e.g. English I broke the glass and The glass broke) 
+were analyzed as ‘ergative’ ” [Aikhenvald 2003: 19]
+Many languages, however, feature forms that are in the process of grammaticalisation. Some 
+of them are interpreted as grammatical evidentials in the typology of Aikhenvald (such as the 
+auxiliary ‘ﬁ nd’ from the East Caucasian language Bagvalal [Aikhenvald 2004: 155], though com-
+pare the treatment of this construction in [Daniel, Maisak 2018]). Aikhenvald dismisses other 
+forms, such as German modal verbs, as “evidential strategies”: forms that indicate information 
+source in context, but have one or more other meanings. German sollen ‘should, must’ can have 
+reportative meaning as in example (1), but remains a modal verb in other contexts.
+(1) 
+G����� [Vanderbiesen 2018: 174]
+ 
+Die Schienenfreunde sollen  Champagner für 250 Euro die Flasche bevorzugt haben.
+ 
+(FNP/12–09/4)
+‘The railway colleagues are said to have preferred champagne of €250 the bottle.’
+Separating grammatical information source marking from other ways of expressing the same 
+meaning presupposes a deﬁ nition of what is grammatical and what is evidential. Aikhenvald 
+[2004: 38] proposes that, to qualify as a grammatical evidential, a form should have information 
+source marking as its “main meaning”. By this criterion, grammatical evidentials can be sepa-
+rated from evidential strategies. Isolating the main meaning of a form is left to the subjective in-
+terpretation of researchers of speciﬁ c languages, which might lead to contradictory evaluations, 
+as I will discuss below. Aikhenvald additionally deﬁ nes “grammatical” in contrast to lexical 
+as dealing with “closed systems, which can be realized by bound morphemes, clitics and words 
+which belong to full grammatical classes, such as prepositions, preverbs or particles” [Ibid.: 11]. 
+A closed system in Aikhenvald’s framework may consist of an evidential on one hand, and an un-
+marked term on the other, where unmarked terms represent varying degrees of neutrality in dif-
+ferent languages [Aikhenvald 2018: 15–16]. Kronning [2018] argues that Reportive Conditionals 
+(RC) in Romance languages are grammatical expressions of evidentiality. His argument is based 
+on the RC’s morphemic status as ﬂ ectional sufﬁ xes, and their systematic opposition to a neutral 
+ 
+ Samira Verhees 
+117
+paradigm of indicative forms [Ibid.: 73–74]. This would characterise them as evidentials accord-
+ing to Aikhenvald’s criteria. In addition, Kronning rejects the idea that the evidential function is 
+a mere “contextual interpretation” of the conditional, suggesting that they also satisfy the “main 
+meaning” criterion. However, the analysis does not address how the evidential function of RC’s 
+relates to their conditional function in terms of the contexts where one or the other is used.
+Cornillie et al. [2015] advocate a broader approach based on Boye & Harder’s [2012] us-
+age-based theory of grammatical status. According to this theory, lexical items contribute discur-
+sively primary information, while grammatical items have an ancillary function. Thus the mean-
+ing of a grammatical item cannot constitute the main communicative point of an utterance. Sim-
+ilarly, Anderson [1986: 274] proposed that evidentials in particular “are not themselves the main 
+predication of the clause, but are rather a speciﬁ cation added to a factual claim about something 
+else”. From this point of view, matrix or parenthetical clauses with verbs of speech or percep-
+tion are not evidentials, but certain types of adverbs are [Cornillie et al. 2015: 3]. This approach 
+allows for more consistent judgments regarding forms in evolution and elements of ambiguous 
+morphosyntactic status, although it does not solve the semantic puzzle.
+Clearly delimited notional deﬁ nitions of evidential semantics are necessary to avoid interpret-
+ing as “evidential” any construction associated with the knowledge of the speaker that shows 
+some signs of grammaticalisation on a morphosyntactic level. A case in point is de Hoop et al. 
+[2018], who set out to prove that the ﬁ rst person matrix clause ik denk ‘I think’ in Dutch is an in-
+cipient grammatical evidential denoting inference. Inferentiality is deﬁ ned as referring to situ-
+ations when “the speaker can infer from certain contextual clues  or when they assume for 
+one reason or another ” [de Hoop et al. 2018: 78]. As a matter of fact, the construction re-
+fers to a certain view of reality held by the speaker, in line with the lexical meaning of denken 
+‘think’. Inference is a contextual interpretation projected on the examples by the authors. This 
+becomes especially clear in the case of the supposed “past inferentials” [Ibid.: 89–91].
+(2) 
+ik   dacht    dat   jullie   er     rond   1   uur   wel    zouden   zijn
+I    thought   that   you.��   there   round   1   hour   ����   would     be
+‘I thought you would have arrived by one.’
+In this example, the speaker held a view that some people would have arrived around one, 
+but this turns out to be untrue. Their initial view could be based on inference from prior knowl-
+edge and reasoning (i.e. presumptive, a speciﬁ c type of inference). Perhaps they agreed to meet 
+around one and the guests in question are usually punctual, hence, the speaker infers that the 
+guests will have arrived by one. Another possible scenario is that someone called the speaker 
+to inform them of their guests’ estimated time of arrival, in which case the source is reportative. 
+The point is that the construction simply does not specify where the speakers’ view came from, 
+which is rather far removed from any notional deﬁ nition of evidentiality based on information 
+source, that is, how the speaker acquired the information.
+Other types of clauses with complement-taking verbs do convey an evidential meaning, such 
+as ik zie dat ‘I see that’, which can be interpreted in context as ‘I infer based on some visual evi-
+dence’ [de Hoop et al. 2018: 77–78]. The inferential reading of this construction arises as a con-
+versational implicature, which is a common mechanism for the development of evidential func-
+tions. Another well-known example of this process is the path from resultative or perfect to in-
+ference (see [Bybee et al. 1994: 51–105]). Increasing conventionalisation of the evidential read-
+ing can result in a dedicated grammatical expression, although it is not quite clear how to eval-
+uate forms situated in different stages of the intermediate process.
+In addition, evidentiality rarely comes alone. A form with an evidential meaning may also 
+express epistemic modality (i.e. speaker certainty and commitment regarding the truth value 
+of information [Boye 2012: 1–6]) and/or mirativity (indicating that the information is some-
+how new or unexpected, or “not yet integrated into [the speaker’s] overall picture of the world” 
+[DeLancey 1997: 36]. These meanings can be contextual variants, or they may arise simulta-
+neously. What remains unclear, is how to identify the “main meaning” among them, in order 
+118 
+Voprosy Jazykoznanija 
+2019. № 6
+to determine to which category the marker in question belongs and consequently, whether it is 
+an evidential or not. This results in contradictory accounts for general indirect forms in particular.
+General indirect forms tend to be semantically diffuse. First, because they combine inferen-
+tial and hearsay readings. The exact reading in a given situation should thus be retrieved from 
+the context. Consider the following example from Komi-Zyryan.
+(3) 
+K���-Z����� [Leinonen 2000: 427]
+ 
+Asylnad    kor    kytšoltim,    lys-vatö   völi    kysköma.       Sijö    völöma      oš.
+morning.in   when   run.1���.1��   dew-���   ���    shake.2���.3��    it      ���.2���.3��   bear
+ 
+Seni   i       kujlö        völöm       potšos   doras   tsökyd   inas.
+there   ����   lie.����.3��   ���.2���.3��   fence     by      dense     place.in
+‘In the morning, as we were running around, the dew had dried. It turned out that it was 
+a bear. There it had been lying by the fence in the thicket.’
+In this case, the Second Past form völöma ‘was’ indicates inference: the speaker inferred the 
+information (‘it was a bear’) based on animal tracks they had seen. In another context, the same 
+form could indicate that the relevant piece of information was based on hearsay.
+Second, indirect forms can be used to indicate a more abstract kind of distance between 
+an event and a speaker, which can have a mirative or epistemic modal ﬂ avour, as is the case with 
+verb tenses with a non-attributivised auxiliary, or NAFs (which are paradigmatically opposed 
+to those with an attributivised auxiliary) in the East Caucasian language Tsakhur.
+ 
+“The distribution of NAFs deﬁ nitely correlates with that of genuine markers of non-at-
+tested evidence and mirativity. At the same time, assuming that the meaning of NAFs is 
+restricted to “inferred evidence”, “reported evidence”, and “unexpected information” does 
+not allow one to account for the whole range of their uses. Our claim is that NAFs have 
+a more general function, namely, that of showing the speaker’s distancing, or detachment 
+from the event referred to.” [Maisak, Tatevosov 2007: 391]
+Researchers of areally contiguous languages make similar observations. Indirect past tenses 
+are an areal feature of a large belt that stretches across the Eurasian continent. This area forms one 
+of the main evidential areas in the world [Plungian 2010: 19–23]. Evidentiality in this part of the 
+world is special because specialists of individual languages prefer not to call it evidentiality at all. 
+Lazard [1999] proposed the term “mediative” for this type of markers in Turkish, Persian and Ta-
+jik, and in the study of Turkic languages, “indirective” is commonly used for the same purpose (see 
+[Johanson 2018] inter alia). According to Friedman, the main function of indirect pasts in several 
+languages of the Balkans and the Caucasus is to mark “non-conﬁ rmativity”, i.e. the speaker does 
+not vouch for the truth of the information [Friedman 2000]. As Friedman demonstrates, unvouched 
+for information often (but not necessarily) coincides with information acquired indirectly. Gen-
+erally speaking, the evidential interpretation of Eurasian indirect forms tends to dissipate in light 
+of detailed semantic analyses of their usage, as in Golosov & Kozlov’s [2018] analysis of past 
+tenses in Hill Mari. Still, some authors prefer to view non-evidential meanings of indirect forms 
+as “extensions” or “overtones”: meanings that arise in addition to a central evidential meaning, 
+see e.g. [Brosig, Skribnik 2018] on Mongolic or [Skribnik, Kehayov 2018] on Uralic languages.
+Amidst these contrasting points of view, it remains unclear how the status of competing and 
+co-occurring meanings can be established and compared. Nevertheless, many researchers as-
+sume that indirect forms are uncontroversial examples of grammatical evidentiality. A famous 
+case is Turkish, which features in the bulk of research on the acquisition and cognitive effects 
+of grammatical evidentiality (see overviews in [Ünal, Papafragou 2018] and [Fitneva 2018]). 
+Compare this to Johanson’s recent characterization of Turkic indirect forms below.
+ 
+“Indirectivity markers do not ﬁ t into evidential schemes distinguishing between ‘the speak-
+er’s non-ﬁ rsthand and ﬁ rsthand information’. Their primary task is not to express the ex-
+ternal origin of the addresser’s knowledge.” [Johanson 2018: 512]
+ 
+ Samira Verhees 
+119
+If Johanson’s claim is true, Turkic languages lack grammatical evidentiality according 
+to Aikhenvald’s “main meaning” criterion. Note also that many languages feature portmanteau 
+morphemes with multiple meanings of equal status, such as evidentiality and tense (see [Forker 
+2018]), or evidentiality and spatial deixis (e.g. [Jacques 2018]). Such combinations are possible 
+because the semantic domain of evidentiality is adjacent to or even overlaps with those of other 
+categories. Plungian [2010: 46] situates presumptives (inference based on prior knowledge and/
+or reasoning) at the intersection of evidentiality and epistemic modality, because they inherently 
+contain an assessment of what is likely to be the case. As a result, it is not quite clear what can 
+qualify them as evidentials in a given case. Paradigmaticity cannot resolve these kinds of prob-
+lems, since evidentials are often “scattered” across the grammar of a language (cf. [Aikhenvald 
+2003: 8–11] on scattered coding), and they may share a paradigm with exponents of other cate-
+gories, such as mood sufﬁ xes (see [Usenkova 2015] on Samoyedic) or egophoric markers (see 
+[Tournadre, LaPolla 2014] on Tibetic).
+3. Composition of the semantic domain
+This section focuses on the speciﬁ c meanings subsumed under the concept of evidential-
+ity. Existing accounts depart from a notion of evidentiality as a grammatical category marking 
+information source. Consequently, the semantic domain is constructed based on the presence 
+of grammatical expressions. Each meaning associated with information source that is marked 
+with a distinct grammatical morpheme in some language becomes part of the domain. Similar 
+meanings are grouped under generalised labels. The table below compares three different ac-
+counts. Bold indicates signiﬁ cant differences. Non-bold terms occupying the same row in the 
+table refer to the same value, regardless of the variation in terminology.
+Table
+Evidentiality’s semantic domain
+[Willett 1988]
+[Aikhenvald 2004]
+[Plungian 2010]
+Direct
+Direct / Attested
+Firsthand
+Direct / Personal
+Participatory
+<common knowledge>
+Visual
+Visual
+Visual
+Auditory
+Sensory
+Sensory
+Other sensory
+Non-visual 
+sensory
+Auditory
+Indirect
+Indirect / Inferring
+Non-ﬁ rsthand / Inferred
+Indirect / Personal
+Results
+Inference
+Inferential
+Reasoning
+Assumed
+Presumptive
+<common knowledge>
+Indirect / Reported
+Non-ﬁ rsthand / Reported
+Indirect / Non-personal
+Second-hand
+Quotative
+Reported
+(with subtypes)
+Third-hand
+Reported
+Folklore
+—
+
+
+
+
+
+
+
+
+
+
+
+120 
+Voprosy Jazykoznanija 
+2019. № 6
+All three authors maintain a division of direct vs. indirect source types. This is licensed by the 
+presence of general direct and indirect forms in certain languages. Direct information typically 
+covers any type of sensory evidence. Visual perception can be distinct from the other senses. 
+Willett’s taxonomy implicates the possibility of a language that marks both visual and auditory 
+perception separately from the other senses. To my knowledge this is attested only in the Po-
+moan language Kashaya [Oswalt 1986]. Other languages single out auditory perception as op-
+posed to unmarked terms (e.g. Yuchi, an isolate of Oklahoma [Linn 2000]). The Auditives (au-
+ditory evidentials) attested in Samoyedic languages also cover other types of non-visual sensory 
+perception, as well as internal sensations, according to Usenkova [2015: 183]. There is no ev-
+idence for dedicated evidentials marking olfactory, gustatory or tactile perception [Aikhen-
+vald 2018: 13]. Southern Nambikwara has an Internal Support Evidential for information de-
+rived from a speaker’s “gut feeling”, according to Lowe [1999], but this requires veriﬁ cation 
+(cf. [Eberhard 2018: 336–341]).
+Jakobson referred to direct information as “memory evidence” [1984: 46]. In case of past 
+events, “memory evidence” is perhaps psychologically more accurate than “direct visual evi-
+dence”. Humans are not recording devices, and our memory has a distorting effect on sensory 
+input (see also Section 5 of this paper). We remember some events vividly and in great detail, 
+while of other events, we might wonder whether and how they took place, even when we know 
+at some level that we witnessed them. Interestingly, the evidential system in Taku Tibetan en-
+codes the quality of observation. The Immediate Evidential marks instantaneous observations, 
+whereas the Direct Evidential is appropriate after prolonged observation, according to Sun “lead-
+ing to assured knowledge of the event” [Sun 2018: 51–54].
+Plungian adds participatory evidence to the direct subdomain. Participatory evidentials mark 
+situations in which the speaker actively participated (as opposed to merely having witnessed 
+an event). They are attested in Pomo and New Guinean languages [Plungian 2010: 34]. Tibe-
+to-Burman languages feature egophoric markers, which are deﬁ ned similarly as marking infor-
+mation the speaker has unique access to, such as their own internal states and volition [Sun 2018: 
+49]. In case the speaker was not the one who slapped the other person in example (4) below, 
+a Direct (Sensory) evidential would be used instead of the Egophoric lə which is employed here.
+(4) 
+T��� T������ [Sun 2018: 49]
+ 
+ŋiː        teː       ndʒãːhtʃaʔ꞊tsə   dʒoʔ-lə
+1��:���   3��.���   slap꞊�����       do:����-���
+‘I gave him a slap in the face.’
+The use of Egophoric markers can be extended to mark events where not the speaker but 
+someone close to them participated [Sun 2018: 55–56]. In situations over which the speaker has 
+no control, a Direct (Sensory) Evidential is used instead of the Egophoric marker [DeLancey 
+2018: 591–592]. Egophoricity does not necessarily form part of an evidential system, and can be 
+considered a category in its own right (see [Floyd et al. 2018]). DeLancey [2018: 584] charac-
+terises the Tibetic egophoric system as follows: “Rather than an evidential category, Egophoric 
+is a category to which evidentiality is not applicable.” In other words, Egophoric markers refer 
+to a speciﬁ c type of personal knowledge that exempts the speaker from specifying information 
+source with an evidential. An argument in favour of such an interpretation is the possible ex-
+tension of participatory marking to situations where someone close to the actual speaker partic-
+ipated, suggesting it is a more general marker of personal evidence. Nonetheless, cases where 
+it marks the speaker’s participation are consistent with a deﬁ nition of evidentials as referring 
+to a participant’s information source, such as their own volitional action and internal state in con-
+trast with visual perception.
+General indirect markers cover inference and hearsay. Inferred information constitutes a fairly 
+uncontroversial subdomain. Inference from visible results or consequences (inferential) is dis-
+tinct from inference based on prior knowledge and reasoning (presumptive), although a single 
+form may cover both meanings. The appropriate context for their use may vary across languages. 
+ 
+ Samira Verhees 
+121
+Recall example (3) from Komi-Zyryan, where a speaker inferred that ‘it was a bear’ based on bear 
+tracks they saw. Bear tracks are not a direct result of the action denoted by the verb — they are 
+an obvious consequence identiﬁ ed by the speaker. The use of an inferential in such a case re-
+quires that the speaker knows what bear tracks look like. As discussed in [Tatevosov 2003], one 
+person’s obvious consequence might be another person’s wild guess, depending on their prior 
+knowledge. Cross-linguistically, inferentials pattern with hearsay (and thus indirect) most fre-
+quently,4 but they can also combine with sensory evidence (see [Brugman, Macauly 2015: 206] 
+on Karuk). Inference based on results occupies an intermediate position between direct and in-
+direct, since it implies that the speaker or “origo” witnessed at least part of the event they are 
+talking about.
+Information from other people’s verbal reports can be second-hand or third-hand, according 
+to Willett’s classiﬁ cation. Second-hand information is based on a report from an eye-witness, 
+while third-hand is based on a report of a report. Eberhard describes a Reported Thirdhand sufﬁ x 
+(-sĩn-) in addition to a distinct Reported Secondhand (-satau-) sufﬁ x for Mamaindê [Eberhard 
+2018: 349–350]. The presence of two distinct morphemes for each of these meanings seems to be 
+cross-linguistically rare. A folklore marker is attested only in the now extinct Athabaskan lan-
+guage Tonkawa. Hoijer described a Quotative Sufﬁ x -lakno’o, which was obligatory in reported 
+narratives and existed alongside a general Quotative Sufﬁ x -no’o [Hoijer 1933: 105–106]. The 
+fact that all of these functions are attested with distinct markers at least in one language licenses 
+their inclusion in the domain, although they should probably be subsumed under Aikhenvald’s 
+reportative and quotative categories as more speciﬁ c subtypes.
+Quotatives render a quotation ascribed to a discrete source, while reportatives indicate that 
+a statement is based on hearsay, without specifying a source [Aikhenvald 2004: 64]. Examples 
+(5) and (6) from Botlikh illustrate a Reportative and a Quotative Particle, respectively.
+(5) 
+B������ (personal ﬁ eldwork 2018)
+ 
+zini   hiƛ’a   b-ukː-u꞊χʷata
+cow   down    �-fall-���꞊���
+‘A cow fell down, it is said.’
+(6) 
+B������ [Saidova, Abusov 2012]
+ 
+in.šːu-č’u   arsi     guč’i꞊talu     hiƛ’u
+����.�-��    money   ���.���꞊����   say.���
+‘[He] said that he has no money.’
+The Reportative Particle χʷata in (5) indicates that the proposition ‘a cow fell down’ is based 
+on hearsay. The Quotative Particle talu in example (6) marks the boundary of a quotation — 
+‘I have no money’ — attributed to a certain male person.5 The main distinctive feature of quo-
+tatives is their identiﬁ cation of a discrete source, but this criterion is not met by all quotatives. 
+The Botlikh Quotative can reproduce an utterance from the perspective of the addressee and 
+omit any reference to a source, as in (7).
+(7) 
+B������ [Saidova, Abusov 2012]
+ 
+ilu-χi         masasːi꞊talu    hiƛ’u    di-qi
+mother-����   tell:����꞊����   say.���   1��-����
+‘“Don’t tell your mother”, I was told.’
+Even in a situation where a quotative does introduce a source, it renders a construction that 
+is different from other evidentials in terms of its communicative function. Evidentials determine 
+a type of information source and as such, refer to how a speaker acquired certain information. 
+Quotatives, on the other hand, mark a quotation, which can be a repetition of one’s own words, 
+ 
+4 This means that a single marker expresses both meanings.
+ 
+5 The reﬂ exive pronoun has a logophoric function in this case.
+122 
+Voprosy Jazykoznanija 
+2019. № 6
+a verbalisation of thoughts, or even an imagined utterance (see also [Holvoet 2018] on “echoic” 
+use of quotative constructions). They refer to a type of information source only by extension. 
+Boye [2010] dismisses the idea that quotatives are evidentials based on their scope properties 
+in comparison to reportatives and other evidentials.
+General knowledge is not recognised as a distinct value in any of the approaches summarised 
+in Table 1, though Plungian adds “common knowledge” as a secondary meaning to both partici-
+patory evidence and presumptive.6 Mamaindê features a General Knowledge Evidential, mark-
+ing “information that is known to the whole community, either because it is habitual, or because 
+it is part of their mythological lore” [Eberhard 2018: 350]. A dedicated marker is also attested 
+in Lamjung Yolmo [Gawne 2014: 87]. Example (8) below shows the General Fact Copula in a ge-
+neric statement that cannot be traced to a speciﬁ c information source.
+(8) 
+L������ Y���� [Gawne 2014]
+ 
+kálaŋ sè   ŋàrmu   mèòŋge
+lapsi       sweet     ���.��.���
+‘lapsi (fruit) are not sweet’
+DeLancey [2018: 587–589] analyzes Tibetic Factual markers as forms that indicate the ab-
+sence of a speciﬁ c source, rather than factual or general knowledge, which is supported by their 
+use in neutral contexts. Stating general facts is thus not their main function, but simply the most 
+common context for their use. General knowledge is often cast in a neutral or the least marked 
+form available. This is the case in the East Caucasian language Hinuq. Hinuq has Unwitnessed 
+Past tenses, which are opposed to Neutral Pasts with direct evidential overtones; the latter are 
+employed for “encyclopaedic knowledge” [Forker 2014: 54]. Traditional narratives, including 
+stories about the history of the village, are told using Unwitnessed forms. Another value not 
+mentioned in the accounts presented in Table 1, is information from dreams (or “revelative”). 
+Boas [1911: 496] described a special sufﬁ x for this purpose for Kwakiutl, although he does not 
+provide much detail on how it is used.
+To sum up, participatory evidentials in my view deserve a place in evidentiality’s semantic 
+domain. Quotatives on the other hand, do not, cf. also Anderson’s [1986: 284] semantic maps 
+of evidentiality, where quotatives are adjacent to, but not part of evidentiality’s semantic do-
+main. General knowledge is marked with a separate morpheme at least in Mamaindê, which li-
+censes its recognition as a distinct value. The same applies to second-hand and third-hand re-
+portatives, albeit as subtypes of reportative, and perhaps also to folklore, depending on whether 
+the Tonkawa Quotative for narratives is a reportative or a quotative marker. Revelative is an-
+other possible distinction.
+4. Evidentials as deictic
+Evidentials can be construed as deictic because they specify an information source from the 
+perspective of a speech event participant (usually the speaker). As such, they are determined 
+by the context in which they are used, similar to e.g. tense marking or personal pronouns. In other 
+words, evidentials are indexical, or “shifters” in the terminology of Jakobson [1984]. In deictic 
+approaches, evidentials implicate three events: an original event, an event where a speaker ac-
+quired information about this event, and a speech event.7 Evidential speciﬁ cations determine the 
+ 
+6 Note that the marking of general knowledge should not be confused with the marking of inference based 
+on general knowledge (i.e. presumptive).
+ 
+7 The reference point or origo for an evidential expression is typically the speaker. In questions, this can 
+be the addressee (though this “interrogative ﬂ ip” does not occur in all languages, cf. Murray [2017: 
+43–50]). Some languages allow for embedded evidentials.
+ 
+ Samira Verhees 
+123
+relationship between the original event and the speech event. They render a sort of “metapropo-
+sition” that scopes over a proposition and remains discursively backgrounded (see [Evans et al. 
+2018] on evidentials as metapropositional operators). Additionally, the various relationships em-
+bodied by speciﬁ c evidentials can be ranked on a cline in terms of their proximity to a deictic 
+centre, parallel to other deictic categories, e.g. proximal — medial — distal for spatial deixis, 
+direct — inference — hearsay for evidentiality.
+Several recent studies explore the idea of evidentials as deictic. Not all of them explicitly 
+refer to evidentials as deictic, but they construe their function in a similar fashion as outlined 
+above.8 Murray, for example, deﬁ nes evidentiality as a type of not-at-issue content from the 
+point of view of formal semantics, and describes the relation contributed by evidentials as an ev-
+idence base, which links an evidence holder to a proposition [Murray 2017]. Relational theo-
+ries within formal semantics introduce the notion of Evidence Acquisition Time as an interme-
+diary between a speech event and a proposition, to account for parallels between tense-aspect 
+and evidential relations (see a concise overview in [Speas 2018]). This is rather similar to how 
+Jakobson decomposes statements marked for evidentiality into three distinct “event types”: the 
+narrated event, the narrated speech event (i.e. evidence base, or evidence acquisition time), and 
+the speech event [Jakobson 1984].
+Bergqvist [2018] deﬁ nes evidentials as denoting a relation between an event and a “ground” 
+in terms of the directness of access. Following Goffman [1981] and Kockelman’s [2004] analysis 
+of Q’eqchi’ modal clitics, he associates each of Jakobson’s event types with a speciﬁ c “speaker 
+role”. Speaker roles divide the tasks performed by a speaker in a speech event into three distinct 
+roles: the author composes an utterance, the animator utters it, and the “cognizer” has access 
+to the information conveyed by the utterance.9 Consequently, the author verbalises the original 
+event, the animator is in charge of the speech event, and the cognizer is the reference point for 
+the “source event” (i.e. Jakobson’s narrated speech event). When speaker roles align, each role 
+is performed by the same person. On the other hand, in case of a direct quote the animator is 
+distinct from the author. According to Bergqvist, the degree of overlap between event types due 
+to the alignment of speaker roles correlates with the evidentials’ scope properties. For example, 
+participatory evidentials (where a speaker’s active participation in an event forms the source 
+of their information), align all three roles, and have narrow scope. Reported speech marking cre-
+ates more distance between event types, and tends to have wide scope. As a result, evidentials 
+can be ordered along a cline as in Figure 1, adapted from Bergqvist [2018: 37].
+narrow scope
+factual / participatory
+visual, sensory
+inferential
+deduction
+reportive
+wide scope
+Figure 1. Cline of evidential values [Bergqvist 2018: 37]
+Kockelman’s [2004] analysis showed the opposite result: for modal clitics, more overlap be-
+tween event types results in wider scope. Although this is an interesting suggestion, Bergqvist 
+does not examine the scope properties of various evidentials beyond a single example where 
+a reportative scopes over a visual evidential in Oksapmin [Bergqvist 2018: 34–37].
+ 
+8 A more appropriate term might be simply indexical, see also [Boye 2018: 266] and [Hanks 2014] for 
+discussion on the term “deictic” with respect to evidentials.
+ 
+9 Bergqvist’s cognizer corresponds to the role of “principal” in [Goffman 1981] and [Kockelman 2004].
+124 
+Voprosy Jazykoznanija 
+2019. № 6
+From the perspective of functional discourse grammar, Hengeveld & Hattnher [2015] argue 
+that reportatives operate on a different level of grammar, motivated by their “high” scope in com-
+parison to other evidentials. According to Hengeveld & Hattnher, reportatives can scope over 
+imperatives and hortatives, whereas other evidentials are limited to declarative and interrogative 
+illocutions [Ibid.: 487]. They illustrate this with an example where the Hup Reportative Clitic 
+mah scopes over an imperative. In her reference grammar of Hup, Epps comments on this ex-
+ample that the reportative is used here “as a type of quotative” [Epps 2008: 656], which seems 
+like a more reasonable explanation. Note that it is not uncommon for a single marker to cover 
+both reportative and quotative functions. In his discussion of evidentials’ scope properties, Boye 
+[2010] argues that the wider scope of reportatives in available examples is probably a pragmati-
+cally motivated phenomenon, rather than the result of syntactic restrictions:
+ 
+“Situations in which you have direct or inferential evidence for some reportive evidence 
+are pragmatically implausible. The idea of witnessing some piece of reportive evidence, 
+or arriving at it through inference, is decidedly odd. By contrast, a situation in which some-
+one wrote to or told you about some piece of direct or inferential evidence is perfectly con-
+ceivable.” [Boye 2010: 303]
+For the remaining evidential values besides reportative, Hengeveld & Hattnher [2015: 509] 
+provide the following implicational hierarchy.
+event perception (direct)  deduction (inferential)  inference (presumptive)
+Figure 2. Implicational hierarchy of evidentiality 10
+This hierarchy predicts that a language marking presumptive will also have markers for in-
+ferential and direct sensory perception. If a language marks only one of these three values, it is 
+direct sensory perception. The study is based on a sample of 64 languages of Brazil, which are 
+known for their elaborate systems of evidential marking. As a result, the implications predicted 
+are not cross-linguistically valid. In other parts of the world (such as the “Evidential Belt” dis-
+cussed in Section 2 of this paper), it is rather common to mark inferential (and reportative), but 
+not direct sensory perception.
+Langacker [2017] analyses evidentiality as a form of clausal grounding within the framework 
+of cognitive grammar. He characterises evidentials as indicating increments of distance from 
+a deictic centre, and maps evidential values from speciﬁ c languages onto the “cognitive sub-
+strates” presumably underlying them. Figure 3 shows the ordering of cognitive substrates and 
+their surface realisations in Wanka Quechua.
+internal
+perception
+inference
+report
+(Substrate)
+direct
+inference
+report
+(Wanka Quechua)
+Figure 3. Cognitive substrates of evidentiality and surface realisation in Wanka Quechua
+(after [Langacker 2017: 30])
+Most immediate is internal experience, which includes pain, emotion and proprioception 
+[Ibid.: 20]. Based on data from English, Hopi, Tariana, Wanka Quechua, Eastern Pomo and Ship-
+ibo-Konibo, Langacker predicts that less immediate source types are more likely to be marked, 
+which is diametrically opposed to the prediction of Hengeveld & Hattnher discussed above. Evi-
+dence from research on acquisition seems to support an ordering of evidentials from direct to in-
+direct, with inference occupying the intermediate position between perception and report, since 
+this is the order in which source distinctions and their corresponding evidentials are acquired 
+ 10 My notes between brackets.
+ 
+ Samira Verhees 
+125
+(see Section 5). It should be pointed out, however, that currently available research is mostly 
+limited to languages with relatively small evidential systems.
+Langacker also infers that the relative distance of an information source to the deictic centre 
+translates into the deictic centre’s attitude towards certain knowledge: “Evidentials are nonethe-
+less organized egocentrically with respect to source and reliability of information” [Langacker 
+2017: 30]. Givón [1982: 44] draws a similar conclusion from his four “scalar hierarchies of ev-
+idence”, e.g. personal / deictic hierarchy: speaker > hearer > third party and sensory / source hi-
+erarchy: vision > hearing > other senses > feeling. This is not borne out in cross-linguistic data. 
+Evidentiality and epistemic modality are two distinct conceptual categories [de Haan 1999]. 
+They often interact in complicated ways, and it remains unclear how their relationship is best 
+described (for example in terms of overlap or inclusion, as discussed in [Wiemer 2018: 87–90]), 
+but they do not necessarily co-occur.
+An advantage of deictic or deictic-like approaches is that they capture the communicative 
+function of evidentials beyond their semantic content. The proposition of an intermediary ref-
+erence point in the form of a source event or evidence acquisition time helps to distinguish ev-
+identiality from other categories such as tense and epistemic modality, because they designate 
+other types of relations. They also exclude quotatives by deﬁ nition, since quotatives designate 
+the proposition itself rather than an intermediary event between the proposition and the speech 
+event. On the other hand, it allows the inclusion of participatory evidence, because the speak-
+er’s participation can be viewed as a source event that runs parallel to a narrated event, similar 
+to visual perception. General knowledge is a bit problematic in this regard. It can be described 
+only as a non-speciﬁ ed source event. Obviously the speaker obtained this kind of information 
+somehow, but they either cannot or will not attribute it to a particular type of source. A prom-
+ising aspect of deictic approaches is that they take into account the speech event as a reference 
+point that may inﬂ uence the use of evidentials, although so far this component has not been ex-
+plored in great detail within these frameworks (see Section 6 on the use of evidentials in inter-
+action). Scalar hierarchies and their implications also require further investigation.
+5. Evidentiality and cognition
+The idea that certain languages oblige speakers to specify how they know something speaks 
+to the imagination.
+ 
+“Franz Boas [1942: 182] suggests that ‘we could read our newspapers with much greater 
+satisfaction if our language would compel them to say whether their reports are based 
+on self-experience, inference or hearsay!’. And in Palmer’s [1996: 200] words, ‘what a lot 
+of breath and ink this might save us in English if we had evidential sufﬁ xes that we could 
+use in the courtroom.’ ” [Aikhenvald 2018: 1]
+However, as pointed out by Fitneva [2018: 186], evidentials are not necessarily used “verad-
+ically”. Speakers can employ evidentials to support a lie (see e.g. [König 2013] on !Xun). Their 
+information may come from mixed sources, for example when a speaker witnessed an event 
+and heard about it from another eyewitness’ perspective, in which case they simply select the 
+source they wish to convey. Speakers can also misremember how they know something. The 
+use of evidentials in language relies on humans’ cognitive ability to “monitor sources”: to iden-
+tify the source for a piece of information [Johnson 1988]. As pointed out by Ünal & Papafragou 
+[2018: 175]: “people do not tag their memories with source information”, hence they can make 
+mistakes when retrieving how they know something. Test subjects can claim, for example, that 
+they saw pictures of an event when actually they read a vivid description of it [Intraub, Hoffman 
+1992]. Research on source monitoring among speakers of English and Turkish did not reveal 
+a cognitive advantage for speakers of an evidential language (i.e. Turkish) in this regard (see the 
+126 
+Voprosy Jazykoznanija 
+2019. № 6
+discussion of various experiments in [Ünal, Papafragou 2018]), although it remains to be ascer-
+tained whether this also applies to speakers of languages with more complex evidential systems.
+Children seem to develop the ability to ascribe a source to a piece of information prior to their 
+acquisition of evidentials [Ibid.]. Visual access is understood ﬁ rst, and consequently, direct evi-
+dentiality is acquired ﬁ rst. Interestingly, the acquisition of indirect evidential meanings follows 
+a parallel trajectory in Turkish and Quechua [Fitneva 2018: 191]. Turkish features a general in-
+direct form, which covers inference and hearsay, while Quechua has distinct morphemes for 
+both meanings. Turkish children learn to use the indirect marker as an inferential ﬁ rst, and later 
+extend its use to include hearsay. In Quechua, children start using the inferential clitic earlier 
+than the hearsay clitic. This path is also mirrored in the grammaticalisation path of general in-
+direct markers from resultative or perfect forms of the verb [Bybee et al. 1994: 105]. After the 
+form obtains an inferential reading, it can expand its usage to hearsay contexts and generalises 
+towards a general indirect marker.
+In children’s speech, the use of indirect evidentials in storytelling precedes the use of these 
+markers to indicate a hearsay source, speciﬁ cally, which probably results from the role this 
+discourse genre plays in child-directed speech (a detailed observational study on this topic is 
+[Aksu-Koç 1988]). Estonian children by contrast rarely use the indirect marker -vat. Accord-
+ing to [Tamm et al. 2018], this is due to its low frequency overall and in child-directed speech 
+in particular. The Estonian indirect marker, which also conveys doubt on the part of the speaker, 
+is grammaticalized but not obligatory.11 This is different from the situation in a language like 
+Turkish, where the unmarked alternative to the indirect form at least implies that the speaker had 
+more direct access. Cross-linguistic comparison of how children acquire evidential expressions 
+provides another dimension for the study of what distinguishes forms of varying grammatical 
+status expressing the same meaning.
+6. Evidentials in discourse
+The relationship between evidentials and actual underlying information sources is not straight-
+forward. The previous section addressed some complications in this regard on a subjective 
+level, such as failure to recall the correct information source and compressing multiple sources 
+into one. In the present section, I discuss how the intersubjective level inﬂ uences the choice 
+of forms. Evidentials used in interaction are inﬂ uenced by the genre of discourse, and by the 
+way in which speakers want to assert themselves based on what they imagine to be the expecta-
+tions of the addressee. Joint knowledge markers encode the perspective of the addressee within 
+the evidential paradigm. They do not represent a separate evidential value, but add a speciﬁ ca-
+tion to a type of information source. Maaka, for example, has a Visual Evidential which refers 
+to directly witnessed events. The Joint Visual Evidential refers to things visible to the speaker 
+and the addressee [Storch 2018: 624–626]. See also [Evans et al. 2018: 150–158] for examples 
+and discussion of evidentials that incorporate the addressee perspective.
+Grzech [2016] describes how Discourse Enclitics in Tena Kichwa (which have been described 
+as evidentials for other Quechuan varieties) are employed in the marking of epistemic authority 
+and the negotiation of the common ground between discourse participants. The clitic ꞊mi, for 
+example, marks the speaker’s “epistemic primacy” — they are certain that X is the case. (This 
+is not necessarily because they have direct information.) The clitic ꞊tá has the same function, 
+but ꞊mi is used speciﬁ cally in cases where the speaker suspects that X is new information for 
+the hearer, and they might not accept it. On the other hand, ꞊tá is used with previously known 
+or expected information [Ibid.: 413–414]. Though the Discourse Clitics of Tena Kichwa are not 
+strictly evidentials in Grzech’s analysis, she concludes that:
+ 11 The sufﬁ x originates from a partitive participle sufﬁ x.
+ 
+ Samira Verhees 
+127
+ 
+“[…] the choice of whether and how to use an evidential/epistemic marker is rarely made 
+solely on the grounds of the speaker’s evidence for, or epistemic evaluation of, the prop-
+osition expressed. The speakers’ concerns related to their positive and negative face, their 
+position as an authority on the subject, and even their social standing, might also be rele-
+vant to ‘evidential/epistemic practice’.” [Grzech 2016: 414]
+In a similar vein, Korean reportatives are employed to render information acquired directly 
+by the speaker to avoid threatening the positive face of the addressee [Ahn, Yap 2015].
+Another way in which the (projected) expectations of speech act participants other than the 
+speaker come into play is through cultural pragmatics. Nuckolls [2018] provides a detailed 
+discussion of how Evidential Enclitics in Pastaza Quichua are used in interaction. In Pastaza 
+Quichua discourse, properly contextualising an utterance in terms of perspective is key, and 
+imposing a personal perspective on another participant results in a highly marked construction. 
+The clitic mi, which is a cognate of the Tena Kichwa clitic mi discussed above, is used to mark 
+“a source of knowledge as based on the perspective of the speaker of a speech event or on the 
+perspective of the speaker of a reported speech event” [Ibid.: 202]. In combination with the sec-
+ond person, the result is a face-threatening act, as in the example below. (Example (9) is embed-
+ded in a narrative, and reﬂ ects the perspective of the person whose speech is quoted.)
+(9) 
+P������ Q������ [Nuckolls 2018: 209–210]
+ 
+kan-manda-mi   kasna    tuku-nchi    ni-shka
+you-from-����1    like.this   become-1��   say-����
+‘Because of you we have become like this, she said (accusing him).’
+In traditional narratives, the use of evidentials is subject to conventionalisation. The narra-
+tive context in this case overrides the information source parameter. Conventions in turn can be 
+manipulated. Traditional narratives in Tsez, for example, can be rendered entirely in the Unwit-
+nessed Past. The narrator may also commence in the Unwitnessed Past and then switch to the 
+Witnessed Past. According to Comrie & Polinsky [2007], the use of the Witnessed Past in an un-
+witnessed context “enlivens” the narrative, similar to the use of the Historical Present in English. 
+In the Turkic language Salar, direct forms are used to “foreground” information in an otherwise 
+indirect narrative [Dwyer 2000: 55–56]. Indirect forms in Turkish and Old Japanese are associ-
+ated with ﬁ ctional narratives, while historical accounts are rendered with their unmarked counter-
+parts (which may have overtones of direct evidentiality) [Shinzato 1991: 32–33, 38–41], see also 
+Friedman [2003] on the manipulation of similar forms in Macedonian and Albanian newspapers.
+An interesting perspective comes from Howard’s [2018] analysis of stories about the mytho-
+logical creature Achkay in Huamalíes Quechua. Geographical surroundings form an important 
+component of these narratives. Howard noticed that speakers who situate the events in known 
+surroundings using local toponyms tend to use past tenses associated with personal experience, 
+as opposed to the reported past used as default narrative tense by other speakers. The choice 
+of evidentials in this case correlates with the spatial framing of the story, rather than the infor-
+mation source of the speaker in a strict sense.
+Evidentials’ dependency on context naturally has consequences for methodology and ﬁ eld 
+work. Sentence-by-sentence elicitation with questionnaires, where speakers are given a context 
+and a sentence to translate from a lingua franca, requires a high degree of concentration and im-
+mersion in the situation intended by the researcher. The speaker has to imagine a speech event 
+where they tell someone about another event, about which they acquired information in a third, 
+implicit event. The unnatural setting of such elicitation can prompt speakers to simply omit ev-
+identials, and to render literal and dry translations that are far removed from their behaviour 
+in spontaneous discourse (see [Aikhenvald 2004: 18]). Of course this is not necessarily the case. 
+A speaker may very well be rather good at imagining the intended context and produce a natural 
+utterance. Nonetheless, immersion (or lack thereof) on the side of the speaker as a variable in pos-
+sible outcomes of an elicitation task is difﬁ cult to measure or verify. According to Aikhenvald, 
+128 
+Voprosy Jazykoznanija 
+2019. № 6
+elicitation should be used only to corroborate ideas about evidentials, whereas the basis of knowl-
+edge about evidentiality should always be natural language use in a diverse range of situations 
+[Ibid.: 358]. Elicitation can be used as an auxiliary method to determine cases where evidentials 
+cannot be used, and with which elements they cannot co-occur. Brosig [2018] complemented 
+his analysis of ten hours of natural discourse in Khalkha Mongolian with consultations with na-
+tive speakers, in which he asked them to interpret the examples, and judge whether another form 
+could be used in the same context.
+Corpora can be problematic in their own way. A corpus ideally contains copious amounts 
+of material covering any discourse setting imaginable. For many languages with grammati-
+cal evidentiality, however, large and heterogenous corpora are not available, because the lan-
+guages have no written tradition or writing system and are limited to small(er) communities. 
+As a result, corpora consist of material recorded by ﬁ eld researchers, opening the possibility 
+of an observer’s paradox. As pointed out by Kittilä et al. [2018: 292–294], the mere presence 
+of the researcher during the recording process may inﬂ uence the use of evidentials. Aside from 
+the fact that ﬁ eld corpora in the best case are still relatively small and sample a limited num-
+ber of speakers, certain evidentials are rare even in large and diverse sets of data. Alternatively, 
+the researcher can generate natural speech with experimental tasks, such as the Family Prob-
+lems Picture Task by San Roque et al. [2012], in which speakers have to construct a story based 
+on picture cards. Speakers work together in groups and discuss the contents of the cards and 
+how they should be arranged. These cards are designed especially to elicit emotional reactions 
+and stimulate the use of knowledge categories. Examples of evidential-like utterances elicited 
+using this method are in Gipper’s [2018] study of the Uncertain Perceptual / Inferential marker 
+shi in Yurakaré. Silva & AnderBois [2016] used the game Mastermind to elicit evidentials in De-
+sano, and Mushin [2001] asked speakers of Macedonian, Japanese and English to retell stories 
+from a corpus of personal experience narratives. An advantage of such approaches is that they 
+result in moderately controlled data with a relatively high density of evidential forms and mark-
+ers of other knowledge categories.
+7. Conclusion
+In this paper I discussed how evidentiality is deﬁ ned in contemporary linguistic research. 
+In recent years evidentiality has become established as a distinct grammatical category. At the 
+same time, a lot of research was done on non-grammatical evidentiality (including lexical as well 
+as not quite grammaticalised expressions). A persistent issue in the study of evidentiality is not 
+whether we should consider it a grammatical or a semantic-functional category, but rather how 
+we can make a meaningful, empirical distinction between grammatical evidentials and other 
+means of referring to an information source. As I showed in Section 2, general indirect forms, 
+which are characteristic of languages spoken in Eurasia, are assumed to be evidentials, while 
+this interpretation is at odds with language-speciﬁ c accounts. As an example, Turkic Indirec-
+tives in Johanson’s [2018] analysis do not meet Aikhenvald’s criterion for separating eviden-
+tials from evidential strategies, because information source marking is arguably not their main 
+function. At the same time, Turkish features in a large number of studies as an uncontroversial 
+example of a language with grammatical evidentiality. More straightforward empirical criteria 
+for the distinction of various types of evidential and evidential-like expressions are a necessary 
+precursory to comparative research on evidentiality, which is currently lacking.
+In Section 3, I discussed the speciﬁ c values attributed to evidentiality’s semantic domain. Al-
+though egophoricity can occur as an independent category, participatory / egophoric evidence 
+deserves a place in the domain. It represents a natural distinction within the direct subdomain. 
+For reported speech markers, Aikhenvald proposes an important distinction of reportatives and 
+quotatives. The latter differ in several aspects from other evidentials. Most importantly, their 
+ 
+ Samira Verhees 
+129
+function is to mark a quotation (not an information source), which may or may not implicate 
+an actual reported speech event. Among reportatives, second-hand may be distinct from third-
+hand. General knowledge is marked with a dedicated morpheme at least in one language, licens-
+ing its inclusion as a separate value in the domain. As a side note, linear visualisations as pre-
+sented in Section 3 of this paper are perhaps not the best tool for charting semantic ﬁ elds in typol-
+ogy, since they cannot convey the ﬂ exibility of certain values (e.g. inferential or general knowl-
+edge, which may pair with various other meanings depending on the language).
+From a variety of theoretical frameworks, evidentials are construed as deictic or indexical 
+elements designating a relation between a narrated event and a speech event from the perspec-
+tive of a deictic centre. These approaches are fruitful b ecause they can characterise the func-
+tions of evidentials in discourse besides their semantic content (see Section 4). This is import-
+ant, because evidentials are highly context-sensitive, as discussed in Section 6. Several authors 
+propose intuitively plausible clines where information sources are ranked by their proximity 
+to the deictic centre (e.g. direct — inference — report). It remains to be ascertained to what ex-
+tent their predictions for various evidentials’ scope properties and their likelihood to be marked 
+in a given language are supported by cross-linguistic data.
+It also remains unclear to what extent accounts of how various information sources are “or-
+dered” based on linguistic data map onto cognition. It is tempting to project all sorts of intuitions 
+onto evidential data, for example about the speaker’s attitude toward speciﬁ c types of informa-
+tion source, their motivation to choose a certain form, as well as ideas of increased source mem-
+ory or responsibility for specifying source among speakers of evidential languages, but these 
+presumptions can obscure actual language facts, and should be used with caution.
+ABBREVIATIONS
+1 — ﬁ rst person
+2 — second person
+2��� — second past
+3 — third person
+��� — accusative
+�� — ad-locative
+��� — aorist
+���� — apud-locative
+��� — copula
+��� — dative
+��� — egophoric
+��� — ergative
+����1 — evidential
+�� — general fact
+����� — indeﬁ nite
+� — masculine gender
+� — neuter gender
+��� — negative
+���� — perfective
+�� — plural
+���� — present
+���� — prohibitive
+���� — particle
+��� — past
+���� — quotative
+���� — reﬂ exive
+��� — reportative
+�� — singular

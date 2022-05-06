@@ -1,0 +1,555 @@
+© St. Petersburg State University, 2021
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+910 
+https://doi.org/10.21638/spbu09.2021.417
+UDC 81’27
+Jürgen Spitzmüller
+University of Vienna, 
+1, Universitetsring, Vienna, 1090, Austria 
+juergen.spitzmueller@univie.ac.at
+Approaching typographic variation
+For citation: Spitzmüller J. Approaching typographic variation. Vestnik of Saint Petersburg University. 
+Language and Literature. 2021, 18 (4): 910–928. https://doi.org/10.21638/spbu09.2021.417
+This article introduces a linguistic approach to typography which is based on (interactional) 
+sociolinguistic and metapragmatic theories of communicative variation that is located in the 
+rather new sociolinguistic strand called the sociolinguistics of writing. Within the framework 
+clarified here, typography, and graphic design in general, is understood as a variable percep-
+tible resource which provides, by means of its reference-indeterminate variability, options for 
+the ascription and interactive contextual construal of social (or indexical) meaning. As will 
+be elaborated upon, the approach draws on the assumption that such social meaning is not 
+inherent to communicative forms, but the result of discursively shared (enregistered) and thus 
+unevenly distributed and hence contextually differing expectations, beliefs and assumptions 
+(graphic ideologies). The work introduces a range of basic notions that are needed for the lin-
+guistic investigation in typography (typography, typographic scales, text design, multimodal-
+ity), sketches the scope of linguistic investigations into typographic design on the background 
+of different functions of typographic variation, locates the sociolinguistic approach vis-a-vis 
+other linguistic approaches to typography, introduces the basic notions on which a socio-
+linguistics of typography is built (graphic variation, graphic knowledge, enregisterment, and 
+graphic ideologies) and finally exemplifies the approach by means of examples from German-
+speaking discourse.
+Keywords: typography, sociolinguistics, multimodality, metapragmatics, typographic varia-
+tion.
+Introduction
+In this article, I am going to deal with a particular mode of written communication 
+that has gained the systematic attention of social semiotics and sociolinguistics over the 
+course of the last 15 years, typography. The work draws on the sociosemiotic supposition 
+that typography is a central dimension (or mode) of text design that serves different com-
+municative functions (cf. [Stöckl 2005; van Leeuwen 2005; van Leeuwen 2006]).
+One aspect of typography will be highlighted here in particular: the social functions 
+and uptake of typography, or, for that matter, the attitudes and values that are attributed 
+to specific forms (variants) of typography and frame the interpretation of texts. The article 
+focuses primarily on the indexical functions of typography, and hence proposes a socio-
+linguistic and metapragmatic approach to graphic design (as elaborated upon in more 
+detail by [Spitzmüller 2013]).
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+911
+The outline of the article is as follows: I will begin by introducing and defining some 
+basic concepts, in particular typography, design, and multimodality. Then, I will sketch 
+some linguistically important functions of text design. The last part focuses on social 
+functions. I will deal mainly with examples from Germany, Austria and Switzerland, my 
+main area of research. Consequently, I will discuss primarily exemplary selected cases in 
+Latin alphabet script, although some examples with Cyrillic-Latin variation are included 
+as well1.
+Core Concepts & Terms
+In this section, some basic concepts and terms that are relevant to the case in question 
+will be introduced. I will begin with an outline of what we actually understand by typog-
+raphy. Typography is a term present in everyday language. However, as will be elaborated 
+on, we need to have a more fine-grained notion of what we actually talk about when we 
+investigate a matter linguistically. Thus, some terminological differentiation, which is in-
+formed by graphic design theory, will be added. In a similar vein, but much more briefly, 
+the term design will be discussed. Finally, I will elaborate on the term which is at the center 
+of the current special issue and thus positions this work in the context of the issue, viz. 
+multimodality.
+Typography
+The word typography stems from Greek τύπος (‘letter, sign’) and γράφειν (‘to scratch, 
+to write’). Originally, it denoted a specific printing technique, namely the so-called let-
+terpress printing with re-usable, movable metal letters that was (re-)invented in Europe 
+in the 15th century (for details cf. [Finkelstein, McCleery 2005; Robertson 2013]). These 
+letters were made of lead alloyed with some other metals (such as tin and antimony). The 
+typical printing procedure was the following. Printing plates, which had been composed 
+by hand with movable letters in a mirror-inverted manner (like stamps), would be pressed 
+from above on a sheet of paper. Letters could be used for single letters (such as Latin <s>), 
+for ligatures, i.e., letters consisting of two or more letters merged together (such as <ﬁ> or 
+<ﬄ>), for whole lines of print (as in the Linotype technique that was introduced in the 19th 
+century) or in form of clichés or stereotypes, i. e., stamps which produce complex fixed text 
+parts consisting of symbols, ornaments and small texts (typically used for logos).
+In technical terminology, the “typographic technique” was thus differentiated from 
+other printing procedures such as printing with wood plates (xylography) or printing with 
+stone plates (lithography). The main difference is that in both cases, complete plates had 
+to be cut or sketched, whereas typography is an atomistic composition technique. One 
+important economic difference that follows from this is that typographic material could 
+be re-arranged and re-used for different prints, while xylography and lithography could 
+only be used for the specific print they had been designed for. A formal difference is that 
+each letter looks different in xylography and lithography (as in handwriting, i. e., chirog-
+raphy), while typographic letters are (more or less) identical tokens of the same type (that 
+1 For an in-depth sociolinguistic exploration of Cyrillic alphabet script and Cyrillic-Latin variation, 
+please see [Bunčić 2016; Kempgen, Springfield Tomelleri 2019].
+912 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+is represented by the metal punch and matrix from which the letters are produced) (on the 
+formal differences and their medial consequences, see [Neef 2011]).
+In the wake of technical development (and the decline of letter press printing par-
+ticularly with the advent of digital typesetting at of the second half of the 20th century; cf. 
+[Kinross 2004]), the traditional notion of typography was more and more superseded by 
+a broader concept that no longer refers to a specific technique alone, but includes all tech-
+niques to produce printed (and on-screen projected) texts, notwithstanding the technical 
+details (cf. [Wehde 2000: 3–5; Walker 2001: 2]). Moreover, typography nowadays usually 
+denotes not only the production, but also the appearance of such texts. The Oxford English 
+Dictionary, for example, defines typography as “the style and appearance of printed mat-
+ter” [Stevenson, Waite 2011: 1561]. In a linguistic book on the matter, Walker quite simi-
+larly notes that “”Typography”… is concerned with how letterforms are used: with how 
+they are organised visually regardless of how the letters are produced” [Walker 2001: 2].
+For the purpose of sociolinguistic research (which is also Walker’s focus), such a wide 
+and usage-oriented notion is certainly more suitable than a production-oriented notion, 
+as we are not (mainly) interested in how printed texts are technically set up, but how they 
+are taken up in interaction. In this context, it is also helpful to keep in mind the etymology 
+of the term that has been sketched above, as it highlights two (three, as we will see later 
+on) important (and intertwined) aspects of what we are concerned with: recurrent types or 
+forms (τύποι) on the one hand, but also with concrete material practices (γράφειν) within 
+which these types are enacted and made perceptible, on the other.
+Typographic Scales
+An obvious drawback of the wide notion, however, is that it covers too many differ-
+ent phenomena to be described accurately enough. To account for this, different layers or 
+scales of typography are often differentiated. In design theory and the print profession, the 
+most common differentiation distinguishes macrotypography and microtypography (e. g., 
+[Hochuli 1987; Squire et al. 2006]). The former covers the overall design of a printed mat-
+ter and the composition of letters on the three-dimensional area of the page (selection of 
+the printing material and of typefaces, visual composition/layout of the page, setting of 
+type sizes and distances, setting of page breaks, as well as the visual layout of the document 
+as a whole), the latter covers the composition and design of script in the two-dimensional 
+area of a line (composition of letters to words, distance of letters, text emphases, distance 
+between words, hyphenation of words at line ends, alignment and line distance, some-
+times also the design of typefaces).
+This binary distinction primarily follows practical purposes (it basically mirrors the 
+work share in the traditional printing business). For linguistic analysis of typography, clas-
+sifications that attempt to differentiate (ascendant) textual layers of design — in analogy 
+to the linguistic layers we are used to (from phoneme/grapheme over morpheme, lexeme, 
+syntax to text and beyond; cf. [Spitzmüller, Warnke 2011]) — appear to be more useful. 
+One such classification that modifies the classic one has been proposed by Stöckl [Stöckl 
+2005: 210]. He distinguishes four typographic scales:
+1. Microtypography: “the design of fonts and individual graphic signs” (type face, 
+type size, type style, color of type).
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+913
+2. Mesotypography: “the configuration of graphic signs in lines and text blocks” 
+(letter fit, word spacing, line spacing, amount of print on page, alignment of type, 
+position/direction of lines, mixing of typefaces).
+3. Macrotypography: “the graphic structure of the overall document” (indentations 
+and paragraphing, caps and initials, typographic emphasis, ornamentation 
+devices, assembling text and graphics).
+4. Paratypography: “materials, instruments and techniques of graphic sign-making” 
+(material quality of medium, material production specifics).
+Scal distinctions such as Stöckl’s are useful particularly for precise, multi-layered 
+analyses of graphic design, since all four scales are potentially important for, and interact 
+within, the semiotic complex that constitutes the multimodal text.
+Terminological differentiation is also often necessary when we deal with specific ty-
+pological features of text design. On the microtypographic scale, type face is arguably 
+most often subject to terminological muddle. At the very least, it is important to differenti-
+ate between categorial levels such as:
+• script systems (alphabetic script, logographic script, syllabographic script, …);
+• script system varieties (Latin alphabet, Cyrillic alphabet, Hebrew alphabet, …);
+• type genres (e. g., within the Latin alphabet script, black letter and Roman);
+• type styles (e. g., Textura, Rotunda, Schwabacher, Fraktur within black letter, 
+Humanist, Modern Serif, Sans Serif, and Slab Serif within Roman);
+• type families (such as Times New Roman, Garamond, Helvetica etc., sometimes 
+inadequately called fonts2);
+• and type shapes (light, medium, bold, italic, small caps, etc.).
+From a sociolinguistic perspective, these levels can be mapped onto different forms of 
+graphic variation (e.g., inter-script variation, intra-script variation, type genre variation, 
+style variation, family variation, and shape variation; see Fig. 1; for the concept of “graphic 
+variation”, see below). 
+(Text) Design
+Design is an even more hybrid term than typography. In everyday speech it denotes 
+the form and aesthetics of artifacts (such as cars, computers, household appliances), while 
+design theory relates it to the art and craft of purpose- or function-related forming of 
+such artifacts (cf. [Redström 2017]). Graphic design, consequently, usually denotes the 
+(purpose-oriented) graphic layout of texts (cf. [Eskilson 2007]).
+Media linguistics has adopted this purpose- or function-oriented design concept al-
+ready in the early days of multimodal research. Inspired by information design studies 
+(such as [Waller 1987; Schriver 1997]), the term text design has been proposed (initially 
+by [Bucher 1996]) to cover the strategic composition of texts for specific purposes (cf. 
+[Antos 2001; Roth, Spitzmüller 2007; Ehrenheim 2011]). It thereby stresses the interplay 
+2 In the technical sense, font (or found) rather denotes a commodity: a material package with which 
+type faces are sold and shipped by the producer, the type foundry, e. g., a digital file or a package with letters.
+914 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+of material (multimodal) and referential (verbal) planning. As the information designer 
+Karen Schriver stated, “Document design is the act of bringing together prose, graph-
+ics, illustration, photography and typography for purposes of instruction, information, or 
+persuasion” [Schriver 1997: 10].
+In a similar vein, design has been adopted by social semiotics, although the focus has 
+been shifted here to the use (selection and composition) of semiotic resources for mean-
+ing making. Kress and van Leeuwen note that “Designs are (uses of) semiotic resources, 
+in all semiotic modes and combinations of semiotic modes” [Kress, van Leeuwen 2001: 5].
+Fig. 1. Scales of graphic variation (adapted and extended from [Spitzmüller 2013: 215])
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+915
+They go on to elaborate how “Design stands midway between content and expres-
+sion. It is the conceptual side of expression, and the expression side of conception. <…> 
+Designs are means to realise discourses in the context of a given communication situation. 
+But designs also add something new: they realise the communication situation which 
+changes socially constructed knowledge into social (inter-)action” [Kress, van Leeuwen 
+2001: 5].
+As we have seen, design has a strategy- and production-oriented meaning. It thus 
+shifts the focus, as social semiotics generally tends to do, towards text producers, their 
+aims, capacities and semiotic resources. We will see later that a sociolinguistic approach to 
+typography, as proposed here, complements this with a more recipient- and interaction-
+oriented perspective.
+Multimodality
+The basic idea of multimodality is that texts do not only draw on one, but on multiple 
+semiotic modes (such as verbal language, images, typography), and it is the combination 
+of these modes which makes up the meaning of a text. The two arguably most seminal 
+scholars in the field, Kress and van Leeuwen, define multimodality as the “use of several 
+semiotic modes in the design of a semiotic product or event, together with the particu-
+lar way in which these modes are combined…” [Kress, van Leeuwen 2001: 20]. Modes, 
+in turn, are defined as “semiotic resources which allow the simultaneous realisation of 
+discourses and types of (inter)action” [Kress, van Leeuwen 2001: 21]. The question what 
+exactly counts as a mode and how modes can be sharply separated is not undisputed. For 
+instance, it is argued whether typography is a mode of its own or whether script is a mode, 
+and typography only a sub-mode (e. g., see [Lim 2004; Stöckl 2005; van Leeuwen 2006]).
+These terminological quarrels do not need to concern us here. What is important in 
+the context of this work is the general assumption of multimodal theory where texts are 
+more than a string of letters, but a complex semiotic (multidimensional) composition. 
+For analyzing texts, it therefore does not suffice to concentrate on the verbal part alone. In 
+Kress’ and van Leeuwen’s words:
+All texts are multimodal. Language always has to be realized through, and comes in 
+the company of, other semiotic modes. When we speak, we articulate our message not just 
+with words, but through a complex interplay of speech-sound, of rhythm, of intonation; 
+accompanied by facial expression, gesture and posture. When we write, our message is 
+expressed not only linguistically, but also through a visual arrangement of marks on a page. 
+Any form of text analysis which ignores this will not be able to account for all the meanings 
+expressed in texts [Kress, van Leeuwen 1998: 186].
+If we follow this, the need to include typography, and graphic design in general, in the 
+linguistic analysis of texts becomes apparent.
+Functions of Text Design
+But what exactly does typography add to the meaning of texts? What are its func-
+tions? Over the last 15 years, several linguists have raised these questions, and they also 
+provided a range of answers to them (e. g., [Crystal 1998; Stöckl 2005; van Leeuwen 2005; 
+916 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+van Leeuwen 2006; Spitzmüller 2006; Spitzmüller 2013]). Basically, when linguists analyze 
+typography, they are interested in one of the following two things: text organization or 
+style. In the first case, their questions circulate around how texts are structured and read-
+ers are guided by means of graphic design. In the second case, their questions are more 
+concerned with how graphic design influences the interpretation of texts.
+With regard to text organization, it has been investigated if and to what degree the 
+microtypographic design of texts (for instance, emphasis or selection of typefaces) as well 
+as meso- and macrotypographic design (page layout, combination of text and image, the 
+usage of footnotes, headings, paragraph alignment) determines the organization of text 
+and influences readability (for a survey, see [Spitzmüller 2017]).
+When stylistic functions are at the center of linguistic research, on the other hand, it 
+is investigated how typographic elements are part of contextualization processes, i.e., how 
+they frame and influence the interpretation of texts. Research has indicated that such fram-
+ing might happen on all typographic scales. An important question in this context is, for 
+instance, whether the (micro-, meso-, macro- and paratypographic) design of texts evokes 
+expectations in regard to the genre of a text (so-called typographic dispositives [Wehde 
+2000: 119–133], or genre cues; [Spitzmüller 2013: 237–280]), as can be seen, for instance, in 
+mock genres such as mock obituaries (Fig. 2) or mock (academic) papers (cf. [Spitzmüller 
+Fig. 2. A mock obituary (mourning the “killing” of football by the FIFA).  
+Source: https://schottischefurcheblog.wordpress.com/2016/04/06/r-i-p-fussball/  
+(accessed: 29.03.2021)
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+917
+forthc. b]), in which different (verbally and graphically indicated) genres are strategically 
+mapped onto each other in a sort of graphic “double-voicing” ([Bakhtin 1981]).
+Another question that is addressed by the stylistic strand is how graphical elements 
+signal group membership (social identity), or how design elements are used to express 
+emotions (see [Schopp 2002; Androutsopoulos 2004; Meier-Schuegraf 2005; Spitzmüller 
+2012; Spitzmüller 2015]).
+In the remainder of this work, I will specifically focus on these latter stylistic func-
+tions of typography. However, I will approach them not from sociosemiotics, but from a 
+sociolinguistic point of view.
+(Typo)graphic Variation as Social Practice
+At the center of the sociolinguistic view on typography is its social meaning. The so-
+ciolinguistics of typography, therefore, is interested in how people socially position them-
+selves (how they make themselves “socially visible” [Assmann 1986: 127]), as well as how 
+they are positioned (are being made “socially visible” in reception), by means of graphic 
+design. Sociolinguistics provides a couple of concepts which are helpful to understand 
+how typography works, namely (sociolinguistic) variation, indexicality, enregisterment, 
+communicative knowledge, and ideologies of communication. I will discuss and connect 
+them with typography in turn.
+From a sociolinguistic point of view, graphic design is a form of communicative vari-
+ation. In comparison with (socio)linguistic variation, the sociolinguistic core topic (cf. 
+[Tagliamonte 2006]), we can refer to our subfield of communicative variation as graphic 
+variation (with potential sub-differentiation as presented in Fig. 1). Sociolinguistics has 
+always stressed that linguistic variation generally has the potential to be socially distinc-
+tive (e. g., see [Chambers 2003]). With only some (although prominent) exceptions (such 
+as [Bright 1996; Coulmas 2002; Unseth 2005; Cook-Gumperz, Gumperz 2012]), however, 
+the discipline has for a long time limited itself to spoken language as allegedly the most 
+“authentic” and “variable” form of communication (for a critique of this construal, see 
+[Bucholtz 2003]).
+Only quite recently has the maxim of social relevance of communicative variation 
+been explicitly applied to scriptal variation (see [Sebba 2009; Jaffe et al. 2012; Lillis 2013; 
+Blommaert 2013; Spitzmüller 2013; Androutsopoulos, Busch 2020]). In this context, so-
+ciolinguistics scholars have pointed out that graphic communication is (on multiple levels 
+from script over spelling to typography) by no means less variable than oral communica-
+tion. As Sebba notes, “…there are in fact many points within writing systems where vari-
+ation can occur, and where there is variation, there is in practice always social meaning” 
+[Sebba 2009: 39].
+Social meaning thereby unfolds in what sociolinguistics calls indexicality — inter-
+pretive inferences drawn by communicative actors from specific communicative variants 
+selected from a range of possible co-referential variants (i. e., variants with the same ref-
+erential meaning) that point towards, and thereby co-construct, aspects of the context in 
+which these variants are supposed to be interpreted: 
+Through indexicality, every utterance tells something about the person who utters it — 
+man, woman, young, old, educated, from a particular region, or belonging to a particular 
+group, etc. — and about the kind of person we encounter — we make character judgements 
+918 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+all the time, and labels such as “arrogant”, “serious”, “funny”, “self-conscious”, or “businesslike” 
+are based almost exclusively on how people communicate with us. Every utterance also tells 
+us something about the utterance itself. Is it serious or banter? Is this an anecdote, a joke, 
+an order, a request? Is the speaker sure/sincere/confident of what s/he says? What kind of 
+relationship between the speaker and the hearer is articulated in this utterance — is this 
+a friendly or a hostile utterance? And every utterance tells us something about the social 
+context in which it is being produced: is this a formal or an informal occasion? Are things 
+such as social class, gender, ethnicity, or professional status played out in the utterance? Are 
+social roles reinforced or put up for negotiation? Are social rules being followed or broken? 
+And so on. Indexical meaning is what anchors language usage firmly into social and cultural 
+patterns [Blommaert 2005: 11–12].
+With regard to typography, this means that the graphic design of a text is sociolin-
+guistically relevant since the selected graphic means might be indexically linked with so-
+cial values and context expectations. However, the microtypographic emphasis can be 
+noted: other than many semiotic works on graphic design, (interactional) sociolinguistics 
+does not assume that typographic means always “have” a meaning. Rather than this, it is 
+assumed that meaning is ascribed to these means by particular actors in communication. 
+As Gumperz explains:
+What indexes do is act as flags, cues or reminders to listeners to search their memory 
+for possible alternative ways of explaining or framing what they hear or otherwise perceive 
+or recall. That is to say, to arrive at explanations that make coherent sense of what is going on 
+in the situation at hand. There is thus no generally agreed-upon, stable meaning relationship 
+between the indexical sign and any specific explanation. The interpretations are always 
+highly context-specific in that they depend on aspects of the communicative process that 
+resist strict formalization [Gumperz 1992: 113].
+In other words, typographic meaning is perceived to be context-dependent and user-
+dependent. It is not “attached” to a text by its producers and then simply decoded by its 
+recipients. Instead, it is the procedural result of social practice enacted in interaction.
+This does not mean, however, that social meaning is built out of the blue through 
+local interaction. Social values are ascribed to linguistic forms discursively and are thus 
+persistent over single interactional events. In sociolinguistic terms: social (or indexical) 
+meaning is discursively enregistered, whereby “”[e]nregistered” just means “widely rec-
+ognized”, and there are degrees of it” [Agha 2007: 235]. In local interaction, then, these 
+enregistered indexicals can be taken up and included (or not) into the process of setting 
+up a context for interpretation (cf. [Spitzmüller 2015]).
+Whether or not this uptake happens depends on whether interpreters share enregis-
+tered ascriptions and whether they construe it to be relevant in the given communicative 
+context. What becomes crucial here is the fourth core concept mentioned above: commu-
+nicative knowledge. Knowledge is thereby perceived as a set of assumptions about reality 
+that actors have and share. According to Foucault, “…knowledge… refers to all procedures 
+and all effects of understanding that are acceptable at a given point in time and in a spe-
+cific domain” [Foucault 1997: 60]. Drawing on this, we can say that the ascription of social 
+meaning to typographic means is part of something we might call graphic knowledge, as-
+sumptions about graphic means which people of a community (assume to) share. Graphic 
+knowledge is part of a general communicative knowledge, on the basis of which interact-
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+919
+ants draw inferences about the interpretation of communicative goings-on within the pro-
+cess that is called contextualization in interactional sociolinguistics. As Gumperz noted: 
+In order to constitute meanings, speakers activate interpretative frames or schemata 
+from their experience and from their grammatical, lexical and pragmatical knowledge. The 
+enacting of these schemata is called contextualization [Gumperz in Prevignano, Di Luzio 
+2003: 4].
+I have proposed the notions of contextualization cues and contextualization processes 
+as a way of accounting for the functioning of linguistic signs in these inferential processes. 
+Contextualization cues are a class of what pragmaticians have called “indexical signs”, which 
+serve to retrieve the contextual presuppositions conversationalists rely on in making sense of 
+what they see and hear in interactive encounters. They are pure indexicals in that they have 
+no propositional content… Yet they play a major role in transforming what linguists refer 
+to as “discursive structures” into goal-oriented forms of action [Gumperz in Prevignano, Di 
+Luzio 2003: 9].
+Graphic knowledge thus “consists of sets of beliefs concerning the use and [indexical] 
+“meaning” of graphic elements which are held to be “given” — or are, with Foucault, “ac-
+ceptable” — by a specific social group (at a specific point in time) under specific commu-
+nicative conditions” [Spitzmüller 2013: 203] (my translation. — J. S.). 
+The use and interpretation of graphic means are based on such (sets of) beliefs. We 
+might call those, in line with metapragmatic terminology (cf. [Silverstein 1979; Irvine, 
+Gal 2000; Chernyavskaya 2020; Spitzmüller forthc. a]), graphic ideologies (cf. [Spitzmüller 
+2012; Spitzmüller 2015]). Examples of graphic ideologies include ideas on how specific 
+means express specific values, or how they are particularly suitable or typical for a given 
+genre, that is, how they align with contextual expectations. Graphic ideologies, in other 
+words, are assumptions about potential indexical pointers of graphic means towards con-
+textual features (cf. [Irvine, Gal 2000: 37]).
+Graphic ideologies are often connected with assumptions of shared (enregistered) 
+graphic knowledge, particularly if the intentional usage of graphic means (to a specific 
+end) is ascribed. Sometimes, however, they might also presuppose lacking knowledge on 
+the interlocutor’s part (in the case when graphic usage is construed to be “giving off” in-
+formation about the interlocutor against their will). The following anecdote by a German 
+typographer, Hans Peter Willberg, is a case in point: “I received a letter from a representa-
+tive of the [German] designer association inviting me to join a committee. The letter had 
+been set in 10 point Avant Garde, justified, very long lines, huge white space between 
+words, no leading. I rejected immediately” [Willberg, Forssman 2001: 78] (my transla-
+tion. — J. S.).
+Graphic design, by means of the ideologies attached to and enregistered with it, hence 
+frames the interpretation of texts in the sense of what interactional sociolinguistics terms 
+as contextualization cues (see the quote of Gumperz above), indexical signs which connect 
+utterances to the context of interaction both retrospectively and progressively (cf. [Silver-
+stein 2016]). Drawing on their graphic knowledge, recipients might thus draw inferences 
+about the genre of the text they are dealing with (genre cues), historicity of texts (cues of 
+historicity), social background of text authors (cues to personae), social practice they are 
+part of (cues to practice), etc. Such inferences might lose plausibility as the process of in-
+terpretation continues. In this case, recipients might consider revising their assumptions 
+920 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+on the basis of other contextualization cues, such as verbal information or new “incom-
+ing” cues. Consequently, the process of contextualization is open-ended and meaning is 
+dynamically and interactively (co-)constructed in this process.
+Exemplification
+In this section, I will provide some cases that exemplify the theoretical thoughts pro-
+vided above. I will begin with examples that demonstrate the graduatedness of grapho-
+ideological enregisterment processes. Then I will move to the question of how graphic 
+knowledge and graphic ideologies are manifested in metapragmatic discourse.
+Variable degrees of enregisterment are quite easy to find with regard to typographic 
+forms. To begin with, within larger cultural contexts, some typographic means seem to 
+have a rather strong and wide-spread social meaning. In German-speaking countries, this 
+is true for black letter types, which appear to be associated by many people and in many 
+contexts, in particular in political contexts, with nationalism or even national socialism 
+(cf. for details [Flood 1996; Bain et al. 1998; Meier-Schuegraf 2005; Spitzmüller 2012]). 
+They are thus often used to contextualize (and either graphically celebrate or stigmatize) 
+right-wing political movements. Figure 3 displays two examples (a banner and a screen-
+shot from a video clip) taken from a campaign against right-wing political movements 
+and racism.
+  
+Fig. 3. Recontextualization of graphic shibboleths.  
+Source: https://www.gesichtzeigen.de/angebote/kampagnen/mein-wahl-kampf-gegen-rechts/  
+(accessed: 28.03.2021)
+The text of the banner translates as ‘Say no to racism. No matter in which language’. 
+The text in black letter on the bottom right of both artifacts translates to ‘My campaign 
+against right-wing’ (whereas Mein Wahl-Kampf is a pun in regard to the title of Hitler’s 
+book, Mein Kampf). Next to the script genre variation, the design also adapts and trans-
+forms some other graphic means that foster the contextualization, such as the red and 
+white color (cf. [Koop 2008]) and the gaze of the depicted persons (contrasted by the skep-
+tical facial expression of the young man montaged into the video). As for the video, other 
+modes (such as sound, music, intonation, and speech style) add to the picture.
+While the given examples are likely interpreted in a similar way by many recipients, 
+other means are much subtler and group depending. For instance, pop-cultural scenes 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+921
+typically have specific graphic means which distinguish them from others and contrib-
+ute to the scene’s identity (cf. [Androutsopoulos 2004; Spitzmüller 2013: 360–400]). The 
+knowledge of these means, however, is much less wide-spread than the aforementioned 
+associations of black letter, although some allude to more generally enregistered graphic 
+knowledge which is recontextualized for the purpose of the pop-cultural positioning.
+Figure 4 displays some cases in point from what is called “Russian pop” (Russenpop) 
+in the German speaking area, a genre that reached popularity by engaging popular Rus-
+sian emigres.
+ 
+ 
+ 
+ 
+     a 
+ 
+            b  
+ 
+        c 
+ 
+ 
+    d
+Fig. 4. Graphically constructed “Russianness”. a. Album cover Russkaja: давай [dawai] (2007); b. Album 
+cover Russkaja: Energia! (2013); c, d. Two flyers from the author’s collection (both collected in Freiburg im 
+Breisgau, Germany, April and May 2007).
+As can be seen, the examples use graphic variation on all scales to contextualize (what 
+they construe as) “Russianness”: red color, iconic symbols (such as the Soviet star and the 
+Matroshkas), Russian Avant Garde and Soviet political propaganda artwork, but specifi-
+cally also distinctive typography and inter-scriptal variation.
+A recurrent means is the use of inverted Latin letters that mimic letters from the Cy-
+rillic alphabet (but graphematically remain within the Latin context), particularly Я (used 
+as R) and И (used as N). Sometimes, Latin letters with no such iconic counterpart are 
+reversed for the same contextual effect (e.g., the inverted K in the band name, Russkaja). 
+It seems that “reverseness” has become iconic to “Russianness” within this context. Fur-
+thermore, Cyrillic letters that resemble Latin ones are used (in the example: ь as b), as well 
+as letters that are indifferent but clearly deviant from the Latin forms (such as the letter 
+representing G in ST. PETERSBURG in the rightmost flyer, possibly derived from a rotated 
+Б or б).
+In addition to this iconic use, “foreign” script is sometimes also used in more sym-
+bolic ways to address a local audience. The title of the album “давай” (‘come on!’), released 
+by a primarily Austrian band (with a singer of Russian origin) for the Austrian market, 
+is a case in point. In the context of this particular usage, it is not actually required that 
+recipients be able to read and understand the title. They only need to understand that this 
+is (supposed to be) Russian. Furthermore, the scriptal “foreignness” is a crucial context 
+feature here as it adds to the semiotic construction of “Russianness”. For this to work, the 
+922 
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4
+markers of “Russianness” need to be embedded in a “Western” matrix frame (this is also 
+the case in the band’s song texts, which are mostly in English with some Russian words or 
+phrases saliently embedded). In regard to cases of similar forms of language blending (see 
+[Rampton 2018]), we have called this form of inter-scriptal blending graphic crossing, the 
+juxtaposition or blending of diverse graphic systems or subsystems of which at least one is 
+considered “foreign” (and hence indexes “foreignness”) in the current context of utterance 
+(cf. [Spitzmüller 2007]).3
+The pop-cultural examples discussed here rely on knowledge about cultural frames of 
+reference, but also about genre-specific forms of variation (such as letter reversal). Similar 
+practices can be found in other pop-cultural genres such as Visual Key, where “Japanese-
+ness” is graphically constructed via inter-script variation to Kanji and Kana script, sym-
+bols, colors, etc. (cf. [Spitzmüller 2013: 393–399]), or Heavy Metal, where (a specific kind 
+of) “Germanness” or “Teutonism” is constructed by means of black letter typeface and the 
+so-called “Heavy Metal Umlaut” (cf. [Spitzmüller 2012]). Some forms used (black letter 
+and the script variants) are rather deeply enregistered, others (umlaut for instance) are 
+enregistered on a medium-sized level (it exceeds the scene, but it is still limited to actors 
+who are somewhat familiar with it), yet others require insider knowledge.
+Some ascriptions are even shared by rather small groups only. A case in point is the 
+anecdote of Willberg’s provided above, which serves as esoteric expert knowledge (i. e., 
+“enacts expertise” [Carr 2010]) about microtypographic details and thereby allows the 
+narrator to position himself as someone “in the know” vis-a-vis a group of actors whom 
+he denies such expertise.
+This case is one example of metapragmatic “expertise” discourse that can be found in 
+professional and connoisseur community discourse, for instance in so-called typophile in-
+ternet fora. A neat example from the early days of the Internet is discussed in Danet [2001: 
+289–344], a community of practice constituted for the purpose of demonstrating a group 
+member’s disfavor and rejection of the Times New Roman type family. Times New Roman, 
+according to the group’s expressed belief, is a “boring typeface” used by “boring people”. 
+Type family variation, hence, becomes socially discriminative, a “sign of difference” [Gal, 
+Irvine 2019]. Note how this is done by indexically linking graphic variants with specific 
+types of users (social personae). In the current case, we can specifically observe an ideo-
+logical process that has been called iconization or rhematization in language ideology re-
+search (cf. once more [Irvine, Gal 2000; Gal, Irvine 2019]): the alignment of communica-
+tive characters with a communicators’ features (“boring typeface” ↔ “boring people”).
+Similar discourses are current to date, and as in the Times New Roman case they 
+often circle around the fonts that are promoted by popular operating systems and thus 
+widely used. Arial, Calibri and ComicSans are other frequently discussed cases (for the 
+latter case, Meletis [2020] indicates how the iconization “childish typeface” ↔ “childish 
+people” frames the respective graphic ideology).
+Examples such as the typophile cases are part of what we call metagraphic discourse, 
+metapragmatic discourse that circles around graphic variation (cf. [Spitzmüller 2015]). In 
+a sociolinguistic approach to typography, the analysis of metagraphic discourse becomes 
+a central part of the endeavor, as only there can we understand how graphic knowledge 
+and graphic ideologies become discursively constructed and how they are negotiated (and 
+3 More recently, [Androutsopoulos 2020] proposed the term trans-scripting (drawing on the concept 
+of translanguaging; cf. [García, Wei 2014]) in regard to similar cases in Greek-Latin inter-scriptal variation.
+Вестник СПбГУ. Язык и литература. 2021. Т. 18. Вып. 4 
+923
+disputed) by communicative actors. In other words, if we set out to understand the social 
+relevance of typography from a sociolinguistic point of view, it is not sufficient to look 
+at typographic design alone. We must include analyses of how social actors talk about, 
+and thereby evaluate, typographic design. Discourse about typefaces (such as Times New 
+Roman or ComicSans) are a case in point, but next to this, there is surprisingly much 
+metapragmatic discourse available in books and magazines about typography, in fora, 
+on websites, etc. Sometimes it takes place on the backstage, such as in editorial logs on 
+Wikipedia (for an in-depth analysis of metagraphic discourse about the meaning of black 
+letter type and the umlaut in a Heavy Metal context in Wikipedia editorial comments 
+cf. [Spitzmüller 2012: 274–279]). If we open our eyes, a widely unexplored and highly 
+fascinating land of graphic ideologies and metagraphic practices lead to sociolinguistic 
+inquiry.
+Conclusions
+In this work, I have introduced and proposed a sociolinguistic approach to typo-
+graphic variation. I have argued that typography is a potentially meaningful mode of writ-
+ten communication if we account for the fact that typographic meaning is not context-ab-
+stract, but the dynamic, context and user dependent result of locally enacted discursively 
+constructed ascriptions that (indexically) link typographic variants (on different scales of 
+typographic design) with assumptions about what is supposed to occur in an interaction 
+if specific typographic constellations are involved.
+I have argued that the analysis of typographic variation needs to consider how ty-
+pography is actually used and discursively construed in interactional performance, since 
+typography is not just a form for written texts, but needs to be understood as intricately 
+embedded in social practices within which such forms are aligned with a range of expecta-
+tion, evaluations and experiences. Thus, as with other forms of communication, we need 
+to widen our scope from communicative products to processes and all the “meta” that 
+frames and links them.
+The late Michael Silverstein reminds us that we need to include structures, practices, 
+and ideologies if we want to get hold of the “total linguistic fact” [Silverstein 1985: 220]. 
+Likewise, we need to look not only at the recurrent types or forms (τύποι), but also at the 
+concrete material practices (γράφειν) within which these forms are used, and not least at 
+the ideologies (δόξα) that make the sensable forms sensible in these practices, if we want 
+to understand the total typographic fact.
+Dictionaries
+Stevenson, Waite 2011 — Concise Oxford English Dictionary. 12th ed. Stevenson A., Waite M. (ed.). Oxford 
+and New York: Oxford University Press, 2011.

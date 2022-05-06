@@ -1,0 +1,772 @@
+© Санкт-Петербургский государственный университет, 2020
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+474 
+https://doi.org/10.21638/spbu09.2020.308
+UDC 81’2
+Jerzy Bartmiński
+Maria Curie-Skłodowska University,  
+5, pl. Marii Curie-Skłodowskiej, Lublin, 20-031, Poland 
+jerzy.bartminski@poczta.umcs.lublin.pl 
+The collection as a text-forming mechanism:  
+A case study of a playful bachelor song1
+For citation: Bartmiński J. The collection as a text-forming mechanism: A case study of a playful bach-
+elor song. Vestnik of Saint Petersburg University. Language and Literature. 2020, 17 (3): 474–486. 
+https://doi.org/10.21638/spbu09.2020.308
+Based on the example of the Old Polish song “Pannom świat, / A mężatkom niebo, / A wdowusi-
+om raj, raj, raj, / A babkom piekło” (En. lit. ‘For maidens the world / For married women heaven, 
+/ And for widows paradise, paradise, paradise / And for crones hell’) and its many variants in 
+Polish song folklore, the author discusses the text-forming mechanism of the basic collection: 
+maiden — married woman — widow — crone, which is the starting point to introduce some 
+coupled, or mirrored collections of the type: heaven — paradise — purgatory — hell. The con-
+cepts of collection and complex are applied here as useful analytical tools which allow for identifi-
+cation of culturally stable stereotypical sets, and for labelling them with the use of superordinate 
+lexemes, e.g. VEHICLES: coach-in-four — royal coach — stagecoach — wheelbarrow; DRINKS: 
+wine — beer — weak, home-brewed beer — water, etc. The analysis of a multi-variant song, per-
+formed in the present study, leads to the conclusion that Albert Lord’s oral-formulaic theory of a 
+text of folklore needs to be extended by introducing a more general idea of the “textual pattern” 
+active on the level of individual text elements, as well as on the level of an entire text. In the case 
+discussed in the present paper, the factor that integrates the whole message is constituted by a 
+mocking intention assigned to the male (“bachelor’s”) point of view. 
+Keywords: Polish song folklore, collection, textual pattern, text-forming mechanism, male 
+(bachelor’s) point of view.
+For a basis, the texts to be examined will be quoted and then an analysis will be con-
+ducted on the text-forming role of a collection.
+* * *
+Among Old Polish love songs published in Czesław Hernas’ anthology W kalinowym 
+lesie (En. In the Guelder rose forest), the group of frivolous “pieśni mazowieckie” (En. Ma-
+zovian songs/ songs from the region of Mazovia) contains the following short text (no. 87):
+(1) 
+Pannom świat, 
+A mężatkom niebo, 
+A wdowusiom raj, raj, raj, 
+A babkom piekło [Hernas 1965: 67].
+1 The article and all quotations from Polish and Russian translated by Dr. Agnieszka Gicala.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+475
+ 
+For maidens the world, 
+For married women heaven,  
+And for widows, paradise, paradise, paradise,  
+And for crones, hell. 
+In the above song, two different sets of concepts are superimposed on each other and con-
+fronted: the stages of a woman’s life: panna — mężatka — wdowa — babka ‘maiden — mar-
+ried woman — widow — crone’ and a cosmic set: świat — niebo — raj — piekło ‘the world — 
+heaven — paradise — hell.’ In this mocking text, the confrontation is made from the “bach-
+elor’s” point of view. What is important here is whether a woman is unmarried, married, 
+widowed or a crone (in Polish, the latter is babka ‘old woman, crone’, also ‘grandmother’); 
+respectively, the woman is placed in the world, in heaven, in paradise, or symbolically con-
+demned to hell. The valuation of women in this text is characterised by male chauvinism: the 
+woman is depicted mainly as an object of man’s sexual interest. On the axiological axis, the 
+maiden is glorified whereas the crone is degraded to an inferior position.2
+Relations of the type: dziewczyna — panna — żona — wdowa ‘young girl — maid-
+en — wife — widow’ or niebo — piekło — raj “heaven — hell — paradise” may be the 
+subject of lexical-semantic description (in the framework of semantic fields); they can also 
+be described using the apparatus of syntagmatically oriented phraseology. However, nei-
+ther of these two description models seem to be sufficient to capture the specificity of this 
+message in social communication unless it is formulated in terms of textology, taking into 
+account its intention. Although each of these lexeme collections can be subsumed under 
+the common hypernonyms of, respectively, kobieta ‘woman’ and kosmos (sfery kosmosu) 
+‘the cosmos (spheres of the cosmos)’, this does not allow for ascribing to these collec-
+tions any additional “meaning as a whole” in the sense adopted by W. Mokijenko,3 or in 
+the sense of “irregularities” according to Lewicki and Pajdzińska.4 Neither the collection 
+panna — mężatka — wdowa — babka ‘maiden — married woman — widow — crone’ 
+nor the świat — niebo — raj — piekło ‘world — heaven — paradise — hell’ is treated as a 
+phraseological unit in Polish phraseological dictionaries.5
+The concepts “collection” and “complex” are part of research into the linguistic world-
+view.6 These concepts are regarded as important ways of constructing worldviews. At the 
+2 European and Polish culture also knows another valuation of old age, namely the figure of a “Bac-
+chic crone”, a promiscuous “drunken old woman” (unus ebria). It is described in a study [Borowicz, Hobot, 
+Przybylska 2010].
+3 As defined by Prof. W. Mokijenko, a phraseologism is “a set phrase, an expressive combination of 
+lexemes which has, in principle, meaning as a whole,” [Mokijenko 1980: 4].
+4 Phraseologism: “a socially established combination of words showing irregularities in some respects,” 
+[Lewicki, Pajdzińska 2001: 315].
+5 On the other hand, individual words świat ‘world’, niebo ‘heaven’, raj ‘paradise’, and piekło ‘hell’ have a 
+very rich phraseology. Phrases with the word świat ‘world’: używać, zażywać świata, En. lit. ‘to use, enjoy 
+the world,’ i.e. ‘have fun’; podbijać, zdobywać świat ‘to conquer the world’; bywać, obracać się, zabłysnąć w 
+świecie ‘to visit, move in, shine in the world’. Phrases with niebo ‘heaven’: być w niebie ‘to be in heaven.’ 
+i.e. ‘to feel very happy’; przychylić komu nieba ‘to move heaven close to someone,’ i.e. ‘to make somebody 
+happy’. Phrases with raj ‘paradise’: czuć się jak w raju, rozkosze raju, raj na ziemi ‘to feel as if in paradise, 
+the pleasures of paradise, paradise on earth,’ meaning ‘something very good, beautiful’. Phrases with piekło 
+‘hell’: przechodzić przez piekło, doświadczyć piekła boleści, rozpaczy, nędzy, zazdrości, swarów itp.; czuć (w 
+duszy, w piersiach) piekło ‘to go through hell, to experience the hell of pain, despair, misery, jealousy, quarrel, 
+etc.; to feel hell (in one’s soul, chest)’. Such phrases are recorded in [Skorupka 1967].
+6 Сollection [SSiSL: 16] is defined (after Wygotski and Piaget) as a “combination of a series of ele-
+ments related by a ‘triple unity’, i.e. co-existing in the same place and the same time, and sharing the same 
+476 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+same time, they constitute one of the important text-creating mechanisms.7 While being 
+a certain type of cultural stereotypes with exceptionally rich connotations, niebo ‘heaven’, 
+piekło ‘hell’, and raj ‘paradise’ (and in the Polish folk tradition niebo ‘heaven’, piekło ‘hell,’ 
+czyściec ‘purgatory’ and raj ‘paradise’ simultaneously form a coherent and stable, recogniz-
+able collection, which can be described by the more general lexeme zaświaty ‘afterlife’.8
+* * *
+The compositional idea to juxtapose the four stages of a woman’s life in a series and 
+to symmetrically assign to them four evaluative attributes, forming a collection, gained 
+great popularity in Polish song folklore.
+Let us take a look at its variants.
+The following seven-stanza text version published by Oskar Kolberg, with its last 
+stanza similar to the record by Hernas, comes from the Polish region of Mazowsze (En. 
+Mazovia):
+(2) 
+Do nieba pannom, do raju mężatkom, 
+a do czyścia wdowuleńkom, do piekła babkom [Kolberg, Mazowsze 1887: 305].
+ 
+Maidens to heaven, married women to paradise, 
+and widows to purgatory, crones to hell.
+This last stanza is preceded by six others, constructed according to a similar pattern, as 
+follows:
+ 
+Rozmaryn pannom, róża mężatkom,
+ 
+drobna rutka wdowuleńkom, pokrzywa babkom. 
+ 
+Mazurek pannom, walczyk mężatkom,
+ 
+a polonez wdowuleńkm, a za pies babkom.
+ 
+Koczyki pannom, karety mężatkom,
+ 
+dyliżanse wdowuleńkom, a taczki babkom.
+ 
+Jesiotry pannom, czczupaki mężatkom,
+ 
+drobne rybki wdowuleńkom, a żabki babkom.
+ 
+Na wino z panną, na piwo z mężatką,
+ 
+na podpiwek z wdowuleńką, a na wodę z babką.
+ 
+Na łózko z panną, na ławę z mężatką,
+ 
+na przypiecek z wdowuleńką, pod komin z babką [Mazowsze 1887: 305]. 
+ 
+Rosemary for maidens, a rose for married women,
+ 
+Tiny rue for widows, nettle for crones.
+ 
+The mazurka for maidens, the quick waltz for married women,
+ 
+and the polonaise for widows, and a dog for crones.9
+function”. Close to collection is a less restrictive concept complex (also introduced by Wygotski), which 
+[SSiSL: 16]  describes “the co-occurrence of objects” (without fulfilling the condition of the triple uni-
+ties). Cf. [Bartmiński 1990: 171].
+7 Cf. [Bartmiński 1990; Niebrzegowska-Bartmińska 2007: 287–307].
+8 In Polish childrens’ folklore, there is a nursery rhyme Piekło — niebo — czyściec — raj, swoją duszę 
+tutaj daj ‘Hell — heaven — purgatory — paradise, give your soul here’, which is accompanied by showing a 
+four-part paper origami toy. Cf. Niebo, światła niebieskie, ogień, kamienie in [SSiSL: 87].
+9 The meaning of this phrase is unclear; it may be a reference to the Polish idiom pies z kimś tańcował, 
+literally ‘a dog danced with someone’, which expresses the fact that the speaker does not care or no longer 
+cares for someone.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+477
+ 
+Coaches-in-four for maidens, royal coaches for married women,
+ 
+Stagecoaches for widows, and wheelbarrows for crones.
+ 
+Sturgeons for maidens, pikes for married women,
+ 
+small fish for widows, and frogs for crones.
+ 
+With a maiden [go] for some wine, with a married woman for a beer,
+ 
+with a widow for a weak, home-brewed beer, and with a crone for some water.
+ 
+A maiden [should sleep] in bed, a married woman on a bench,
+ 
+a widow at the stove, and a crone at the chimney.
+The original collection becomes associated with collections of objects (let us give them 
+the working label: “mirrored”), whose members are also clearly hierarchised: from the 
+item listed as the first one, and bearing the highest value, to the last one with the lowest 
+value. The first member is highly positive whereas the last one is negative (hence the valu-
+ation of the crone, who is actually excluded from the group of women “worthy of atten-
+tion”): rozmaryn ‘rosemary’ — róża ‘rose’ — rutka ‘rue’ vs. pokrzywa ‘nettle’; mazurek ‘the 
+mazurka’ — walczyk ‘the quick waltz’ — polonez ‘the polonaise’ vs. pies ‘dog’ [?]; koczyki 
+‘coaches-and-four’ — karety ‘royal coaches’ — dyliżanse ‘stagecoaches’ vs. taczki ‘wheel-
+barrows’; jesiotry ‘sturgeons’ — szczupaki ‘pikes’ — drobne rybki ‘small fish’ vs. żaby ‘frogs’; 
+wino ‘wine’ — piwo ‘beer’ — podpiwek ‘weak, home-brewed beer’ vs. woda ‘water’; łóżko 
+‘bed’ — ława ‘bench’ — przypiecek ‘a place at the stove’ vs. komin ‘chimney’.
+The region of Mazovia is also the source of a wedding song, in which the four stages 
+of a woman’s life are mirrored by respective, hierarchised attributes:
+(3) 
+Pannom pałace, a dwory mężatkom,
+ 
+proste izby wdowuleńkom, świńskie chlewki babkom. 
+ 
+Pannom salopy, ślafroki mężatkom,
+ 
+proste futra wdowuleńkom, świński kożuch babkom. 
+ 
+Pannom karyty, kolas mężatkom,
+ 
+proste wozy wdowuleńkom, krzywe tacki babkom. 
+ 
+Panno biały chleb, pytlowy mężatkom,
+ 
+a razowy wdowuleńkom, z czarnych otrąb babkom.
+ 
+Pannom jesiotra, szczupaka mężatkom,
+ 
+drobne rybki wdowuleńkom, drobne żabki babkom.
+ 
+Pannom rózycki, lelije mężatkom,
+ 
+lichse kwiatki wdowulenkiom, a pokrzywki babkom [Mazowsze 1888: 362].
+ 
+Palaces for maidens, and mansions for married women,
+ 
+simple rooms for widows, pigsties for crones.
+ 
+Mantles for maidens, dressing gowns for married women,
+ 
+simple fur coats for widows, pig leather coats for crones.
+ 
+Royal coaches for maidens, open horse-drawn carriages for married women,
+ 
+Simple carts for widows, crooked wheelbarrows for crones.
+ 
+White bread for maidens, rye bread for married women,
+ 
+and wholemeal bread for widows, black bran bread for crones.
+ 
+A sturgeon for maidens, a pike for married women,
+ 
+small fish for widows, small frogs for crones.
+ 
+Roses for maidens, lilies for married women,
+ 
+plain flowers for widows, and nettles for crones. 
+478 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+“Mirrored” collections are created here on the same principle of valuation according to 
+decreasing values up to their total loss, i. e. their explicit opposite: pałace ‘palaces’ — dwo-
+ry ‘mansions’ — proste izby ‘simple rooms’ vs. świńskie chlewki ‘pigsties’; salopy ‘man-
+tles’ — szlafroki ‘dressing gowns’ — proste futra ‘simple fur coats’ vs. świński kożuch 
+‘pig leather coat’; biały chleb ‘white bread’ — pytlowy chleb ‘rye bread’ — razowy chleb 
+‘wholemeal bread’ vs. chleb z czarnych otrąb ‘black bran bread’, etc. In his commentary, 
+Kolberg adds that “groomsmen and bridesmaids sing this song at the wedding, in defi-
+ance of the women who, after putting the cap on the bride’s head, take her to dance” 
+[Mazowsze 1888: 363].
+The stanza known from the 18th-century record, quoted here as text (1), appears en-
+riched with other stanzas in Kolberg’s Krakowskie (1873), in the section of love songs as 
+an epigram:
+(4) 
+Kyryje pannom, elejson mężatkom,
+ 
+odpuść Boże wdowuleńkom, a Requiem babkom.
+ 
+Za stół panienki, przed stołem mężatki,
+ 
+a przed piecem wdowuleńki, a za piecem babki.
+ 
+Wina panienkom, a miodu mężatkom,
+ 
+dobre piwko wdowuleńkom, a tazbirek babkom.
+ 
+A w karetach panny, na bryczkach mężatki,
+ 
+na wozach wdowuleńki, na taczkach babki.
+ 
+Do nieba panny, do raju mężatki,
+ 
+a do czyszcza wdowuleńki, a do piekła babki [Kolberg 1873: 304]. 
+ 
+Kyrie for maidens, eleison for married women,
+ 
+“forgive us our trespasses” for widows and Requiem for crones.
+ 
+Maidens at table, married women before the table,
+ 
+Widows at the stove, and crones in the chimney corner.
+ 
+Wine for ladies and mead for married women,
+ 
+a good beer for widows and thin beer for grandmothers.
+ 
+And maidens in royal coaches, married women in britzkas,
+ 
+Widows on wooden carts, crones in wheelbarrows.
+ 
+Maidens to heaven, married women to paradise,
+ 
+and widows to purgatory, and crones to hell.
+The association of this text with the wedding rite, which in the peasant tradition al-
+ways allowed for jokes and taunts, is confirmed in records from the regions of Poznań and 
+the Upper Silesia. In the collection of Greater Poland songs sung at weddings, Kolberg 
+included a short (by the way, not very well-turned) record from Kobylin:
+(5) 
+Rozmaryniek dla panienek, dla mężatków kwiatki,
+ 
+a dla wdowów pindyrynda (belladonna), dla babek żabki [Poznańskie 1879: 55].
+ 
+Rosemary for maidens, flowers for married women,
+ 
+and pindyrynda (belladonna) for widows, frogs for crones.
+A neater, more elaborate and orderly variant is quoted by Józef Gallus in his popular col-
+lection entitled Starosta weselny ‘Wedding Master of Ceremony.’ The “mirrored” collec-
+tions include the following categories: “places”, “drinks”, “fish”, “vehicles”, “flowers”, and 
+“buildings”; and there is also the basic “cosmic” collection: niebo — raj — czyściec — piekło 
+‘heaven — paradise — purgatory — hell’: 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+479
+(6) 
+Za stołem panienki, przed stołem mężatki, 
+ 
+u komina wdowulinki, a za piecem babki.
+ 
+Pannom wina, pannom, a miodu mężatkom,
+ 
+kwaśne piwo wdowulinkom, a co zlewki babkom.
+ 
+Szczupaka panienkom, karaski mężatkom,
+ 
+drobne ryby wdowulinkom, a żabeczki babkom.
+ 
+Karetą panienki, powozem mężatki,
+ 
+drabnym wozem wdowulinki, a taczkami babki.
+ 
+Do nieba panienki, do raju mężatki,
+ 
+do czysca zaś wdowulinki, a do piekła babki.
+ 
+Białe różę pannom, tulipan mężatkom,
+ 
+drobne róże wdowulinkom, a pokrzywy babkom.
+ 
+Pałace panienko, kamienice mężatkom,
+ 
+skromne domki wdowulinkom, a chałupy babkom [Gallus 1900: no.118, 328–329].
+ 
+Maidens at table, married women before the table,
+ 
+Widows at the stove, and crones in the chimney corner.
+ 
+Wine for maidens, ladies and mead for married women,
+ 
+sour beer for widows, and slops for crones.
+ 
+A pike for maidens, crucians for married women,
+ 
+small fish for widows, and little frogs for grandmothers.
+ 
+And maidens in a royal coach, married women in an equipage,
+ 
+Widows on wooden carts, crones in wheelbarrows.
+ 
+Maidens to heaven, married women to paradise,
+ 
+While widows to purgatory, and crones to hell.
+ 
+A white rose for maidens, a tulip for married women,
+ 
+small roses for widows, and nettles for crones.
+ 
+Palaces for maidens, town houses for married women,
+ 
+modest houses for widows, and cottages for crones.
+In more recent records from the region of Cracow, this song undergoes gradual 
+expansion by multiplying the “mirrored” collections. It was written down twice, first in 
+1964 by Piotr Płatek, as a playful song in which the original “cosmic” collection is already 
+absent while “vehicles,” “clothes,” “parties,” “flowers,” and “military ranks” appear:
+(7) 
+Auto panience, a rower mężatce,
+ 
+wdowuleńce taczki, hulajnoga babce.
+ 
+Nylony panience, stylony mężatce,
+ 
+wdowuleńce zwykłe, a onucki babce.
+ 
+Do kina z panienką, na spacer z mężatką,
+ 
+z wdowuleńką do kościoła, a na pogrzeb z babką.
+ 
+Fijołka panience, a bratki mężatce, 
+ 
+wdowuleńce stokrotke, a pokrzywę babce. 
+ 
+Kaprala panience, sierżanta mężatce,
+ 
+wdowuleńce kapitana, a majora babce [Płatek 1976: 516].
+ 
+A car for a maiden, and a bicycle for a married woman,
+ 
+A wheelbarrow for a widow, a kick scooter for a crone.
+ 
+Nylon stockings for a maiden, stylon stockings for a married woman,
+ 
+Plain stockings for a widow, and footwraps for crones.
+480 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+ 
+With a maiden to the cinema, with a married woman for a walk,
+ 
+with a widow to church, and with a crone to a funeral.
+ 
+A violet for a maiden, and pansies for a married woman,
+ 
+A daisy for a widow, and a nettle for a crone.
+ 
+A corporal for a maiden, a sergeant for a married woman,
+ 
+a captain for a widow, and a major for a crone. 
+The other record of this text, from 1971, represents a version even more elaborate, 
+which could be described as “expanded” (which German folklorists refer to as Zersingen), 
+extended on the principle of “a semantic loop”10 by more and more modern and unusual 
+collections:
+(8) 
+Na spacer z panienkom, do kina z mężatkom, 
+ 
+do kościoła z wdowuleńkom, a na cmentarz z babką.
+ 
+Różyczka panience, tulipan mężatce, 
+ 
+zwykły bratek wdowulince, a pokrzywa babce. 
+ 
+Stylony panience, nylony mężatce,
+ 
+pończoszycka wdowuleńce, a onuce babce. 
+ 
+Szpileczki panience, czółenka mężatce,
+ 
+stare buty wdowuleńce, a kalosze babce.
+ 
+Okrętem z panienką, stateczkiem z mężatka,
+ 
+zwykłą łódką z wdowuleńką, a w baliji z babką.
+ 
+Generał panience, oficer mężatce,
+ 
+szeregowy wdowuleńce, łysy rekrut babce.
+ 
+Skuterem z panienką, motorem z mężatką,
+ 
+na rowerze z wdowuleńką, a tragaczem z babką.
+ 
+Torebka panience, koszyczek mężatce,
+ 
+zwykła siatka wdowuleńce, a worcysko babce.
+ 
+Ciasteczko panience, cukierki mężatce,
+ 
+zwykły placek wdowuleńce, figa z makiem babce.
+ 
+Kanarek panience, papużka mężatce,
+ 
+stare koty wdowuleńce, a kozisko babce.
+ 
+Koniaczek panience, wódeczka mężatce,
+ 
+kwaśne wino wdowuleńce, denaturat babce.
+ 
+Do piekła za panienką, do czyśca z mężatką,
+ 
+a do nieba z wdowuleńką, a do raju z babką [Płatek 1976: 755–758].
+ 
+With a maiden for a walk, with a married woman to the cinema,
+ 
+with a widow to church, and with a crone to a cemetery.
+ 
+A rose for a maiden, a tulip for a married woman,
+ 
+A plain pansy for a widow, and a nettle for a crone.
+ 
+Stylon stockings for a maiden, nylon stockings for a married woman,
+ 
+Plain stockings for a widow, and footwraps for crones.
+ 
+High heels for a maiden, pumps for a married woman,
+ 
+old shoes for a widow, and wellies for a crone.
+ 
+On board of a liner with a maiden, in a small cruiser with a married woman,
+ 
+in an ordinary, small boat with a widow, and in a wash tub basin with a crone.
+ 
+A general for a maiden, an officer for a married woman,
+ 
+a private for a widow, a bald recruit for a crone.
+10 Cf. [Niebrzegowska-Bartmińska 2007: 372–388].
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+481
+ 
+On a scooter with a maiden, on a motorbike with a married woman,
+ 
+on a bicycle with a widow, and in a tragacz11 with a crone.
+ 
+A handbag for a maiden, a basket for a married woman,
+ 
+A plain shopping bag for a widow, and a burlap bag for a crone.
+ 
+A cookie for a maiden, candy for a married woman,
+ 
+a plain cake for a widow, figa z makiem12 (nothing) for a crone.
+ 
+A canary for a maiden, a small parrot for a married woman,
+ 
+old cats for a widow, an old goat for a crone.
+ 
+Cognac for a maiden, vodka for a married woman,
+ 
+sour wine for a widow, methanol for a crone.
+ 
+(Follow) a maiden (even) to hell, (go) to purgatory with a married woman,
+ 
+and to heaven with a widow, and to paradise with a crone.
+Song variants recorded several times in the region of Lublin are shorter. Below is a 
+1964 record, received from the folk singer Anna Monastyrska who was born in the village 
+of Jacnia in the commune of Adamów and known for her rich repertoire:
+(9) 
+Karetami panny, wozami mężatki,
+ 
+powozami wdowuleńki, a taczkami babki. 
+ 
+Przed stałem panienki, za stołem mężatki,
+ 
+przy kominku wdowuleńki, a na piecu babki.
+ 
+Białe róże pannom, tulipan mężatkom, 
+ 
+drobny fijałek wdowuléńkom, a pokrzywy babkom.
+ 
+Młody pannie chłopca, a mężatkom wdowca,
+ 
+cyganéńka wdowuleńce, a dziadęge babce.
+ 
+Słodkie piwo pannom, a miodek mężatkom,
+ 
+kwaśne piwo wdowuleńkom, a rozliwki babkom.
+ 
+Do raju panienki, do nieba, mężatki,
+ 
+a do czysca wdowuleńki, a do piekła babki.13
+ 
+Royal coaches for maidens, wooden carts for married women,
+ 
+Equipages for widows, wheelbarrows for crones.
+ 
+Maidens in front of the table, married women at table,
+ 
+Widows at the fireplace, and crones in the chimney corner.
+ 
+White roses for maidens, a tulip for married women,
+ 
+a small violet for widows, and nettles for crones.
+ 
+A young man for a maiden, and a widower for married women,
+ 
+A Gypsy man for a widow, and a greybeard for a crone.
+ 
+Sweet beer for maidens, and mead for married women,
+ 
+Sour beer for widows, and slops for crones.
+ 
+Maidens to paradise, married women to heaven,
+ 
+and widows to purgatory, and crones to hell.
+11 A type of wooden wheelbarrow to transport e.g. hay or firewood.
+12 Figa z makiem (En. lit. ‘a fig with poppy seed’) is a Polish idiom which means ‘nothing’.
+13 Recorded in 1964, in Jacnia (the commune of Adamów); a shorter, four-stanza version, but with the 
+same motifs was written down in the same year in Kawęczyn, the commune of Szczebrzeszyn [Bart PANLub, 
+part V: 219], further variants can be found there, among them: Tulipan panience, fijołek mężatce, biała lilia 
+wdowuleńce, a pokrzywy babce [A tulip for a maiden, a violet for a married woman, a white lily for a widow, 
+and nettles for a crone] (as recorded in the village of Dobre in 1977), and similar versions.
+482 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+In 1966, a unique (i.e. quite radically modified) variant as a feast song was recorded 
+in the village of Lipsko, the commune of Zamość, from a man accidentally encountered:
+(10) Spirytus panience, alkohol mężatce, 
+ 
+dobra wódzia wdowuleńce, dynaturat babce.
+ 
+Do kina z panienką, na spacer z mężatką, 
+ 
+a na wczasy z wdowuleńką, a na cmentarz z babką.
+ 
+Taksówka panience, furmanka mężatce, 
+ 
+dobry rower wdowuleńce, a na taczce babce.
+ 
+Kanapa panience, łóżeczko mężatce, 
+ 
+dobra sofa wdowuleńce, a na piecu babce.
+ 
+Trzy jajka panince, dwa jajka mężatce, 
+ 
+jedno jajko wdowuleńce, a skorupa babce.
+ 
+Kyryje panienkom, elejson mężatkom, 
+ 
+alleluja wdowuleńkom, a rykije [requiem] babkom [Burt PANLub III: 117].
+ 
+Spirit for a maiden, alcohol for a married woman,
+ 
+good vodka for a widow, methanol for a crone.
+ 
+To the cinema with the young lady, for a walk with a married woman,
+ 
+and on vacation with a widow, and to the cemetery with a crone.
+ 
+A taxi for a maiden, a wooden cart for a married woman,
+ 
+A good bicycle for a widow, and a wheelbarrow for a crone.
+ 
+A couch for a maiden, a soft bed for a married woman,
+ 
+a good sofa for a widow, and a place at the stove for c a crone.
+ 
+Three eggs for a maiden, two eggs for a married woman,
+ 
+one egg for a widow, and an eggshell for a crone.
+ 
+Kyrie for maidens, eleison for married women,
+ 
+hallelujah for widows, and requiem for crones.’
+* * *
+(11) Kirye pannom, elejson mężatkom,
+ 
+alleluja wdowulinkom, rekwije babkom.
+ 
+Pieczonki pannom, mięso to mężatkom,
+ 
+poléweczka wdowulinkom, kościska babkom.
+ 
+Cytryny pannom, gruszki to mężatkom,
+ 
+czerstwe jabłka wdowulinkom, płończyska babkom.
+ 
+W karetach panny, w bryczkach to mężatki,
+ 
+a na wozach wdowulinki, na taczkach babki.
+ 
+Do nieba panny, do raju mężatki,
+ 
+do oczyścia wdowulinki, do piekła babki [Roger 1880: song no. 14, pp. 252–253].
+ 
+Kyrie for maidens, eleison for married women,
+ 
+hallelujah for widows, requiem for crones.
+ 
+Cauldron dishes for maidens, meat for married women, 
+ 
+Pottage for widows, bones for crones. 
+ 
+Lemons for maidens, pears for married women, 
+ 
+stale apples for widows, sour wild apples for crones. 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+483
+ 
+Maidens in royal coaches, married women in britzkas, 
+ 
+and widows on carts, crones in wheelbarrows. 
+ 
+Maidens to heaven, married women to paradise, 
+ 
+Widows to purgatory, crones to hell.
+* * *
+Until recently in folklore studies, a significant position was occupied by oral-formula-
+ic theory, which is associated primarily with the names Milman Parry and Albert Lord, ac-
+cording to which the cornerstone of the oral style was constituted by a “formula” (a broad-
+er term than “phraseologism” and “phraseme.”14 A formula was defined by the American 
+researchers as “a group of words which is regularly employed under the same metrical 
+conditions to express a given essential idea” [Parry 1987: 272]. According to Lord, the use 
+of established formulas facilitates a singer’s production or, rather, reproduction of a text 
+as it prompts ready syntactic and metrical schemas [Lord 1960]15. More recent studies of 
+oral texts have helped to develop this theory considerably and introduce a more general 
+term — “text pattern.” The author of a study of oral texts defines a pattern as “a conceptual 
+text schema, which helps the “orientation” of both the ‘sender’ of the text in the process 
+of speaking and the listener in the process of oral-memory reception” [Niebrzegowska-
+Bartmińska 2007: 104–105]16. According to the author, “The pattern is created by texts 
+with a similar logical arrangement and/or similar composition, and/or similar thematic 
+relations, and/or a similar intention and idea.” Moreover, “[a]ll planes are permeated by a 
+superordinate intention and idea, which organises the text as a macrosign.” [Niebrzegow-
+ska-Bartmińska 2007: 86]17.
+The above comparison of the numerous song variants, recorded by folklorists in the 
+nineteenth and twentieth centuries (2–10), reveals that we are dealing here with the ac-
+tive use of the so-conceived textual pattern and we can trace its functioning in the living 
+matter of language. The pattern operates at the level of individual segments, i. e. autono-
+mous, small two-line motifs, as well as at the level of the entire text.
+At the level of segments, motifs are constructed according to the same logical and 
+compositional schema: the fixed, original set of persons: maiden — married woman — 
+widow — crone is successively accompanied by new sets of items that make up a “mirrored” 
+collection, associated with those persons in specific “complexes.” Individual members of 
+the fixed collection of women (maiden — married woman — widow — crone) appear 
+together with relevant members of the collections of items: parts of the cosmos  (as 
+in variant 1), flowers (which appear often, as in variants 2, 3, 5, 6, 7, 8, 9), drinks (vari-
+ants 2, 4, 6, 8, 9, 10), vehicles (3, 4, 6, 9, 10, in a way also 7 and 8), places (2, 4, 6, 9, 
+10), fish (2, 3, 6), buildings (3, 6) — to name the most common ones. This gives rise 
+to complexes of the type: “person + object”, which are systematically incorporated into 
+the metrical pattern of a line; and the compositional schema adopted for individual seg-
+ments, i.e. the four stages of a woman’s life, results in a similar content division into four 
+segments in each of the “mirrored” collections of items. What operates in addition to that 
+14 It is worth noting that German scholars had similar views (e. g. [Daur 1909; Peuckert 1961]).
+15 A critical analysis also can be found in [Bartmiński 1975].
+16 The study includes an extensive bibliography on the subject.
+17 The schematic and formulaic structure of folk songs is also described in [Daur 1909; Peuckert 1961].
+484 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+is the principle of internal ordering of elements according to value gradation (from top to 
+bottom: axiological degradation). Two elements are axiologically marked: the first as the 
+best: for the maiden; and the last as the worst: for the crone.
+This precise arrangement is not easy to apply on a larger scale because not all mem-
+bers of a given collection have, in their common understanding, a fixed place on the scale 
+of values. What reveals itself as well is the entire rich and diverse valuation system of 
+objects present in the immediate surroundings. Singers tend to have enough ingenuity to 
+find between three and seven sensible combinations (most often there are six) that have a 
+relatively strong consolidation in the linguistic-cultural worldview. It is fairly easy to find 
+the “best examples” in the case of flowers (a rose undeniably occupies the first place among 
+flowers while the most inferior one is a nettle, placed as the last item in the sequence), as 
+well as buildings (palace, manor house/cottage — vs. cottage/pigsty), vehicles (royal coach, 
+britzka, wooden cart; taxi, cart, bicycle vs. wheelbarrow), beverages (wine, (good) beer, weak 
+home-brewed beer; cognac, vodka, wine vs. water, slops, methanol), fish (pike, crucian, small 
+fish vs. frogs), bread (white bread, rye bread, wholemeal bread vs. bran), places to sleep (in 
+bed, on a bench, at the stove vs. at the chimney), “honorary” places (at table, in front of 
+the table, at the chimney vs. at the stove), also the largest social attractions (cinema, walk, 
+holiday/church vs. cemetery) and, of course, military ranks (general, officer, private vs. bald 
+recruit). Valuation is more difficult in the case of dances, clothes, sweets, birds, footwear, 
+etc. The most ingenious singer, the performer of variant 8, invents elements of as many as 
+12 two-line segments himself by which, while confirming the creative power of the pat-
+tern, he exceeds the boundary of the common linguistic standard. 
+The pattern also operates at the level of the whole text as the segments are combined 
+in a given series in accordance with a certain superordinate idea. That idea is constituted 
+by a humorous, mocking intention, obviously corresponding to the male perspective of 
+valuation of the female world, undoubtedly from a bachelor’s point of view: the most at-
+tractive is a maiden, followed by a married woman and, next, a widow, while an old woman/
+crone (having lost her sexual attractiveness?) is excluded and treated with contempt. This 
+intention integrates all seemingly autonomous segments at the level of fixed text. It is this 
+intention as the superordinate component of the pattern that by itself imposes on indi-
+vidual text segments the structure of form and content as well as valuation.
+Abbreviations
+En. — English
+lit. — Literal translation of all components of a proverb
+Sources
+Bart PANLub — Polska pieśń i muzyka ludowa. Źródła i materiały, vol. 4. Lubelskie, parts I–VI, elaborated 
+by a research team led by J. Bartmiński. Lublin, Ed. Polihymnia, 2011.
+Daur 1909 — Daur A. Das alte deutsche Volkslied nach seinen festen Ausdrucksformen betrachtet. Leipzig: 
+Quelle & Meyer, 1909. 200 s. 
+Gallus 1900 — Gallus Józef Starosta weselny, 3rd ed., Bytom, 1900.
+Hernas 1965 — Hernas Czesław W kalinowym lesie, vol. II, Warszawa, Państwowy Instytut Wydawniczy, 
+1965.
+Kolberg 1873 — Kolberg O. Lud. Jego zwyczaje, sposób życia, mowa, podania, przysłowia, obrzędy, gusła, 
+zabawy, pieśni, muzyka i tańce. Serya VI, Krakowskie, part II, Kraków, w drukarni Uniwersytetu Ja-
+giellońskiego, 1873.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+485
+Mazowsze 1887 — Kolberg O. Mazowsze. Obraz etnograficzny, partvol. III. Kraków, Druk Ł. L. Anczyca i 
+spółki, 1887. 368 s.
+Mazowsze 1888 — Kolberg O. Mazowsze. Obraz etnograficzny, partvol. IV. Kraków, Druk Ł. L. Anczyca i 
+spółki, 1888. 400 s.
+Płatek 1976 — Płatek P. Albośmy to jacy tacy. Zbiór pieśni krakowiaków wschodnich i zachodnich. Kraków, 
+1976. S. 755–758. 
+Poznańskie 1879  — Poznańskie. Lud. Serie XII. Przedst. Oskar Kolberg. Kraków, Druk. Uniwersytetu 
+Jagiellońskiego, 1879. 334 s.
+Roger 1880 — Julius Roger, Pieśni ludu polskiego w Górnym Szląsku z muzyką, Wrocław 1880. https://sbc.
+org.pl/dlibra/publication/6679/edition/6206/content
+Skorupka 1967 — Skorupka S. Słownik frazeologiczny języka polskiego. Vol. 1. A–P. Warszawa: Wiedza Po-
+wszechna, 1967. 788 s.
+SSiSL  — Słownik stereotypów i symboli ludowych. J. Bartmiński, S. Niebrzegowska. (eds.). Vol. I. Ko-
+smos. Part 1. Niebo, światła niebieskie, ogień, kamienie. Lublin: Wydawnictwo Uniwersytetu Marii  
+Curie-Skłodowskiej, 1996. 439 s.

@@ -1,0 +1,654 @@
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+84 
+УДК 81’37 
+DOI 10.47388/2072-3490/lunn2021-55-3-84-98 
+ 
+FIGURATIVE IDIOMS WITH EMBEDDED ETHNONYMS IN BRITISH 
+MEDIA DISCOURSE 
+ 
+Svetlana Yu. Pavlina 
+ 
+N. A. Dobrolyubov Linguistics University of Nizhny Novgorod,  
+Nizhny Novgorod, Russia 
+ 
+The research examines the functioning of conventional idioms containing ethnonyms in mod-
+ern British public discourse, featuring the way they are employed in newspaper articles. Eth-
+nonyms are treated as nominations of ethnic communities that often represent some stereotyp-
+ical treatment of an out-group that may seem inappropriate from political correctness perspec-
+tive. The study is set in the critical discourse analysis framework and employs definitional 
+and contextual analyses. The research shows that being incorporated in the semantic structure 
+of figurative idioms ethnonyms can either connote some negative attitude or be devoid of any 
+connotation. When used in media discourse the first type of idioms is involved in some play 
+on their figurative and literal meanings, which creates the defeated expectancy effect. Instead 
+of connoting some negative attitude to an ethnic group, they serve rhetorical purposes riveting 
+and retaining the readers’ attention thus enhancing the perception of the author’s message. 
+When non-connotative figurative idioms with embedded ethnonyms are used in the contexts, 
+they undergo some transformations and develop new meanings. As a result the reference to a 
+specific ethnic group becomes opaque. It is possible to conclude that the current usage of this 
+group of figurative idioms is not affected by their “etymological memory”. The research 
+shows that the employment of conventional idioms containing ethnonyms in media discourse 
+is a powerful rhetorical tool which helps to affect the readers’ perception and convey the mes-
+sage in a laconic and expressive way without violating the rules of political correctness and 
+inclusiveness. 
+Key words: ethnonym; media discourse; idiom; political correctness; ethnic stereotypes. 
+ 
+Этнонимосодержащие образные идиомы в британском медиадискурсе 
+ 
+С. Ю. Павлина 
+Нижегородский государственный лингвистический университет  
+им. Н. А. Добролюбова, Нижний Новгород, Россия 
+ 
+Работа посвящена исследованию функционирования конвенциональных образных иди-
+ом, содержащих этнонимы, в современном британском общественном дискурсе, в пре-
+ломлении к тому, как данные языковые единицы используются в газетных статьях. Эт-
+нонимы рассматриваются как номинации этнических групп, которые часто выражают 
+стереотипные представления по отношению к «чужим», что в настоящее время может 
+выглядеть неприемлемым с точки зрения политической корректности. В основу работы 
+положен критический дискурсивный анализ, кроме того, применяются дефиниционный 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+85 
+и контекстуальный методы исследования.  Анализ материала показывает, что этнони-
+мы, входящие в состав образных идиом, способны выражать негативное отношение к 
+какой-либо этнической группе, в то же самое время часть исследуемых языковых еди-
+ниц являются оценочно нейтральными. Первая группа идиом используется в медиадис-
+курсе с целью создания экспрессивности, при этом обыгрывается их метафорическое и 
+прямое значения, что создает эффект обманутого ожидания. Вместо того, чтобы транс-
+лировать негативное отношение к какому-либо этносу, этнонимосодержащие конвен-
+циональные образные идиомы выступают как риторическое средство, призванное при-
+влечь и удержать внимание читателей, что способствует адекватному восприятию ав-
+торского посыла. Анализ использования идиом с этнонимами, не выражающими этно-
+стереотипы, показывает, что данные образные языковые единицы подвергаются транс-
+формации и развивают новые контекстуальные значения. В результате они утрачивают 
+связь с обозначаемой этнонимом общностью, что позволяет утверждать, что в анализи-
+руемых контекстах «этимологическая память» данной группы образных идиом не ска-
+зывается на их контекстуальном употреблении.  Исследование показывает, что исполь-
+зование этнонимосодержащих конвенциональных образных идиом в современном бри-
+танском медиадискурсе является эффективным риторическим инструментом, воздей-
+ствующим на восприятие текста и позволяющим лаконично и экспрессивно передать 
+авторский замысел, не нарушая нормы политкорректности и инклюзивности.  
+Ключевые слова: этноним; медиадискурс; идиома; политкорректность; этнические 
+стереотипы. 
+ 
+1. Introduction 
+The interrelation of language and culture has been a focal point of re-
+search in recent decades. One of its many facets deals with the linguistic repre-
+sentation of such complex social and cultural phenomena as race and ethnicity. 
+The linguistic units denoting a certain ethnic group called ethnonyms mirror a 
+linguistic community’s world view (Shastina 2008; Pavlina 2018). The nature of 
+ethnonyms and their linguistic status remain a contentious issue among scholars, 
+as there is no consensus about their belonging to proper or common names. An-
+other aspect that should be clarified is the types of entities described by ethno-
+nyms (Koopman 2016).  The Finnish scholar R. Grünthal observes that the defi-
+nition of the term is not as clear-cut (cf. Greek éthnos ‘people’ + ónoma ‘name’) 
+as it seems (Grünthal 1999). The author assumes that ethnonyms encompass not 
+only the names of people, but also place names (Grünthal 1999). At the same 
+time some researchers establish the difference between the names of ethnic 
+groups and the nomination of inhabitants of a particular location. The former fall 
+into the class of enthonyms, the latter are called demonyms. According to 
+Chesnokova and Radovic, ‘demonyms universally represent linguistic devices 
+for expressing territorial and regional identity’ (Chesnokova & Radovic 2020: 
+1017). When the term ethnonym is treated broadly, it becomes synonymous to 
+realia that include the names of some specific tools, artifacts and personal 
+names (Teliya 1996). It is evident that the spheres to which the term ethnonym 
+can be attributed remain blurred and require some clarification.  
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+86 
+Another strand of ethnonym-related research concerns their idiomatic use. 
+These linguistic units are involved in some metaphoric mapping and become a 
+part of conventional idioms. Ethnonyms incorporated into figurative expressions 
+are culture specific linguistic units that tend to reflect stereotypes about an out-
+group (Boyadzhieva 2010). A considerable body of research is focused on eval-
+uative meanings of phraseological expressions containing ethnonyms (Kolshen-
+skaya & Diakova 2015; Soboleva 2008; Archdeacon 1983). The scholars ana-
+lyse the way such linguistic units reflect certain ethnic stereotypes. It is evident 
+that nowadays the idea of stereotyping seems to be quite obsolete. Since the 
+public perception of ethnicity and its linguistic representations have been evolv-
+ing, it is important to reveal if the usage of figurative idioms with embedded 
+ehnonyms is appropriate in modern public discourse from the political correct-
+ness perspective. The functioning of conventional idioms with embedded ethno-
+nyms in public discourse remains an under-researched area. To fill this gap in 
+modern idiomatic scholarship the analysis of English idioms containing ethno-
+nyms was carried out and their functioning in British media discourse was inves-
+tigated. The sample includes figurative expressions with such ethnonymic nomi-
+nations as Dutch, Russian, Greek, Irish, Chinese, Indian, Ethiopian, Mexican 
+and 143 contexts of their usage in British media discourse, singled out from The 
+Guardian articles. The study addresses the following research questions: 
+1. What semantic features do figurative idioms with embedded ethnonyms 
+possess? 
+2. Is the usage of ethnonym-containing idioms in media discourse con-
+sistent with the ruling social paradigm of political correctness and inclusiveness?  
+ 
+2. Literature review 
+Idioms are traditionally treated as linguistic units that encapsulate some 
+information about basic codes of culture. The Russian scholar Teliya believes 
+that such information is expressed in the cultural connotation of the phraseologi-
+cal units (Teliya 1993). The research by Kovshova distinguishes between the na-
+tional specificity of phraseologisms and their cultural specificity and introduces 
+the algorithm of their identification. According to the scholar, phraseologysms 
+contain information about the history and culture of a language community that 
+includes the knowledge of some common patterns of behavior and the set of 
+values shared by the members of this community (Kovshova 2016). The cultural 
+aspects of an idiomatic meaning are the centerpiece of the research conducted by 
+Dobrovol’skiy and Piirainen. The scholars assume that it is necessary to analyse 
+the cultural basis of idioms to understand their motivation, since various types of 
+cultural knowledge are encoded in phraseologisms, in particular they are em-
+bedded in the semantics of symbolically motivated figurative units that employ 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+87 
+certain cultural conventions (Dobrovol’skiy & Piirailen 2006). Some of such 
+conventions are connected with the way the members of a linguistic community 
+perceive themselves and others.  
+Idioms encode and transmit the information about the system of values 
+relevant for the linguocultural community which includes some stereotypes 
+about their own ethnic community as well as other ethnic groups. One of the 
+means to draw a line between the in-group and the out-group is to create the im-
+age of your own ethnic group setting it in contrast to other ethnic communities. 
+The stereotypical representations of the in-group are called autostereotypes, 
+while the term heterostereotypes is used in reference to the out-group. Au-
+tostereotypes embedded in phraseological expressions, including proverbs, tend 
+to connote some positive attributes that a certain ethnic group believes to pos-
+sess, asserting national identity (Gorokhova 2016, 2017). For example, the pa-
+remiological system of the Polish language is characterized by the following au-
+thostereotypes: a Pole is courageous, noble, hardworking, patriotic, patient, pi-
+ous, capable of standing up for himself (Raina & Shestakova-Stukun 2019).  
+The creation of stereotypes is based on the process of some complex phe-
+nomena simplification, when something complicated, heterogenious and multi-
+faceted is reduced to the form which is perceived as a cliché. The creation of 
+ethno-specific stereotypes can be compared to the application of one and the 
+same measuring stick to diverse representatives of a certain ethnic group, which 
+actually discards their individuality in an attempt to reveal some archetypical 
+features. The stereotypes that address ethnicity tend to be biased, so the linguis-
+tic units that reflect heterostereotypes connote a certain attitude to the given eth-
+nic group which is reflected in their affective meaning. According to Kochetkov, 
+the semantics of idioms that contain ethnonyms is determined by extralinguistic 
+factors (Kochetkov 2002). One of its manifestations is a certain ethnocentricity 
+that underpins evaluative representations of some out-groups. In fact the in-
+group is perceived as a model one, while the out-groups are placed below it on 
+the scale of values. This hierarchy mirrors heterostereotypes that treat the out-
+group properties as unnatural or inappropriate (Kochetkov 2002).  
+One of the extreme manifestations of ethnocentricity in the language is the 
+terms that are called ethnopaulisms, which are lexemes used as ethnic slurs to 
+describe an out-group in hate speech (Roback 1979; Nuessel 2008; Mullen, 
+Calogero & Leader 2007). Such units possess a strong pejorative connotation 
+and are often marked as taboo or offensive terms in the dictionaries. According 
+to Allen, such words provide linguistic evidence of some ethnic conflict (Allen 
+1983).  Idioms that encapsulate stereotypes related to ethnicity do not normally 
+contain such lexemes; nevertheless the meaning of the whole idiom can contain 
+some judgmental information about a certain out-group which tends to be pejo-
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+88 
+rative. Some examples can be found in the phraseological system of the Russian 
+language: пьян, как поляк (as drunk as a Pole), незваный гость хуже 
+татарина (an uninvited guest is worse than a Tatar). The research exploring 
+the English idioms with such enthnonyms as Greek, French, Irish, Chinese, 
+Dutch, Indian, Turkish reveals that they often connote negative attitudes to the 
+given ethnic groups (Kolshenskaya & Diakova 2015). The analysis of British 
+and American idioms shows that similar negative qualities are ascribed to Indi-
+ans and the Irish (Archdeacon 1983). The evidence of it can be found with such 
+idioms as to get one’s Indian up and to get one’s Irish up that have a similar 
+meaning: to become angry or outraged. The investigation of American idioms 
+containing stereotypes based on ethnicity carried out by Soboleva shows that the 
+out-group is represented in the negative light and is ascribed the following nega-
+tive features: violent temper (Indian powwow — a noisy frolic or discussion, to 
+get one’s Indian/Dutch/Irish up — to become angry or outraged); bad manners 
+(Dutch treat — entertainment in which each person pays for himself, Indian 
+gift — a gift that is given and then asked for back); substance abuse (Dutch 
+courage —  false courage gained from drinking alcohol, Indian grass —  mariju-
+ana); stupidity/clumsiness (to play someone for a Chinaman —  to treat as a 
+fool) (Soboleva 2008). 
+The derision targeted at other ethnic groups and expressed in the figura-
+tive idioms helps to cement the ethnic identity of the in-group and assert its own 
+values (Soboleva 2008). Similar observations can be found in the work devoted 
+to the idioms containing components Irish, Welsh and Scotch / Scottish authored 
+by Kolesova (Kolesova 2019). The scholar assumes that figurative nominations 
+with the ethnonym Irish express some negative attitude to this ethnic group, as 
+the English used to perceive them as rivals, aggressive and uncultivated. Though 
+in the course of time this stereotypical view has undergone some changes, it is 
+still preserved in English conventional idioms (Kolesova 2019). 
+ 
+3. Material and Methods  
+The research is set in the Critical Discourse Analysis framework which 
+aims at disclosing the link between discoursive practices and texts and wider so-
+cial and cultural structures, relations and processes (Fairclough 1995). The sam-
+ple includes 27 conventional figurative idioms with ethnonymic components 
+Dutch / Dutchman, Russian, Greek, Irish, Chinese / Chinaman, Indian, Ethiopi-
+an, Mexican, selected from the Oxford Dictionary of Idioms, Macmillan English 
+Dictionary and the American Heritage Dictionary. The definition analysis was 
+employed to reveal their connotations. In the study ethnonyms are understood as 
+nominations of people, belonging to a certain ethnic group (Gerd 2005). The 
+next stage of the research was based on the contextual analysis of the sample id-
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+89 
+ioms. To this end 143 contexts containing conventional figurative idioms with 
+embedded ethnonyms were selected from the Guardian newspaper articles. To 
+process the idiomatic meanings the basic principles of the Cognitive Theory of 
+Metaphor (CTM) were applied which helped to reveal the metaphoric mapping 
+in which the sample idioms are involved.  
+ 
+4. Results and Discussion  
+The analysis of the sample idioms semantics shows that these figurative 
+items  belong to two categories: connotative and non-connotative. The group of 
+idioms that express certain ethnic stereotypes possesses some negative connota-
+tion. It can be examplified by the following figurative idioms: Irish lemons — a 
+fake copy; Dutch blessing — scolding, Chinese ace — an inept pilot. The pecu-
+liarities of out-groups are perceived as odd, unusual and distinctively different 
+from the values shared by the ethnic community: Chinese basket — a shot in 
+basketball that enters the basket from the bottom of the cylinder before dropping 
+back through. If something is incomprehensible or strange, it is called 
+китайская грамота in the Russian phraseosystem and the expression to be all 
+Greek to someone is used in the English language to convey the same idea.   
+However, it is evident that not all idioms with embedded ethnonyms con-
+note negative attitudes to a certain ethnic group. Such linguistic items do not 
+normally express any heterostereotypes. One of such figurative idioms is Rus-
+sian roulette which means an act of reckless bravado. The phrase itself express-
+es disapproval of some risky actions, its initial meaning being a stunt in which 
+one spins the cylinder of a revolver loaded with only one bullet, aims the muzzle 
+at one’s head, and pulls the trigger. The origin of the idiom is presumably relat-
+ed to the stunts practiced by Russian officers, but the quality of being reckless is 
+not projected to the Russians as an ethnic group. So it is possible to conclude 
+that no stereotypes are encoded in this figurative idiom. One more example is 
+the expression Can an Ethiopian change his skin or a leopard its spots? It is 
+commonly used in its shortened form Can a leopard change its spots? The idi-
+om 
+originates 
+from 
+the 
+Bible: 
+Can an Ethiopian 
+change 
+his 
+skin or a leopard its spots? Neither can you do good who are accustomed to do-
+ing evil. The ethnonym Ethiopian is employed for rhetorical purposes to meta-
+phorically express the idea of a quality that cannot be alienated from something 
+or someone. The skin of an Ethiopian is not treated from the standpoint of its be-
+ing good or bad, appropriate or inappropriate, so the ethnonym in the idiom does 
+not have any negative connotation.   
+The idea of the interdependence of language and culture introduced by 
+post-structuralists is widely accepted now (Lotman 2010; Karasik 2013).  The 
+norms and values shared by a community at one specific stage of its develop-
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+90 
+ment become outdated in the course of time which is reflected in the language. 
+The seminal work of Leontovich “The Dynamics of Political Correctness, Inclu-
+sive Language and Freedom of Speech” demonstrates how modern social trends 
+affect the English language banning the use of offensive terms connected with 
+people’s identity. One of the manifestations of political correctness is the 
+‘avoidance of stereotypes and false semantic associations’ (Leonto-
+vich 2021: 194). It ensues that not only lexemes falling into the category of eth-
+nic slur, but also figurative conventional idioms incorporating ethnopaulisms are 
+no longer acceptable in public discourse. For example the idiom a nigger in the 
+fence / in the woodpile which means a hidden difficulty can hardly be used in 
+media discourse as the word nigger is perceived as a racial slur and is usually 
+substituted for the euphemism N-word.  
+The transformative change in the public perception of linguistic items de-
+noting stereotypes is supposed to entail some limitations to the usage of figura-
+tive idioms reflecting ethnic stereotypes. The judgmental attitude they express is 
+viewed as a type of discrimination, verbal aggression and a lack of tolerance.  
+The vexed issue of linguistic racism encompasses the references to the skin col-
+our and the person’s ethnicity. Sometimes the interpretation of inclusive lan-
+guage goes too far when people try to ban any idiomatic expressions containing 
+ethnonyms even though they do not express any stereotypes and are not targeted 
+at a specific ethnic group. One of such cases is the idiom Too many chiefs and 
+not enough Indians which caused discussion on the Quora platform: “What is a 
+non-racist way of saying ‘too many chiefs and not enough Indians’? This phrase 
+has been used to describe group dynamics where cooperation is lacking because 
+too many participants expect to lead and have others follow”. Those who object 
+to the usage of this idiom argue that the term Indian has some reference to the 
+times when white Americans conquered the Western territories fighting with na-
+tive tribes, so Indian is viewed as a disparaging term that should be substituted 
+for the inclusive phrase Native American. At the same time The American Her-
+itage Dictionary contains the following usage note:  “However, the acceptance 
+of Native American has not brought about the demise of Indian, despite persis-
+tent criticism. Unlike Negro, which was quickly stigmatized once black became 
+preferred, Indian never fell out of favor with a large segment of the American 
+population. The charge that Indian is an offensive term — hopelessly tainted by 
+the ignorant or romantic stereotypes of popular American culture — can be an-
+swered, at least in part, by pointing to the continuing use of this term among 
+American Indians themselves. Indeed, Indian authors and those sympathetic to 
+Indian causes often prefer it for its unpretentious familiarity as well as its emo-
+tional impact” (American Heritage Dictionary 2000: 832). 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+91 
+To trace the modern tendencies in the usage of figurative idioms with em-
+bedded ethnonyms we analysed their functioning in British media discourse. To 
+this end we examined two types of contexts: the one containing the idioms ex-
+pressing ethnic heterostereotypes and the other with non-connotative ethno-
+nyms, in other words, idioms with no encoded stereotypes.  
+It is important to establish if the figurative meaning of idioms that express 
+some negative perception of a certain ethnic group is preserved in the newspaper 
+articles. To this end let us consider some contexts with the conventional idiom 
+Dutch feast which means a party where the host gets drunk first. 
+The idiom Dutch feast expresses quite a dated view on the Dutch and is 
+not employed in its figurative meaning in the sample contexts. However, Dutch 
+feast is used in its direct meaning in the articles that describe some gastronomic 
+experience. The text entitled A Dutch feast for the Queen’s Day describes the 
+way two cooking enthusiasts arranged a feast for friends that happened to fall on 
+the Netherlands Queen’s Day and so the dishes were orange in colour to fit the 
+occasion. When Dutch feast is used in the title, the figurative meaning is the first 
+to enter the readers’ minds, it creates some expectations of an event which went 
+wrong because of the host’s excessive alcohol consumption. However, the text 
+disproves it keeping the readers intrigued. So the idiom serves its pragmatic 
+purpose to arrest and retain the readers’ attention, providing the basis for some 
+play on direct and metaphorical meanings of the expression. 
+The conventional idiom Dutch treat actually means no treat at all as eve-
+ryone pays his or her share. The sample contains no examples of the idiom us-
+age in this meaning. At the same time it is employed as a pun in the article enti-
+tled Norfolk travel tips: Dutch treat with pancakes and real ale in Wells. The 
+expression Dutch treat refers to some traditional meals served in the pub located 
+onboard the Albatros, the old Dutch clipper. The play on its literal reading and 
+figurative meaning serves as a device to rivet the addressees’ attention. It is a 
+manifestation of the so called defeated expectancy effect as the first meaning 
+that enters the recipients’ minds is figurative, but in fact the story has nothing to 
+do with the stinginess of the Dutch. On the contrary, it portrays the romantic at-
+mosphere of having a meal on board an old Dutch ship. 
+The phrase to go Dutch denotes going out, where a couple each pays for 
+their own half of a restaurant bill. It has some negative implication of acting 
+“cheap”. The article First dates and the unbearable awkwardness of Going 
+Dutch tackles the thorny issue of bill-splitting showing that the man’s request 
+for the woman to pay her own way can ruin relationships, no matter how perva-
+sive the gender equality ideas are. The expression to go Dutch retains its nega-
+tive connotation. However, when it is used in the context, it hardly ever conjures 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+92 
+up negative associations with the qualities of the Dutch people since the phrase 
+has become a cliché and its etymology is opaque.  
+In other contexts different facets of the idiomatic meaning are played on. 
+The article Go Dutch? UK and EU may share Netherlands Covid vaccine sup-
+plies to ease tensions describes the attempts to share vaccine supplies from 
+Dutch AstraZeneca plant, so the idea of sharing limited resources that can be 
+beneficial for the UK is emphasized. Applied to the pandemic relief measures 
+context the figurative idiom connotes some cooperation and hope.  
+Another article has the title Go Dutch and save yourself £50,000 which 
+elucidates another aspect of Going Dutch implying that there is nothing bad 
+about being economical. It refers to the cases when British students go to the 
+Netherlands to earn a university degree, actually without paying any tuition fees. 
+The pun employs two meanings: being thrifty and going to a Dutch university.  
+The analysis reveals that in media texts idioms, expressing ethnic stereo-
+types, are used in some new unexpected light, stimulating the readers’ imagina-
+tion, playing on direct and metaphorical meanings. Thus the figurative idioms 
+tend to serve rhetorical purposes without compromising the political correctness 
+principle. 
+The other type of figurative idioms with embedded ethnonyms does not 
+express any stereotypes. They include such items as Russian roulette (reckless 
+bravado), Mexican wave (an effect resembling a moving wave produced by suc-
+cessive sections of the crowd in a stadium standing up, raising their arms, lower-
+ing them, and sitting down again), Chinese whisper (a situation in which a piece 
+of information is passed from one person to the next and is changed slightly 
+each time it is told), too many chiefs and not enough Indians (too 
+many managers and not enough people to do the work). 
+To explore the way these figurative idioms are used in media discourse 
+their contextual meanings and transformations should be analysed. To begin 
+with, let us consider the expression too many chiefs and not enough Indians that 
+is characterized by bright imagery and has some clear motivation. One of its 
+contextual applications refers to the rise and fall of a fashionable London restau-
+rant ran by the modern British artist Damien Hirst, who explains the reason for 
+the venue’s failure in the following way: There were too many chiefs and not 
+enough Indians (The Guardian 18 Sep 2004). The partners running the business 
+couldn’t come to agreement, each of them tried to assume the leading role, the 
+metaphorical role of a chief. Meanwhile the staff was underpaid and started to 
+quit, which resulted in the lack of metaphorical Indians. The metaphor under-
+pinning the idiom helps to express complex cause-and-effect relationships in a 
+concise and imaginative way. The idiom fits the business management context 
+and enhances the pragmatic effect of the text. 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+93 
+In another context it is used to describe public services management: 
+Wasteful, too many chiefs: five myths about the NHS we need to dispel (The 
+Guardian 26 Jan 2016). The title of the article contains a shortened form of the 
+idiom. The phrase too many chiefs is employed to describe the popular belief 
+about the NHS management that the author aims at puncturing. In this context 
+the idiom acquires the new meaning of an inappropriate allocation of resources, 
+which seems to be wasteful. The public tends to criticize the disproportionately 
+big number of managers in the sphere of health care, rather than the lack of med-
+ical practitioners. It accounts for the idiom contraction, as the part not enough 
+Indians does not seem relevant for the situation the idiom presents metaphorical-
+ly. 
+The figurative expression with the ethnonym Indian is also used in media 
+discourse to describe sport events when coaches are featured as metaphorical 
+chiefs, while athletes are presented as metaphorical Indians. A rugby match is 
+analysed in the following way: Lions and Maro Itoje too strong for Maori All 
+Blacks on niggly night ... Too many Chiefs missing and not enough good Indians 
+(The Guardian 19 Jun 2017). 
+In this context the figurative idiom undergoes transformations that can be 
+classified as expansion (Pavlina 2017). The insertion of the word missing into 
+the first part of the idiom changes the initial meaning of redundancy to the oppo-
+site one. It underlines the importance of coaches, whose absence can lead to the 
+team’s failure. The second part of the idiom is also augmented. The introduction 
+of the adjective good to describe team members shifts the emphasis from their 
+quantitative to qualitative parameters.  Thus the transformations of the initial id-
+iom create an image that helps the readers to better understand the situation, 
+bringing to the surface the factors that prevent rugby teams from achieving top 
+results. 
+The analysis shows that the figurative idiom fits different contexts devel-
+oping some new shades of meaning. So in the media discourse Too many chief 
+and not enough Indians can express:  
+– The lack of agreement and coordination among managers and their sub-
+ordinates’ discontent. 
+– Wastefulness, the excessive number of managers. 
+– The lack of highly qualified people, managers and subordinates alike. 
+To fit a specific context the idioms undergo some transformation, which 
+allows for highlighting a certain facet of the metaphorical image. The ethnonym 
+embedded in the idiom acquires a symbolic meaning, and the link with the nom-
+ination of an ethnic community is quite opaque.  
+The pragmatic effect is enhanced considerably when two idioms with eth-
+nonyms are juxtaposed in one sentence as is the case with the following news-
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+94 
+paper article title: Playing Russian roulette with a Mexican wave of capital 
+crimes (The Guardian 7 December 2014). According to Macmillan Dictionary 
+blog, the idiom “Mexican wave is a descriptive phrase that is derived from the 
+motion of spectators who participate in the exercise of moving in near unison 
+like an ocean wave. Most sports historians agree that it first came to internation-
+al sport during the 1986 World Cup, which was held in Mexico”. When the 
+movements of spectators at a stadium are compared to the movements of water, 
+some metaphorical representation of reality takes place. In the context Playing 
+Russian roulette with a Mexican wave of capital crimes the movement of specta-
+tors that underpins the idiomatic image serves as a source of a new metaphor. It 
+is employed to describe the situation when something causes the effect which is 
+unstoppable, giving a new name to the thing that is usually called the domino 
+effect. The idiom Mexican wave does not have any evaluative meaning. Howev-
+er, in the context it connotes something undesirable and destructive as the lin-
+guistic items Russian roulette and crimes used in the same sentence have a nega-
+tive connotation which is projected onto the figurative idiom Mexican wave. 
+This example shows that being figurative nominations idioms with embedded 
+ethnonyms are involved in metaphorical mapping and serve as source domains 
+for new metaphors. The ethnonym Mexican does not express any biased percep-
+tion of the ethnic group. Now the movements of spectators during football 
+matches resembling waves are common across the globe and their idiomatic rep-
+resentation does not seem to have any clear connection with Mexicans as an 
+ethnic group. It shows that the current usage of the figurative idiom is not af-
+fected by the “etymological memory” of this linguistic unit. 
+ 
+5. Concluding remarks 
+Summarising the result of the analysis, it is possible to say that idioms 
+containing ethnonymic nominations with some pejorative connotation are 
+banned from the media discourse as they violate the principle of inclusiveness. 
+At the same time conventional figurative expressions with embedded ethnonyms 
+that denote heterostereotypes about certain ethnic groups are used in newspaper 
+articles as sources of pun. The journalists play on their direct and metaphorical 
+meanings creating the so called defeated expectancy effect. One more group of 
+idioms with ethnonyms does not contain any evaluation of an ethnic group, ini-
+tially being non-connotative. When used in the contexts they undergo some 
+transformations and develop new meanings, the reference to a specific ethnic 
+group becomes opaque. The figurative idioms containing ethnonyms are in-
+volved in metaphorical mapping, serving as source domains for new images. It 
+is possible to conclude that the employment of conventional figurative idioms 
+with embedded ethnonyms in media discourse is a powerful rhetorical tool 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+95 
+which helps to affect the readers’ perception and convey the message in a lacon-
+ic and expressive way without violating the rules of political correctness and in-
+clusiveness. 
+ 
+Спиcок литературы / References 
+ 
+Герд А. С. Введение в этнолингвистику.  СПб. : Изд-во С.-Петерб. ун-та, 2005. [Gerd, 
+Alexandr S. (2005) Vvedeniye v etnolingvistiku (Introduction to Ethnolingustics). Saint 
+Petersburg: Saint Petersburg university Publishing (In Russian)]. 
+Горохова А. М. К вопросу о моделировании ядерных и периферийных компонентов 
+британского национального характера (на материале паремиологического фонда 
+английского языка) // Вестник НГЛУ. 2016. № 35. С. 11–23. [Gorokhova, Anna M. 
+(2016) K voprosy o modelirovanii yadernykh I periferiynikh komponentov bri-
+tanskogo natsionalnogo haraktera (na materiale paremiologicheskogo fonda an-
+gliyskogo yazyka) (Towards Modeling Nuclear and Peripheral Components of the 
+British National Character (Based on the Analysis of the English Language Paremio-
+logical Fund). LUNN Bulletin, 35, 11–23. (In Russian)]. 
+Горохова А. М. Паремио-семантическое картирование конструкта «свободолюбие» бри-
+танского национального характера (на материале паремиологического фонда ан-
+глийского языка) // Вестник НГЛУ. 2017. № 38. С. 53–61. [Gorokhova, Anna M. 
+(2017) Paremio-semanticheskoe kartirovaniye konstrukta “svobodolubiye” bri-
+tanskogo natsionalnogo haraktera (na materiale paremiologicheskogo fonda an-
+gliyskogo yazyka) (Paremio-semantic Mapping of the British National Identity Con-
+struct “Freedom” (Based on the Analysis of the English Paremiological Fund)). LUNN 
+Bulletin, 38, 53–61. (In Russian)]. 
+Леонтович О. А. Политическая  корректность,  инклюзивный  язык  и  свобода  слова: 
+динамика  понятий // Russian  Journal  of  Linguistics.  2021.  Т.  25.  № 1.  С.  194–
+220.  DOI: 10.22363/2687-0088-2021-25-1-194-220 [Leontovich, Olga  A.  (2021) 
+Politichesjaya korrektnost’, inclyuzivnyi yazyk I svoboda slova: dinamika poniatii 
+(The  Dynamics  of  Political  Correctness,  Inclusive  Language  and Freedom of 
+Speech). Russian Journal of Linguistics, 25 (1), 194–220. DOI: 10.22363/2687-0088-
+2021-25-1-194-220 (In Russian)]. 
+Лотман Ю. М. Непредсказуемые механизмы культуры. Таллинн: TLU Press, 2010. 
+[Lotman, Yuryi M. (2010) Nepredskazuiemyie mehanizmy kultury (Unpredictable 
+Mechanisms of Culture). Tallin: TLU Press. (In Russian)]. 
+Карасик В. И. Языковая матрица культуры. М.: Гнозис, 2013 [Karasik, Vladimir I. (2013) 
+Yazykovaya matrica kultury (Language Matrix of Culture). Moscow: Gnozis. (In Rus-
+sian)]. 
+Ковшова М. Л. Линговокультурологический метод во фразеологии: Коды культуры. М.: 
+ЛЕНАНД, 2016. [Kovshova, Mariya L. (2016) Lingvokulturologicheskiy metod vo 
+frazeologii: Kodi kulturi (Linguocultural Method in Phraseology: Codes of Culture). 
+Moscow: Lenand. (In Russian)]. 
+Колесова К. В. Особенности коннотативных значений номинативных единиц, обозна-
+чающих этносы Великобритании // Вестник НГЛУ. 2019. № 45. С. 28–35. [Kole-
+sova, Kira V. (2019)  Osobennosti konnotativnih znachenii nominativnih edinits oboz-
+nachayushih etnosy Velikobritanii (Connotational Peculiarities of Ethnic Nominations 
+within the UK). LUNN Bulletin, 45, 28–35. (In Russian)]. 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+96 
+Колшенская Е. С., Дьякова А. А. Этнонимосодержащие фразеологизмы и этнические 
+гетеростереотипы в контексте взаимосвязи языка и культуры [Электронный ре-
+сурс] // Гуманитарные научные исследования: электронный научный журнал 
+2015. № 4 (1). URL: https://human.snauka.ru/2015/04/10613 (дата обращения: 
+01.08.2021). [Kolshenskaya, Ekaterina S., Diakova, Anastasiya A. (2015) (2021, Au-
+gust 01) Etnonimosoderzashiye frazeologizmi i etnicheskiye stereotipi v kontekste 
+vzaimodeistviya yazyka i kuluri (Idioms with Ethnonyms and Ethnic Heterostereo-
+types in the Context of Language and Culture Interrelation). Electronic scientific & 
+practical journal “Humanities scientific researches”, 4 (1). Retrieved from 
+https://human.snauka.ru/2015/04/10613 (In Russian)]. 
+Кочетков В. В. Психология межкультурных различий. М.: ПЕР СЭ, 2002. [Kochetkov, 
+Vladimir V. (2002) Psihologiya mezhkulturnykh razlichiy (Cultural Differences Psy-
+chology). Moscow: Per Se. (In Russian)]. 
+Павлина С. Ю. Вариативность фразеологизмов и их модификации в англоязычном по-
+литическом дискурсе // Вестник НГЛУ. 2017. № 37. C. 63–71. [Pavlina, Svetlana 
+Yu. (2017) Variativnost’ frazeologizmov i ih modifikatsii v angloyazychnom politich-
+eskom discurse (Variations and Modifications of Idioms in British and American Po-
+litical Discourse). LUNN Bulletin, 37, 67–71. (In Russian)]. 
+Павлина С. Ю. Экспликация национальных стереотипов в британском медиадискурсе // 
+Иностранные языки в аспекте межкультурной коммуникации: материалы докла-
+дов X Международной конференции. Саратов: Саратовский источник, 2018.      
+C. 185–190. [Pavlina, Svetlana Yu. (2018) Eksplikatsiya natsional’nykh stereotipov v 
+britanskom mediadiskurse (National Stereotypes Explication in British Media Dis-
+course). Inostrannye yazyki v aspekte mezhkul’turnoy kommunikatsii: materialy 
+dokladov X Mezhdunarodnoy konferentsii (Foreign Languages from the Intercultural 
+Communication Perspective: X International conference proceedings). Saratov: Sara-
+tovskiy istochnik, 185–190. (In Russian)]. 
+Соболева Е. Ю. Образ чужого во фразеологизмах американского варианта английского 
+языка с компонентом этнонимом //  Вестник Нижегородского университета им. 
+Н. И. Лобачевского. 2008. № 6. 274–277. [Soboleva, Ekaterina Yu. (2008) Obraz 
+chuzhogo vo frazeolizmah amerikanskogo varianta anglijskogo yazuka s komponen-
+tom etnonimom (The Image of a Stranger in American Phraseologisms with an Ethno-
+nymic Component).Vestnik of Lobachevsky  State University of Nizhni Novgorod, 6, 
+274–277. (In Russian)]. 
+Телия В. Н. Культурно-национальные коннотации фразеологизмов (от мировидения к 
+пониманию) // Славянское языкознание. XI Международный съезд славистов. 
+М.: Наука, 1993. C. 302–314. [Teliya, Veronica N. (1993) Kul’turno-natsional’nye 
+konnotacii frazeologizmov (ot mirovideniya k ponimaniyu) (Culture-specific Connota-
+tions of Phraseologysms (from World View Shaping to Understanding)). Slavyanskoe 
+yazykoznanie. XI Mezhdunarodny syezd slavistov (Slavic Studies. XI International 
+Slavistic Congress). Moscow: Nauka, 302–314. (In Russian)]. 
+Телия  В. Н. Русская фразеология: семантический, прагматический и лингвокультуроло-
+гический аспекты. М.: Языки русской культуры, 1996. [Teliya, Veronika N. (1996) 
+Russkaya frazeologiya: semanticheskij, pragmaticheskij i lingvokulturologicheskij 
+aspekty (Russian Phraseology: Semantic, Pragmatic and Linguokultural Aspects). 
+Moscow: Yazyki russkoy kultury. (In Russian)]. 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+97 
+Шастина И. А. Aктуализация опыта говорящего и реализация его коммуникативного 
+намерения в формировании значений этнонимов китайцев и японцев // Лингви-
+стические парадигмы и лингводидактика: материалы XIII международной кон-
+ференции. Иркутск: Изд-во ИГЛУ, 2008. C. 293–307. [Shastina, Irina A. (2008) 
+Aktualizaciya opyta govoryaschego i realizaciya ego kommunikativnogo namereniya 
+v formirovanii znachenij etnonimov kitaicev i yaponcev (The Speaker’s Experience 
+Actualization and His Communicative Intention Realization in Forming Chinese and 
+Japanese Ethnonymic Meanings). Lingvisticheskie paradigmy i lingvodidaktika: mate-
+rialy XIII mezhdunarodnoy konferentsii (Linguistic Paradigms and Linguodidactics: 
+XIII International Conference Proceedings). Irkutsk: Izd-vo IGLU, 293–307. (In Rus-
+sian)]. 
+Allen, Irving L. (1983) The Language of Ethnic Conflict: Social Organization and Lexical 
+Culture. New York: Columbia University Press. 
+Archdeacon, Thomas J. (1983) Becoming American: an Ethnic History. N.Y.: The Free Press. 
+Boyadzhieva, Ellie. (2010) (2021, August 14) Reflections of Social Stereotypes in Modern 
+Bulgarian and English Phraseology. In TRANS. Internet-Zeitschrift für Kulturwissen-
+schafte. Retrieved from http://www.inst.at/trans/17Nr/2-12/2-12_boyadzhieva17.htm.   
+Chesnokova, Olga S., Marija Radović. (2020) Demonyms in the Pacific Alliance Countries: 
+Morphological and Semantic Variation. Russian Journal of Linguistics, 24 (4), 1017–
+1048. DOI: 10.22363/2687-0088-2020-24-4-1017-1048 
+Dobrovol’skiy, Dmitriy, Piirainen, Elisabeth. (2006) Cultural Knowledge and Idioms. Inter-
+national Journal of English Studies, 6 (1), 27–41.  
+Grünthal, Riho M. V. (1999) Analyzing the Finnic Ethnonyms. Folia Uralica 
+Debreceniensia, 6, 39–56. 
+Fairclough, Norman. (1995) Critical Discourse Analysis. London: Longman. 
+Koopman, Adrian. (2016) Ethnonyms. The Oxford Handbook of Names and Naming / Ed. 
+Carole Hough. Oxford: Oxford University Press, 251–262. 
+Mullen, Brian, Calogero, Rachel M., Leader, Tirza I. (2007) A Social Psychological Study of 
+Ethnonyms: Cognitive Representation of the In-group and Intergroup Hostili-
+ty. Journal of Personality and Social Psychology, 92 (4), 612–
+630. https://doi.org/10.1037/0022-3514.92.4.612 
+Nuessel, Frank. (2008) A Note on Ethnophaulisms and Hate Speech. Names, 56:1, 29–
+31, DOI: 10.1179/175622708X282929. 
+Raina, Olga V., Shestakova-Stuk, Alena S. (2019) Ethnic Stereotypes in Polish and Czech 
+Proverbs. Bohemistyka, 1, 19–32. https://doi.org/10.14746/bo.2019.1.2 
+Roback, Abraham. (1944) Dictionary of Ethnic Slurs (Ethnophaulisms). Cambridge, MA: Sci-
+art Publishers [reprinted in 1979 by Maledicta Press, Waukesha, WI]. 
+ 
+Словари / Dictionaries 
+ 
+American Heritage Dictionary of the English Language. Forth Edition. Houghton Mifflin, 
+2000. 
+Macmillan English Dictionary for Advanced Learners. Oxford, 2002.  
+Oxford Dictionary of Idioms. Second Edition. Oxford: Oxford University Press, 2004. 
+ 
+ВЕСТНИК НГЛУ. Выпуск 3 (55). Язык и культура 
+ 
+98 
+Источники языкового материала / Language material resources 
+ 
+The Guardian (2021, August 15). Retrieved from https://www.theguardian.com/international. 
+Quora (2021, August 10). Retrieved from https://www.quora.com/What-is-a-non-racist-way-
+of-saying-too-many-chiefs-and-not-enough-Indians. 
+Macmillan 
+dictionary 
+blog 
+(2021, 
+August 
+11). 
+Retrieved 
+from 
+https://www.macmillandictionaryblog.com/mexican-wave. 
+ 
+ 
+ 

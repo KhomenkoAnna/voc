@@ -1,0 +1,1 @@
+главное<ADV,вводн=>(NOUN,inan,neut sing,nomn) к<PR=>(PREP) мскглавное<ADV,вводн=>(NOUN,inan,neut sing,nomn) к<PR=>(PREP)

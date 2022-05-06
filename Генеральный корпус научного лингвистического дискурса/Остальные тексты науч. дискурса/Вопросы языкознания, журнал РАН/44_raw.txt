@@ -1,0 +1,863 @@
+С. / Pp. 48–65 
+В О П Р О С Ы  Я З Ы К О З Н А Н И Я  
+2020. № 6
+ 
+Voprosy Jazykoznanija
+Syntax of relativization in Russian Sign Language: 
+Basic features
+Evgeniya A. Khristoforova@ , a, b
+Vadim I. Kimmelmana, c
+aRussian State University for the Humanities, Moscow, Russia;
+bUniversiteit van Amsterdam, Amsterdam, Netherlands;
+cUniversitetet i Bergen, Bergen, Norway; evkhristoforova@gmail.com
+Abstract: This paper provides a ﬁ rst syntactic description of relativization in Russian Sign Language (RSL). 
+We collected production data from nine signers performing a picture-based task. The signers produced 
+88 instances of relative constructions with the head noun being the subject or direct object in the main 
+clause and in the relative clause. We found that RSL has head-external (postnominal) relative clauses, 
+head-internal relative clauses, and double-headed relative clauses. Relative clauses might also be extra-
+posed to the sentence-ﬁ nal position or fronted. The main clause may be doubled, so that a part of it is 
+repeated after the relative clause. Relative clauses might contain optional relative elements ����� and 
+�����, in clause-initial or clause-ﬁ nal position, or in both positions, and the two elements can co-occur. 
+Finally, we found that relative clauses are nearly always prosodically separate from the main clause. 
+The most frequent non-manual markers in relative construction are eye blinks; in addition, head leans 
+and turns, eyebrow raise, and squints are sometimes used. However, no marker is specialized for mark-
+ing the relative clause itself: they either are simply markers of boundaries of prosodic units (eye blinks), 
+or they have some other functions (which we cannot fully identify yet). We conclude that RSL gener-
+ally ﬁ ts patterns found in other spoken and signed languages. However, we also observe speciﬁ c dif-
+ferences, especially in the domain of non-manual marking.
+Keywords: relative constructions, Russian Sign Language, sign languages
+Acknowledgements: This research was supported by the Russian Science Foundation grant No. 17-18-01184.
+For citation: Khristoforova E. A., Kimmelman V. I. Syntax of relativization in Russian Sign Language: 
+Basic features. Voprosy Jazykoznanija, 2020, 6: 48–65.
+DOI: 10.31857/0373-658X.2020.6.48-65
+Синтаксис релятивизации 
+в русском жестовом языке: основные свойства
+Евгения Андреевна Христофорова@ , а, б
+Вадим Игоревич Киммельмана, в
+аРоссийский государственный гуманитарный университет, Москва, Россия;
+бУниверситет Амстердама, Амстердам, Нидерланды;
+вУниверситет Бергена, Берген, Норвегия; evkhristoforova@gmail.com
+Аннотация: В данной статье дается первое описание синтаксиса предложений с относительным 
+придаточным в русском жестовом языке (РЖЯ). Данные для исследования были собраны от де-
+вяти носителей РЖЯ при помощи задания с использованием картинок. В общей сложности было 
+собрано 88 примеров использования относительной конструкции с вершиной-существительным 
+© 2020
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+49
+в роли подлежащего или прямого дополнения в главной и относительной клаузах. Мы обна-
+ружили, что РЖЯ использует постноминальные относительные клаузы с внешней вершиной, 
+а также клаузы с внутренней и с двойной вершиной. Главная клауза может подвергаться удвое-
+нию, так что ее часть повторяется после относительной клаузы. Относительная клауза может со-
+держать необязательные относительные элементы ������� и �� (указательный жест) в началь-
+ной либо конечной позиции, или же в обеих позициях в относительной клаузе, и эти элементы 
+могут комбинироваться. Наконец, мы обнаружили, что относительные придаточные практически 
+всегда просодически обособлены от главной клаузы. Самыми частыми немануальными марке-
+рами в конструкциях с относительными придаточными являются моргания; кроме того, иногда 
+используются повороты и наклоны головы, поднятие бровей и прищур. В то же время, ни один 
+из этих маркеров не является исключительно маркером относительных придаточных: все они или 
+просто маркируют границы просодических единиц (моргания), или имеют другие функции (ко-
+торые мы пока не можем полностью идентифицировать). Мы делаем вывод, что относительные 
+придаточные РЖЯ в целом соответствует паттернам, обнаруженным в других жестовых и зву-
+ковых языках. Тем не менее, мы также обнаружили конкретные отличия РЖЯ от других языков, 
+особенно в области немануального маркирования.
+Ключевые слова: жестовые языки, относительные конструкции, русский жестовый язык
+Благодарности: Исследование выполнено при поддержке гранта РНФ № 17-18-01184.
+Для цитирования: Khristoforova E. A., Kimmelman V. I. Syntax of relativization in Russian Sign Lan-
+guage: Basic features. Voprosy Jazykoznanija, 2020, 6: 48–65.
+DOI: 10.31857/0373-658X.2020.6.48-65
+Introduction
+Relativization concerns complex sentences containing a main (matrix) clause and a relative 
+clause, where the relative clause and the matrix clause share a pivotal element (a noun phrase) 
+[Branchini 2014]. The function of the relative clause is usually to delimit the reference of the 
+noun phrase [Andrews 2007].
+Relative clauses have been thoroughly investigated in spoken language research in various 
+disciplines and frameworks. Both large-scale typologies and detailed formal accounts of rela-
+tive clauses in certain languages exist [Dryer 2013a; De Vries M. 2002]. However, as in many 
+other domains, these typologies and theories often ignore data from a large class of natural lan-
+guages, namely sign languages.
+While not aiming to amend this situation directly, here we provide a ﬁ rst description of the 
+syntactic properties of relativization in Russian Sign Language (RSL) in the hope that it can 
+be further used for comparison with other sign and spoken languages. In addition, such a de-
+scription can contribute to the emerging ﬁ eld of studying complex sentences and subordination 
+in sign languages [Herrmann et al. 2016]. Besides the description of basic features, we brieﬂ y 
+demonstrate how relativization in RSL is both similar and diﬀ erent to what has been described 
+for other spoken and sign languages.
+In Section 1, we brieﬂ y introduce relativization in spoken languages, and in Section 2 rel-
+ativization in sign languages. Section 3 describes the methods. The main results are presented 
+in Section 4, and discussion follows in Section 5. The ﬁ nal section presents the conclusions.
+1. Typology of relativization
+Relative clauses have been a focus of much descriptive, typological, psycholinguistic, and 
+theoretical research. A recent overview of typology of relative clauses is provided in [Andrews 
+50 
+Voprosy Jazykoznanija 
+2020. № 6
+2007]. We will not discuss all the aspects of relative clauses that have been studied, focusing in-
+stead on the syntactic aspects of relativization.1
+The ﬁ rst major parameter concerns the syntactic position of the relative clause with respect 
+to the matrix clause. A distinction is usually made between embedded and adjoined relative 
+clauses: in the former, the relative clause modiﬁ es the noun phrase and is thus embedded in the 
+main clause, while in the latter the relative clause is adjoined at the clause level. Embedded rel-
+ative clauses can be further subdivided into head external (the head noun belongs to the matrix 
+clause, and is not overtly realized in the relative clause (1)) and head internal (the head noun re-
+mains in the relative clause (2)). In addition, free relative clauses on the surface lack the head 
+noun altogether (3) (this type usually coexists with headed relative clauses).2 Finally, another 
+rare type exists: double-headed relative clauses, where the head noun is overtly realized in both 
+clauses (4).
+(1) 
+The man bought the horse [that I saw]RC.
+(2) 
+[‘ehatt   gaat   akewii]꞊ve꞊ch   chepam 
+Mesa Grande Diegueño
+[dog      cat     chase]꞊���꞊����    get.away
+‘The cat that the dog chased got away.’ [Couro, Langdon 1975: 187, cited in Dryer 2013a]
+(3) 
+I loved [what I saw]RC.
+(4) 
+[doü   adiyano-no]           doü   deyalukhe 
+Kombai
+[sago   give.3��.������-����]   sago   ﬁ nished.���
+‘The sago that they gave is ﬁ nished.’ [de Vries L. 1993: 78, cited in Dryer 2013a]
+Externally-headed relative clauses can be further classiﬁ ed into pre-nominal and post-nom-
+inal. It has been shown that there is a relation between the position of such relative clauses and 
+the order of main constituents: if language has the VO order, it almost always has postnominal 
+relative clauses [Dryer 2013b].
+A separate type of adjoined relative clauses is often distinguished under the label of correla-
+tive clauses [Lipták 2009]. Correlatives have received a lot of attention in recent years as they 
+are syntactically distinct from embedded relative clauses. In correlative constructions, the rela-
+tive clause does not show signs of syntactic subordination. It usually has some special relative 
+marker (which can co-occur with the head noun inside the same clause), and in the main clause 
+the head noun is usually accompanied by a demonstrative. In addition, correlative clauses usu-
+ally precede the main clause [Ibid.].
+(5) 
+[jo    khaRii    ai]RC   vo    laRkii   lambii   hai]. 
+Hindi
+���   standing   is      ���   girl       tall       is
+‘The girl who is standing is tall.’ [Srivastav 1991: 642]
+The diﬀ erent types of relative clauses occur with diﬀ erent frequencies in the (spoken) languages 
+of the world. According to Dryer [2013a], externally-headed relative clauses are the dominant 
+strategy in 87 % of all languages (based on the data from 824 languages), and 70 % of all languages 
+have post-nominal head-external relative clauses as the dominant strategy. Internally-headed rel-
+ative clauses are the main strategy in just 3 % of the sample, and correlatives in 1 %. However, 
+ 
+1 Relative clauses have diﬀ erent semantic types, not discussed in this paper. Most prominently, restrictive 
+and appositive (non-restrictive) relative clauses can be distinguished: the former restrict the meaning 
+of the head noun they modify, while the latter specify the meaning of the head noun [De Vries M. 2002].
+ 
+2 Going beyond the surface level, some researchers argued that free relative clauses are in fact head-inter-
+nal, headed by the wh-word [Bresnan, Grimshaw 1978], also argued for sign languages by Donati & Cec-
+chetto [2011], and other complex proposals not treating free realtive clauses as lacking the head also exist 
+[Caponigro 2002]. Furthermore, free relatives can be classiﬁ ed in multiple sub-types [De Vries M. 2002].
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+51
+as Dryer himself points out for internally-headed relative clauses, and as can be said looking 
+at recent research on correlatives, these types are probably more frequent than it seems, because 
+they have been recognized only recently, so many older descriptions might not mention them.
+The second major parameter concerns marking of the head noun within the relative clause 
+[Andrews 2007]. This parameter mainly concerns externally-headed relative and correlative 
+clauses. Some languages use relative pronouns: specialized forms of pronouns that are not used 
+in main clauses as argument pronouns (6). It is important to distinguish such pronouns from rel-
+ative markers or complementizers as the English that in (1): the latter are not pronouns, as they 
+do not show person marking.
+(6) 
+The boy [who was sick]RC left.
+Some languages use regular resumptive pronouns in relative clauses (7). Finally, many lan-
+guages allow or require full omission of the head noun in the relative clause (8).
+(7) 
+raʔit-i   ʔet    ha-yeled   she-/ʔasher   rina    ʔohevet   ʔoto 
+Hebrew
+saw-I    ���   the-boy     ���           Rina   loves      him
+‘I saw the boy that Rina loves.’ [Borer 1984, cited in Andrews 2007: 220]
+(8) 
+The boy [I saw __ ]RC left. 
+The third dimension of variation is how the relative clause as a whole is marked. In many 
+languages it is introduced by some complementizer showing its subordinate status (see exam-
+ples (1), (5), (7)), and in some languages it can be reduced and/or nominalized to some extent, 
+for instance, through the use of non-ﬁ nite verbal morphology (as in (4) above) [Andrews 2007]. 
+As we discuss in the next section, and also in Section 4, sign languages have another special-
+ized way of marking relative clauses, namely non-manual markers.
+Finally, an important issue in typology and theory of relative clauses concerns the so-called 
+Accessibility Hierarchy [Keenan, Comrie 1977], which concerns the grammatical function of the 
+head noun in the relative clause. While all languages seem to allow the head noun to be the sub-
+ject of the relative clause, direct object relativization is less frequently possible, indirect object 
+relativization even less so, etc. While this is an important topic, we will not further discuss it 
+in this paper, as we have not tested this hierarchy for RSL. Instead, we focus on relativization 
+of subjects and objects only.
+2. Relativization in sign languages
+Relative clauses have been studied for several sign languages, including American Sign Lan-
+guage (ASL) [Liddell 1978], German Sign Language (DGS) [Pfau, Steinbach 2005], Italian Sign 
+Language (LIS) [Branchini, Donati 2009; Cecchetto et al. 2006], French Sign Language [Hauser, 
+Geraci 2018], Israeli Sign Language [Dachkovsky 2018], and Turkish Sign Language [Kubus, 
+Nuhbalaoglu 2018]. A recent overview can be found in [Branchini, Kelepir 2017].
+The same typological dimensions that were developed for spoken languages also apply to sign 
+languages. For instance, externally-headed relative clauses can be found (9),3 as well as internally 
+headed relative clauses (10), double-headed relative clauses (11), and free relative clauses (12). 
+One language can have several or all of these strategies, as is the case, for instance, in Turkish 
+Sign Language [Kubus, Nuhbalaoglu 2018].
+ 
+3 Glossing conventions: Signs are glossed in small caps. ����� is a pointing sign, with lowercase number 
+referring to the person. ����-� — human relative pronoun (in DGS). ����� is a relative sign in RSL. 
+Non-manual markers are placed above the glosses, with underscore showing their scope. See the full 
+list of abbreviations in the end of the paper.
+52 
+Voprosy Jazykoznanija 
+2020. № 6
+ 
+                          rel
+(9) 
+��������� ���    [����-�   ��� ������]RC ������ 
+DGS
+‘The main who is stroking the cat arrived yesterday.’ [Pfau, Steinbach 2005: 513]    
+ 
+                              rel
+(10) [�������� ��� ���� ����� ���]RC    ���� ���� 
+ASL
+‘The dog which recently chased the cat came home.’ [Liddell 1978]
+ 
+                          br
+(11) [����� ���� ������ ����]RC     [���� ���� ����] 
+ASL
+‘The book the girl borrowed is missing.’ [Galloway 2012, cited in Branchini, Kelepir 
+2017: 446]
+ 
+                 br
+(12) [���� ���� ���]RC   [���� ���] 
+LIS
+‘Who has taken the exam can go out.’ [Branchini 2007, cited in Branchini, Kelepir 2017: 446]
+Some authors have analyzed some of the relative constructions as correlatives, for instance, 
+Cechetto et al. [2006] for LIS, while others have argued against such an analysis [Branchini, 
+Donati 2009].
+Some sign languages employ relative pronouns or other relative signs. DGS, for instance, 
+uses two diﬀ erent types of pronouns depending on whether the head noun is human or non-hu-
+man [Pfau, Steinbach 2005]. ASL has a relative sign ���� which can occur in the clause-ﬁ nal 
+position [Liddell 1978].
+An important feature of relative clauses in sign languages is that they are usually marked 
+by non-manual markers. Some of the markers commonly mentioned in the literature are squinted 
+eyes, raised eyebrows, and head movement. While for some sign languages non-manual mark-
+ers have been claimed to be nearly obligatory [Branchini, Donati 2009], others have found much 
+variation in the presence and type of non-manual marking [Kubus, Nuhbalaoglu 2018]. Dac-
+hkovsky [2018] argues that non-manual marking of relative clauses in Israeli Sign Language 
+(squints and forward head movement) has recently undergone grammaticalization, so that that 
+younger signers use it in a more regular and systematic way than older signers.
+It is worth noting that many of the studies of relative clauses in sign languages are concerned 
+with oﬀ ering a formal analysis of the syntactic structure in the Generative Grammar framework 
+[Branchini, Donati 2009; Cecchetto et al. 2006; Pfau, Steinbach 2005; Hauser, Geraci 2018]. 
+Since we do not have a similar purpose in this paper, we do not discuss these analyses further.
+3. Current study
+3.1. Russian Sign Language
+RSL is a natural sign language used by deaf and hard-of-hearing people in Russia. Accord-
+ing to the 2010 census, 120 000 people are signers of RSL.4 It emerged at the beginning of the 
+19th century when the ﬁ rst school for the deaf was established. RSL has been claimed to be his-
+torically related to French Sign Language, although not all researchers agree with this position 
+[Bickford 2005].
+While RSL is less well studied than ASL or DGS, some linguistic research has appeared in re-
+cent years. Most relevant for this paper is Kimmelman [2012], who described basic word order 
+in simple sentence, and Burkova [2012], who described conditionals in RSL: probably, the ﬁ rst 
+ 
+4 http://www.rg.ru/2011/12/16/stat.html
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+53
+description of complex clauses in this language. A small-scale annotated corpus of RSL has been 
+created recently, and can be found at http://rsl.nstu.ru/site/index/language/en [Burkova 2015].
+Importantly, RSL exists in constant contact with Russian, a situation common among the 
+so-called urban sign languages [Zeshan 2008]. First, almost all signers also learn at least writ-
+ten Russian at school. Second, there exists a manual communication system, Signed Russian, 
+which means using Russian (sometimes with voice, and sometimes with silent articulation) ac-
+companied with RSL signs. Singed Russian is not a natural language, but a system of transfer-
+ring Russian into the visual-manual channel. Thus, it lacks many of the grammatical features 
+of RSL and follows the rules of Russian wherever possible. For historical reasons, Signed Rus-
+sian is used a lot in deaf education and in sign language interpreting, and it has a high status 
+even among deaf signers. Because of the constant contact between RSL and (Signed) Russian, 
+we can observe many contact phenomena, such as borrowing and code-switching. This is also 
+true to some extent for relative constructions, as we show in Section 4.
+3.2. Participants
+Although a corpus of RSL exists, it could not be used for the current study of relativization. 
+First, the size of the corpus is quite small (under 6 hours of signing). Second, given that the cur-
+rent study is the ﬁ rst ever research on relativization in RSL, it was not clear how to search for 
+and identify potential relative constructions in the corpus. We therefore collected novel produc-
+tion data from nine RSL signers. The procedure is described in the next section.
+The sociolinguistic characteristics of the signers are summarized in the Table. The same la-
+bels for signers are used in all examples below.5 While most signers are from Moscow, three 
+signers are from other cities, so some amount of dialectal variation cannot be excluded. Fur-
+thermore, only ﬁ ve of the signers have deaf parents; however, the other signers are very ﬂ uent 
+and use RSL as their main language.
+Table
+Sociolinguistic characteristics of the participants
+Signer
+Gender
+Year of birth
+Place of birth
+Deaf parents
+s1
+female
+1983
+Moscow
+no
+s2
+female
+1987
+Moscow
+no
+s4
+male
+1971
+Moscow
+yes
+s5
+female
+1955
+Grozny (Chechen Republic)
+yes
+s6
+female
+1976
+Supovsky (Republic of Adygea)
+no
+s7
+male
+1983
+Ekaterinburg
+no
+s8
+female
+1981
+Moscow
+yes
+s9
+female
+1961
+Moscow
+yes
+s10
+female
+1957
+Moscow
+yes
+ 
+5 Note that signer s3 also participated in the data collection. However, we judged this signer’s data to con-
+tain mostly Signed Russian, so we decided to discard it completely.
+54 
+Voprosy Jazykoznanija 
+2020. № 6
+3.3. Stimuli and procedure
+To elicit relative constructions, we used a task commonly employed for this purpose. We pre-
+sented signers with pairs of pictures (most of which were designed for this study speciﬁ cally) 
+that were similar, but diﬀ erent in exactly two aspects. For instance, in one pair (Figure 1), the 
+left picture contains a boy sitting down and holding a book, and the right picture contains the 
+same boy standing up and holding a pot.
+Figure 1. A picture used for data elicitation.
+The task was conducted in RSL by the ﬁ rst author. First, the signer was asked to describe 
+both pictures to make sure that they noticed the relevant details (these descriptions were not an-
+alyzed further). Second, two questions were asked about the pictures: the ﬁ rst one formulated 
+in a way so that the potential head noun would be the subject of the main clause, and the second 
+one in a way so that the head noun would be the object of the verb ���� (which is a transitive 
+verb in RSL) (13). Other similar pictures were used to elicit sentences where the head would be 
+the object and the subject of the relative clause, too. In other words, we tried to elicit four types 
+of constructions: with head noun being the subject/object in the main/relative clauses.
+(13) Question 1:         “Which of the boys is reading a book?”
+ 
+Expected answer:   “The boy who is sitting is reading a book.”
+ 
+(the head is the subject in both the relative and main clauses)
+ 
+Question 2:         “Which of the boys do you like more?”
+ 
+Expected answer:   “I like the boy who is sitting/reading a book.”
+ 
+(the head is the subject in the relative clause and the object in the main clause)
+The data collection was conducted in two separate sessions. Signers 1–8 participated in the 
+ﬁ rst session, which also included additional stimuli aimed at eliciting relativization of adjuncts. 
+However, the data with adjunct relativization was not satisfactory, as the signers were mostly 
+using ways of describing pictures without a relative clause (see below). We decided to leave the 
+question of whether adjuncts could be relativized for future research. In the second stage, we 
+created new pictures to elicit only subject and object relativization, and signers 1, 8, 9, and 10 
+participated. Signers 1 and 8 thus participated in both rounds; however, due to the fact that there 
+was a six months period between the sessions, and that in the second session we used other stim-
+uli, we do not think it aﬀ ected our data.
+In the ﬁ rst round, the stimuli were designed to elicit 12 target sentences with relative clauses 
+(disregarding the adjuncts), and in the second round, 16 target sentences. This would result in 132 
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+55
+sentences based on the two sessions. However, the signers did not always produce sentences that 
+could be further analyzed. First, in some cases they produced sentences not directly answering the 
+question that was asked of them. Second, they sometimes used an alternative strategy, such as for in-
+stance saying “The girl with the ball is sitting” instead of the target “The girl that is holding the ball is 
+sitting”. Finally, some situations were described with very long sequences of clauses with no obvious 
+relativization. After discarding such cases, we were left with 88 instances of relative constructions.
+3.4. Acceptability judgments
+For a related project which will not be discussed in detail in this paper, we also collected 
+acceptability judgments for some speciﬁ c types of relative constructions. Four signers partici-
+pated in this task: signers 1, 4 and 8 (see above), and one other native signer. They were asked 
+to judge signed productions of various sentences by the ﬁ rst author, and correct them if neces-
+sary. We used judgments to assess possible syntactic positions of relative signs, among other 
+phenomena. We do not systematically analyze this judgment data for this paper; however, we 
+mention it once below (25).
+3.5. Annotation and analysis
+We annotated the data using ELAN [Crasborn, Sloetjes 2008]. For each example, we anno-
+tated non-manual markers and their scope, the position of the head (in which clause the lexical 
+sign surfaces), the syntactic roles of the head in the main and relative clauses, the type and po-
+sition of the relative sign, and the overall syntactic structure of the construction.
+Note that in determining the position of the head (whether it is in the relative clause or in the 
+main clause) we used the surface position of the head lexical sign whenever possible: e.g., if 
+the head is not even adjacent to the relative clause, it is clear that it is in the main clause, and 
+if the head is embedded in the relative clause (surrounded by other signs belonging to the rela-
+tive clause), it is clear that it is in the relative clause. However, quite often the surface position 
+of the head is compatible with it belonging to either clause. For instance, if the head is the ob-
+ject of the main clause and the subject of the relative clause, and the relative clause follows the 
+main clause, given that RSL has the basic SVO order [Kimmelman 2012], the head can be in-
+terpreted as belonging to either clause:
+(14) Subject Verb-main head Verb-relative 
+ 
+Subject Verb-main Object [ __ Verb-relative]  — a head-external relative clause OR
+ 
+Subject Verb-main [Subject Verb-relative]    — a head-internal relative clause
+In such cases, we used prosodic (non-manual) markers as a criterion to determine clause 
+boundaries. So, if in (14) there is a prosodic boundary before the head noun, we would con-
+sider it head-internal, and if there is a prosodic boundary after the noun, we would consider it 
+head-external. As we discuss in Section 4.5, some type of such non-manual marking is always 
+available. While prosodic constituents do not have to correlate perfectly with syntactic constit-
+uents, we argue that as a last resort prosodic marking is a reasonable criterion to determine syn-
+tactic boundaries [Crasborn 2007].
+Another cue was the position of a relative sign. As we assumed that certain types of relative 
+signs in RSL marked the relative clause boundary, the head noun preceding these relative signs 
+were considered to be external to relative clause. In most cases, this criterion correlated with 
+the prosodic criterion above.
+56 
+Voprosy Jazykoznanija 
+2020. № 6
+4. Basic features of relativization
+4.1. Headedness
+In this section, we describe the head position in the relative construction, and brieﬂ y address 
+the question whether the RSL relative constructions should be analyzed as correlatives.
+The RSL examples in the rest of this paper are accompanied with video ﬁ les with the exception 
+of one example from the acceptability judgment elicitation — see the link in the end of the paper.
+RSL turns out to have all possible types of relative clauses with respect to headedness: exter-
+nally headed, internally headed, and double-headed. Example (15) shows an externally headed 
+relative clause: the head noun ��� occurs in the object position of the main clause, while the 
+relative clause is extraposed, and prosodically separated from the main clause by an eye blink.6 
+In contrast, (16) shows an internally headed relative clause, as the head ���� occurs between 
+the object and the verb of this clause, and not in the main clause.7 Finally, (17) shows a sen-
+tence where the head noun ��� occurs both in the main clause and in the relative clause; ����� 
+is a relative sign (see Section 4.3).
+ 
+                        eb
+(15) �����1 ��� ���� ����       [����.���� ���� ����.����]RC 
+[s1]
+‘I like the blue car that is turning left.’
+ 
+         rhl   eb                   eb
+(16) �����1 ����       [���� ���� ���        ����]RC 
+[s1]
+‘I like the girl who sits and holds the ball.’
+(17) �����1 ���� ���� ���   [����� ��� ����.����]RC 
+[s2]
+‘I prefer the car that is turning left.’
+In addition, some examples of headless relative clauses were produced, probably because 
+the head was recoverable from the context (the question asked), as in (18). Note that the head 
+is not completely absent, as there are pointing signs referring to it in both the relative and the 
+main clauses.
+ 
+                                                 eb
+(18) �����1 ����� ������� [�����3 ���� �����]RC        ���� ���� �����3 
+[s8]
+‘I think for example that I like that one more [the dog] that is being washed.’
+The most common type of relative clause is the externally headed relative clause (45 in-
+stances), followed by the internally headed relative clause (16 instances), and the double-headed 
+construction (11 instances), as well as headless relative clauses (10 instances). In 6 cases we 
+were not able to determine the structure well enough. Note however that given the sample size, 
+conclusions about relative frequency cannot be drawn. What is clear is that all types of headed-
+ness are possible in RSL.
+Given the ﬂ exibility of the head position in relative constructions in RSL, it might be attrac-
+tive to oﬀ er a uniﬁ ed analysis of all cases as a correlative construction, as correlatives allow 
+head realization in the relative clause, matrix clause, or both [Bhatt 2003; Lipták 2009]. How-
+ever, there are several arguments against such uniﬁ ed analysis.
+First, the relative clause in correlatives almost universally occurs in the sentence-initial posi-
+tion [Lipták 2009]. However, as examples above show, relative clauses in RSL can occur in the 
+ 
+6 The adjective ���� is also extraposed, but it prosodically belongs to the main clause.
+ 
+7 Note that the relative clause is poly-predicative, but this does not change the fact that it is internally 
+headed.
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+57
+sentence-ﬁ nal position, and they can also be embedded in the argument position within the ma-
+trix clause (see also the discussion in the next section). Second, typologically, a demonstrative 
+is usually required in the matrix clause in correlative constructions. Examples (15)–(17) above 
+show that this is not the case in RSL.
+While a uniﬁ ed correlative analysis for the relative constructions in RSL is thus unlikely, it 
+is very possible that a correlative construction exists in RSL, as many languages have multi-
+ple syntactically diﬀ erent strategies of relativization. Nevertheless, the possibility of several 
+relativization strategies makes it hard to distinguish correlative constructions from fronted 
+relative clauses. The main challenge is to determine the dependent vs. independent syntactic 
+status of the relative clause in this case. The data from production task did not reveal any ex-
+amples with distinguishable correlative constructions, i.e. relative constructions with a fronted 
+unambiguously syntactically independent relative clause. Therefore, we leave this topic for 
+the future research.
+4.2. Position of the relative clause
+An important dimension of variation in relative constructions is the position of the rela-
+tive clause.8 Here RSL also has several options; however, not all theoretical possibilities are 
+attested.
+Concerning externally headed relative clauses, they can either follow the head noun imme-
+diately, as in (19), or be extraposed to the sentence-ﬁ nal position, as in (15) above, or be extra-
+posed to the sentence-initial position, as in (20). Interestingly, these relative clauses never im-
+mediately precede the head noun.
+ 
+                           eb
+(19) ���� [����� ��� ���]RC        ��� 
+[s4]
+‘The girl that pets a cat is sitting.’
+ 
+          bhl                            nods
+(20) [���� ����]RC   �����1 ���� �����3 ������ 
+[s1]
+‘I like the ﬂ ower that a girl is drawing.’
+Another interesting observation is that the majority of externally headed relative clauses are 
+extraposed to the ﬁ nal position, or at least can be analyzed as extraposed (that is, they are not 
+followed by any material from the matrix clause). In fact, there are only 5 cases similar to ex-
+ample (19), where the relative clause is fully embedded in the main clause. Given the size of the 
+dataset, more research is desirable.
+In contrast to externally headed relatives, double-headed relative clauses (although being too 
+few to make any generalizations) tend to directly follow the head in the main clause (17) — we 
+observed 6 cases of post-nominal double-headed relatives. However, extraposition to the sen-
+tence-ﬁ nal and sentence-initial positions are also attested.
+Internally-headed relative clauses cannot be positioned with respect to the head in the main 
+clause, but there still remain options: they can either occur in the position of the argument in the 
+main clause, or they can be extraposed. However, in our data, it is often diﬃ  cult to distinguish 
+between these two options. Internally-headed relative clauses related to the object occur in the 
+ﬁ nal (post-verbal) position (21) (except for one case), so such examples are compatible with 
+both in-situ analysis and the extraposition analysis. The ones related to the subject of the main 
+clause are less frequent in general: there are only 4 cases, 2 of which occur pre-verbally (in situ) 
+(22), and two post-verbally (23).
+ 
+8 We are disregarding doubling of the main clause here, see Section 4.4 for details.
+58 
+Voprosy Jazykoznanija 
+2020. № 6
+ 
+         lhl   eb              nod
+(21) �����1 ����        [����   �����3 ��� ���� �����3]RC 
+[s10]
+‘I like the girl that is kissing the boy.’
+ 
+                                 lhl      eb
+(22) [����� ���� ��� ��� ����� �����3]RC        ��� ��:��� 
+[s1]
+‘The ﬁ rst girl that pets a cat is sitting.’
+ 
+    br   eb
+(23) �����        [����� �����3 ����� ���� �����3]RC 
+[s8]
+‘The lamp that is large is shining.’
+Concerning the headless relative clauses in our data, they are mostly related to the subject 
+of the main clause, and they can occur both pre-verbally (which can be interpreted as in situ) 
+and post-verbally (that is, possibly extraposed).
+4.3. Relative signs
+Concerning relative signs, RSL has three main options. First, a relative clause might lack any 
+such sign, as in (15)–(16). Both head-internal and head-external relative clauses can occur without 
+any relative sign. In fact, this is the most common single strategy, occurring in 35 cases in our data.
+Second, a relative sign ����� ‘which/that’ can be used, either alone or in combination with 
+a pointing sign (see e.g. (19) and (22)). Third, a pointing sign �����3 referring to the head noun 
+might occur, as in (24). It is also possible for the latter two strategies to be combined, as in (23) 
+above, where the relative sign ����� in the initial position co-occurs with the pointing sign ��-
+���3 in the ﬁ nal position.
+ 
+                     br   eb                          nod
+(24) ���   ���� ���������        [�����3 ��� ���   �����3]RC 
+[s8]
+‘The dog that the boy hugs is more beautiful.’
+The sign ����� has some relation to the Russian relative pronoun kotoryj ‘which’. This re-
+lation is clear from the mouthing of the Russian word that often accompanies this sign; how-
+ever, the sign itself is not based on ﬁ ngerspelling or initialization, so its manual part is not re-
+lated to the Russian word. Note also that the same sign is used as a demonstrative ‘this’, with the 
+mouthing of the Russian word ètot ‘this’. Another symptom of this signs’ connection to spoken 
+(and Signed) Russian is the fact that, in explicit judgment tasks, the signers are somewhat unwill-
+ing to accept it, not being sure whether it belongs to the core RSL, or is a contact phenomenon.
+At the same time, the distribution of this sign is quite diﬀ erent from the corresponding Rus-
+sian relative pronoun. Firstly, while the Russian relative pronoun always occurs clause-initially, 
+����� can occur clause-initially, as in (17) and (23), clause-ﬁ nally, as in (18) and (22), or it 
+can be doubled, as in (27) below. There is also an interesting pattern that emerged in elicitation 
+of acceptability judgments. It turns out that the clause-ﬁ nal use of ����� is only possible in in-
+ternally headed relative clauses preceding the main clause (25), while there is no such restric-
+tion for the clause-initial use of �����.
+(25) 
+OK[���� ���� �����3 �����]RC �����1 ���� 
+[judgments]
+ 
+*�����1 ���� [���� ���� �����3 �����]RC
+ 
+*���� [���� �����3 �����]RC �����1 ���� 9
+‘I like the girl that is drawing.’ 
+ 
+9 The diﬀ erence between the ﬁ rst and third options in (25) is prodosic: in the latter but not the former, the 
+head noun is prosodically separate from the relative clause, which is signaled by a dedicated non-man-
+ual marker, i.e. an eye blink.
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+59
+Secondly, unlike in Russian, where the head noun is always external to the relative clause, 
+����� in RSL can also occur in internally headed relative clauses, as in (23) and (25) above, 
+as well as in double headed relative clauses, as in (17) above.
+Finally, while the Russian relative pronoun kotoryj can also be used as a question word, the 
+RSL sign ����� is not used as such. We thus conclude that even if ����� was introduced via 
+Signed Russian, it is a part of the grammar of RSL now.
+An important question is whether ����� should be analyzed as a relative pronoun or a rel-
+ativizer. The crucial diﬀ erence between the two is whether the element manifests agreement 
+with the head noun [De Vries M. 2002]. ����� itself does not show agreement, and thus should 
+probably be classiﬁ ed as a complementizer.
+However, an interesting feature of ����� is that it is sometimes accompanied with a point-
+ing sign (mostly in the order ����� �����3). Importantly, quite often ����� and the pointing 
+sign are prosodically connected. Speciﬁ cally, the mouthing of the Russian word kotoryj always 
+spreads to the pointing sign, and the passive hand from ����� is often maintained in its conﬁ g-
+uration and location while the pointing sign is produced (Figure 2). These processes are indic-
+ative of the two signs forming one phonological word [Nespor, Sandler 1999]. Given that, we 
+may think of it as a host + clitic construction with a cliticized index sign functioning as an agree-
+ment marker (for more details on cliticization in sign languages see [Sandler 1999]) and thus 
+it might be reasonable to suggest that the combination of ����� and �����3 is in fact a relative 
+pronoun, and not a complementizer.
+Figure 2. ����� and �����3 demonstrate spreading of the mouthing and 
+of the passive hand. The second frame shows the downward �����3 on the 
+right hand. Note the continued mouthing on the second frame.
+We now turn to �����3, which can occur separately in relative clauses. �����3 can occur 
+clause-initially, clause-ﬁ nally, or be doubled (24). It occurs in both head-internal and head-ex-
+ternal relative clauses.
+The sign itself is a simple pointing sign that can also be used as a pronoun in simple clauses, 
+and as a determiner or demonstrative in noun phrases. Therefore, one might ask why pointing 
+signs occurring in relative clauses should be analyzed as relative signs, and not as resumptive 
+pronouns or determiners. We observed that quite often pointing sings in relative clauses occur 
+in clause-initial and/or clause-ﬁ nal position, diﬀ erent from the argument that it refers to. For in-
+stance, in (24) repeated here as (26), there are two pointing signs. Even if the former can be 
+analyzed as a determiner, the latter does not occur in the subject position and does not modify 
+a noun, so we analyze it as a relative sign.
+ 
+                      br    eb                          nod
+(26) ���   ���� ���������         [�����3 ��� ���   �����3]RC 
+[s8]
+‘The dog that the boy hugs is more beautiful.’
+60 
+Voprosy Jazykoznanija 
+2020. № 6
+On the other hand, many examples that we ﬁ nd in our dataset are indeed ambiguous: the 
+pointing sign can often be analyzed as either being a clause-initial relative pronoun or a resump-
+tive subject pronoun, or as either a clause-ﬁ nal relative pronoun or a resumptive object pronoun.
+Unlike �����, for �����3 it is clear that it can only be a (relative) pronoun, and not a com-
+plementizer, because it shows spatial agreement with the head noun (that is, it is directed to the 
+location associated with the head noun).
+Finally, as mentioned above, sometimes ����� occurs in the initial position, and �����3 
+in the ﬁ nal position, as in (23). The opposite pattern is not attested; however, given the restric-
+tions on the ﬁ nal position of ����� discussed above, this could have happened by accident 
+in our dataset.
+4.4. Main clause doubling
+A prominent feature of our dataset is that quite often the main clause (or a part of it) is re-
+peated after the relative clause (24 cases). For instance, in (27) the verb ��� from the main clause 
+occurs both before and after the internally headed relative clause.10
+ 
+      br
+(27) ���� ���   [����� �����3 ���� ���� ��� ��� �����3 �����]RC ��� 
+[s8]
+‘The girl that pets a cat is sitting.’
+Importantly, all relative constructions with main clause doubling except for two cases are 
+observed in the context of sentence-ﬁ nal relative clauses (base-generated or extraposed). Dou-
+bling in general is a very common phenomenon in sign languages, including RSL [Kimmel-
+man 2013]. However, the status of this phenomenon is not clear. One could analyze examples 
+like (27) as a simple discourse-level repetition (see for instance [Stolz et al. 2011]). However, 
+given the frequency of doubling, and its interaction with grammar and information structure, 
+at least some cases are more reasonably analyzed as a syntactic process (as e.g. in [Corver, 
+Nunes 2007]).
+Irrespective of the speciﬁ c analysis of doubling in RSL, we want to make two points. First, 
+main clause doubling is indeed a frequent phenomenon in relative constructions in RSL. Sec-
+ond, the tendency for the relative clauses to occur in the ﬁ nal position discussed above is some-
+what mitigated by doubling: relative clauses are often followed by the doubled elements from 
+the main clause. We return to this issue in Section 5.
+4.5. Non-manual marking
+In RSL, as in other sign languages, non-manual marking plays an important role in the rel-
+ative constructions. In fact, as discussed in Section 3.5, we used non-manual marking as one 
+of the criteria to determine clause boundaries, and therefore headedness of relative clauses in our 
+data. While non-manual markers are important across sign languages, the speciﬁ c markers vary. 
+RSL non-manual markers also present an interesting pattern.
+The ﬁ rst observation that can be made is that there are almost no examples where a boundary 
+between the main and the relative clause is not marked in some way. A case that comes closest 
+to this is example (28); however, the ﬁ nal sign in the main clause (�����.����) is held for some 
+time, and also a slight nod during the hold marks the boundary.
+ 10 Note that the relative sign ����� also occurs twice. This was discussed in Section 4.3.
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+61
+ 
+                            nod
+(28) �����1 ���� �����.����           �����3 ��� ���� 
+[s10]
+‘I like the large book that the boy is reading.’
+At the same time, we observe that no single marker obligatorily or even predominantly marks 
+all relative constructions. The most common markers we found are eye blinks on the clause 
+boundary (77 cases, see most examples above), head leans and turns (on the relative clause 
+in 28 cases, see (22) above, but also on the main clause or a part of the main clause in 34 cases, 
+see (21) above), eyebrow raise on the main clause (28 cases, see (27) above), and squint on the 
+relative clause or speciﬁ cally the relative sign (17 cases, see (29)), although squints also occur 
+in the main clause. These diﬀ erent markers can of course co-occur.
+ 
+        squint    eb   
+(29) ������� �����        �����3 ����� �����3 
+[s10]
+‘[The vase] that is broken is green.’
+A very important point is that none of these non-manual markers are specialized for relative 
+clauses. Eye blinks are very common markers of clause boundaries, both cross-linguistically 
+[Nespor, Sandler 1999] and in RSL [Burkova 2012], irrespective of the type of clause. Eyebrow 
+raise marks not the relative clause, but the main clause. It is not entirely clear what the function 
+of this marker is, but it might be used in answers to explicit questions marking the main prop-
+osition (see [Kimmelman 2014] for a discussion of such examples). Squints occur infrequently 
+in our data (and also both on relative clauses and main clauses, or parts of them), so they cannot 
+be markers of relativization per se. It is likely that they are used to mark noun phrases whose 
+referents are given but not easily accessible, similar to the way they are used in other sign lan-
+guages, such as DGS [Herrmann 2013]. However, given our limited dataset, we are not able 
+to determine their function.
+The only markers that might seem good candidates for specialized markers of relativization 
+are head leans and turns. Such markers occur in a majority of cases. However, looking at them 
+in more detail shows that this is not the case.
+Importantly, they occur approximately equally frequently on the main clause and on the rela-
+tive clause. While they are therefore useful in demonstrating the boundary between the clauses 
+either way, they clearly do not unambiguously mark the clause’s function.
+It is also important to note that we grouped leans and turns together, while it is not clear 
+whether they should be considered the same marker. Anatomically leans and turns are not a sin-
+gle phenomenon, although they might be still diﬀ erent phonetic realizations of the same pho-
+nological feature (see [Crasborn, van der Kooij 2013] for a similar idea for diﬀ erent markers). 
+In addition, leans can be further subdivided into sideward leans, and backward or forward leans. 
+Given previous research on other sign languages [Lackner 2017] we would expect diﬀ erent 
+leans to have diﬀ erent functions. However, it is not possible for us to establish these functions 
+using our dataset.
+The variation in marking by head leans and turns of course can be simply due to the fact that 
+multiple distinct relative constructions occur in our data. However, a preliminary analysis does 
+not indicate that this is the case. We can observe that head leans and turns can occur on the main 
+clause or on the relative clause for both head-internal and head-external relative clauses. Simi-
+larly, in relative constructions with ����� the main or the relative clause can be marked by head 
+leans and turns. We are thus not able to ﬁ nd a clear factor related to the structure of the sentence 
+that would predict the occurrence of these markers.
+We have to conclude that relative clauses in RSL are not marked non-manually in a consistent 
+way. Relative clauses are (probably obligatorily) marked by some non-manual marker as a sepa-
+rate prosodic constituent, but they are not marked as relative clauses speciﬁ cally. It is possible that 
+head leans and turns have some function that is related to relativization, and that some subtypes 
+of relative construction in RSL do in fact use them consistently, but this is left for future research.
+62 
+Voprosy Jazykoznanija 
+2020. № 6
+5. Discussion
+Based on this study, we observe that relative clauses in RSL in general ﬁ t the same pat-
+terns that are found in other spoken and signed languages. RSL has externally-headed, internal-
+ly-headed, and double-headed relative clauses. Similar to most spoken languages [Dryer 2013a], 
+the dominant pattern in RSL seems to be head-external relative clauses.
+A slightly typologically unusual pattern concerns the positions of the relative pronouns ����� 
+and �����, both of which can occur clause-initially, clause-ﬁ nally, or be doubled in both positions, 
+or co-occur with each other. This position ﬂ exibility, and also the possibility of the clause-ﬁ nal 
+position is reminiscent of another class of elements in sign languages, namely wh-signs. It has 
+been observed that, while wh-words in spoken languages typically occur in the left periphery 
+or in situ, in sign languages wh-signs are often doubled or occur in the clause-ﬁ nal position [Cec-
+chetto 2012]. It seems that sign languages have a preference for placing some functional elements 
+in the ﬁ nal position, which is not observed in spoken languages. However, relative signs in other 
+sign languages investigated so far do not show such a variability in the position and none of them 
+employed both clause-initial and clause-ﬁ nal relative signs in the same relative construction.
+Another domain in which RSL data seems somewhat unusual is the amount of variation. As we 
+discussed above, RSL has several syntactic strategies of relativization, and non-manual mark-
+ing is also very variable. If we compare our ﬁ ndings to some reports on other sign languages 
+[Liddell 1978; Pfau, Steinbach 2005; Branchini, Donati 2009], it might seem that RSL shows 
+more variation. However, a recent corpus-based study of Turkish Sign Language [Kubus, Nuh-
+balaoglu 2018] also shows a large amount of variation in relativization strategies. We suspect 
+that the amount of variation we found in RSL is not indicative of its typological peculiarity, but 
+is an artifact of the methodology: when relying on mostly unguided picture-based production, 
+as we did, or even more so on corpus data, as Kubus & Nuhbalaoglu did, one ﬁ nds more varia-
+tion than when relying on judgment data from a small number of signers/speakers.
+Another diﬀ erence between our ﬁ ndings and many of the descriptions of other sign languages 
+concerns the non-manual marking. Apart from observing a lot of variation, we also have to con-
+clude that we do not ﬁ nd any specialized non-manual markers of relative clauses (nor specialized 
+combinations of markers). Here we might face a real domain of typological variation between the 
+sign languages. Diﬀ erent markers are used in diﬀ erent languages, and with diﬀ erent regularity.
+A parallel can be drawn to non-manual markers of negation in sign languages [Oomen, Pfau 
+2017]. First, while most sign languages use negative headshakes, others, such as Turkish Sign 
+Language, also use negative backward tilts. Second, while in some languages non-manual marker 
+alone is enough to express negation (e.g. in ASL), in others the presence of the manual sign is 
+required (e.g. in LIS). Some authors thus use the distinction between non-manually dominant 
+and manually-dominant sign languages (although see [Johnston 2018] for a recent critical eval-
+uation). Similarly, both the form and the function of non-manual markers in relative clauses vary 
+between sign languages. It might be interesting to see whether the use of non-manuals across 
+domains (negation, relative clauses, question marking) shows general patterns in speciﬁ c lan-
+guages. More comparative research is clearly necessary.
+The ﬁ nal issue that we wanted to mention is the case when the main clause is doubled (fully 
+or partially) after the relative clause in RSL. As mentioned, this strategy almost always occurs 
+in the context of sentence-ﬁ nal relative clauses. We thus hypothesize that the preference for main 
+clause doubling may be explained by various reasons, one of which being a consequence of cog-
+nitive overload. In other words, signers might consider it necessary to repeat the main clause af-
+ter the long and semantically peripheral constituent.
+However, this speciﬁ c discourse strategy, which might have initially been dictated by pro-
+cessing, seems to acquire grammatical functions (see also [Kimmelman 2013] for a proposal 
+on grammaticalization of doubling). The ﬁ rst piece of evidence, as we have already mentioned 
+previously, comes from the remarkable frequency of this strategy speciﬁ cally in RSL relative 
+ 
+ Evgeniya A. Khristoforova, Vadim I. Kimmelman 
+63
+constructions. Similar patterns were not described for relative constructions in any other sign 
+language. If it were only processing issue that motivated doubling, similar constructions would 
+be found in other sign languages such as DGS [Pfau, Steinbach 2005] or LSF [Hauser, Geraci 
+2018], both of which employ primarily post-nominal externally headed relative clauses.
+Another piece of evidence is provided by the prosody of the doubling constructions. While 
+the ﬁ rst copy of the main clause is almost always separated from the relative clause by an eye 
+blink, the second copy is frequently less marked prosodically. Among the 24 main clause dou-
+bling constructions, only in 12 cases the main clause is marked prosodically in any way, and 
+only in seven cases it is separated by an eye blink. The lack of prosodic boundaries is indirect 
+evidence for the lack of syntactic boundaries.
+Interestingly, while collecting acceptability judgments, we found that the sentence-initial posi-
+tion of the relative clause is often preferred by signers even in case of object relatives. This con-
+trasts with the more frequent sentence-ﬁ nal relative clauses in our production data. It might be the 
+case that signers were more inﬂ uenced by Signed Russian in the production task, therefore produc-
+ing more sentence-ﬁ nal relatives, and that they employ the doubling strategy as a last resort to turn 
+a Signed Russian-like structure into a more genuine RSL structure. However, this hypothesis was not 
+speciﬁ cally tested, so more research on main clause doubling is needed. In addition, more research 
+is needed on grammaticalization of relative constructions and on the syntactic embedding in RSL 
+in general in order to unambiguously determine the status of clauses in doubling constructions.
+Summary
+For a ﬁ rst description of relativization construction in RSL, we collected production data 
+from nine signers performing a picture-based task. The signers produced 88 instances of rela-
+tive constructions with the head noun being the subject or direct object in the main clause and 
+in the relative clause.
+We found that RSL has head-external (postnominal), head-internal, and double-headed rela-
+tive clauses. Relative clauses might also be extraposed, typically to the sentence-ﬁ nal position. 
+The main clause is sometimes doubled, so that a part of it is repeated after the relative clause. 
+Relative clauses might contain relative pronouns ����� and �����, in clause-initial or clause-ﬁ -
+nal position, or in both positions, and the two pronouns can co-occur. Finally, we found that rel-
+ative clauses are nearly always prosodically separate from the main clause. The most frequent 
+non-manual markers in relative construction are eye blinks; in addition, head leans and turns, 
+eyebrow raises, and squints are sometimes used as well. However, none of them is specialized 
+for marking the relative clause itself: they either are simply markers of boundaries of prosodic 
+units (eye blinks), or have some other functions (which we cannot fully identify yet).
+Typologically, RSL enjoys the same range of options that has been described for spoken lan-
+guages. The doubling and ﬁ nal position of the relative signs might be speciﬁ c to sign languages. 
+In the domain of non-manuals, we ﬁ nd both similarities and diﬀ erences with other sign languages.
+This study is clearly only a ﬁ rst step in understanding relativization in RSL. The issue of rela-
+tivization of adjuncts remains completely unstudied; the functions of the non-manuals that some-
+times occur in relative constructions must be investigated further. Finally, a typology of non-man-
+ual marking in relative clauses in sign languages seems a promising domain to research in future.
+The video ﬁ les of the examples can be accessed here: https://osf.io/3sjwk/
+ABBREVIATIONS
+��� — accusative
+��� — adjective
+bhl — backward head lean
+br — brow raise
+���� — connective
+��� — deﬁ nite
+64 
+Voprosy Jazykoznanija 
+2020. № 6
+��� — demonstrative
+eb — eye blink
+lhl — leftward head lean
+������ — non-future
+�� — plural
+RC — relative clause
+rel — non-manual marker of rel-
+ative clause
+��� — relative
+rhl — rightward head lean
+����-� — human relative pro-
+noun
+���� — subject

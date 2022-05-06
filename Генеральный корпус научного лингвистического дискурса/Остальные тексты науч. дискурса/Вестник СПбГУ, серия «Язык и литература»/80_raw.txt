@@ -1,0 +1,830 @@
+© Санкт-Петербургский государственный университет, 2020
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+https://doi.org/10.21638/spbu09.2020.310 
+505
+UDC 81’2
+Wolfgang Mieder
+University of Vermont,  
+85, South Prospect Street, Burlington, Vermont 05405-0160, USA  
+Wolfgang.Mieder@uvm.edu 
+Money Makes the World Go ’Round:  
+The pecuniary worldview of modern American proverbs
+For citation: Mieder W. Money Makes the World Go ’Round: The pecuniary worldview of modern 
+American proverbs. Vestnik of Saint Petersburg University. Language and Literature. 2020, 17 (3): 505–
+526. https://doi.org/10.21638/spbu09.2020.310
+No matter in what currency, money rules personal and financial life to a remarkable degree, 
+and it is not surprising that international and national proverb collections contain a plethora 
+of examples from antiquity to the modern age. Many monetary proverbs were coined in the 
+United States with modern American proverbs reflecting this preoccupation with pecuniary 
+issues quite distinctly. Based on about 110 such proverbs coined after the year 1900 it is shown 
+that they contain folk wisdom regarding business, trade, sales, purchase, payment, price, etc. 
+with money playing a dominant role. This can be seen as a reflection of a general American 
+worldview or mentality stemming from the fact that capitalism is part of the social and eco-
+nomic structure of the country. The proverbs under discussion are from The Dictionary of 
+Modern Proverbs (2012) edited by Charles Doyle, Wolfgang Mieder and Fred Shapiro. Some of 
+the modern proverbs give solid financial advice, especially regarding investment in the stock 
+market. While many of them indicate a definite preoccupation with materialistic matters and 
+an interest in accumulating wealth, there are also proverbs that deal with such socio-economic 
+aspects as the widening schism between richness and poverty. There can be no doubt that 
+money and wealth in all their iterations are part of the American capitalist worldview. There 
+are numerous other components to the image of a general American mentality, but business 
+and finance certainly belong to it. 
+Keywords: modern American proverbs, mentality, money, worldview.
+There is a sixteenth-century English proverb whose basic idea is well exemplified by 
+an old nursery rhyme that shows that money makes things possible:
+Will you lend me your mare to ride a mile?
+— No, she is lame leaping over a stile.
+ 
+— Alack! And I must go to the fair!
+ 
+I’ll give you good money for lending your mare.
+— Oh, oh! Say you so?
+Money will make the mare to go. (Opie 1963: 296)
+The proverb “Money makes the mare go” might well have been the structural and 
+semantic background for the much younger and very popular American proverb “Money 
+makes the world go ’round” (1871) with the pervasive message that money belongs to the 
+506 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+fundamental ingredients to make essential things in life happen. This is well expressed by 
+Fred Ebb’s song “Money, Money” (1966; metrolyrics.com/money-lyrics-cabraet.html) that 
+was popularized in Bob Fosse’s musical drama film Cabaret (1972) starring Liza Minnelli 
+and Michael York:
+Money makes the world go around
+The world go around
+The world go around
+Money makes the world go around
+It makes the world go ’round
+A mark, a yen, a buck, or a pound
+A buck or a pound
+A buck or a pound
+Is all that makes the world go around
+That clinking clanking sound
+Can make the world go ’round
+No matter in what currency, money rules personal and commercial commerce to a 
+remarkable degree, and it is not surprising that international proverb collections contain 
+a plethora of examples from antiquity to the modern age [Cordry 1997: 178–180; Mieder 
+1986: 329–334]. Not surprisingly, the same is true for the many national collections, to 
+wit for example the rich treasure of pecuniary Anglo-American proverbs [Cheales 1874: 
+98–102; Hood 1885: 398–406; Loomis 1964; Mieder, Kingsbury, Harder 1992: 415–418; 
+Speake 2015: 210–203]. The concept of “money” is, of course, but a collective term for 
+other mercantile aspects, such as business, poverty, prosperity, purchase, sale, stocks, 
+wealth, etc. There exist several major quotation dictionaries for all of this that include 
+some proverbs as well, the largest of which is Ted Goodman’s “The Forbes Book of Business 
+Quotations. 14,173 Thoughts on the Business of Life” [Goodman 1997: 52–64, 106–120, and 
+582–594; see also Braude 1965: 37–42; Forbes 1984; Thomsett 1990: 96–97; White 1986: 
+32–50 and 66–86].
+With all of this textual information, albeit usually without any historical or contextual 
+information, it is tempting to draw certain national or worse, stereotypical conclusions 
+about the worldview or mentality of certain cultures or groups. A multitude of studies 
+exist, notably about proverbs depicting so-called national character or antifeminist at-
+titude, for example [Schipper 2003; Nedeva 2014]. Usually such ahistorical studies take 
+proverbs at their face value without asking whether they are still in use today and with 
+what frequency. To a certain degree this is also true for some investigations of cultural 
+or more specifically economic attitudes expressed in proverbs, to wit [Shimkin, Sanjuan 
+1953; Chiang 1961; Mortad 1991; Mifsud-Chircop 2001; Thompson 2009; Gautam 2013; 
+Zhang 2016]. Without wanting to discredit these investigations, it needs to be remem-
+bered that conclusions about worldview or national character by way of proverbs must 
+take other important indicators into consideration so that they do not lead to overgener-
+alizations. The following caveat must be kept in mind: “Care must be taken when looking 
+at proverbs as expressing aspects of a certain worldview or mentality of a people that no 
+stereotypical conclusions and a so-called “national character” are drawn” [Mieder 2008: 
+22]. Pekka Hakamies, in his enlightening article on “Proverbs and Mentality” (2002) ech-
+oes this warning: “Even if proverbs can reveal an aspect of the user’s way of thinking, this 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+507
+hardly means that proverbs are always the most reliable key” [Hakamies 2002: 224] for 
+mentality conclusions.
+Basing such studies on historical and comparative footings and enhancing them by 
+social and psychological findings, proverbs can be of value in drawing some general atti-
+tudinal conclusions. Even if there is such a concept as a general worldview pertaining to a 
+certain culture, it must be kept in mind that “a worldview is like a stage set on which each 
+human being is a character seeing himself, speaking his lines, and viewing everything else. 
+/…/ Worldviews do differ with cultures” [Naugle 2002: 246]. In other words, when looking 
+at national worldviews, it is important to keep in mind that such a construct is indeed very 
+complex, with such communal character having to leave space for the deviating character 
+traits of individuals [Potter 1954: 8–9]. From a folkloristic point of view, it can be said that 
+individual “human thought and action are affected [to a degree] by worldview perception 
+and interpretation” [Naugle 2002: 299]. Zuzana Profantová is correct in stressing in her 
+short yet insightful article that certain general worldview traits can be ascertained from 
+particularly often-used proverbs as socially sanctioned “signs communicating tradition, 
+the past and the presence” [Profantová 1996: 723]. In his equally revealing article Geof-
+frey White reaches similar conclusions: “The fact that certain proverbs are frequently used 
+suggests that they express key understandings about everyday life. If so, proverbs may 
+provide a source of insight into cultural models in particular areas of common experience” 
+[White 1987: 152–153]. Indeed, proverbs “appeal to common-sense reasoning based on 
+cultural models of experience” [Dundes 1971: 168], and they reveal “folk ideas”, a term 
+for worldview/mentality favored by the American folklorist/anthropologist Alan Dundes.
+Before discussing what folk ideas, worldview, or mentality can be extrapolated from 
+authentic American (not British) proverbs about financial matters, a few more general 
+comments about the American worldview, if indeed there is such a thing, are in order. 
+John Tierney begins his scholarly study with the fitting statement that “A deep and endur-
+ing characteristic of the American worldview stems from the unique nature of US society 
+as being a ‘melting pot’ or, as the late President John Kennedy put it in his own book, ‘A 
+nation of immigrants’” [Tierney 2016: 1–2]. True enough, but his introductory statement 
+“Having been spared the traumas of periodic and systemic revolutions, modern America 
+has thrived on political stability and a singular worldview. /…/ The validity of liberty as 
+the fundamental American worldview” (xviii) is a bit too general. The proverbial idea of 
+“life, liberty, and the pursuit of happiness” and the proverb that “All men are created equal” 
+from the famed Declaration of Independence (1776) are indeed almost sacred cornerstones 
+of American democracy, but care must be taken that these noble concepts are not trans-
+figured into a worldview of hubristic exceptionalism. And yet, the idea of individual and 
+political freedom is part of the psyche of the entire highly diverse American population. 
+The quintessential modern American proverb “Different strokes for different folks” from 
+about 1945 is a liberating piece of folk wisdom that quite naturally was coined in the 
+United States [Mieder 1989: 317–332].
+Realizing that folk ideas (mentalities or worldview) can change over time, Jim Nor-
+wine and Jonathan Smith entitled their edited volume as Worldview Flux. Perplexed Values 
+among Postmodern Peoples (2000). In one of the article on “Values in Flux”, the authors 
+rightfully add pragmatism to liberty/freedom as a basic element of the American world-
+view: “ ‘Value that which works, discard that which does not’ is such a fundamental and 
+defining American sensibility that pragmatism has been referred to as our most ‘home-
+508 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+grown’ intellectual tradition” [Norwine et al. 2000: 29]. David Potter in his earlier book 
+with the befitting title People of Plenty. Economic Abundance and the American Character 
+(1954) decided that “in America ‘liberty,’ meaning ‘freedom to grasp opportunity,’ and 
+‘equality,’ also meaning ‘freedom to grasp opportunity,’ have become almost synonymous. 
+In short, equality came to mean, in a major sense, parity in competition” [Potter 1954: 
+92]. And yes, the embracing of “mobility” [Potter 1954: 97] became part of the American 
+society of abundance in considerable difference towards attitudes of changing places for 
+the sake of better employment opportunities in other countries. Of course, the emphasis 
+on competition also has led to “American life being geared to success rather than to status. 
+That is, the American measures his own worth by the distance which he progressed from 
+his point of departure rather than by the position which he occupies; he esteems high cur-
+rent income more than the possession of long-accumulated wealth” [Potter 1954: 48]. This 
+brings to mind the American ideal of the achievements of the “self-made” person, best 
+expressed by Puritan ethics and the proverbial expression “from rags to riches” [Dundes 
+1971: 99].
+Competition, success, and wealth led Alan Dundes to the justified conclusion that 
+there exists in the American society “a materialistic, capitalistic view of the world” that 
+can best be summarized as the folk idea of “the principle of unlimited good [abundance]” 
+[Dundes 1971: 96]; (see also [Mullen 1978: 209–212]) to which can be added “the fu-
+ture orientation in American worldview” [Dundes 1971: 98]. Drawing on various folk-
+loric materials, including numerous proverbs and proverbial expressions, Dundes showed 
+the seeming American obsession with the future in two seminal studies: [Dundes 1969; 
+2004]. What distinguishes Alan Dundes’s three articles about American folk ideas is that 
+he amasses much folkloric and particularly proverbial material to back up his convincing 
+claims that Americans in general are grounded in capitalist beliefs, that they are future ori-
+ented, and that they have progressive ideas about moving forward. Americans look from 
+the present to the future and at times tend to ignore the lessons of history. Dundes would 
+be quick to point out that his findings are generalizations, but they are to a considerable 
+degree founded on the folk ideas, worldview or mentality as expressed in American folk-
+lore of today. Other folk ideas and beliefs, notably aspects of independence, individualism, 
+ingenuity, freedom, and unlimited opportunities in the sociopolitical American life are 
+described and analyzed in Wolfgang Mieder’s book [Mieder 2019b].
+With this having been said, it is time to move on to what worldview, at least to some 
+degree, American proverbs about monetary matters express. First of all, here is a short 
+chronologically arranged list of such authentic American proverbs as established by his-
+torical research based on multiple contextualized references from literary works and the 
+mass media. They are part of Wolfgang Mieder’s annotated collection [Mieder 2015]. Each 
+proverb is listed together with the date of its first registered occurrence in a printed source 
+in parentheses:
+Money is the sinews of trade (1731)
+Money is power (1741)
+He that will increase in riches, must not hoe corn in silk breeches (1750)
+Taxation without representation is tyranny (1761, attributed to James Otis;
+also as revolutionary slogan as “No taxation without representation”)
+The longest [fullest] purse will prevail (1764)
+Money works miracles (1766)
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+509
+A bad penny is sure to return (1766, coined by Abigail Adams)
+Despair never pays any debts (1767)
+Money once gone never returns (1771)
+Discount is good pay (1780)
+There is no friendship in trade (1784, coined by Samuel Adams)
+The world will do its own business (1800)
+Competition is the life of trade (1816)
+Never spend your money before you have it (1817)
+Promises cost little (1836)
+Courtesy costs nothing (1837, coined by Ralph Waldo Emerson)
+Cheapest is the dearest labor (1841, coined by Ralph Waldo Emerson)
+Don’t mix business with pleasure (1847)
+Banks have no heart (1853)
+When you die, you can’t take it with you (1855)
+Money can’t buy happiness (1856)
+Health is a call loan (1858, coined by Josh Billings)
+A dollar saved is a dollar earned (1859, based on the older English proverb
+“A penny saved is a penny earned”)
+There are some things that money can’t buy (1864)
+It pays to advertise (1868)
+Equal pay for equal work (1869, coined by the feminist Susan B. Anthony)
+Money isn’t everything (1870)
+Money makes the world go around (1871)
+From shirtsleeves to shirtsleeves in three generations (1874,
+attributed to Andrew Carnegie)
+The best things in life are free (1881)
+Buy low, sell high (1895).
+As can be seen, these proverbs include plenty of wisdom about business, money, fi-
+nances, prosperity, trade, and much more. Most of them are quite positive in their stress 
+of abundance, competition, and advancement, but there are also proverbs that show that 
+money cannot do everything, to wit the proverbs “Money can’t buy happiness” and “Mon-
+ey isn’t everything”. But there is also the proverb that very positively states that “Money 
+works miracles”. Of mixed blessing is the proverb that “Money is power” that unfortunate-
+ly can be observed in present-day America! Regarding this proverb, it is befitting to cite a 
+short statement from Edward Bulwer Lytton’s essay: “Money is character — money is also 
+power. I have power not in proportion to the money I spend on myself, but in proportion 
+to the money I can, if I please, give away to another. We feel this as we advance in years” 
+[Lytton 1864: 97–98]. One might wish that more wealthy people would feel philanthropi-
+cally inclined in this way, thus changing the rather aggressive proverb “Money is power” 
+to the more humane anti-proverb “Money is character”. In any case, even this short list 
+of earlier proverbs includes already much economic sense that is still most appropriate 
+for the modern age, as can be seen from just these few examples: “Money is the sinews 
+of trade”, “Competition is the life of trade”, “It pays to advertise”, and “Equal pay for equal 
+work”, Susan B. Anthony’s early feminist slogan for equal treatment in work compensation 
+between the sexes.
+By now the question quite naturally has arisen where the proverb “Time is money” 
+enters into all of this with its international dissemination in many languages. After all, any 
+510 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+Google or other data search as well as a check in most quotation and proverb dictionaries 
+will reveal that Benjamin Franklin, the renowned American printer, publisher, inventor, 
+scientist, businessman, and diplomat — also one of the founding fathers of the United 
+States — coined this by now ubiquitous proverb. He did in fact cite it in his essay “Advice 
+to a Young Tradesman” (1748):
+Remember that Time is Money. He that can earn Ten Shillings a Day by his Labour, and goes 
+abroad, or sits idle one half of that Day, tho’ he spends but Sixpence during his Diversion or 
+Idleness, ought not to reckon That the only Expence; he has really spent or rather thrown 
+away Five Shillings besides [Labaree 1961: III, 306].
+He included it again in the 1751 issue of his Poor Richard’s Almanack, an annual pub-
+lication for the early colonies that he edited and published for twenty-five years between 
+1733 and 1758 in about 10,000 copies each year:
+And he that is prodigal of his Hours, is, in effect, a Squanderer of Money. I remember a 
+notable Woman, who was fully sensible of the intrinsic Value of Time. Her Husband was a 
+Shoemaker, and an excellent Craftsman, but never minded how the Minutes passed. In vain 
+did she inculcate to him That Time is Money. He had too much Wit to apprehend her, and it 
+prov’d his Ruin [Labaree 1961: IV, 86–87].
+But, and here lies a truly revolutionary discovery by Damien Villers and Wolfgang 
+Mieder, who, in their recent article [Villers, Mieder 2017] were able to show that Franklin 
+copied this reference verbatim from a small statement in the British journal Free Thinker 
+of May 18, 1719 (vol. 3, no. 121, p. 128). The proverb is thus, as far as the record stands 
+today, of British origin. Consequently, it cannot be considered as an authentic American 
+proverb, even though it is utterly fair that to say Americans to this day have accepted it 
+into their pecuniary worldview by usually claiming Franklin as its originator.
+To be sure, Benjamin Franklin included 1044 proverbs in the 25 issues of his almanac, 
+that is about 40 proverbs each year, of which most were copies from earlier English prov-
+erb collections [Barbour 1974]. However — credit where credit is due — he also coined 
+a few proverbs himself that became current among his compatriots and are still known 
+today, among them “Three removes is (are) as bad as a fire”, “Laziness travels so slowly that 
+poverty soon overtakes it”, and “There will be sleeping enough in the grave” [Gallacher 
+1949; Gallagher 1973]. But with his keen interest in business and knowledge of finances, 
+he also created the following proverbs to educate his fellow colonists in the finer points of 
+commerce and trade: 
+Necessity never made a good bargain (1735)
+Industry pays debts, while despair increases them (1742)
+If you would be wealthy, think of saving more than of getting (1743)
+If you would have your business done, go; if not, send (1743)
+Drive thy business, or it will drive thee (1744) 
+He who multiplies riches multiplies cares (1744) 
+Wealth and content [satisfaction] are not always bed-fellows (1749)
+Spare and have is better than spend and crave (1758)
+There is also “Nothing can be said to be certain, except death and taxes” from Frank-
+lin’s letter of 1789 to Jean Baptiste Le Roy that remains popular to this day. However, the 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+511
+English dramatist Christopher Bullock had it quite similarly already in his comedy The 
+Cobbler of Preston (1716) as “’Tis impossible to be sure of any thing but Death and Taxes.”
+Be that as it may, of utmost importance is the fact that Franklin selected 105 proverbs 
+from his almanacs and assembled them in a classic essay that he gave the appropriate name 
+of “The Way to Wealth” (1758). It became a universally accepted and followed “hit” — to-
+day one would say that it went viral, being translated into several languages — instructing 
+his fellow subjects (still British at that time) and later American generations about virtue, 
+prosperity, prudence, and above all economic common sense. The essay contains the so-
+called Puritan ethics with its emphasis on achievement and striving [McClelland 1961: 
+46–49] expressed in proverbs that without any doubt helped to shape the worldview of 
+the young American nation. This magisterial tour-de-force proverbial treatise thus became 
+a secular Bible of sorts, spreading social and economic wisdom in the form of folk wis-
+dom to thousands of eager followers. Doubtlessly “The Way to Wealth” is one of the truly 
+significant documents in the long history of proverbs, even if, as Franklin admitted in 
+1758 at the end of his essay, “not a tenth part of the wisdom was my own” ([Mieder 2004: 
+216–224; Mieder 2007: 213–218; Sparks 1840: II, 94–103]; these sources contain the text 
+of the entire essay).
+Regarding the incredible influence of this essay, the proverb “Time is money”, and 
+other proverbs expressing aspects of the American psyche, the sociologist David Norman 
+Smith has made the following valuable observation [Smith 2006]:
+Proverbs and popular sayings express hegemonic worldviews. Yet in capitalist society, even 
+hegemonic ideas are riven with deep contradictions. Cultural fissures at the level of ideas 
+bisect structural fractures at the level of economy. The consequence is that, for many people, 
+ambivalence has become the norm, with respect to many of the most common everyday 
+phenomena — time and money, work and profit, war and peace, sex and ethics. And yet 
+there is also a kind of universality in this fractured world. Capital has become a common 
+denominator, the source and inspiration of a global common sense. People everywhere 
+know the ads and logos, the jingles and ring-tones of the new corporate order. Rural sayings 
+blend into the sound bites of the global city. Hegemony and money entwine. Common sense 
+vibrates with the energy of commodity culture. ([Smith 2006: xix]; for global economics 
+education see [Girardi 2010].)
+Dean Wolfe Manders, whose book is based to a degree on communist ideology in-
+formed by Karl Marx and Antonio Gramsci, takes an even dimmer view of proverbial 
+common sense that to him encapsulates a “capitalist ideological hegemony and the popu-
+lar philosophy of American pragmatism” [Manders 2006: 97]. He consequently presents 
+a very negative view of Franklin’s proverbial wisdom summarized in the by now world-
+proverb “Time is money”:
+Franklin’s statement. “time is money,” an American common sense phrase of great, enduring 
+popularity, expresses in full, the lived meaning of capitalist time. For to equate time with the 
+capitalist commodity of “divine power” — i.e., “the almighty dollar” [Forrest 1940; earliest 
+reference thus far from 1836] — money, bespeaks the commodification of experienced time 
+[Manders 2006: 148].
+Not surprisingly, he finishes his attack on American capitalism informed in part on 
+common-sense proverbs with this somewhat one-sided generalization: “American capital 
+is constitutive of American everyday lived experience. Systematic and hegemonic features 
+512 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+of American capital — alienation. fetishization, mystification, etc. — are constituent ele-
+ments within collective and individual praxis of American daily life” [Manders 2006: 165]. 
+While this extreme viewpoint has some legitimacy, it would indeed be better to speak of 
+“hegemonic worldviews” that characterize the modern American culture that is much 
+more complex than the proverb “Time is money” might suggest. Stan Nussbaum shows 
+this very convincingly in his book by listing “‘Ten Commandments’ of American Culture” 
+as an introduction to proverbs current in American communication:
+1. You can’t argue with success. (Be a success.)
+2. Live and let live. (Be tolerant.)
+3. Time flies when you’re having fun. (Have lots of fun.)
+4. Shop till you drop.
+5. Just do it.
+6. You are only young once. (Do whatever you can while you have the chance.)
+7. Enough is enough. (Stand up for your rights.)
+8. Rules are made to be broken. (Think for yourself.)
+9. Time is money. (Don’t waste time.)
+10. God helps those who help themselves. (Work hard.)
+[Nussbaum 2005: 15–21]
+Regarding “Time is money”, Nussbaum acknowledges that “Americans are very time-
+conscious and very money-conscious” [Nussbaum 2005: 20], but he does not go so far 
+as Dean Manders in seeing it as proverbial wisdom used by capitalism to manipulate or 
+control people. The American worldview or better worldviews are much more fragmented 
+than to be reduced to just one element. As Steven Shapin observed a few years earlier in a 
+more balanced article: “Many learned condemnations of proverbs are not merely wrong 
+but interestingly misdirected and misconceived. They tell us little about what proverbs 
+are or about how proverbs work in naturally occurring settings, and they set up a contrast 
+with learned knowledge that makes it hard to understand what that knowledge is in its 
+naturally occurring settings” [Shapin 2001: 734].
+Pursuant to Shapin’s observation, it is important that polysituativity, polyfunctional-
+ity, and polysemanticity [Mieder 2004: 9, 132] are brought to bear on the investigation of 
+the worldviews, mentalities or folk ideas expressed in proverbs. This means that proverbs 
+under investigation should be in actual use at a given time and that they need to be in-
+terpreted in oral or written context. Without wanting to automatically discredit earlier 
+studies of worldview, it must be stated that most of them ignore these matters and also the 
+important matter whether the proverbs under investigation are part of the paremiologi-
+cal minimum, i.e. that they are known and in use [Lau 1996; Mieder 2004: 127–131]. Be 
+that as it may, considering modern times, there is no doubt that the pecuniary element 
+is clearly part and parcel of proverbs in American life just as such dominant matters as 
+age, friend, God, life, love, success, time, etc. are quite dominant. [Mieder 2018; 2019a]. 
+In order to make the following remarks more timely and revealing, some one hundred 
+authentically American proverbs coined after the year 1900 will be discussed, with all of 
+them having been registered in actual contexts of which due to space restrictions but a few 
+can be included here. Since they are in fact “homegrown” and “modern”, a few careful con-
+clusions can in fact be drawn from them about the role of financial matters in American 
+proverbial wisdom. The proverbs are all registered with dates and contexts in The Diction-
+ary of Modern Proverbs (2012; abbreviated as DMP and cited throughout with dates and 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+513
+page numbers in parentheses) edited by Charles Clay Doyle, Wolfgang Mieder, and Fred 
+R. Shapiro, and in three supplements subsequently edited by Doyle and Mieder (2016, 
+2018, 2020; abbreviated as S1, S2, S3 plus date and page number). These publications con-
+tain 1607 modern proverbs, of which 110 or 6.8 % are concerned with such financial issues 
+as business, cost, money, price, etc. This is perhaps not a large percentage, but this group 
+of proverbs most assuredly makes up a significant part of American folk ideas. And yes, as 
+already mentioned, the pecuniary worldview contains contradictions, just as proverbs are 
+contradictory and not universal truths [Mieder 2004: 133–134].
+The folklorist Simon J. Bronner has rightfully observed that among other components 
+“Capitalism — particularly in the United States, which has been called ‘the capitalist country 
+par excellence’ — depends on the institutionalization of private property, accumulation of 
+wealth as profits from enterprises, agencies for credit functions such as banks, and invest-
+ments to enlarge markets and improve production” [Bronner 2019: 210]. Without doubt 
+America is a consumer culture with somewhat of a unified vision or worldview. And this 
+very emphasis on the accumulation of wealth that started in the late nineteenth century “led 
+Americans to a new age of ease and abundance. In short, wealth in America promised the 
+flowering of a sprawling, glorious American civilization” [Bronner 1989: 13]. Little wonder, 
+that President Calvin Coolidge summarized the evolution of the United States into a ma-
+jor economic power with the befitting declaration that “After all, the chief business of the 
+American people is business.” By August 28, 1928 it appeared in the New York Times some-
+what shorted as “The business of America is business” (DMP: 30) that has long become a 
+popular proverb. A considerably earlier proverb states “Business goes where it is invited and 
+stays where it is well treated” (1910, DMP: 30), and Irving Berlin’s famous song “There’s no 
+business like show business” (1946, DMP: 30) connected the world of the theater with that 
+of business. There are also quite straight-forward modern proverbs that deal with the basic 
+business aspects of bargains. loans, and mortgages. It is interesting to note that a number 
+of these proverbs and other examples to be cited are anti-proverbs of older texts that have 
+become proverbs in their own right [Litovkina, Mieder 2006; Mandziuk 2017: 8–13]:
+Home is where the mortgage is (1904, DMP: 123)
+The proverb originated as an anti-proverb based on the old expression “Home is 
+where the heart is.”
+New goods are better than bargains (1919, DMP: 109)
+A bargain is something you don’t need at a price you can’t resist (1964, DMP: 13)
+There exist other proverbial warnings about “bargains,” some of them older than the 
+twentieth century: “A bargain is usually worth no more than you pay for it”; “A bargain 
+usually costs more in the end”; “On a good bargain think twice.”
+Don’t let your mouth write (Don’t write) a check that your ass (behind) can’t cash 
+(1966, DMP: 174)
+What you don’t owe won’t hurt you (1968, DMP: 186)
+The proverb originated as an anti-proverb based on “What you don’t know won’t hurt you.”
+Always be closing (1971, DMP: 41)
+The close is the goal of all salespeople, the point when the customer agrees to part with the 
+money.
+514 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+A rolling loan gathers no loss (1984, DMP: 149)
+The proverb originated as an anti-proverb based on “A rolling stone gathers no moss.”
+It will come as no surprise that the verb “to sell” is part of the world of business 
+proverbs that includes personal sales as well as such insights that “Sex sells”, showing that 
+two-word proverbs like the older “Time flies” or “Money talks” [Olbrys 2005] continue to 
+be created:
+Sex sells (1926, DMP: 226)
+Never give anything away that you can sell (1953, DMP: 98)
+Pile it high, sell it cheap (1955, DMP: 198)
+Offense sells tickets, defense wins games 1 (1976, DMP: 183)
+The proverb can apply to football, basketball, soccer, hockey, and other sports.
+There are, of course, also proverbs that reflect an opposing view of selling, to wit the 
+proverb “Less is the new more” (2001, DMP: 138). The proverb asserts the trendiness of 
+“minimalism” — in economic behavior, environmental stewardship, sartorial fashion, etc. 
+It is based on the older paradoxical proverb “Less is more.” The pattern “X is the new Y” is 
+productive: “Gray is the new black,” “Small is the new large,” “Fifty is the new thirty,” etc. 
+Very negative is the proverb “Everything is (It’s all) a racket” (1928, DMP: 213), basically 
+saying that all these money deals are a questionable scheme. There is also the proverb “No 
+one ever went broke (went bankrupt, get poor, etc.) underestimating the intelligence of 
+the American people” (1926, DMP: 129) that H. L. Mencken coined somewhat sarcasti-
+cally depicting Americans as being susceptible to scams. But the business world has also 
+brought forth the proverb “He profits most who serves best (1909, DMP: 207) with its 
+ethical approach to business that in 1910 became the unofficial and in 1950 the official 
+motto of Rotary International.
+Profit surely will be enhanced if businesspeople treat their customers fairly and po-
+litely. Not surprisingly the proverb “The customer is always right” (1905, DMP: 48); see 
+[Taylor 1958]) had an early start with the proverb “The customer gets what the customer 
+wants” (2001, DMP: 48) being a more modern claim whose earliest found reference is 
+from the Irish Times of October 2, 2001. Of course, the consumer also faces the proverbial 
+truth that “You have to spend to get” (1904, DMP: 238) while following that modern slo-
+gan turned proverb “Shop till you drop” (1984, DMP: 229) that started with an advertise-
+ment for a Volkswagen dealership at Los Angeles of October 21, 1984: “Shop till you drop 
+/ You can’t beat our deals.” As Anand Sw. Prahlad has pointed out so befittingly: “American 
+advertising operates as a system of signs reflecting what can be called the ‘religion of capi-
+talism’” [Prahlad 2004: 128]. These matters naturally lead to a series of pragmatic proverbs 
+that contain the verb “to buy” as a clear reference point:
+You can buy anything except day and night (1900, DMP: 51)
+The most important consideration for buying (selling) a home are location, location, and 
+location (1926, DMP: 43)
+You break it, you buy it (1957, DMP: 27)
+Sometimes, in recent years, the proverb is called “the Pottery Barn rule.” There is also the 
+older proverb (and legal maxim) “He who breaks pays.”
+Buy the best and you only cry once (1959, DMP: 19)
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+515
+Buy land, they don’t make it anymore (1968, DMP: 137)
+You buy the ticket, you see the show (take the ride) (1977, DMP: 257)
+The proverb asserts that one must accept the consequences of decisions.
+You can’t win the raffle if you don’t buy a ticket (1983, DMP: 213)
+There is also the fascinating proverb “Never argue (quarrel) with a man (someone) 
+who buys ink by the barrel (gallon)” (1931, DMP: 160) that refers to the ink of the free 
+press that will print whatever it wants no matter how much one might argue against the 
+coverage. In contrast the proverb “If you want a friend, get (buy) a dog” (1941, DMP: 86) 
+is more benign but also quite depressing in its message about human relationships. It 
+alludes to the old saying “A dog is man’s best friend” and usually suggests that, in some 
+particularly hostile or competitive setting a dog will be the only friend that a person can 
+hope to find — and that (human) friendship itself is a quality not only improbable but 
+even undesirable.
+Buying involves paying, and there are a number of telling proverbs based on the verb 
+“to pay”. It should be noted, however, that in some of the following examples its meaning is 
+not so much pecuniary but rather that something is “worthwhile”. But these proverbs nev-
+ertheless show the monetary inclination in American folk speech with the modern prov-
+erb “Live now, pay later” (1946, DMP: 148) representing an Epicurean worldview without 
+much concern for financial consequences. As expected, there is also the proverbial warn-
+ing “You pay now (You can pay now) or you pay later (with interest)” (1974, DMP: 192):
+It pays to pay attention (1902, DMP: 10)
+It pays to look well (good) (1902, DMP: 192)
+Worry is interest paid on trouble before it is due (1909, DMP: 282)
+Courtesy pays dividends (compound interest) (1922, DMP: 46)
+The proverb originated as an anti-proverb elaborating on the proverb “Courtesy pays.”
+A baby’s smile pays the bill (1936, DMP: 11)
+The proverb might have originated from a reported reminiscence from around 1916: One 
+afternoon, visiting in Columbia, South Carolina, Woodrow Wilson “became thirsty and 
+stopped at a drugstore. When the party had been served and the President prepared to pay 
+the bill, the clerk serving him said, ‘One smile pays the bill.’ The smile was forthcoming.”
+If you’re going to play, you have to pay (You have to pay to play) (1955, DMP: 200)
+The proverb had its start from the song “If You Play, You Must Pay,” written and performed 
+by “Enyatta Holta” (Laverne Holt).
+Play big (You have to play big) to win big (1978, DMP: 201)
+The “play big” can refer to money being spent betting at a casino, races, etc.
+Fast pay (payment) makes (for) fast friends (1980, DMP: 85)
+Special note might be taken of the proverb “Crime doesn’t pay and neither does farm-
+ing” (1975, DMP: 46) that originated as an anti-proverb based on “Crime doesn’t pay” 
+(1874) and first appeared on a sign referring to the plight of farmers, who were demanding 
+parity prices for their products. Their financial lot has become more serious yet, especially 
+for small farms. And this leads to the proverb “Payback is a bitch” (1970, DMP: 192) refer-
+516 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+ring to financial or personal debts that have to be repaid. It might have originated as an 
+anti-proverb of the older modern proverb “Life is a bitch” (1940).
+With all this paying, the question arises what the folk thinks about “free” commodi-
+ties in the United States. After all, the basic idea of “freedom” is definitely part of the 
+American worldview, accepted by its citizens and immigrants alike. Little wonder that 
+the following two proverbs originated in the 1940’s during the Second World War and the 
+reestablishment of free societies:
+Freedom is not free (1943, DMP: 85)
+Freedom is not for sale (1949, DMP: 85)
+Today, with various internet resources, the proverb “Information wants to be free” 
+(1984, DMP: 128) has become the battle-cry that their materials should be free from cen-
+sorship and also free from any cost so that everybody has access to this flood of informa-
+tion. The proverb “Nothing ain’t worth nothing, but it’s free (1969, DMP: 180) also tells 
+an interesting story in that it stresses the fact that things of little value might be a good 
+bargain after all since they are free. It might be regarded as a modern incarnation of the 
+traditional proverb “Nothing comes from nothing” or as an anti-proverb responding to a 
+version of that saying. This brings to mind the proverb “When you have nothing, you have 
+nothing to lose” (1965, DMP: 182) that was included in the same year of its earliest refer-
+ence in Bob Dylan’s song “Like a Rolling Stone” (1965; Bowden 1992: 193–195) as “When 
+you got nothing, you got nothing to lose.”
+With this a very popular modern American proverb has been reached that is older 
+than one might have expected (including myself making frequent use of it). Its structure 
+“There is no such thing as …” has yielded such proverbs as “There is no such thing as a 
+definitive study” (1936, DMP: 252–253), “There is no such thing as bad publicity” (1941, 
+DMP: 253), “There is no such thing as a little pregnant” (1942, DMP: 253), “There is no 
+such thing as bad sex” (1971, DMP: 253–254), and “There is no such thing as bad weather, 
+only the wrong clothes” (1979, DMP: 254). But here then is the quintessential proverb of 
+this type with its economic message:
+There is no such thing as a free lunch (1917, DMP: 253) 
+Applied figuratively, the proverb appears as the “punch line” of a fable: A king asks 
+his counselors to summarize economics in a brief and simple way. They respond with 
+87 volumes, more than 600 pages each, drawing the king’s wrath and incurring executions. 
+Further demands and more executions encourage ever-briefer summations until, finally, the 
+last economist, “a man of profound wisdom,” speaks: “Sire, in eight words I will reveal to 
+you all the wisdom that I have distilled through all these years from all the writings of all 
+the economists who once practiced their science in your kingdom. Here is my text: ‘There 
+ain’t no such thing as free lunch’” (see also [Kauffman 1990: 21–22; Levy, Peart 2004: 422]).
+It comes as no surprise that in the country of the automobile the proverb “There is 
+no such thing as a free ride (Nobody rides for free)” (1949, DMP: 253) with its similar 
+message came into being. But there is yet another, but crasser proverb that has appeared 
+as bumper stickers on cars: “Gas, grass, or ass: Nobody rides for free” (1978, DMP: 94). In 
+other words, if someone wants to hitch a free automobile ride, money for gas, marijuana 
+(grass) or sexual favors (ass) have to be provided. This proverb is clearly capitalism at its 
+worst as it takes advantage of a person in need.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+517
+This brings to mind the older American proverb “Everything has its price” (1829) that 
+originated with the transcendentalist Ralph Waldo Emerson [Mieder, Kingsbury, Harder 
+1992: 185]. The noun “price” appears in several modern proverbs, notably in such short 
+texts based on the structure “X has a (its) price”. These proverbs do not necessarily imply a 
+monetary value but rather effort, sacrifice, or resources necessary to obtain a desired goal:
+Glory has a price (1917, DMP: 98)
+Fame has a price (1932, DMP: 74)
+Silence has a price (1943, DMP: 231)
+The proverb can have a range of applications: blackmail, the frustration of keeping a 
+secret, and the luxury of quiet living, for example.
+Power has its price (1966, DMP: 205)
+Two additional proverbs with a similar structure, “Grief is the price we pay for love 
+(loving)” (1912, DMP: 111) and “Pain is the price of glory (2005, DMP: 188) also do not 
+deal with money as such. This is also the case with the proverb “Age is a high price to pay 
+for maturity” (1969, DMP: 3), but in the following three modern proverbs “price” clearly 
+is dealing with pecuniary matters:
+If you have to ask the price (the cost, how much it costs), you can’t afford it (1926, DMP: 207)
+The (only) difference between men and boys is the price of their toys (1963, DMP: 55)
+The risk is the price you pay for opportunity (1981, DPM: 218)
+The last proverb in its normal use refers to investment risks, but it does have other 
+meaning possibilities depending on the risks that are taken.
+With this emphasis on financial concerns it is no wonder that American folk ideas 
+also concern themselves with the dichotomy of rich and poor. Unfortunately, the schism 
+between the two socioeconomic states is getting ever more extreme. Regarding the rich, 
+the following four proverbs emphasize their difference, in part most likely from the view-
+point of not so well-to-do Americans:
+If you’re so smart, why aren’t you rich? (1909, DMP: 234)
+The rich are different (1926, DMP: 217)
+The proverb probably originated as a misquotation from F. Scott Fitzgerald’s story “The 
+Rich Boy” (1926) “Let me tell you about the very rich. They are different from you and me” 
+(Fitzgerald 1926: 1). 
+Rich people (folks) have mean (hateful) ways (1924, S2: 35)
+You can’t be too rich or too thin (too thin or too rich) (1974, S1: 113)
+No wonder that poor people have come up with the proverb “It’s hell being (to be) 
+poor” (1904, DMP: 120) as they often face the unfortunate situation of losing their jobs 
+because of the employment rule “Last hired, first fired” (1918, DMP: 121). For them the 
+American worldview of going from the proverbial “rags to riches” holds true, well ex-
+pressed in the modern proverb “The road to Easy Street goes (runs) through the dump 
+(sewer)” (1970, DMP: 219). The dream that with hard work and some luck “Prosperity 
+is always just around the corner” (1936, DMP: 208) also plays into this. In its origins, 
+the saying mocked the Hooverite slogan applied to the Great Depression, “Prosperity is 
+518 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+just around the corner,” from 1931. However, today it summarizes the forward-looking 
+American worldview that things will work out and that financial success can be achieved. 
+Of course, there is also the disturbing proverb “White folks got the money and black folks 
+got the signs” (1934, DMP, 83). The signs are superstitious beliefs that falsely promise 
+prosperity or success, something that to this very day has not happened to many black 
+families in this country.
+Also of unsettling importance is the nineteenth-century American proverb “The rich 
+get richer and the poor get poorer” dealing with the growing gap between the rich and the 
+poor that is destroying the solid middle class. It expresses in a concise and oppositional 
+way that America is splitting itself into two extreme halves. The proverb is of relatively 
+young origin, with the earliest reference found thus far appearing in a short untitled “jot-
+ting” by the author and journalist Nathaniel Parker Willis in The New Mirror of August 5, 
+1843. It was popularized by way of its appearance in the song “Ain’t We Got Fun” (1920):
+There’s nothing surer,
+The rich get richer and the poor get poorer,
+In the meantime, in between time,
+Ain’t we got fun.
+The song also includes the anti-proverb “The rich get richer and the poor get (have) 
+children” (1920, DMP: 217) as a humorous variant that has gained currency, but certainly 
+not always as a light-hearted comment on social issues [Mieder, Kingsbury, Harder 1992: 
+508]. As a two-time presidential candidate, Bernie Sanders, US Senator from Vermont, 
+has made the original proverb his political leitmotif by citing it numerous times in his 
+speeches and books [Mieder 2019: 235–240]. As a democratic socialist with a strong so-
+cio-economic agenda, he paints his attacks on the wealthy with a very wide brush and 
+borders on being somewhat unfair to those wealthy people who are not driven by greed 
+alone and who are responsible citizens committed to social improvements by word and 
+deed. Sanders knows that, and he usually singles the billionaires Warren Buffet and Bill 
+Gates out as representatives of philanthropically-minded rich people. But no matter what, 
+there is this modern American proverbial wisdom: “Rich or poor, it’s good to have money” 
+[1949, DMP: 170].
+Speaking of money, here are a few American proverbs referring to pennies (Ross 1978), 
+dollars, and gold as they give financial advice for modern consumers ready to do some seri-
+ous shopping, hopefully mindful of the older proverb “It costs nothing to look” as well as its 
+anti-proverb turned modern proverb “It costs nothing to dream” (1920, DMP: 44):
+A penny spent is a penny earned (A penny saved is a penny lost) (1901, DMP: 193)
+The proverb originated as an anti-proverb to the earlier “A penny saved is a penny 
+earned (got).”
+A dollar in the bank is worth two in the hand (1904, DMP: 59)
+The proverb originated as an anti-proverb based on “A bird in the hand is worth two 
+in the bush.”
+Another day, another dollar (1907, DMP: 50)
+Don’t take wooden nickels (1912, DMP: 178)
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+519
+Since there are no such five-cent wooden coins, the proverb advises against gullibility 
+or credulity.
+You can only spend a dollar (spend money, spend earning) once (1913, DMP: 60)
+No dough, no go (1952, DMP: 61)
+“Dough” is slang for money.
+Go for the gold (1963, DMP: 106)
+He who has the gold makes the rules (1967, DMP: 106) 
+Often the proverb includes the satirical designation “The Golden Rule” (Matthew 7: 
+12) that has a much more humane message as “Do unto others as you would have them 
+do unto you”.
+If you sift through enough dirt (mud, crap), you may find gold (a diamond) (1997, DMP: 56) 
+Speaking of gold conjures up the dream of “rags to riches” from the fairy-tale world 
+and there are indeed “many modern financial success stories that correspond to this se-
+quential structure” [McDowall 20l3: 253–254]. The famed Stock Market might just make 
+such movement to personal wealth possible, and it is important to remember that invest-
+ing in stocks and bonds is by no means reserved to well-off Americans. There are many 
+small-time investors looking to make some money without being greedy. But they, as well 
+as investors in general, look for advice and patterns that might lead them to some financial 
+advancement. To assist them, Michael Maiello has put together his book [Maiello 2004] 
+and [Zweig 2018] with about the same number of modern investment proverbs that in-
+clude — quite expectedly — contradictory statements. After all, investments are not gov-
+erned by absolute truths that predict certain positive outcomes for every stock purchase. 
+Some of these texts do not qualify as proverbs, but Wall Street certainly has produced 
+some modern proverbs that give valuable investment advice. What is of importance is that 
+they serve large portions of the American population, since stock and bond investments 
+are somewhat of a “folk sport” in this capitalist society. Most of them in the following list 
+are self-explanatory as sound advice, but where necessary, a short explanatory comment 
+is added. The second text, even though its earliest written reference is from Australia, is 
+included since it is such a fundamental investment insight:
+No one ever went bankrupt (went broke, lost money) taking (making) a profit (1902, DMP: 208)
+The proverb is often attributed to the financier J. P. Morgan.
+If you don’t speculate, you can’t accumulate (1903, DMP: 238)
+You can (either) eat well or sleep well (sleep well or eat well) (1912, S3: in print)
+The proverb advises against overextension in unsure investments. 
+Never sell America short (1922, DMP: 5)
+The proverb refers to the idea of selling a stock short (at a loss), meaning that America 
+should be held in high esteem.
+Scared money can’t make money (Scared money won’t win, Scared money is dead money; 
+Don’t play with scared money) (1935, S1: 109)
+Sell in May and (then) go away (1938, DMP: 164)
+520 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+The proverb is based on the usual underperformance of some stocks in the summery 
+six-month period beginning in May and ending in October.
+As California goes, so goes the nation (1940, DMP: 32)
+The proverb does not only refer to the financial influence of this large state but also to 
+electoral politics, fashions, and fads of various kinds. It is modelled on the older “As Maine 
+goes, so goes the nation.”
+What is good for General Motors is good for America (the country) (1953, DMP: 95)
+The proverb originated as a misquotation from U. S. Senate testimony of Charles 
+E. Wilson (former president of General Motors): “For years I thought what was good for 
+our country was good for General Motors, and vice versa. The difference did not exist.” 
+The proverb most often satirizes the concept that the well-being of giant corporations in-
+cluding their stocks (!) is inextricably and benevolently connected with the welfare of the 
+nation and its populace.
+Look before you leave (1958, DMP: 150)
+Originating as an anti-proverb based on “Look before you leap,” the proverb has had 
+a wide range of applications, urging caution about withdrawing one’s money from an in-
+vestment, about ascertaining that no body lies on the bottom of a private swimming pool, 
+about ensuring that no children or pets are left locked in a car, etc.
+When the United States (U. S., America, Wall Street, etc.) sneezes, the world catches (a) cold 
+(pneumonia) (1977, S3: in print) 
+The trend is your friend (Trend is friend) (1983, DMP: 263)
+The advice is to follow the developing market.
+Don’t marry (fall in love with) a stock (1969, S3: in print)
+As can be seen from these texts, they often exist in variants, as do traditional proverbs as 
+well. It does take time until a standard form crystalizes and gains general acceptance [Mied-
+er 2004: 9]. In the case of the proverb “What’s good for Wall Street is good for Main Street (If 
+it’s good for Wall Street, it’s good for Main Street” (1995, S1: 118) it is of great paremiological 
+interest that its reversal, i.e. that Main Street is the first element, developed in the same year 
+as the independent proverb “What’s good for Main Street is good for Wall Street” (1995, S1: 
+107). President Barack Obama used both proverbs repeatedly to stress the interdependence 
+of big and small business in the United States [Mieder 2009: 259, 334–335]. But there is no 
+doubt that the Stock Market on Wall Street is the driving engine of capitalist America where 
+earning and spending money is part of the national worldview.
+This having been said, it is finally time to look at those proverbs that refer to “money” 
+in particular. Some of them deal with human relationships, as for example “Those who 
+marry for money earn it” (1903, DMP: 170) and the somewhat related proverb that had a 
+British start: “Never (Don’t) marry for money; it’s cheaper to borrow it (you can borrow 
+it cheaper) (1927, DMP: 170). But speaking of relations, American proverbial wisdom has 
+changed the old proverb “Blood is thicker than water” into the pecuniary anti-proverb 
+“Money is thicker than blood” (1904, S1: 109), emphasizing the capitalist preoccupation 
+with money. Things can get quite brutal, if a loan shark states the proverb “You can’t get 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+521
+money from a dead man” (1964, DMP: 171) to explain why the ruined borrower is kept 
+alive. Speaking of criminal matters, there is the well-known modern proverb “Follow the 
+money (1974, DMP: 168), claiming that when all is well and done the best way to catch a 
+criminal is by way of money trails.
+As one would expect, modern proverbs also give good advice, to wit “The best way 
+to make money is to save it (is not to lose it) (1922, DMP: 272). Following the pattern of 
+“The best way to X is to Y” brings to mind the quite recent proverb “The best way to rob a 
+bank is to own one” (1986, DMP: 272) that seems to argue that people should take matters 
+in their own hands to succeed financially. In any case, the proverb “Put your money where 
+your mouth is” (1913, DMP: 170) has been a solid piece of advice since the early twentieth 
+century, arguing that financial promises must be followed by action. That money does 
+count in human relationships is also clearly expressed by the more recent proverb “My 
+money, my rules (Your money, your rules)” (1975, DMP: 169). The structural pattern “My 
+X, my rules” has become quite productive in recent years, to wit “My game, my rules (Your 
+game, your rules)” (1963, DMP: 93) and “My house, my rules (Your house, your rules)” 
+(1983, DMP: 126). Certain proverbial structures most certainly are involved in the crea-
+tion of new monetary proverbs. For example, the pattern “X is wasted on Y” of the proverb 
+“Youth is wasted on the young” (1931, DMP: 284) formed the basis of the more recent 
+proverb “Money (Wealth) is wasted on the rich (wealthy) (1981, S2: 32), a rather flippant 
+comment possible only in a society where money plays a dominant role. This is also in the 
+background of the proverb “A billion (million) here and a billion (million) there — pretty 
+soon it adds up (begins to add up) to real money” (1938, DMP: 21) that had its start as a 
+satirical comment on the ever increasing federal budget of the United States.
+The following last group of five rather short proverbs about money can well represent 
+the concluding comments of this survey about the American pecuniary worldview. They 
+certainly depict the positive and negative power of money and wealth, as it is found in 
+abundance among Americans of all walks of life:
+Money has no morality (1905, DMP: 169)
+In its ambiguous wording, the proverb can mean either that money itself is amoral or 
+that it — or the greed it represents — is immoral.
+Money never sleeps (1907, DMP: 169)
+The proverb has two (related) meanings: the value of money that is merely hoarded 
+can slip away, and the value of money that is prudently invested will grow relentlessly.
+Money talks, bullshit walks (1969, DMP: 169)
+“Bullshit” refers to worthless matters. The proverb probably originated as an anti-
+proverb based on “Money talks.”
+Money talks, wealth whispers (1989, S1: 109)
+Also based on the traditional proverb “Money talks”, this proverb emphasizes that 
+true wealth is discreet and in no need to brag.
+Money has no memory (1991, DMP: 169)
+This proverb basically states that money is a commodity without any concern of its 
+(il)legitimate use.
+522 
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3
+What all of this shows is, of course, that the proverb “Money makes the world go 
+’round” contains much truth, both in its positive and negative aspects. This can be found 
+in the proverb repertoire of other cultures and languages, but there can be no doubt that 
+money and wealth in all of their iterations are a dominant part of the American capitalist 
+worldview. There are numerous other components to the image of a general American 
+mentality, but business and finance are certainly part of it all. The main point to keep in 
+mind here is not to vilify money and wealth themselves. It is people who pervert them or 
+put them to good use that benefits the American society in general. Adding the forward-
+looking aspect of the American psyche to this, there is always hope that the emphasis on 
+capitalism might develop into a more balanced social-democratic pecuniary society with-
+out such an extreme difference between rich and poor. With good will and a belief in the 
+golden rule, this might well happen someday.
+Abbreviations
+DMP — The Dictionary of Modern Proverbs, see Doyle, Mieder, Shapiro 2012.
+S1 — The Dictionary of Modern Proverbs: A Supplement. (2016), see Doyle, Mieder 2016.
+S2 — The Dictionary of Modern Proverbs: A Supplement. (2018), see Doyle, Mieder 2018.
+S3 — The Dictionary of Modern Proverbs: A Supplement. (2020), see Doyle, Mieder 2020.
+Sources
+Barbour 1974 — Barbour F. M. A Concordance to the Sayings in Franklin’s Poor Richard. Detroit, Michigan: 
+Gale Research Company, 1974. 245 p.
+Braude 1965 — Braude J. M. Business and Professional Pointmakers. Complete Speaker’s and Toastmaster’s 
+Library in 8 vols. Vol. II. Englewood Cliffs, New Jersey: Prentice-Hall, 1965. 121 p.
+Cheales 1874 — Cheales A. B. Money Maxim. In: A. B. Cheales. Proverbial Folk-Lore. London: Simpkin, 
+Marshall & Co., 1874.; rpt. Folcroft, Pennsylvania: Folcroft Library Editions, 1976. P. 98–102.
+Cordry 1997 — Cordry, Harold V. The Multicultural Dictionary of Proverbs. Over 20.000 Adages from More 
+Than 120 Languages and Ethnic Groups. Jefferson, North Carolina: McFarland, 1997. 406 p.
+Doyle, Mieder, Shapiro 2012 — Doyle C. C., Mieder W., Shapiro F. R. (eds.). The Dictionary of Modern Prov-
+erbs. New Haven, Connecticut: Yale University Press, 2012. 312 p.
+Doyle, Mieder 2016 — Doyle C. C., Mieder W. The Dictionary of Modern Proverbs: A Supplement. Prover-
+bium. 2016, 33: 85–120.
+Doyle, Mieder 2018 — Doyle C. C., Mieder W. The Dictionary of Modern Proverbs: Second Supplement. 
+Proverbium. 2018, 35: 15–44.
+Doyle, Mieder 2020 — Doyle C. C., Mieder W. The Dictionary of Modern Proverbs: Third Supplement. Pro-
+verbium. 2020, 37: 53–86. 
+Forbes 1984 — Forbes M. S. (ed.). The Forbes Scrapbook of Thoughts on the Business of Life. New York: 
+B. C. Forbes & Sons, 1984. 574 p.
+Forrest 1940 — Forrest R. Irving and “The Almighty Dollar”. American Speech. 1940, 15: 443–444.
+Gallacher 1949 — Gallacher S. A. Franklin’s Way to Wealth: A Florilegium of Proverbs and Wise Sayings. 
+Journal of English and Germanic Philology. 1949, 48: 229–251.
+Lytton 1864 — Lytton E. B. On the Management of Money. In E. B. Lytton, Caxtonia. A Series of Essays on 
+Life, Literature, and Manners. Leipzig: Tauschnitz, 1864. P. 81–106.
+Mieder 1986 — Mieder W. Encyclopedia of World Proverbs. Englewood Cliffs, New Jersey: Prentice-Hall, 
+1986. 582 p.
+Mieder 1989 — Mieder W. American Proverbs. A Study of Texts and Contexts. Bern: Peter Lang, 1989. 394 p.
+Mieder 2004 — Mieder W. Proverbs. A Handbook. Westport, Connecticut: Greenwood Press, 2004; rpt. New 
+York: Peter Lang, 2012. 304 p.
+Mieder 1992 — Mieder W., Stewart A. K., Kelsie B. H. (eds.). A Dictionary of American Proverbs. New York: 
+Oxford University Press, 1992. 710 p.
+Вестник СПбГУ. Язык и литература. 2020. Т. 17. Вып. 3 
+523
+Sparks 1840 — Sparks J. (ed.). The Works of Benjamin Franklin. In 10 vols. Philadelphia, Pennsylvania: 
+Childs & Peterson, 1840.
+White 1986 — White R. B. (ed.). The Great Business Quotations. Secaucus, New Jersey: Lyle Stuart, 1986. 
+271 p.
+Zweig — Zweig J. I Found Wall Street’s Platitude Poem1. https://blogs.wsj.com/money beat/2018/07/06/i-
+found-wall-streets-platitude-poem/ (аccessed: 22.02.2020).

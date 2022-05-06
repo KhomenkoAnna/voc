@@ -1,0 +1,1 @@
+конкурс<S,муж,неод=(вин,ед|им,ед)>(NOUN,inan,masc sing,nomn) стартовать<V,нп=(непрош,ед,изъяв,3-л,несов|непрош,ед,изъяв,3-л,сов)>(VERB,perf,intr sing,3per,futr,indc) апрель<S,муж,неод=род,ед>(NOUN,inan,masc sing,gent) в<PR=>(PREP) возле<PR=>(PREP) памятник<S,муж,неод=род,ед>(NOUN,inan,masc sing,gent) днкугультинов<S,фам,муж,од=(вин,ед|род,ед)>(NOUN,anim,masc,Sgtm,Surn sing,gent)

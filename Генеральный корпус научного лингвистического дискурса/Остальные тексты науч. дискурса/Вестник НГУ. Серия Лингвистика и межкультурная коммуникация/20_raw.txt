@@ -1,0 +1,661 @@
+ 
+ 
+© В. А. Каменева, Н. В. Потапова, 2021 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+УДК 81’42, 81.432.1 
+DOI 10.25205/1818-7935-2021-19-3-84-97 
+ 
+ 
+Тактика апелляции к авторитету,  
+актуализирующая стратегию (де)легитимизации  
+в англоязычном предвыборном дискурсе 
+ 
+В. А. Каменева, Н. В. Потапова 
+ 
+Кемеровский государственный университет 
+Кемерово, Россия 
+ 
+ 
+Аннотация 
+Представлен анализ тактики апелляции к авторитету, актуализирующей стратегию (де)легитимизации в анг-
+лоязычном предвыборном дискурсе. Материал исследования составили шестьдесят предвыборных выступле-
+ний кандидата на пост президента США Дж. Байдена и кандидата на должность вице-президента США  
+К. Харрис во время предвыборной кампании 2020 года. Работа основывается на теоретико-методологической 
+базе лингвоперсонологии и политической лингвистики. Основные методы исследования: метод интент-
+анализа и семантико-стилистический метод. В работе выявлены и соотнесены «авторитеты», на которые ссы-
+лались названные политические деятели во время предвыборной кампании 2020 года, выступая перед избира-
+телями по всей Америке. Полученные результаты указывают на то, что выбор «авторитета», в первую оче-
+редь, ориентирован на ожидания таргет-групп избирателей, которые политик федерального уровня должен 
+уметь предугадывать. В ходе кампании политик апеллирует в своем личном и партийном дискурсе к тем авто-
+ритетам (людям, базовым ценностям и знаковым текстам), которые имеют наибольшую значимость для тра-
+диционного электората партии, а также определенных таргет-групп избирателей. В исследовании предложена 
+обобщенная классификация «авторитетов» американского предвыборного дискурса двух исследуемых поли-
+тических деятелей Демократической партии США, включившая авторитет политика, общественного деятеля; 
+авторитет специалиста/эксперта; авторитет деятеля науки, культуры, искусства; авторитет самого оратора; ав-
+торитет родителей; авторитет должности; авторитет простых граждан (не знаменитостей); авторитет средств 
+массовой информации; авторитет учреждения/инстанции; авторитет общечеловеческих ценностей; авторитет 
+различного рода текстов (отчеты, законы, Библия). Многочисленность «авторитетов», вошедших в обобщен-
+ную классификацию, объясняется с позиции адресат-адресантного взаимодействия, позволяя также подчерк-
+нуть значимость личности политика в выборе «авторитета» во время предвыборных выступлений перед опре-
+деленной группой электората. В работе приведены результаты анализа языковых особенностей актуализации 
+тактики апелляции к авторитету. 
+Ключевые слова  
+предвыборный дискурс, тактика апелляции к авторитету, ссылка на авторитет, коммуникативная стратегия, 
+делегитимизация, легитимизация 
+Благодарности  
+Работа выполнена при финансовой поддержке фонда РФФИ, проект 19-012-00522 «Проблема легитимизации 
+в политическом дискурсе: лингвоперсонологический аспект» 
+Для цитирования 
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету, актуализирующая стратегию (де)легитими- 
+зации в американском предвыборном дискурсе // Вестник НГУ. Серия: Лингвистика и межкультурная комму-
+никация. 2021. Т. 19, № 3. С. 84–97. DOI 10.25205/1818-7935-2021-19-3-84-97 
+ 
+ 
+ 
+ 
+ 
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету                85 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Authority-Based Strategy of (De)legitimization  
+in American Electoral Discourse: A Case Study 
+ 
+Veronika A. Kameneva, Natalia V. Potapova 
+ 
+Kemerovo State University 
+Kemerovo, Russian Federation 
+ 
+Abstract 
+The paper presents an analysis of (de)legitimization in American pre-election discourse based on the tactics of appeal-
+ing to “authorities”, any entity, person or value which continue to retain confidence, have credibility or are otherwise 
+entitled to authority in the society and family. Sixty 2020 election campaign speeches of U.S. presidential candidate 
+Joe Biden and U.S. vice-presidential candidate Kamala Harris were the material of this case study. Our research ap-
+proach is based on theoretical and methodological findings of linguopersonology and political linguistics. The main 
+methods used are those of intent, semantic and stylistic analysis. The purpose was to identify, describe and categorize 
+the authorities cited by the two politicians during their campaign and to correlate them to voters’ aspirations in the cit-
+ies and states involved. The analysis of relevant contexts revealed that the choice of authorities is primarily guided by 
+the expectations of target groups of voters to whom the campaign speech is addressed. For this reason, the pre-election 
+discourse of the politicians under study includes the authorities which are important for different target groups of vot-
+ers addressed all over the country. The study of the American pre-election discourse yields a general classification of 
+authorities to which both politicians are appealing; it includes famous politicians, public figures, renowned experts, 
+scientists, outstanding representatives of the culture and art. The politicians may also appeal to the authority of the 
+speaker himself, their parents (mom, dad); edifying example of ordinary people (not celebrities); authority of high po-
+sitions; authority of institutions and bodies; authority of universal values; authority of different kinds of texts (reports, 
+laws, Scriptures), and sometimes authority of some mass media sources. The multiplicity of the authorities represented 
+in our classification is explained in the paper as a logical consequence of addresser-addressee interaction. It also re-
+veals the important role of the politician’s personality to appeal at a rally to “authorities” that might in his opinion be 
+attractive for his specific audience. The paper presents the results of the analysis of the linguistic features of the ap-
+peal-to-authority tactics. 
+Keywords 
+pre-election discourse, speech tactics, appealing to authority, reference to authority, communicative strategy, 
+delegitimization, legitimization 
+Acknowledgements 
+This research was supported by the Russian Foundation for Basic Research, project no. 19-012-00522 “The problem 
+of legitimation in political discourse: linguistic and personological aspect” 
+For citation 
+Kameneva, Veronika A., Potapova, Natalia V. Authority-Based Strategy of (De)legitimization in American Electoral 
+Discourse: A Case Study. Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3, 
+p. 84–97. (in Russ.) DOI 10.25205/1818-7935-2021-19-3-84-97 
+ 
+ 
+Введение 
+ 
+Предвыборный дискурс и его коммуникативные (иногда называемые речевыми) стратегии 
+и тактики с античных времен и по сей день вызывают научный интерес у исследователей 
+[Багана, Бочарова, 2012; Дмитриева, 2020; Каменева, 2019; Кононова, 2020; Копачева, 2019; 
+Ленец, Сергеева, 2018; Новоселова, 2019; Подоляк, Маринина, 2016; Сергеева, 2019; Скляро-
+ва, 2017; Халатян, 2011; Khajavi, Rasti, 2020]. Как правило, большинство исследователей  
+рассматривают коммуникативные стратегии и тактики в предвыборном дискурсе в тесной 
+взаимосвязи с его основными целями, выраженными известной триадой: «ориентация + ин-
+теграция + агональность». Как показал обзор научных работ, основное внимание уделяется 
+стратегии самопрезентации политика в ходе предвыборной кампании [Куралева, Кондрашо-
+ва, 2018; Руженцева, 2018; Сергеева, 2017], стратегии дискредитации политического оппо-
+нента [Богатырев, 2017; Голубева, 2008; Ленец, Сергеева, 2018; Хлопотунов, 2017], стратегии 
+легитимизации и делегитимизации предвыборного дискурса [Голубева, 2016; Beetham, 1991; 
+Hardin, 2007; Chovanec, 2010; Morris, 2008; Sadeghi, Hassani, Jalali, 2014]. 
+86  
+Психолингвистика. Исследования языка и речи 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Обзор научной литературы позволил выявить появление общей тенденции в работах оте-
+чественных и зарубежных ученых относительно специфики анализа стратегии легитимизации 
+и делегитимизации. В профессиональном дискурсе политиков, уже занимающих должности,  
+и в предвыборном дискурсе кандидатов на определенные посты стратегия легитимиза- 
+ции и стратегия делегитимизации исследуются в тесной взаимосвязи. В тесной взаимосвязи 
+проводятся исследования данных стратегий и на материале профессионального дискурса по-
+литиков различных политических организаций и объединений, медийного политического 
+дискурса и неинституционального интернет-дискурса. Так, в работах Т. М. Голубевой стра-
+тегии легитимизации Евросоюза и делегитимизации Б. аль-Ассада в политическом дискурсе 
+Британии рассматриваются во взаимосвязи [Голубева, 2016]. Исследователь анализирует  
+актуализацию стратегии легитимизации США и делегитимизации России в профессиональ-
+ном дискурсе американских представителей при ООН [Голубева, 2017]. Д. С. Сергеева  
+и А. В. Ленец рассматривают стратегию делегитимизации (дискредитации) вместе со страте-
+гией самопрезентации на материале предвыборных твитов Дональда Трампа и Хилари Клин-
+тон [Сергеева, 2017; Ленец, Сергеева, 2018]. Б. Садеги, M. T. Хасани и В. Джалали исполь-
+зуют термин «(de-)legitimation», объединяющий эти две стратегии, показывая актуальность  
+и значимость подобного интегрированного изучения стратегии легитимизации и делегитими-
+зации [Sadeghi, Hassani, Jalali, 2014].  
+ 
+Постановка вопроса 
+ 
+Вопрос о тактиках, актуализирующих стратегии легитимизации и делегитимизации и их 
+языковых приемах, не теряет актуальность в отечественном языкознании уже несколько де-
+сятков лет. Если зарубежные ученые опираются на учение Тео Ван Леувена (Theo Van 
+Leeuwen), то в отечественных работах нет единого взгляда на то, какие тактики объективи-
+руют данные стратегии.  
+Мы будем придерживаться точки зрения Т. Ван Леувена, согласно которой стратегия 
+(де)легитимизации актуализируется следующими тактиками: этической оценкой, рационали-
+зацией, мифопоэтикой и ссылкой на авторитет (= апелляцией к авторитету) [Van Leeuwen, 
+2013].  
+Цель данного исследования – изучить тактику апелляции к авторитету в рамках стратегии 
+(де)легитимизации в предвыборном дискурсе американских политиков, уделяя основное 
+внимание ее сущностным и языковым особенностям.  
+Задачи исследования – идентифицировать «авторитеты» в выступлениях политиков, вы-
+явить наличие сходств и отличий в «авторитетах», к которым апеллируют политики, соста-
+вить их классификацию, выявить языковые средства, актуализирующие тактику апелляции  
+к авторитету. Обращение к языковому аспекту актуализации тактики апелляции к авторитету 
+обусловлено тем, что именно язык является основным инструментом политического влия-
+ния, средством пропаганды и манипуляции [Lasswell, 1927; Fairclough, 1989; Hodge, Kress, 
+1993; Dijk, 2006]. Именно этот факт обусловливает значимость и актуальность выступлений 
+политиков перед избирателями в рамках предвыборных кампаний на протяжении всей исто-
+рии существования социумов с выборными должностями. В связи с этим значимым пред-
+ставляется и анализ языковых средств, применяемых для отсылки к «авторитету».  
+В обобщенный реестр «авторитетов», актуализируемых в различных видах дискурса, на-
+пример, медийного и педагогического, включают ссылки на авторитет традиции, обычая  
+и закона, а также ссылки на лиц, наделенных институциональной властью [Leeuwen, 2007]. 
+На материале политического дискурса разработаны различные классификации «авторите-
+тов», объективирующих тактику апелляции к авторитету. Так, в политическом дискурсе  
+в качестве «авторитетов» рассматриваются влиятельные общественные и политические дея-
+тели, «общечеловеческие ценности, авторитетные СМИ, мнение общественности и автори-
+тетные политики конкурирующих партий» [Крячкова, 2019. С. 96], в то время как в предвы-
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету                87 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+борном политическом дискурсе выделяют «авторитет конкретного человека, авторитет уч-
+реждения, авторитет должности, авторитет возраста и собственный авторитет» [Злобина, 
+2017. С. 72].  
+По нашему мнению, набор «авторитетов», к которым апеллирует политик во время пред-
+выборной кампании, будет многокомпонентным, что необходимо для охвата как можно 
+большего числа таргет-групп избирателей. А идентификация набора (реестра) «авторитетов» 
+предвыборного дискурса того или иного политика – источник информации о том, на какие 
+категории избирателей политический деятель направляет свои предвыборные выступления. 
+С другой стороны, данный реестр служит для политологов, социологов или культурологов 
+источником информации о том, что  является или стереотипно считается авторитетным для 
+определенных групп избирателей.  
+ 
+Методология и материал исследования 
+ 
+В работе используется интегрированная методология лингвоперсонологии и политиче-
+ской лингвистики. 
+Материал исследования отбирался приемом сплошной выборки. 
+Материал исследования – 60 выступлений Джо Байдена и Камалы Харрис во время пред-
+выборной кампании 2020 г., взятых с сайта 1, представляющего собой Библиотеку стено-
+грамм (Transcription Library) с полными стенограммами выступлений, митингов, дебатов, 
+анонсов, слушаний в Конгрессе, мероприятий, пресс-конференций, интервью с политиче-
+скими и общественными деятелями. Обращение к предвыборному дискурсу данных полити-
+ков неслучаен. Научный интерес к изучению стратегий и тактик предвыборного дискурса 
+уникального политического тандема обусловлен тем, что каждый из них значим сразу для 
+нескольких социальных групп американского общества. Так, Джо Байден – человек в возрас-
+те, второй (после Джона Кеннеди) кандидат-католик, опытный политик, известный своим 
+умением находить компромиссы с политиками в самых спорных вопросах, борец за решение 
+проблемы глобального потепления, доступности медицины для семей с низким доходом, 
+примерный семьянин, человек, переживший несколько трагедий, связанных со смертью его 
+детей и первой жены. Камала Харрис – успешный юрист, темнокожая женщина-политик ази-
+атского происхождения, поддерживающая право женщин на аборт и выступающая за легали-
+зацию однополых браков. 
+ 
+Полученные результаты 
+ 
+1. Тактика апелляции к авторитету в предвыборных выступлениях кандидата на 
+пост президента США Дж. Байдена  
+Проведенный анализ показал, что в своих публичных выступлениях кандидат в президен-
+ты Джо Байден стремится не столько обрисовать картину существующего положения дел  
+в стране и мире, сколько добиться расположения аудитории, заручиться поддержкой потен-
+циальных избирателей, создавая себе имидж политика, за которого стоит голосовать. Пред-
+выборные речи Джо Байдена наполнены приемами убеждающего воздействия на электорат, 
+позволяющего также делегитимизировать своих политических оппонентов. Для доказатель-
+ства тех или иных тезисов кандидат в президенты использует рациональные аргументы, ссы-
+лаясь на различные авторитеты. Данная тактика позволяет укрепить позицию оратора в гла-
+зах реципиентов, предотвратить возможную критику предлагаемых политических решений  
+и вместе с тем усилить выразительность речи.  
+В предвыборном дискурсе Джо Байдена одной из самых распространенных форм апелля-
+ции к авторитету является ссылка на авторитет политика. Обвиняя президента Дональда 
+                                                 
+1 URL: https://www.rev.com/blog/transcripts. 
+88  
+Психолингвистика. Исследования языка и речи 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Трампа в бездействии в борьбе против COVID-19, оратор ссылается на сенатора Камалу 
+Харрис, которая вызывает доверие у многих избирателей:  
+The President knew in January, as Kamala said, that this virus was deadly, but he hid it from the American 
+people. He knew it was worse than the flu, but he lied to us. He knew it wasn’t going to disappear. He kept telling 
+us a miracle was coming, it’d be over by Easter.  
+Ссылаясь на американского политического, государственного и общественного деятеля, 
+35-го президента США Джона Фицджеральда Кеннеди, Джон Байден говорит о необходимо-
+сти действовать, о том, что для Америки нет ничего невозможного: 
+I’ll never forget what President Kennedy said when he promised to send us to the moon in his speech.  
+He said, “We’re doing it because we refuse to postpone.” That’s what Americans do, refuse to postpone what is 
+needed. I refuse to postpone my work America must do now. There’s nothing, this is not hyperbolely, there  
+is nothing beyond the capacity of United States of America. There’s no limit to America’s future. 
+Для придания большей убедительности своей позиции Джо Байден часто апеллирует  
+к мнениям экспертов из разных областей (экономики, медицины и др.). В своем выступлении 
+кандидат в президенты призывает создавать новые рабочие места в машиностроении:  
+Made in Ohio, made in Detroit, made in America. It’s going to mean one million, according to the experts, 
+one million new good paying auto jobs in the automobile industry alone. Folks, if we don’t act China’s going to 
+own the market. China’s going to own it all. And we will act, in addition to deliver racial justice in America. 
+Отстаивая свою программу Build Better Plan, кандидат в президенты приводит мнение 
+«анонимных независимых» экспертов, утверждающих, что стратегия Джо Байдена обеспечит 
+хорошо оплачиваемые рабочие места:  
+Outside economists said my plan will create millions of good paying union jobs in manufacturing. We’re 
+going to invest in building more resilient infrastructure. 
+Помимо апелляции к известным политическим, общественным деятелям и экспертам, 
+кандидат в президенты ссылается на людей науки, мнения которых воспринимаются адреса-
+том как объективные и достоверные и вызывают доверие аудитории. В следующем примере 
+Джо Байден ссылается на мнение ведущего ученого, тоже анонимного, утверждающего, что 
+при соблюдении масочного режима во время пандемии возможно избежать многочисленных 
+жертв:  
+Leading scientist from the University of Washington tells us that we can save more than 100,000 Ameri-
+can lives in the next 100 days alone if everyone wore a mask in public. So let me repeat that because it’s so im-
+portant. We can save 100,000 lives in the next 100 days.  
+В предвыборной кампании Джо Байдену помогают деятели культуры и искусства. В речах 
+кандидат в президенты благодарит за поддержку хорошо известных американцам певцов  
+и актеров: Джона Ледженда, Патти ЛаБелль, Леди Гагу:  
+Patti LaBelle, and John Legend. My Lord, John, I’m voting for you after I heard that speech you made 
+<…> Hello, Pittsburgh. I’m Jill Biden’s husband and Lady Gaga’s friend. We go back a while. One thing  
+I wasn’t going to say, but I’ll say now, she spent a lot of time helping me with the Violence Against Women Act 
+and helping so many women who needed help. God love you, you’re wonderful. 
+Политик может ссылаться на свой собственный авторитет, подчеркивая успешную дея-
+тельность на политическом поприще и уже однажды оказанное ему доверие со стороны гра-
+ждан страны: 
+Folks, we can do this, Pennsylvania. In 2008 and 2012, you placed your trust in me and Barack. In 2020, 
+I’m asking you seeking your trust again. I take nothing for granted. 
+Джо Байден также ссылается на успешность своей карьеры на встрече с жителями 
+Джорджии: 
+I promise you, look at my whole career. I’ll work as hard for those who don’t support me as those who do. 
+That’s the job of a president. A duty to care for everyone.  
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету                89 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+С целью эмоционально воздействовать на избирателей, придать убедительности своим 
+предвыборным выступлениям в качестве авторитетных личностей Джо Байден нередко вы-
+бирает своих родителей. Так, в следующем примере кандидат в президенты, говоря о своем 
+намерении восстановить профсоюзы, подчеркивая их значимость для работающих американ-
+цев и страны в целом, приводит высказывание своего отца о злоупотреблении властью: 
+My dad used to have an expression. He said, “Joe, the only way you can deal with the abuse of power is with 
+power.” Well, the only outfit that can deal with the abuse of power of corporate America are union power. That’s 
+the only way it can be dealt with. And I warn you all, if I’m elected, you’re going to see the most pro-union pres-
+ident in American history sitting in the White House.  
+Часто в выступлениях Джо Байдена встречаются ссылки на его маму, которая, как и отец, 
+является для оратора авторитетом:  
+My mom had a backbone like a ramrod. My mom taught me. She said, “Joey, look at me, look at me.” Be-
+cause I used to stutter. She said, “Nobody’s better than you, Joey, but everybody’s your equal.” That’s how I was 
+raised.  
+В некоторых случаях, апеллируя к авторитетам, политик не называет их имен, а указывает 
+на область их деятельности, на занимаемую ими высокую должность, что придает высказы-
+ванию больший авторитет. В данном примере Джо Байден ссылается на главу Центра по 
+контролю и профилактике заболеваний: 
+We can save 100,000 lives in the next 100 days, according to the head of the CDC, if everyone wears  
+a mask in public. So be patriotic. It’s not about being a tough guy. It’s about doing your part.  
+В следующем примере оратор ссылается на главу Администрации общих служб, не назы-
+вая его имени, а лишь указывая на занимаемый им пост: 
+Unfortunately, because of the lack of a sermon, as they say, which that’s a fancy word these days, but until 
+the head of the GSA says that we, in fact, our team, this transition team, our team, the Senator and I in fact are 
+the likely winners, until she does that, we don’t have access to all the information that we need to get from all the 
+various agencies. 
+Апелляция к мнениям простых граждан (не знаменитостей), позволяет политику добиться 
+эффекта максимального сближения с населением, ради которого он готов участвовать  
+в предвыборной гонке, отстаивая их взгляды и интересы. Одним из предвыборных обещаний 
+кандидата в президенты является обеспечение расовой справедливости, равных прав и сво-
+бод всем гражданам Америки независимо от цвета кожи. Критикуя неэффективность внут-
+ренней политики Д. Трампа, Джо Байден вспоминает афроамериканцев Джорджа Флойда, 
+Бреонну Тейлор, Джейкоба Блейка, Уолтера Уоллеса, убитых полицией при задержании  
+в 2020 г. Кандидат в президенты ссылается на слова шестилетней дочери Джорджа Флойда, 
+верящей в то, что ее отец способен изменить страну:  
+Look, we’re going to act to deliver racial justice in America. Protesting is not burning and looting. The vio-
+lence will not be tolerated. But the protests, there’s a cry for justice. The names of George Floyd, Breonna Taylor, 
+Jacob Blake, Walter Wallace, they’re not going to be soon forgotten by me, not by anyone in this country. And 
+they’re going to inspire a new wave of justice in America. When I met with Floyd’s family, when I went down 
+to Texas, he has a little daughter, six years old, and I was in the room and I knelt down to talk to her. She looked 
+at me and she said, “Mr. Vice President,” she said, “my daddy is going to change America. My daddy is going to 
+change America.” Well, guess what? We also know that the American people realize we’ve got to change.  
+В следующем выступлении политик апеллирует к высказыванию тренера своей универси-
+тетской регбийной команды, призывающего действовать: 
+Folks, as my old football coach used to say, “It’s go time.” It is go time. It is. No matter whether it’s your 
+first vote or many, but beyond that, this is the most important election in our lifetimes and you can make all the 
+difference here in Florida. You can determine the outcome of this election.  
+Помимо апелляции к конкретному человеку и экспертам кандидат в президенты ссылает-
+ся на авторитетные СМИ, например национальную газету New York Times. В нижеприведен-
+ных примерах Джо Байден обвиняет президента Д. Трампа в том, что он скрыл от народа, 
+90  
+Психолингвистика. Исследования языка и речи 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+насколько опасен Covid-19, и не предпринял всех необходимых мер по защите простых аме-
+риканцев: 
+According to the New York Times three, four days ago, his Administration gave Wall Street investors,  
+a head’s up, but he didn’t tell us, just his friends on Wall Street.  
+В следующем примере кандидат в президенты ссылается на авторитетное печатное изда-
+ние – медицинский журнал New England Journal of Medicine:  
+I first put forward a detailed plan on how to deal with this virus back in March, this administration ignored it. 
+Then I released several more detailed plans in the months that followed, the most recent just last week. This ad-
+ministration has yet to offer a single plan. Yes, one of the reasons why the most one of the most prestigious 
+medical journals in the world, the New England Journal of Medicine, called the President “Dangerously in-
+competent.” Went on to say, “The President turned a crisis into a tragedy.” 
+Помимо авторитетных СМИ и известных печатных изданий кандидат в президенты ссы-
+лается на компетентную в сфере экономики компанию Moody’s Analytics и данные незави-
+симого исследования, проведенного ей. Апелляция к одной из ведущих компаний на финан-
+совом рынке, обладающей непревзойденным опытом работы с инвестиционными банками  
+и частными инвесторами в разработке программных инструментов, помогает Джо Байдену 
+заверить избирателей в успешности намеченного им курса восстановления экономики:  
+An independent analysis, not from some liberal think tank, but by Moody’s, a Wall Street firm, projects that 
+my plan will create 7 million more jobs and a trillion dollars more economic growth than anything the President 
+has proposed. 
+В ходе анализа было выявлено, что в качестве авторитетных источников, на которые ссы-
+лается Джо Байден в своем предвыборном дискурсе, оратор иногда выбирает различного ро-
+да знаковые тексты. Так, призывая американцев прийти на выборы и отдать свой голос за 
+лучшее будущее Америки, кандидат в президенты апеллирует к Библии, авторитет которого 
+в США не вызывает сомнений: 
+The Bible tells us there’s a time to break down, and a time to build up, a time to heal. This is that time. God 
+and history have called us to this moment, and to this mission. With our voices and our votes, we must free our-
+selves from the forces of darkness, from the forces of division, and the forces of yesterday, and the forces that 
+pull us apart, hold us down, and hold us back.  
+В следующем примере Джо Байден ссылается, обращаясь, вероятно, к католикам, на од- 
+ну из энциклик Папы Римского Франциска, в которой он затрагивает тему «ложного по- 
+пулизма»: 
+In a recent encyclical, Pope Francis warns us against this phony populism, that appeals to “The basest and 
+most selfish instincts.” He goes on to say, “Politics is something more noble than posturing, marketing, and me-
+dia spin. These sow nothing but division, conflict, and a bleak cynicism.”  
+Помимо апелляции к мнениям и оценкам авторитетных политиков, экспертов, организа-
+ций и пр. кандидат в президенты апеллирует к общечеловеческим ценностям, таким как ро-
+дина, дом, безопасность, семья, успех. Выступая за увеличение заработной платы, достойное 
+медобслуживание, создание новых рабочих мест, расовое равенство, Джо Байден оказывает 
+эмоциональное влияние на реципиентов, так как перечисленные ценности являются тради-
+ционными для любого человека:  
+For my entire career, I’ve stood for democracy and human rights. For freedom of the press, assembly, free-
+dom of religion and against dictators, whether they’re left or right <…> Black lives matter. And we’re going to 
+work to deliver real police and criminal reform, justice reform. We know, we know what true justice is all about. 
+It’s not only about a criminal justice system that’s fair, but it’s about being able to build wealth, jobs, homes, 
+families. Folks, we’re in a situation where, think about it, how many people you know are working two jobs and 
+still being in poverty? We need a national minimum wage of $15 an hour for everybody, period.  
+Таким образом, в результате проведенного исследования было выявлено, что в своем 
+предвыборном дискурсе Джо Байден использует многокомпонентный набор «авторитетов», 
+что позволяет смоделировать центральные таргет-группы его потенциальных избирателей: 
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету                91 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+люди семейные, верующие (включая католиков), средний класс и люди с невысокими дохо-
+дами, но стремящиеся улучшить свою жизнь, получить образование, иметь доступ к меди-
+цинской помощи.  
+Для обеспечения доверия к своей предвыборной платформе и стремясь к делегитимизации 
+своего политического оппонента, политик ссылается на «авторитеты», признаваемые данны-
+ми категориями граждан. А именно, Джо Баден апеллирует к авторитету успешных полити-
+ков, включая и себя, обращается к авторитету известных деятелей науки, культуры, искусст-
+ва; авторитету специалистов в экономике и медицине; авторитету родителей; должности; 
+инстанции; а также авторитету мнения простых граждан, СМИ, общечеловеческих ценно-
+стей, различного рода текстов (особенно религиозных).  
+Анализ языковой репрезентации тактики апелляции к авторитету в предвыборном дис-
+курсе Джо Байдена позволил зафиксировать номинацию и цитацию. Политик прибегает  
+к именам собственным и нарицательным, обращаясь к авторитету политика, общественного 
+деятеля и авторитету общечеловеческих ценностей. 
+В выступлениях политика из всех видов цитации выявлено доминирование парафраза (пе-
+ресказа). Политик обращается к данному виду цитации при апелляции к авторитету деятелей 
+науки, культуры, искусства, авторитету должности, авторитету учреждения / инстанции. На 
+втором месте зафиксировано прямое цитирование. Наименее всего представлено самоцити-
+рование, взаимное цитирование и цитирование по вторичным источникам. К последнему ви-
+ду цитирования политик прибегает при обращении к авторитету различного рода текстов 
+(аналитические отчеты, законы, Библия). 
+2. Тактика апелляции к авторитету в предвыборном дискурсе кандидата на долж-
+ность вице-президента США К. Харрис 
+Камала Деви Харрис, первая в истории темнокожая женщина-кандидат в вице-президенты 
+США, главный сторонник Джо Байдена в предвыборной кампании 2020 г. Как преданный 
+напарник, К. Харрис поддерживает курс, намеченный кандидатом в президенты. Чтобы рас-
+положить к себе потенциальных избирателей, заставить их поддержать тандем Байдена  
+и Харрис, сенатор тоже прибегает к тактике апелляции к авторитету. Апелляция к авторитету 
+помогает также делегитимизировать их политических оппонентов. В каждом своем выступ-
+лении сенатор США от штата Калифорния ссылается на слова Джо Байдена как человека, 
+понимающего нужды и проблемы жителей Америки, способного позаботиться о стране и ее 
+гражданах. Ссылка на Джо Байдена является самой распространенной из форм апелляции  
+к авторитету. В следующем примере К. Харрис семь раз упоминает имя своего соратника:  
+Joe understands that you don’t deal with America’s economy by doing what these other guys did, which 
+was pass bill that benefits the top 1% at the biggest corporations in America. When Joe is asked how is the econ-
+omy doing, you know what Joe says? He says well, tell me how are working people doing? How are working 
+families doing? That’s why Joe says we’re not passing any taxes on anybody making less than $400,000 a year. 
+Joe says we’re going to bring down middle class taxes. Joe says we’re going to pass legislation and put in place 
+rules and laws that say that working families shouldn’t pay more than 7% of their income in childcare. That we’re 
+going to have a tax credit of $15,000 for first time home buyers, understanding how that can help with down 
+payments and closing costs to buy a home.  
+К. Харрис, как и Джо Байден, часто в своих речах ссылается на мнение известных поли-
+тиков и конгрессменов и тем самым оказывает влияние на избирателей, преподнося свою 
+позицию как верную и заслуживающую доверие. В следующем примере сенатор объясняет 
+причины, по которым стоит проголосовать за кандидата в президенты Джо Байдена, апелли-
+руя к высказыванию Джона Роберта Льюиса, американского политика, выступавшего за гра-
+жданские права и прекращение расовой сегрегации в США: 
+One, it’s important to vote to honor the ancestors. Honor, the ancestors, all those people who came before us 
+who fought for our right to vote. People like John Lewis, the Congressman who passed away this year, who said, 
+“Let’s get in good trouble.” John Lewis, who shed his blood on the Edmund Pettus Bridge for our right to vote. 
+John Lewis, who knew this was a matter of civil rights and dignity. John Lewis, who understood that it was also  
+a matter of civil rights and dignity to fight for same-sex marriage. John Lewis, who also knew it was a matter  
+92  
+Психолингвистика. Исследования языка и речи 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+of civil rights and dignity to fight for protections for DREAMers and for a pathway for citizenship. So, it’s 
+important to vote to honor the ancestors.  
+Для придания весомости своим аргументам К. Харрис апеллирует к мнениям экспертов, 
+чаще всего из области медицины, что объясняется сложной ситуацией в США вследствие 
+пандемии коронавируса:  
+Over 9 million people have contracted the virus. Many doctors are saying they’re going to have long-term 
+consequences, lung scarring, things like that.  
+Помимо ссылки на авторитет известных личностей К. Харрис ссылается и на себя. Под-
+держивая намеченную политику Джо Байдена в отношении темнокожих, сенатор упоминает, 
+что всегда считала этот вопрос важным: 
+As we often and always say black lives matter. I have said many times, in many speeches, and many situa-
+tions, but America has yet to value the sanctity of black life and has yet to treat black life as fully human <…> So 
+accountability and consequence needs to happen.  
+Для К. Харрис, как и для Джо Байдена, авторитетом являются родители. Сенатор часто 
+ссылается на слова своей покойной мамы: 
+I was reminded of one of the many sayings that my late mother had. And one of them is she would say to 
+me, “Kamala, don’t you ever let anybody tell you who you are. You tell them who you are.” So when I say that  
+to you, I’m not suggesting I will tell you you are a young leader and until I anoint you young leader, you are. 
+You’re already a young leader.  
+Отстаивая права и свободы темнокожих жителей Америки, К. Харрис часто вспоминает 
+имена тех, кто пострадал от неправомерных действий полицейских. В своих выступлениях 
+сенатор призывает голосовать против расовых предрассудков, за равные права и возможно-
+сти для всех жителей страны независимо от происхождения, социального статуса и уровня 
+дохода. Так, кандидат в вице-президенты апеллирует к именам простых, но знаменитых сре-
+ди американского населения людей, невинные смерти которых спровоцировали стихийные 
+митинги, шествия и массовые демонстрации. В следующем примере К. Харрис называет имя 
+26-летней Бреонны Тейлор, темнокожей медработницы, застреленной полицейскими в своей 
+собственной квартире в Луисвилле во время рейда: 
+In addition, I do believe that in the Breonna Taylor case, there needs to be a civil rights investigation of what 
+they did by the United States Department of Justice. We’re just going to have to keep fighting and we’re going  
+to keep saying her name, but we say her name not just to speak her name, we say her name to motivate action. 
+And that’s what’s most important.  
+Как и Джо Байден, К. Харрис поддерживает движение «Жизни темнокожих имеют значе-
+ние». Сенатор, как и ее соратник, не упускает возможность в своих выступлениях апеллиро-
+вать к имени афроамериканца Джорджа Флойда, тем самым эмоционально воздействуя на 
+демократический электорат и заставляя его проголосовать в пользу нового кандидата в пре-
+зиденты: 
+George Floyd’s family is here tonight. George Floyd’s life mattered, those eight minutes and 46 seconds. So, 
+Joe has the ability to understand that there is a long overdue reckoning taking place. Joe Biden says we need  
+to deal with this. We need to deal with racial disparities in terms of the healthcare system, knowing that African-
+Americans and Latinos are three times as likely to contract COVID and twice as likely to die from it. <…>  
+В поддержку своих аргументов сенатор К. Харрис апеллирует к авторитетным докумен-
+там, таким как Конституция США и девятнадцатая поправка к Конституции. Ссылаясь на 
+данную поправку, благодаря которой было введено активное избирательное право для жен-
+щин, сенатор призывает американцев отдать свой голос на выборах, тем самым почтив па-
+мять тех, кто боролся за эти права 100 лет назад: 
+This year, we celebrated the 19th amendment which allowed women to vote. We celebrated the 100th anni-
+versary of the 19th amendment. All those suffragettes who, a hundred years ago, marched and fought for our right 
+to vote. Now, it’s important to remember history, because it wasn’t until 1965 that black women could vote, so 
+we still have work to do, but it is time to vote to honor the ancestors, that’s reason number one.  
+Каменева В. А., Потапова Н. В. Тактика апелляции к авторитету                93 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+Для привлечения электората на сторону кандидата в президенты его напарник К. Харрис 
+апеллирует к общечеловеческим ценностям, близким и понятным каждому человеку. Сена-
+тор говорит о простых вещах, составляющих суть благополучия граждан страны. Говоря  
+о праве каждого на медобслуживание, образование, работу и достойную заработную плату, 
+кандидат в вице-президенты добивается необходимого эмоционального отклика от реципи-
+ентов, готовых поверить предвыборным обещаниям и отдать свой голос на выборах: 
+You know, when Joe asked me to join this ticket, saying yes was an easy decision. He and I, we come from 
+different backgrounds, but we were raised with the same values: hard work, honesty, decency, a belief that we all 
+have a responsibility to look out for one another. And those are the values I’ve seen as I’ve traveled across our 
+country over the past 84 days, the values we share as Americans. 
+Таким образом, проведенный анализ показал, что в своих предвыборных выступлениях 
+Камала Харрис также прибегает к широкому спектру «авторитетов», на основе которых 
+можно смоделировать центральные таргет-группы ее потенциальных избирателей: женщины, 
+афроамериканцы, граждане с азиатскими корнями, стремящиеся получить хорошее образо-
+вание, сделать успешную карьеру, получить равные права с привилегированными социаль-
+ными группами американского общества.  
+В своем предвыборном дискурсе политик ссылается на «авторитеты», признаваемые дан-
+ными категориями граждан. А именно, Камала Харрис апеллирует к своему авторитету и ав-
+торитету своего напарника – кандидата в президенты Джо Байдена, ссылается на других из-
+вестных политиков, конгрессменов и общественных деятелей; обращается к авторитету 
+специалистов в медицине, экономике и юриспруденции, авторитету родителей, мнению про-
+стых граждан, общечеловеческим ценностям, различного рода текстам (особенно юридиче-
+ских).   
+В ходе анализа языковой репрезентации тактики апелляции к авторитету в предвыборных 
+выступлениях Камалы Харрис была также зафиксирована номинация и цитация. В предвы-
+борном дискурсе женщина-кандидат в вице-президенты США прибегает к использованию 
+имен собственных и нарицательных, обращаясь к авторитету политика, общественного дея-
+теля и авторитету общечеловеческих ценностей. 
+В выступлениях политика из всех видов цитирования выявлено доминирование парафраза 
+(пересказа). Политик обращается к данному виду цитации при апелляции к авторитету своего 
+напарника – кандидата в президенты Джо Байдена, авторитету экспертов в медицине, эконо-
+мике и юриспруденции. На втором месте также зафиксировано прямое цитирование. Затем 
+по убываю идут самоцитирование и цитирование по вторичным источникам. К последнему 
+виду цитации Камала Харрис обращается, апеллируя к авторитету различного рода текстов. 
+Как правило, это юридические тексты, такие как Конституция и поправки к ней. 
+ 
+Заключение 
+ 
+Анализ тактики апелляции к авторитету с позиции адресат-адресантных отношений субъ-
+ектов политического предвыборного дискурса позволил подтвердить гипотезу о том, что  
+выбор «авторитета» для повышения прагматического потенциала предвыборного дискурса 
+согласуется с ожиданиями таргет-групп избирателей. Кроме того, было установлено, что 
+анализ «авторитетов», к которым апеллирует тот или иной политик, позволяет четко иденти-
+фицировать тех избирателей, на поддержку которых надеется политик. 
+Было установлено, что результативные политики во время предвыборной кампании апел-
+лируют к тем социальным группам, к которым они сами относятся. 
+Соотнесение полученных данных позволило определить состав «авторитетов» изучаемого 
+политического тандема Джо Байдена и Камалы Харрис во время предвыборной кампании 
+2020 г.: авторитет политика, общественного деятеля, авторитет специалиста/эксперта, авто-
+ритет деятеля науки, культуры, искусства, авторитет самого оратора, авторитет родителей, 
+авторитет должности, авторитет простых граждан (не знаменитостей), авторитет СМИ, авто-
+94  
+Психолингвистика. Исследования языка и речи 
+ 
+ 
+ 
+ISSN 1818-7935 
+Вестник НГУ. Серия: Лингвистика и межкультурная коммуникация. 2021. Т. 19, № 3 
+Vestnik NSU. Series: Linguistics and Intercultural Communication, 2021, vol. 19, no. 3 
+ 
+ 
+ 
+ 
+ 
+ритет учреждения/инстанции, авторитет общечеловеческих ценностей, авторитет различного 
+рода текстов (юридических, экономико-статистических, религиозных). 
+Анализ языковых особенностей актуализации тактики апелляции к авторитету позволил 
+зафиксировать использование номинации и цитирования. Выявлены и проанализированы 
+виды цитаций, актуализирующие тактику апелляции к авторитету в англоязычном предвы-
+борном дискурсе. 
+Перспективным представляется анализ первичной и вторичной номинации авторитетов  
+в предвыборном дискурсе. 
+ 

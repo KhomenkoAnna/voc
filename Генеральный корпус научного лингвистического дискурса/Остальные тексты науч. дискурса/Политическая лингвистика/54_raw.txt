@@ -1,0 +1,1095 @@
+Нестерова В. Е. Политическая лингвистика. 2021. № 5 (89). С. 128–138. 
+128 
+УДК 811.111'42:811.111'38 
+ 
+ББК Ш143.21-51+Ш143.21-55 
+ГСНТИ 16.21.27 
+Код ВАК 10.02.20 
+DOI 10.26170/1999-2629_2021_05_15 
+V. E. Nesterova 
+Ural Law Institute of the Ministry of Internal Affairs of Russia, Ekaterinburg, Russia 
+ORCID ID: 0000-0002-7467-0029  
+ E-mail: karaelan@mail.ru. 
+Verbalization of the “Brutality” Component as a Constituent Part  
+of Linguistic Modeling of the Image of American Police  
+in Pro-Government and Opposition Newspapers 
+ABSTRACT. The article is devoted to the study of the linguistic process of modeling of the image of the US Police as a 
+social institution in pro-government and opposition newspapers through verbalization of the component “brutality” within 
+the strategy of evaluative argumentation framework. The strategy of evaluative argumentation is one of the most effective 
+strategies of modeling of the image of a social institution. Within this strategy, by way of appealing to the addressee's emo-
+tions, the addresser creates a certain model, verbalized in value-based components and being capable to produce a verbal 
+impact by forming the addressee's opinion and attitude to a certain object or phenomenon. The author analyzes the argumen-
+tative acts representing the activity of the US law enforcement agencies in such pro-government and opposition newspapers 
+as “The Associated Press”, “The Wall Street Journal”, “The Washington Post” and “The New York Times” over the period 
+from January 6 to January 20, 2021. As a result of the analysis of the argumentative acts explicating the “brutality” compo-
+nent, the author comes to the conclusion that the strategy of evaluative argumentation in pro-government and opposition 
+newspapers is implemented in different ways, and the speech techniques differ radically. The information policy of the pro-
+government publications “Associated Press” and “The Wall Street Journal” is characterized by a general neutral tone of 
+commenting on events without using negatively colored vocabulary referring to the law enforcement agencies, who are rep-
+resented as professionals doing their duty, trying by all means to minimize the number of possible victims, protecting life and 
+health of citizens, as well as defending state and political values such as democracy, human rights and freedoms. The opposi-
+tion newspapers “The Washington Post” and “The New York Times” model the negative image of the social institution of 
+Police verbalizing the “brutality” component in news reports where officers are represented as enemies of the state and the 
+people, destroyers of ethical, cultural and historical values, and individuals who exceed their official authority and violate 
+the rights and freedoms of the citizens. 
+KEYWORDS: journalism; media linguistics; media discourse; media texts; mass media; mass media language; politi-
+cal discourse; linguistic means; linguistic modeling; brutality; argumentative acts; law enforcement agencies; American 
+police; opposition newspapers; pro-government newspapers; verbal impact; category 
+AUTHOR’S INFORMATION: Nesterova Valeria Evgen’evna, Senior Lecturer of Department of Foreign Languages, 
+Ural Law Institute of the Ministry of Internal Affairs of Russia, Ekateinburg, Russia. 
+FOR CITATION: Nesterova, V. E. Verbalization of the “Brutality” Component as a Constituent Part of Linguistic 
+Modeling of the Image of American Police in Pro-Government and Opposition Newspapers / V. E. Nesterova // Political 
+Linguistics. — 2021. — No 5 (89). — P. 128-138. — DOI 10.26170/1999-2629_2021_05_15. 
+1. INTRODUCTION 
+Most researchers from various fields of sci-
+ence agree that the theoretical description of 
+institutions as social phenomena requires the 
+creation of their effective and efficient model. 
+Thus, in the English-language linguistic model, 
+the term “social institution” is divided into the 
+concept of “institute”, that is more related to 
+social norms, and “institution”, that means so-
+cial establishments [Bychenkov 1996: 7]. The 
+main approaches to the social institution of Po-
+lice can be considered normative [Glotov 2003: 
+14; Berger 1996: 84], functional [Veblen 1984: 
+200-201; Smelzer 1994: 659], socio-cultural 
+[Akhiezer 1997: 32; Pyanov 2011: 163] and in-
+formational [Korneychuk 2007: 11], which allow 
+creating legal, social, value and conceptual 
+models respectively. Our research focuses on 
+the socio-cultural approach that allows us to 
+create a value model of the social institution of 
+Police. 
+The main functions of law enforcement agen-
+cies all over the world are to protect life, health, 
+rights and freedoms of citizens. That is, on the 
+one hand, law enforcement bodies act as defend-
+ers of the highest value — a person, and on the 
+other hand, the social institution of the Police can 
+itself become a universally recognized value or 
+anti-value. Public opinion about the Police force 
+and its activities is usually formed from personal 
+contacts of citizens with law enforcement officers 
+and throughout the Mass Media. 
+Language, in addition to its main communi-
+cative function, can implement a pragmatic 
+function, that is, act as a tool of speech influ-
+ence that controls communicative processes, 
+contributing to the formation of constructive val-
+ue motivations, orientations and meanings. 
+Modern linguistics within the framework of the 
+© Nesterova V. E., 2021 
+Nesterova V. E. Political Linguistics. 2021. No 5 (89). P. 128–138. 
+129 
+communicative-pragmatic direction focuses on 
+two main aspects of language and considers it 
+as: 1) a means of communication and 2) a tool 
+of speech influence capable of managing com-
+munication processes. 
+Many Russian and foreign authors (R. M. Bla-
+kar [Blakar 1987], T.A. van Dyke [Dyke 2000], 
+M. R. Zheltukhina [Zheltukhina 2007], O. S. Is-
+sers [Issers 1999], O. N. Parshina [Parshina 
+2005], G. G. Pocheptsov [Pocheptsov 1998], 
+N. B. Ruzhentseva [Ruzhentseva 2004], etc.) 
+study the methods of speech behavior that are 
+the most effective in terms of the speaker's 
+strategies. Currently the Mass Media have the 
+greatest pragmatic potential, which has turned 
+into an instrument of social power capable of 
+influencing the organization of political and so-
+cial institutions activities, modeling their image 
+in the minds of the population as well as. In this 
+regard we can state that there is a certain de-
+pendence of political and social processes on 
+the linguistic specificity of Media messages. 
+The Media give high priority to coverage of 
+social institutions’ activities, especially law en-
+forcement agencies that are the part of the ex-
+ecutive branch of government and, in fact, a 
+projection of the state power. Many domestic 
+and foreign studies are devoted to the study of 
+the Police image (T. V. Agapova [Agapova 2011], 
+A. I. Zolotaiko [Zolotaiko 2020], D. G. Perednya 
+[Perednya 2016], R.J. Richard [Richard 2015], 
+J. Schultz [Schultz 2019], W. L. Wayne [Wayne 
+2015], etc.). That is why the study of the pro-
+cess of modeling the Police image by linguistic 
+means in the Media discourse is a promising 
+and relevant area of research in cognitive and 
+political linguistics. 
+In our opinion, the most effective strategy 
+for linguistic modeling of the law enforcement 
+agencies image in the Media discourse is the 
+strategy of evaluative argumentation since the 
+category of evaluation has a strong influential 
+potential since it is expressed in positive or 
+negative evaluative statements and appeals to 
+the emotions of the addressee. 
+The purpose of the study is to analyze 
+argumentative acts representing the activities of 
+the US law enforcement agencies in pro-
+government and opposition newspapers in or-
+der to identify the component “brutality” verbal-
+ized in the process of linguistic modeling of the 
+image of the social institution of Police in the 
+newspaper discourse. 
+To achieve this purpose the following tasks 
+are implemented in the study: 
+– to select news reports about the activities of 
+the American Police force in pro-government 
+and opposition newspapers; 
+– to analyze argumentative acts in order to 
+identify the “brutality” component within the 
+evaluation argumentation strategy, verbalized in 
+the process of linguistic modeling of the US Po-
+lice image in pro-government and opposition 
+newspapers; 
+– to compare the speech techniques used in 
+the process of verbalization of the “brutality” 
+component and modeling the US Police image of 
+in pro-government and opposition newspapers. 
+2. METHODOLOGY 
+The contextual analysis of language mate-
+rial based on the interpretive approach within 
+the strategy of evaluative argumentation is cho-
+sen as the main method of analyzing argumen-
+tative acts in news reports representing the im-
+age of the social institution of the US Police in 
+pro-government and opposition newspapers. 
+Within the framework of the evaluation argu-
+mentation strategy the author identifies the 
+component “brutality” in the selected argumen-
+tative acts aimed at linguistic modeling of the 
+American Police image. The research material 
+is based on fragments of news reports taken 
+from such American pro-government and oppo-
+sition newspapers as “The Associated Press”, 
+“The Wall Street Journal”, “The Washington 
+Post” and “The New York Times”. 
+Despite the fact that all print and electronic 
+Media in the United States operate on a com-
+mercial basis and position themselves as 
+guardians of democratic norms, striving to pre-
+sent news reports as objectively as possible in 
+order to avoid accusations of supporting a par-
+ticular party, there has recently been a tenden-
+cy to divide the American press into pro-
+government and opposition. Based on the so-
+cio-political orientation of the publication, head-
+lines and subject matter, the peculiarities of in-
+formation presentation and its interpretation, the 
+use of linguistic means of representing the ma-
+terial, the following division can be made: “The 
+New York Times” and “Washington Post” can 
+be attributed to the opposition press, while “As-
+sociated Press” and “Wall Street Journal” are 
+pro-government newspapers. 
+Thus, by the continuous sampling method 
+for the period from January 6 to January 20, 
+2021, the news reports covering the US Police 
+activities were selected. In the selected news 
+reports, argumentative acts explicating the “bru-
+tality” component and aimed at linguistic model-
+ing of the image of the social institution of the 
+US Police were identified and analyzed at lexi-
+cal and phraseological, and grammatical and 
+stylistic levels. Thus, the unit of analysis is the 
+component “brutality” as a part of the structure 
+of the Police image, verbalized by linguistic 
+means in the argumentative act in the newspa-
+per discourse. The choice of this period is 
+linked with ongoing political events in the United 
+Нестерова В. Е. Политическая лингвистика. 2021. № 5 (89). С. 128–138. 
+130 
+States of America, in particular, the armed con-
+frontation between supporters of the two politi-
+cal parties in the Capitol, provoked by the re-
+sults of the US presidential election. 
+3. RESULTS AND DISCUSSION 
+All social institutions have arisen with ne-
+cessity to meet certain needs in society and are 
+focused on the production of a certain value. 
+The success of the functioning of an institution 
+depends on the recognition of the significance 
+of a produced value by society. Thus, the insti-
+tution of the Police emerged from the need to 
+ensure the protection of public order and the 
+fight against criminality, thereby implementing 
+the internal security of the state. 
+The concept of “value” includes a “set of the 
+most significant meanings and cultural domi-
+nants for the concrete culture reflected in the 
+value picture of the world, determined the per-
+ception of the people, their mentality” (Translat-
+ed by V. Nesterova) [Karasik 2002: 166-167]. 
+The main way of reflecting the system of values 
+is the category of language assessment, which 
+is understood by linguists as “the socially fixed 
+attitude of native speakers (“good” — “bad”, 
+“legal” — “illegal”, “friend” — “enemy”) to a non-
+linguistic object, to the facts of language and 
+speech” [Hidekel, Koshel 1981: 7]. All assess-
+ments contain not only approval or condemna-
+tion, but also elements of rational knowledge, 
+therefore they can replace logical argumenta-
+tion in a text, and often they acquire the charac-
+ter of arguments themselves. When evaluating 
+an object, a linguistic personality always relies 
+on perfect image of this or that object which can 
+be recognized as positively valuable, negatively 
+valuable, value-neutral [Ivin 1998]. In this re-
+gard the social institution of the Police, acting 
+as the defender or, conversely, an exterminator 
+of certain values, either begins to be perceived 
+by society as a value, or is devalued by citi-
+zens, while police officers begin to be perceived 
+as aggressors and destroyers of generally ac-
+cepted values and norms. 
+Over the past decades the Media has rapid-
+ly penetrated into the political sphere and 
+turned into one of the tools of the political pro-
+cess — the fourth power. In this regard in addi-
+tion to the main functions of the Mass Media 
+(collecting and distributing information, select-
+ing and commenting on information, forming 
+public opinion, spreading culture), it seems ap-
+propriate to single out another important func-
+tion of the Media — the politicization of society 
+and political education of the general population 
+[Kosmodemyanskaya 2014: 176]. 
+Regardless of the type of Media (pro-
+government, independent, opposition), all me-
+dia texts contain provocative and manipulative 
+components to one degree or another and are 
+aimed at forming or changing the addressee's 
+worldview, introducing this or that message into 
+his mind. Modern Mass Media have moved 
+away from direct pressure audience’s opinion 
+so the ideological attitude, position and as-
+sessment of the author of the message are not 
+imposed, but are implicitly suggested to the ad-
+dressee, who following the addressee per-
+ceives the given assessment on an emotional 
+or intellectual level. 
+In order to study the process of modeling 
+the Police image by linguistic means we will 
+analyze argumentative acts representing the 
+US Police activities and explicating the “brutali-
+ty” component separately in pro-government 
+and opposition newspapers. 
+3.1. Verbalization of the component 
+“brutality” in the pro-government 
+newspapers “Associated Press”  
+and “Wall Street Journal” 
+The main goal of pro-government newspa-
+pers is to support the state power and its deci-
+sions, ensure national security by neutralizing 
+harmful effects in the political, national, confes-
+sional, 
+economic, 
+information 
+and 
+other 
+spheres of society's life and forming a “healthy” 
+Media background. Let's analyze the argumen-
+tative acts representing the activities of the 
+American Police force in “The Associated 
+Press” and “The Wall Street Journal” which are 
+considered to be pro-government publications. 
+In the news article entitled “Explainer: Who 
+has been charged in the deadly Capitol riot?” 
+(AP of 9/01/2021) [Richer 2021] the “brutality” 
+component is verbalized in the following argu-
+mentative act: 
+“A woman from California was shot to death 
+by Capitol Police and three other people died 
+after medical emergencies during the chaos”. 
+However, the use of firearms by police officers 
+is explained and justified to some extent by the 
+author of the article in the following fragment: “A 
+Capitol Police officer died after he was hit in the 
+head with a fire extinguisher as rioters de-
+scended on the building and many other offic-
+ers were injured”. The perlocative effect in this 
+contrast is enhanced by using the hyperbo-
+lization “A Capitol Police officer died after he 
+was hit in the head with a fire extinguisher …” 
+and “… many other officers were injured” aimed 
+at drawing the addressee's attention to the 
+events taking place. 
+The similar method can also be seen in the 
+passage taken from the article “After deadly 
+siege, lawmakers ask why police so outnum-
+bered” (AP of 9/01/2021) [Daly, Balsamo 2021]: 
+“Only a few dozen guarded the West front 
+of the Capitol when they were rushed by thou-
+sands of rioters bent on breaking into the build-
+Nesterova V. E. Political Linguistics. 2021. No 5 (89). P. 128–138. 
+131 
+ing. Armed with metal pipes, pepper spray and 
+other weapons, the mob pushed past the thin 
+police line. … Throughout the melee, police 
+officers were injured, mocked, ridiculed and 
+threatened. One Capitol Police officer, Brian 
+Sicknick, died Thursday night from injuries suf-
+fered during the riot. Four other people also 
+died because of the Capitol violence”. In this 
+argumentative act the addresser also uses the 
+method of contrast in order to hyperbolize the 
+problem and appeal to the addressee's com-
+passion towards the police officers who find 
+themselves in the minority (Only a few dozen 
+guarded the West front of the Capitol) against a 
+crowd of angry armed rebels (they were rushed 
+by thousands of rioters … Armed with metal 
+pipes, pepper spray and other weapons, the 
+mob pushed past the thin police line). The use 
+of conversion (Throughout the melee, police …), 
+gradation (metal pipes, pepper spray and other 
+weapons; injured, mocked, ridiculed and threat-
+ened) and root repetition (rioters, riot) intensi-
+fies the influential effect in audience’s percep-
+tion. The author deliberately withholds the in-
+formation about specific victims and causes of 
+death (Four other people also died because of 
+the Capitol violence) and focuses on one victim 
+(One Capitol Police officer, Brian Sicknick, died 
+Thursday night from injuries suffered during the 
+riot) in order to divert the attention of readers 
+from the brutal actions of law enforcement 
+agencies, which may cause people’s death. 
+The perlocutionary effect is achieved through-
+out the use of allusion “the West front of the 
+Capitol”, which is a reference to real military 
+operations, the adverb “Only a few”, epithets 
+“thin police line”, “the Capitol violence”, grada-
+tion “Armed with metal pipes, pepper spray and 
+other weapons”, “police officers were injured, 
+mocked, ridiculed and threatened”. The ad-
+dresser builds trust with the audience by quot-
+ing the words of the authority figure, Gus 
+Papatanasius, Chairman of the Capitol Police 
+Officers' Union: 
+“he was “incredibly proud of the individual 
+officers whose actions protected the lives of 
+hundreds of members of Congress and their 
+staff” … “Not one member of Congress or their 
+staff was injured. Our officers did their jobs. … 
+Our law enforcement partners that assisted us 
+were remarkable””. The addresser in his argu-
+ment appeals to the highest value — human life, 
+which is above all. In the given argumentative act, 
+the intentions of the addresser are achieved 
+through the use of the adverb “incredibly proud”, 
+metaphor “the lives of hundreds of members of 
+Congress and their staff”, epithet “remarkable”. 
+In the following fragment taken from the 
+news report entitled “Chicago police union head 
+apologizes 
+for 
+defending 
+mob” 
+(AP 
+of 
+9/01/2021) [Babwin 2021] the author also ex-
+plains and justifies the brutality of police officers 
+towards citizens, resulting in the death of sev-
+eral people: 
+“The president of the Chicago Police offic-
+ers’ union apologized Friday for defending the 
+pro-Trump mob that stormed the U.S. Capitol 
+and downplaying this week’s violence that left 
+four people dead. … Catanzara’s initial com-
+ments drew harsh criticism from Chicago Mayor 
+Lori Lightfoot and others for his characterization 
+of the ugly assault on the nation’s Capitol that 
+left four other people dead, including a woman 
+who was shot by police. … “The National FOP 
+rejects this gross mischaracterization and sees 
+the incident for what it was — a violent mob of 
+looters and vandals, visiting fear and destruc-
+tion on one of our nation’s most sacred spac-
+es…”. The reference to the apology words of 
+the President of the Chicago Police Union, John 
+Cantasar, exemplifies building trust with audi-
+ences throughout an appeal to the highest val-
+ues of American society — life (violence that 
+left four people dead) and democracy (destruc-
+tion on one of our nation’s most sacred spac-
+es). Usage of epithets “harsh criticism”, “ugly 
+assault”, “gross mischaracterization”, “violent 
+mob” and metaphors “mob of looters and van-
+dals”, “visiting fear and destruction” with a 
+negative connotation is aimed at strengthening 
+the perlocutionary effect of hyperbolization of 
+the incident consequences, in which, on the 
+one hand, law enforcement agencies provided 
+insufficient resistance to the rebels (apologized 
+Friday for defending the pro-Trump mob that 
+stormed the U.S. Capitol and downplaying this 
+week’s violence that left four people dead), on 
+the other hand, their actions resulted in several 
+deaths including the murder of a woman by a 
+police officer (the ugly assault on the nation’s 
+Capitol that left four other people dead, includ-
+ing a woman who was shot by police). 
+The news article “Police Identify Woman 
+Shot by Capitol Police as Ashli Babbitt” (WSJ of 
+7/01.2021/) [Duehren, Caldwell, Lubold 2021] 
+reports about the murder of Ashley Babbitt by a 
+Capitol police officer, whose name is not men-
+tioned by the author of the article: 
+“Ms. Babbitt died Wednesday after being 
+shot by the Capitol Police, the police said, as 
+she was part of the crowd aiming to disrupt the 
+certification of the 2020 presidential election. 
+Capitol Police identified Ms. Babbitt Thursday 
+and said the officer who shot her had been 
+placed on leave while her death is investigated. 
+… “One Capitol Police officer discharged a ser-
+vice weapon striking an adult female,” he said. 
+“She was transported to a local hospital where 
+all lifesaving efforts failed. She was pronounced 
+deceased””. This passage contains a neutral 
+Нестерова В. Е. Политическая лингвистика. 2021. № 5 (89). С. 128–138. 
+132 
+statement of the fact that a police officer had 
+used service weapons against a civilian. The 
+absence of emotionally colored vocabulary indi-
+cates the legitimacy of the police officer's ac-
+tions in the current situation, with the mention of 
+the fact that the victim was among a crowd of 
+rebels (she was part of the crowd aiming to dis-
+rupt the certification of the 2020 presidential 
+election). The author of the article also reports 
+that timely measures were taken against the 
+police officer (the officer who shot her had been 
+placed on leave while her death is investigat-
+ed). In the following argumentative act the bru-
+tality of the police officer who shot Ashley Bab-
+bitt is mitigated by describing the actions of 
+other officers assisting the victim: “In the vide-
+os, multiple police officers appear to provide 
+first aid to Ms. Babbitt, who was taken to a hos-
+pital and later died of her injuries”. 
+In the next example the murder of a woman 
+is mentioned casually: 
+“Before long, police evacuated lawmakers 
+from both the Senate and House chambers, a 
+woman was shot and someone set off gas mu-
+nitions. … On the stairs of the west side of the 
+Capitol, dozens of protesters, some yelling 
+“Take the Capitol!” faced off with police, who 
+sprayed them with chemical agents” (WSJ of 
+6/01/2021) [Wice, Lucey, Restuccia 2021]. 
+However, this passage focuses on the actions 
+of police officers spraying chemicals into the 
+crowd (… faced off with police, who sprayed 
+them with chemical agents), that can be 
+viewed, on the one hand, as police brutality to 
+citizens, and on the other hand, as the police 
+officers’ choice of the most humane methods 
+subdue aggressive protesters: 
+““You’re a traitor to your country,” one man 
+shouted. Others chanted “Pence is a traitor” 
+and “stop the steal””. The addresser’s intentions 
+are achieved by referring to the words of former 
+President D. Trump who spoke out in defense 
+and support of law enforcement agencies: “At 
+2:38 p.m., Mr. Trump tweeted: “Please support 
+our Capitol Police and Law Enforcement. They 
+are truly on the side of our Country. Stay 
+peaceful!””. 
+The news article “Police Identify Five Dead 
+After Capitol Riot” (WSJ of 8/01/2021) [Safdar, 
+Ailworth, Seetharaman 2021] reports: 
+“That brings the total fatalities from the day’s 
+events to five, including 35-year old Ashli Bab-
+bitt, whom Capitol Police shot on Wednesday as 
+she tried to climb through a window in the Capi-
+tol. The numbers could rise, authorities said, as 
+more people have been injured”. The neutral 
+tone of the message without commenting on 
+events and using expressive vocabulary implicit-
+ly appeals to the addressee’s mind, urging read-
+ers to rational evaluation of facts and events. 
+3.2. Verbalization of the component 
+“brutality” in the opposition newspapers 
+“The Washington Post” and “The New York 
+Times”. 
+The main task of the opposition newspa-
+pers is to criticize the existing government and 
+regime, interpret information by exposing 
+myths, false attitudes, manipulative strategies 
+and tactics of communicants, putting forward 
+their own alternative projects for the develop-
+ment of society as well. Let's consider the ar-
+gumentative acts presented in the opposition 
+newspapers “The New York Times” and “Wash-
+ington Post” aimed at verbalizing the “brutality” 
+component while representation of the Ameri-
+can Police activities. 
+The article entitled “Racial Double Standard 
+of Capitol Police Draws Outcry” (NYT from 
+07/01/2021) [Eligon 2021] highlights the biased 
+attitude of law enforcement agencies to various 
+categories of citizens, and the “brutality” com-
+ponent is explicated in the following argument: 
+“Black Lives Matter activists across the 
+country expressed outrage on Thursday at what 
+they said was a tepid response from law en-
+forcement officers to mostly white protesters, 
+saying it stood in stark contrast to the aggres-
+sive tactics they have endured for years — of-
+ficers in full riot gear who have used tear-gas, 
+rubber bullets and batons. It also underscored 
+the country’s uneven system of justice, many 
+said, and lent credence to their insistence that 
+Black people are devalued and viewed as in-
+herently dangerous. … Black activists noted 
+that when they have planned protests, the po-
+lice have rarely seemed ill prepared”. The ad-
+dresser’s intentions to create a negative image 
+of the Police force are realized throughout the 
+use of epithets “tepid response”, “aggressive 
+tactics”, “uneven system of justice”, “inherently 
+dangerous”, and irony “Black activists noted 
+that when they have planned protests, the po-
+lice have rarely seemed ill prepared”. 
+One more example of the actualization of 
+the “brutality” component of police officers can 
+be the following argumentative act from the 
+same article: 
+“While protesting the police killing of a 
+Black teenager in Ferguson, Mo., several years 
+ago, Johnetta Elzie said she was manhandled 
+by officers. She said they pointed rifles at Black 
+women who were pushing toddlers in strollers 
+and cursed at them to turn around. Similar 
+scenes unfolded all summer, as police officers 
+clashed with scores of Black Lives Matter pro-
+testers. Many times, officers used batons and 
+chemical agents to disperse crowds. … Last 
+summer, a peaceful violin vigil in Aurora, Colo., 
+to memorialize a Black man who died during a 
+police arrest was disrupted when officers in riot 
+Nesterova V. E. Political Linguistics. 2021. No 5 (89). P. 128–138. 
+133 
+gear charged the park and dispersed pepper 
+spray, sending families with children fleeing. 
+The police argued that there was a small group 
+of agitators among the crowd, a contention dis-
+puted by many in attendance, who had been 
+sitting on the lawn listening to people play the 
+violin when the police descended. … Video of 
+the mass arrest showed one officer firing pep-
+per spray at the people being arrested, “who all 
+appear to be on the ground and complying with 
+police commands,” Judge Catherine D. Perry of 
+Federal District Court wrote in her injunction. 
+Javad Khazaeli, a lawyer representing several 
+of the plaintiffs, said that even though his clients 
+were peaceful, “The police made the choice to 
+use violence.”. Police officers in this context are 
+represented as subjects who exceed their offi-
+cial powers without sufficient reason (Johnetta 
+Elzie said she was manhandled by officers; a 
+peaceful violin vigil …. was disrupted when of-
+ficers in riot gear charged the park and dis-
+persed pepper spray, sending families with 
+children fleeing), showing extreme cruelty to 
+civilians (… they (Police) pointed rifles at Black 
+women who were pushing toddlers in strollers 
+and cursed at them to turn around) and violat-
+ing human rights and freedoms (Many times, 
+officers used batons and chemical agents to 
+disperse crowds). In order to achieve a 
+perlocutionary effect the addresser quotes the 
+words of Judge Catherine D. Perry who points 
+out the excessive brutality of the Police towards 
+people who already obey their demands (… 
+one officer firing pepper spray at the people 
+being arrested, “who all appear to be on the 
+ground and complying with police commands”), 
+and in the argumentative act of the lawyer 
+Javad Hazaeli the “brutality” component is ac-
+tualized implicitly (The police made the choice 
+to use violence. 
+The actualization of the “brutality” compo-
+nent is also realized in the next example: 
+“Federal law enforcement officers swept 
+people into unmarked vans and used pepper 
+spray to clear peaceful protesters so that Mr. 
+Trump could pose for photos in front of a 
+church. … “When the looting starts, the shoot-
+ing starts,” he wrote. …But he was far kinder to 
+those who stormed the Capitol. Hours after the 
+riot began, he finally posted a video saying, 
+“You have to go home now.” He added, “We 
+love you. You’re very special.”. … Shenita 
+Binns, 42, a federal employee who has taken 
+part in numerous racial justice protests in 
+Washington and around the country, said she 
+was struck by the deference given to the mob 
+on Wednesday. Usually protesters cannot get 
+anywhere near the Capitol steps. At a demon-
+stration in June, some participants tried to talk 
+to police officers. “They stood there like statues 
+and did not say anything back except stuff like 
+‘Don’t come up here’ or ‘Don’t go that way,” she 
+said. “If anybody tried to get past them they 
+were pushed back down” (NYT of 20/01/2021) 
+[Dewan, MacFarquhar, Kanno-Youngs, Watkins 
+2021]. The whole argumentative act is built on 
+the contrast of supporters and opponents of 
+ex-President D. Trump, which is the implemen-
+tation of the “friend or foe” category, where 
+the Police are classified as “aliens” and the of-
+ficers are presented as persons who commit 
+arbitrariness pushing violently (used pepper 
+spray) peaceful protestants into unmarked 
+vans, which is inherently ironic since these ac-
+tions are aimed at ensuring the protection of 
+D. Trump who is not in danger in fact (so that 
+Mr. Trump could pose for photos in front of a 
+church). The use of the simile (like statues) 
+intensifies this ironic effect. The perlocutivonary 
+effect is enhanced by quoting the rather sarcas-
+tic words of D. Trump: “When the looting starts, 
+the shooting starts”, expressing gratitude to the 
+instigators of the rebellion in support of him 
+“You have to go home now” He added, “We 
+love you. You’re very special” to whom the Po-
+lice were not as aggressive as their peaceful 
+opposition, according to Shenita Binns' words: 
+“They (Police) stood there like statues and did 
+not say anything back except stuff like ‘Don’t 
+come up here’ or ‘Don’t go that way,”. 
+In the news report “Rioters breached the 
+Capitol as they waved pro-police flags. Police 
+support on the right may be eroding, experts 
+warn” (WP от 09.01.2021) [Lang, Jamison 
+2021] one can see the actualization of “brutality 
+component”. The author of the article uses a 
+powerful convergence of speech techniques 
+and tactics in order to implement the strategy of 
+evaluative argumentation. So, in the passage 
+“… a tide of anger and frustration rose as offic-
+ers pushed them back. Nearly three hours after 
+the building was breached, police cleared the 
+grounds and used batons and chemical muni-
+tions to confront the mob. A man standing on a 
+folding chair on the Capitol lawn raised a middle 
+finger towards the advancing line of police and 
+joined in a chant quickly sweeping the grounds: 
+“Traitors! Traitors! Traitors!” usage of the meta-
+phor “… a tide of anger and frustration rose”, 
+euphemism “raised a middle finger”, exclama-
+tion “Traitors! Traitors! Traitors!” serve to en-
+hance the negative impact on the conscious-
+ness of the addressee, and police officers are 
+perceived as traitors to the nation, destroyers of 
+ethical 
+and 
+cultural-historical 
+values. 
+The 
+perlocutionary effect on modeling the “brutality” 
+component is enhanced by reference to the 
+words of the participants of the uprising: 
+“You should be on our side,” a woman in a 
+Trump 2020 sweatshirt called at them. “We the 
+Нестерова В. Е. Политическая лингвистика. 2021. № 5 (89). С. 128–138. 
+134 
+people’ means police, too!”. “Is this honoring 
+your oath? Pushing patriots around?” another 
+man yelled as an officer shoved him back with 
+baton. … “The blue does not back you,” reads a 
+message posted in a pro-Proud Boys group 
+with more than 37,000 followers on social me-
+dia app Parler. “They back the men who pay 
+them”. Usage of modal verb (should be), per-
+sonal (you, we) and possessive pronouns 
+(your) serve to oppose people to Police realiz-
+ing the “friend or foe” category. The passage: 
+“At racial justice protests over the summer, fol-
+lowing a spate of police killing of Black men and 
+women around the country, protesters called 
+police “murderers” and implored officers to join 
+them or take a knee to express solidarity” aims 
+to exaggerate the situation throughout the 
+technique of “labeling” “murderers” on the 
+police officers. 
+4. CONCLUSION 
+In conclusion it should be noted that in or-
+der to introduce the necessary image into the 
+addressee's consciousness, the addresser cre-
+ates a certain verbal model that allows minimiz-
+ing the recipient's efforts spent on processing 
+and interpreting incoming information. All Media 
+texts contain additional evaluative meanings 
+aimed at manipulating the addressee's mind 
+through the implementation of various commu-
+nicative strategies and tactics, language tools 
+and techniques. One of the most effective strat-
+egies for modeling the image of the social insti-
+tution of the Police in English-language printed 
+publications is the strategy of evaluative argu-
+mentation, which is based on the values formed 
+in the public consciousness. 
+The category of language evaluation is an 
+immanent characteristic, it has a pragmatic poten-
+tial and can be introduced in a message both ex-
+plicitly through a statement, reasoning, assump-
+tion, imperative, and implicitly through the use of 
+invective means, tropes and figures of speech, 
+imposing presuppositions and labeling, euphe-
+mization and dysphemization, the use of semantic 
+gaps that the addressee is forced to unconscious-
+ly fill with judgments imposed on him. 
+The strategy of evaluative argumentation in 
+pro-government and opposition newspapers is 
+implemented in various ways, and speech 
+techniques are radically different from each 
+other. Thus, the information policy of the pro-
+government publications “Associated Press” 
+and “Wall Street Journal” is characterized by a 
+general neutral tone of commenting on events 
+without using negative-colored vocabulary of 
+law enforcement agencies. The main methods 
+of verbalization of the component “brutality” are 
+the use of epithets (7 contexts), metaphors 
+(4 contexts), contrast (2 contexts), hyperbo-
+lization (2 contexts), gradation (2 contexts) and 
+allegory (1 context). American pro-government 
+newspapers often appeal to the intellect of the 
+audience and a sense of patriotism, so in ar-
+gumentative acts they refer in most cases to the 
+words of statesmen and officials who inspire 
+confidence among the citizens of the country. 
+Despite the fact that police brutality against the 
+population is covered both in “The Associated 
+Press” and in “The Wall Street Journal”, how-
+ever, the actions of law enforcement agencies 
+are opposed by the anti-social behavior of pro-
+testers, and the Police forces are represented 
+as professionals who perform their duty, trying 
+to minimize the number of possible victims by 
+all means, standing up for the protection of the 
+life and health of citizens, defending state and 
+political values-democracy, human rights and 
+freedoms as well as. 
+Opposition newspapers are aimed at dis-
+crediting the current government and its repre-
+sentatives, so law enforcement agencies, being 
+the executive branch of government, also often 
+become the object of sharp criticism. “The 
+Washington Post” and “The New York Times” 
+model the negative image of the social institu-
+tion of the Police by verbalizing the “brutality” 
+component in news reports in which officers are 
+represented as enemies of the people, destroy-
+ers of ethical, cultural and historical values, 
+persons exceeding their official powers and vio-
+lating the rights and freedoms of citizens. Ar-
+gumentative acts in opposition newspapers of-
+ten appeal to the emotions of the addressees, 
+and trusting relationships with the audience are 
+built by referring to the opinion of judges, pros-
+ecutors, lawyers. The main speech techniques 
+that contribute to modeling the negative image 
+of the Police in English-language opposition 
+newspapers are epithets (4 contexts), the eval-
+uation category “friend-foe” (2 contexts), irony 
+(2 contexts), the techniques of “labeling” (1 con-
+text), contrast (1 context), metaphor (1 context), 
+euphemism (1 context). 
+In this study the author does not set the 
+task of conducting a contextual analysis within 
+the framework of specific tactical schemes im-
+plementation. 
+The prospect of the further research may 
+become the analysis of argumentative acts that 
+verbalize the “professionalism” component in 
+order to model the image of the US Police in 
+pro-government and opposition newspapers. 
+ 
+MATERIALS 
+1. Babwin, D. Chicago police union head apologizes for de-
+fending mob / Don Babwin. — Text : electronic // AP News. — 
+2021. — 9 Jan. — URL: https://apnews.com/article/donald-
+trump-joe-biden-police-chicago-88fd580f63a09488281a99309b 
+338529 (date of access: 30.06.2021). 
+2. Daly, M. After deadly siege, lawmakers ask why police so 
+outnumbered / Matthew Daly, Michael Balsamo. — Text : elec-
+Nesterova V. E. Political Linguistics. 2021. No 5 (89). P. 128–138. 
+135 
+tronic // AP News. — 2021. — 9 Jan. — URL: https://apnews. 
+com/article/riots-police-coronavirus-pandemic-racial-injustice-27 
+df9afce0c16032fc040944789d2f33(date of access: 30.06.2021). 
+3. Dewan, S. Police Failures Spur Resignation and Complaints 
+of Double Standards / Shaila Dewan, Neil MacFarquhar, Zolan 
+Kanno-Youngs and Ali Watkins. — Text : electronic // The New 
+York Times. — 2021. — 7 Jan.— URL: https://www.nytimes. 
+com/2021/01/07/us/Capitol-cops-police.html (date of access: 
+21.06.2021). 
+4. Duehren, A. Police Identify Woman Shot by Capitol Police 
+as Ashli Babbitt / Andrew Duehren, Alicia A. Caldwell and Gor-
+don Lubold. — Text : electronic // The Wall Street Journal. — 
+2021. — 7 Jan. — URL: https://www.wsj.com/articles/police-
+identify-woman-shot-by-capitol-police-as-ashli-babbitt-116100 
+55730 (date of access: 30.06.2021) 
+5. Eligon, J. Racial Double Standard of Capitol Police Draws 
+Outcry / John Eligon. — Text : electronic // The New York 
+Times. — 2021. — 7 Jan. — URL: https://www.nytimes. 
+com/2021/01/07/us/capitol-trump-mob-black-lives-matter.html 
+(date of access: 21.06.2021). 
+6. Lang, M. J. Rioters breached the Capitol as they waved pro-
+police flags. Police support on the right may be eroding, experts 
+warn / Marissa J. Lang and Peter Jamison. — Text : electronic // 
+The Washington Post. — 2021. — 8 Jan. — URL: https://www. 
+washingtonpost.com/local/capitol-police-officers-support/2021/ 
+01/08/a16e07a2-51da-11eb-83e3-322644d82356_story.html?u 
+tm_source=twitter&utm_campaign=wp_main&utm_medium=soc
+ial (date of access: 21.06.2021). 
+7. Richer, A. D. EXPLAINER: Who has been charged in the 
+deadly Capitol riot? / Alanna Durkin Richer. — Text : electronic // 
+AP News. — 2021. — 9 Jan. — URL: https://apnews.com/article/ 
+joe-biden-donald-trump-district-of-columbia-riots-arrests-3cd5b 
+02adb60929afdd058aee620eea9 (date of access: 30.06.2021). 
+8. Safdar, K. Police Identify Five Dead After Capitol Riot / 
+Khadeeja Safdar, Erin Ailworth and Deepa Seetharaman. — 
+Text : electronic. — URL: https://www.wsj.com/articles/police-
+identify-those-killed-in-capitol-riot-11610133560 (date of access: 
+30.06.2021) 
+9. Wise, L. The Protesters Are in the Buolding/ Inside the Cap-
+itol Stormed by a Pro-Trump Mob / Lindsay Wise, Catherine 
+Lucey and Andrew Restuccia. — Text : electronic // The Wall 
+Street Journal. — 2021. — 6 Jan. — URL: https://www.wsj.com/ 
+articles/the-protesters-are-in-the-building-inside-the-capitol-stor 
+med-by-a-pro-trump-mob-11609984654 
+(date 
+of 
+access: 
+30.06.2021). 
+REFERENCES 
+10. Agapova, T. V. Information Policy in the System of 
+Measures to Form a Positive Image of the Law Enforcement 
+Agencies of the Russian Federation: on the materials of the 
+Transport Department of the Ministry of Internal Affairs of Rus-
+sia in the Central Federal District : thesis … of Cand. of Polit. 
+Sciences / Agapova T. V. — Moscow, 2011. — 177 p. — Text : 
+unmediated. [Informatsionnaya politika v sisteme meropriyatiy po 
+formirovaniyu pozitivnogo imidzha pravookhranitel'nykh organov 
+RF: na materialakh Upravleniya na transporte MVD Rossii po 
+Tsentral'nomu federal'nomu okrugu : dis. … kand. polit. nauk / 
+Agapova T. V. — Moskva, 2011. — 177 s. — Tekst : 
+neposredstvennyy]. — (In Rus.) 
+11. Akhiezer, A. S. Russia: Criticism of Historical Experience 
+(Socio-cultural Dynamics of Russia) / A. S. Akhiezer. — 2nd ed., 
+rev. and add. — Novosibirsk : Siberian Chronograph, 1997. — 
+Vol. 1 : From the Past to the Future. — 804 p. — Text : unmedi-
+ated. [Rossiya: kritika istoricheskogo opyta (sotsiokul'turnaya 
+dinamika Rossii) / A. S. Akhiezer. — 2-e izd., pererab. i dop. — 
+Novosibirsk : Sibirskiy khronograf, 1997. — T 1 : Ot proshlogo k 
+budushchemu. — 804 s. — Tekst : neposredstvennyy]. — 
+(In Rus.) 
+12. Berger, P. L. Invitation to Sociology: a Humanistic Perspective / 
+P. L. Berger ; transl. from Engl. under ed. of G. S. Batygin. — Mos-
+cow, 1996. — 84 p. — Text : unmediated. [Priglashenie 
+v sotsiologiyu: gumanisticheskaya perspektiva / P. L. Berger ; per. 
+s angl. pod red. G. S. Batygina. — Moskva, 1996. — 84 s. — 
+Tekst : neposredstvennyy]. — (In Rus.) 
+13. Blakar, R. M. Language as an Instrument of Social Power / 
+R. M. Blakar. — Text : unmediated // Language and Modeling of 
+Social Interaction. — Moscow, 1987. — P. 88—125. [Yazyk kak 
+instrument sotsial'noy vlasti / R. M. Blakar. — Tekst : 
+neposredstvennyy 
+// 
+Yazyk 
+i 
+modelirovanie 
+sotsial'nogo 
+vzaimodeystviya. — Moskva, 1987. — S. 88—125]. — (In Rus.) 
+14. Bychenkov, V. M. Institutes: Supercollective Formations and 
+Impersonal Forms of Social Subjectivity / V. M. Bychenkov. — 
+Moscow : Russian Academy of Social Sciences, 1996. — 976 p. — 
+Text : unmediated. [Instituty: sverkhkollektivnye obrazovaniya i 
+bezlichnye formy sotsial'noy sub"ektnosti / V. M. Bychenkov. — 
+Moskva : Rossiyskaya akademiya sotsial'nykh nauk, 1996. — 
+976 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+15. Veblen, T. Theory of the Leisure Class: Economic Research of 
+Institutions / T. Veblen. — Moscow : Progress, 1984. — 368 p. — 
+Text : unmediated. [Teoriya prazdnogo klassa: ekonomicheskoe 
+issledovanie institutsiy / T. Veblen. — Moskva : Progress, 
+1984. — 368 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+16. Glotov, M. B. Social Institute: Definition, Structure, Classi-
+fication / M. B. Glotov. — Text : unmediated // Sociological 
+research. — 2003. — No. 10. — P. 13—19. [Sotsial'nyy institut: 
+opredelenie, stroenie, klassifikatsiya / M. B. Glotov. — Tekst : 
+neposredstvennyy // Sotsiologicheskie issledovaniya. — 2003. — 
+№ 10. — S. 13—19]. — (In Rus.) 
+17. Dyck, T. A. van. Language. Cognition. Communication / 
+T.A. van Dyck. — Blagoveshchensk : BGK named after I. A. Bau-
+douin de Courtenay, 2000. — 308 p. — Text : unmediated. 
+[Yazyk. Poznanie. Kommunikatsiya / T. A. van Deyk. — Blago-
+veshchensk : BGK im. I. A. Boduena de Kurtene, 2000. — 
+308 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+18. Zheltukhina, M. R. Functions of Mass-medial Discourse / 
+M. R. Zheltukhina. — Text : unmediated // Genres and Types of 
+Text in Scientific and Media Discourse : interuniversity collection 
+of scientific articles / resp. ed. A. G. Pastukhov. — Oryol : 
+OGIIK : PF “Kartush”, 2007. — Issue 5. — P. 191—201. 
+[Funktsii mass-medial'nogo diskursa / M. R. Zheltukhina. — 
+Tekst : neposredstvennyy // Zhanry i tipy teksta v nauchnom i 
+mediynom diskurse : mezhvuz. sb. nauch. tr. / otv. red. A. G. Pas-
+tukhov. — Orel : OGIIK : PF «Kartush», 2007. — Vyp. 5. — 
+S. 191—201]. — (In Rus.) 
+19. Zolotayko, A. I. Metaphorical Modeling of the Image of 
+Law Enforcement Agencies in the Non-institutional Police Inter-
+net Discourse in the United States and Great Britain : thesis … of 
+Cand. of Philol. Sciences / A. I. Zolotayko. — Ekaterinburg, 
+2020. — 246 p. — Text : unmediated. [Metaforicheskoe mode-
+lirovanie obraza pravookhranitel'nykh organov v neinstitu-
+tsional'nom politseyskom internet-diskurse SShA i Velikobrita-
+nii : dis. … kand. filol. nauk. / A. I. Zolotayko. — Ekaterinburg, 
+2020. — 246 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+20. Ivin, A. A. Value / A. A. Ivin. — Text : unmediated // New 
+Philosophical Dictionary / comp. A. A. Gritsanov. — Minsk : 
+V. M. Skakun Publishing House, 1998. — P. 819—821. [Tsen-
+nost' / A. A. Ivin. — Tekst : neposredstvennyy // Novyy filosof-
+skiy slovar' / sost. A. A. Gritsanov. — Minsk : Izd-vo V. M. Ska-
+kun, 1998. — S. 819—821]. — (In Rus.) 
+21. Issers, O. S. Communicative Strategies and Tactics of Rus-
+sian Speech : monograph. — Omsk : Omsk State Univ., 1999. — 
+285 p. — Text : unmediated. [Kommunikativnye strategii i taktiki 
+russkoy rechi : monogr. — Omsk : Omsk. gos. un-t, 1999. — 
+285 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+22. Karasik, V. I. Cultural Dominants in Language / V. I. Ka-
+rasik. — Text : unmediated // Language Circle: Personality, Con-
+cepts, Discourse. — Volgograd : Change, 2002. — P. 166—205. 
+[Kul'turnye dominanty v yazyke / V. I. Karasik. — Tekst : 
+neposredstvennyy // Yazykovoy krug: lichnost', kontsepty, 
+diskurs. — Volgograd : Peremena, 2002. — S. 166—205]. — 
+(In Rus.) 
+23. Korneychuk, B. V. Institutional Economics : textbook for uni-
+versities / B. V. Korneychuk. — Moscow : Gardariki, 2007. — 
+255 p. — Text : unmediated. [Institutsional'naya ekonomika : ucheb. 
+pos. dlya vuzov / B. V. Korneychuk. — Moskva : Gardariki, 2007. — 
+255 s. — Tekst : neposredstvennyy]. — (In Rus.) 
+24. Kosmodem'yanskaya, K. V. Power and the Media: Interac-
+tion or Opposition? / K.V. Kosmodemyanskaya. — Text : unme-
+diated // Theory and Practice of Social Development. — 2014. — 
+No. 4. — P. 176—178. [Vlast' i SMI: vzaimodeystvie ili protivo-
+stoyanie? / K. V. Kosmodem'yanskaya. — Tekst : neposredstven-
+nyy // Teoriya i praktika obshchestvennogo razvitiya. — 2014. — 
+№ 4. — S. 176—178]. — (In Rus.) 
+Нестерова В. Е. Политическая лингвистика. 2021. № 5 (89). С. 128–138. 
+136 
+25. Parshina, O. N. Strategies and Tactics of Speech Behavior 
+of the Modern Political Elite of Russia : abstract of Doctoral 
+thesis … of Dr. of Philol. Sciences / O. N. Parshina. — Saratov, 
+2005. — 48 p. — Text : unmediated. [Strategii i taktiki rechevogo 
+povedeniya sovremennoy politicheskoy elity Rossii : avtoref. dis 
+… d-ra filol. nauk / O. N. Parshina. — Saratov, 2005. — 48 s. — 
+Tekst : neposredstvennyy]. — (In Rus.) 
+26. Perednya, D. G. The Image of Police Officers in Newspa-
+pers and the Mass Consciousness of Russians / D. G. Pered-
+nya. — Text : unmediated // Social Research. — 2016. — 
+No. 2. — P. 32—42. [Obraz rabotnikov politsii v gazetakh i mas-
+sovom soznanii rossiyan / D. G. Perednya. — Tekst : 
+neposredstvennyy // Sotsial'nye issledovaniya. — 2016. — 
+№ 2. — S. 32—42]. — (In Rus.) 
+27. Pocheptsov, G. G. Theory and Practice of Communications : 
+(From Speeches of the President to Negotiations with Terrorists) / 
+G. G. Pocheptsov. — Moscow : Center, 1998. — 349 p. — Text : 
+unmediated. [Teoriya i praktika kommunikatsiy: (Ot rechey 
+prezidenta do peregovorov s terroristami) / G. G. Pocheptsov. — 
+Moskva :Tsentr,1998. — 349 s. — Tekst : neposredstvennyy]. — 
+(In Rus.) 
+28. P'yanov, A. I. Social Institution of the Family as a Structural 
+and Value-normative Component of Society / A. I. P'yanov. — 
+Text : unmediated // Historical, Philosophical, Political and Legal 
+Sciences, Cultural Studies and Art History. Issues of Theory and 
+Practice. — Tambov : Diploma, 2011. — No. 3 (9): in 3 parts. — 
+Part I. — P. 160—168. [Sotsial'nyy institut sem'i kak strukturnyy 
+i tsennostno-normativnyy komponent sotsiuma / A. I. P'yanov. — 
+Tekst : neposredstvennyy // Istoricheskie, filosofskie, politiche-
+skie i yuridicheskie nauki, kul'turologiya i iskusstvovedenie. Vop-
+rosy teorii i praktiki. — Tambov : Gramota, 2011. — № 3 (9) : 
+v 3 ch. — Ch. I. — C. 160—168]. — (In Rus.) 
+29. Ruzhentseva, N. B. Discrediting Tactics and Techniques in 
+Russian Political Discourse : monograph / N. B. Ruzhentseva ; 
+Ural State Ped. Univ. — Ekaterinburg : [s. n.], 2004. — 294 p. — 
+Text : unmediated. [Diskreditiruyushchie taktiki i priemy v 
+rossiyskom politicheskom diskurse : monogr. / N. B. Ruzhentseva ; 
+Ural. gos. ped. un-t. — Ekaterinburg : [b. i.], 2004. — 294 s. — 
+Tekst : neposredstvennyy]. — (In Rus.) 
+30. Smelzer, N. Sociology / N. Smelzer. — Moscow, 1994. — 
+659 p. — Text : unmediated. [Sotsiologiya / N. Smelzer. — 
+Moskva, 1994. — 659 s. — Tekst : neposredstvennyy]. — 
+(In Rus.) 
+31. Khidekel', S. S. Evaluative Component of the Lexical Mean-
+ing of a Word / S. S. Khidekel, G. G. Koshel. — Text : unmediat-
+ed // Foreign Languages at School. — 1981. — No. 4. — P. 7—
+10. [Otsenochnyy komponent leksicheskogo znacheniya slova / 
+S. S. Khidekel', G. G. Koshel'. — Tekst : neposredstvennyy // 
+Inostrannye yazyki v shkole. — 1981. — № 4. — S. 7—10]. — 
+(In Rus.) 
+32. Richard, R. J. What Influences Overall Citizen Satisfaction 
+with the Police, 2015 / R. J. Richard. — URL: https://www.llrmi. 
+com/articles/legal_update/2015_johnson_citizensatisfaction/. 
+— 
+Text : electronic. 
+33. Schultz, J. Media Coverage of Law Enforcement and Effects 
+of the Image Created / J. Schultz. — Text : electronic // Domini-
+can University of California. — 2019. — URL: https://core.ac.uk/ 
+download/pdf/215555071.pdf. 
+34. Wayne, W. L. The Media Representations of Police Image: 
+Research Notes on the Hong Kong’s Occupy Movement / 
+W. L. Wayne. — Text : electronic // Sage Open Journal. — 
+2015. — Vol. 5, 3. — URL: https://journals.sagepub.com/doi/full/10. 
+1177/2158244015607935. 
+В. Е. Нестерова 
+Уральский юридический институт МВД России, Екатеринбург, Россия 
+ORCID ID: 0000-0002-7467-0029  
+ E-mail: karaelan@mail.ru. 
+Вербализация компонента «жестокость» как часть лингвистического 
+моделирования образа американской полиции в 
+проправительственных и оппозиционных газетах 
+АННОТАЦИЯ. Статья посвящена изучению процесса лингвистического моделирования образа социального 
+института полиции США в проправительственных и оппозиционных газетах посредством вербализации компонен-
+та «жестокость» в рамках стратегии оценочной аргументации. Стратегия оценочной аргументации является 
+одной из наиболее эффективных стратегий моделирования образа социального института, в рамках которой адре-
+сантом посредством апелляции к эмоциям адресата создается определенная модель, вербализованная в ценностных 
+компонентах и способная оказывать речевое воздействие, формируя мнение и отношение адресата к тому тли 
+иному объекту или явлению. Автором анализируются аргументативные акты, репрезентирующие деятельность 
+правоохранительных органов США в таких проправительственных и оппозиционных газетах, как “Associated 
+Press”, “Wall Street Journal”, “The Washington Post” и “The New York Times” за период с 6 по 20 января 2021 г. 
+В результате анализа аргументативных актов, эксплицирующих компонент «жестокость», автор приходит к 
+выводу, что стратегия оценочной аргументации в проправительственных и оппозиционных газетах реализуется 
+различными способами, а речевые приемы кардинально отличаются друг от друга. Информационная политика про-
+правительственных изданий “Associated Press” и “Wall Street Journal” характеризуется общим нейтральным то-
+ном комментирования событий без употребления негативно-окрашенной лексики в адрес правоохранительных 
+структур, которые представлены в виде профессионалов, выполняющих свой долг, пытающихся всеми средствами 
+минимизировать количество возможных жертв, встающих на защиту жизни и здоровья граждан, а также охра-
+няющих государственно-политические ценности — демократию, права и свободы человека. Оппозиционные газеты 
+«The Washington Post» и «The New York Times» моделируют отрицательный образ социального института полиции 
+посредством вербализации компонента «жестокость» в новостных сообщениях, в которых офицеры представлены 
+врагами народа, разрушителями этических, культурных и исторических ценностей, лицами, превышающими свои 
+должностные полномочия и нарушающими права и свободы граждан. 
+КЛЮЧЕВЫЕ СЛОВА: журналистика; медиалингвистика; медиадискурс; медиатексты; СМИ; средства 
+массовой информации; язык СМИ; политический дискурс; языковые средства; лингвистическое моделирование; 
+жестокость; аргументативные акты; правоохранительные органы; американская полиция; оппозиционные газе-
+ты; проправительственные газеты; речевое воздействие; категория. 
+Nesterova V. E. Political Linguistics. 2021. No 5 (89). P. 128–138. 
+137 
+ИНФОРМАЦИЯ ОБ АВТОРЕ: Нестерова Валерия Евгеньевна, старший преподаватель кафедры иностран-
+ных языков, Уральский юридический институт МВД России, Екатеринбург, Россия; 620057, Россия, г. Екатерин-
+бург, ул. Корепина, 66; e-mail: karaelan@mail.ru. 
+ДЛЯ ЦИТИРОВАНИЯ: Нестерова, В. Е. Вербализация компонента «жестокость» как часть лингвистического 
+моделирования образа американской полиции в проправительственных и оппозиционных газетах (на англ. яз.) / 
+В. Е. Нестерова // Политическая лингвистика. — 2021. — № 5 (89). — С. 128-138. — DOI 10.26170/1999-
+2629_2021_05_15. 
