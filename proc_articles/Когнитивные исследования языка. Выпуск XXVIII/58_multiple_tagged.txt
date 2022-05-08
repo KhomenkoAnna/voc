@@ -1,0 +1,1 @@
+абстрактный<A=им,ед,полн,жен>(ADJF,Qual femn,sing,nomn) сущность<S,жен,неод=(вин,ед|им,ед)>(NOUN,inan,femn sing,nomn)

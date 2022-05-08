@@ -1,0 +1,1 @@
+питер<S,муж,неод=(вин,ед|им,ед)>(NOUN,anim,masc,Name sing,nomn) жениться<V,нп=(непрош,ед,изъяв,3-л,несов|непрош,ед,изъяв,3-л,сов)>(VERB,perf,intr sing,3per,futr,indc) а<CONJ=>(CONJ) москва<S,гео,жен,неод=им,ед>(NOUN,inan,femn,Sgtm,Geox sing,nomn) замуж<ADV=>(ADVB) идти<V,несов,нп=непрош,ед,изъяв,3-л>(VERB,impf,intr sing,3per,pres,indc)
