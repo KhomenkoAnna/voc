@@ -1,0 +1,1 @@
+ю.с.<PROPN,Anim,Nom,Fem,Sing> ананьев<PROPN,Anim,Gen,Masc,Sing> санкт<PROPN,Inan,Nom,Masc,Sing> -<PROPN,Inan,Nom,Masc,Sing> петербург<PROPN,Inan,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing>

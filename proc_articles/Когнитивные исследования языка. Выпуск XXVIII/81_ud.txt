@@ -1,0 +1,1 @@
+формирования<NOUN,Inan,Nom,Fem,Sing> дискурса<PROPN,Inan,Gen,Fem,Sing> социокультурной<PROPN,Inan,Dat,Masc,Sing> специфики<PROPN,Inan,Gen,Masc,Sing>

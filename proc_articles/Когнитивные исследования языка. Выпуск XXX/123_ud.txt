@@ -1,0 +1,1 @@
+белгород<PROPN,Inan,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing> белгородский<ADJ,Nom,Pos,Masc,Sing> государственный<ADJ,Nom,Pos,Masc,Sing> национальный<ADJ,Nom,Pos,Masc,Sing> исследовательский<ADJ,Nom,Pos,Masc,Sing> университет<NOUN,Inan,Nom,Masc,Sing>

@@ -1,0 +1,1 @@
+главный<ADJ,Nom,Pos,Neut,Sing> мскглавное<ADJ,Inan,Acc,Pos,Neut,Sing> мск<NOUN,Inan,Gen,Fem,Sing>

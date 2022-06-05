@@ -1,0 +1,1 @@
+выздоровело<PROPN,Inan,Nom,Masc,Sing> сутки<NOUN,Inan,Acc,Fem,Plur> выздоровление<NOUN,Inan,Ins,Neut,Sing> выписать<VERB,Perf,Plur,Short,Past,Part,Pass> пациент<NOUN,Anim,Nom,Masc,Sing> умереть<VERB,Perf,Gen,Plur,Past,Part,Act>

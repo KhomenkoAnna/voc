@@ -1,0 +1,1 @@
+аэрофлот<PROPN,Inan,Nom,Masc,Sing> май<NOUN,Inan,Gen,Masc,Sing> возобновлять<VERB,Imp,Ind,Sing,Third,Pres,Fin,Act> регулярный<ADJ,Inan,Acc,Pos,Plur> рейс<NOUN,Inan,Acc,Masc,Plur> анталья<PROPN,Inan,Acc,Fem,Sing> стамбул<PROPN,Inan,Acc,Masc,Sing> летать<VERB,Imp,Inf,Act> будут<AUX,Imp,Ind,Plur,Third,Pres,Fin,Act> шереметьево<PROPN,Inan,Gen,Neut,Sing>

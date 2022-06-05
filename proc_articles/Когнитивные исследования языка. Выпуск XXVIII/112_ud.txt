@@ -1,0 +1,1 @@
+информация<NOUN,Inan,Nom,Fem,Sing> распределение<NOUN,Inan,Nom,Neut,Sing> картина<NOUN,Inan,Nom,Fem,Sing> мир<NOUN,Inan,Gen,Masc,Sing> наивный<ADJ,Nom,Pos,Fem,Sing> обыденный<ADJ,Nom,Pos,Fem,Sing> научный<ADJ,Nom,Pos,Fem,Sing> языковой<ADJ,Nom,Pos,Fem,Sing>

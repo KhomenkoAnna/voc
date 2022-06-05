@@ -1,0 +1,1 @@
+ю.а.<PROPN,Anim,Nom,Masc,Sing> белютина<PROPN,Anim,Gen,Masc,Sing> смоленск<PROPN,Inan,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing>

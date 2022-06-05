@@ -1,0 +1,1 @@
+питер<PROPN,Anim,Nom,Masc,Sing> жениться<VERB,Imp,Ind,Sing,Third,Pres,Fin,Mid> москва<PROPN,Inan,Nom,Fem,Sing> замуж<ADV,Pos> идти<VERB,Imp,Ind,Sing,Third,Pres,Fin,Act>

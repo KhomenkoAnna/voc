@@ -1,0 +1,1 @@
+абстрактный<ADJ,Nom,Pos,Fem,Sing> сущность<NOUN,Inan,Nom,Fem,Sing>

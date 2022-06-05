@@ -1,0 +1,1 @@
+л.г.<PROPN,Anim,Nom,Masc,Sing> бабенко<PROPN,Anim,Nom,Masc,Sing> екатеринбург<PROPN,Inan,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing>

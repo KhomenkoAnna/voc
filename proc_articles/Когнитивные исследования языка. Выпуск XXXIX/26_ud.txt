@@ -1,0 +1,1 @@
+а.в.<PROPN,Anim,Acc,Masc,Sing> леонтьев<PROPN,Anim,Gen,Masc,Sing> москва<PROPN,Inan,Nom,Fem,Sing> россия<PROPN,Inan,Nom,Fem,Sing> московский<ADJ,Nom,Pos,Masc,Sing> городской<ADJ,Nom,Pos,Masc,Sing> педагогический<ADJ,Nom,Pos,Masc,Sing> университет<NOUN,Inan,Nom,Masc,Sing>

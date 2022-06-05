@@ -1,0 +1,1 @@
+е.в.<PROPN,Anim,Acc,Masc,Sing> бекишев<PROPN,Anim,Gen,Masc,Sing> л.е.<PROPN,Anim,Gen,Masc,Sing> князькина<PROPN,Anim,Gen,Masc,Sing> самара<PROPN,Inan,Nom,Fem,Sing> россия<PROPN,Inan,Nom,Fem,Sing> самарский<ADJ,Nom,Pos,Masc,Sing> государственный<ADJ,Nom,Pos,Masc,Sing> медицинский<ADJ,Nom,Pos,Masc,Sing> университет<NOUN,Inan,Nom,Masc,Sing>

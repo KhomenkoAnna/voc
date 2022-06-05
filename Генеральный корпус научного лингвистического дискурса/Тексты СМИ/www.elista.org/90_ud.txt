@@ -1,0 +1,1 @@
+конкурс<NOUN,Inan,Nom,Masc,Sing> стартовать<VERB,Perf,Ind,Sing,Third,Fut,Fin,Act> апрель<NOUN,Inan,Gen,Masc,Sing> памятник<NOUN,Inan,Gen,Masc,Sing> д.н.кугультинова<PROPN,Anim,Gen,Masc,Sing>

@@ -1,0 +1,1 @@
+л.с.<PROPN,Anim,Acc,Masc,Sing> абросимов<PROPN,Anim,Gen,Masc,Sing> ростов<PROPN,Inan,Nom,Masc,Sing> -<NOUN,Inan,Nom,Masc,Sing> на<NOUN,Inan,Nom,Masc,Sing> -<NOUN,Inan,Nom,Masc,Sing> дону<NOUN,Inan,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing>

@@ -1,0 +1,1 @@
+с.а.<PROPN,Anim,Nom,Masc,Sing> жаботинская<PROPN,Anim,Nom,Masc,Sing> черкассы<PROPN,Inan,Nom,Masc,Plur> украина<PROPN,Inan,Nom,Fem,Sing> черкасский<ADJ,Nom,Pos,Masc,Sing> национальный<ADJ,Nom,Pos,Masc,Sing> университет<NOUN,Inan,Nom,Masc,Sing> имя<NOUN,Inan,Gen,Neut,Sing> богдан<PROPN,Anim,Gen,Masc,Sing> хмельницкий<PROPN,Anim,Gen,Masc,Sing>

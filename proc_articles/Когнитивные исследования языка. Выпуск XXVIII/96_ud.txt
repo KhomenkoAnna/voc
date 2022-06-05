@@ -1,0 +1,1 @@
+художественного<PROPN,Inan,Nom,Masc,Sing> перевод<PROPN,Inan,Gen,Masc,Sing> взгляд<PROPN,Inan,Nom,Fem,Sing> позиции<PROPN,Inan,Gen,Masc,Sing> когнитивной<PROPN,Inan,Gen,Neut,Sing> семиотики<PROPN,Inan,Nom,Masc,Sing>

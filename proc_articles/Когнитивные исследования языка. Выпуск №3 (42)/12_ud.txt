@@ -1,0 +1,1 @@
+е.а.<PROPN,Anim,Acc,Masc,Sing> козлов<PROPN,Anim,Gen,Masc,Sing> тамбов<PROPN,Anim,Nom,Masc,Sing> россия<PROPN,Inan,Nom,Fem,Sing> тамбовский<ADJ,Nom,Pos,Masc,Sing> государственный<ADJ,Nom,Pos,Masc,Sing> университет<NOUN,Inan,Nom,Masc,Sing> имя<NOUN,Inan,Gen,Neut,Sing> г.р.<PROPN,Anim,Gen,Masc,Sing> державин<PROPN,Anim,Gen,Masc,Sing>
